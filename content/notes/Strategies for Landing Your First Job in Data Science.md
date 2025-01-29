@@ -1,10 +1,10 @@
 ---
-title: "Buscas tu primer empleo de Ciencia de Datos?"
+title: Strategies for Landing Your First Job in Data Science
 date: 2022-05-03
-tags: 
-- writing 
-- career
-- data
+tags:
+  - writing
+  - career
+  - data
 ---
 ---
 
