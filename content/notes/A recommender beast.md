@@ -18,7 +18,7 @@ To regain control, I turned to reading to center myself. I started with [the “
 
 My wife, a child psychologist, played a pivotal role in easing my anxiety. She reminded me of who I was beyond my job and helped me stop taking myself so seriously. Her support gave me a healthier perspective on my work. She encouraged me to return to philosophy, which had always been a source of comfort.
 
-I typically read two or three books at once. At that time, I alternated between works on Buddhism and Stoicism. Stoicism, in particular, brought me relief. I read [How to Be Free_ by Epictetus](https://www.goodreads.com/book/show/39204065-how-to-be-free), a book I often recommend. It grounded me and helped reset my mindset.
+I typically read two or three books at once. At that time, I alternated between works on Buddhism and Stoicism. Stoicism, in particular, brought me relief. I read [How to Be Free by Epictetus](https://www.goodreads.com/book/show/39204065-how-to-be-free), a book I often recommend. It grounded me and helped reset my mindset.
 
 While Buddhism offered valuable insights, its religious and mystical elements didn’t resonate with me. Instead, I found a more practical approach in [Dan Harris’s _10% Happier_](https://www.goodreads.com/book/show/18505796-10-happier). This book strips away the spiritual aspects of meditation, promising modest gains, at most a 10% boost in happiness, which felt achievable to me.
 
