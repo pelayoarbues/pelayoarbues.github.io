@@ -11,7 +11,6 @@ tags:
 ## Metadata
 - Author: [[anthropic.com]]
 - Full Title: Building Effective Agents
-- URL: https://www.anthropic.com/research/building-effective-agents
 
 ## Highlights
 - Over the past year, we've worked with dozens of teams building large language model (LLM) agents across industries. Consistently, the most successful implementations weren't using complex frameworks or specialized libraries. Instead, they were building with simple, composable patterns. ([View Highlight](https://read.readwise.io/read/01jkardaazycq42x2abx2360rs))
@@ -35,3 +34,95 @@ tags:
   ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2Fd3083d3f40bb2b6f477901cc9a240738d3dd1371-2401x1000.png&w=3840&q=75)
   The augmented LLM
   We recommend focusing on two key aspects of the implementation: tailoring these capabilities to your specific use case and ensuring they provide an easy, well-documented interface for your LLM. While there are many ways to implement these augmentations, one approach is through our recently released [Model Context Protocol](https://www.anthropic.com/news/model-context-protocol), which allows developers to integrate with a growing ecosystem of third-party tools with a simple [client implementation](https://modelcontextprotocol.io/tutorials/building-a-client#building-mcp-clients). ([View Highlight](https://read.readwise.io/read/01jkarhb0e04awjnnqszmvy8wt))
+- Workflow: Prompt chaining
+  Prompt chaining decomposes a task into a sequence of steps, where each LLM call processes the output of the previous one. You can add programmatic checks (see "gate” in the diagram below) on any intermediate steps to ensure that the process is still on track.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F7418719e3dab222dccb379b8879e1dc08ad34c78-2401x1000.png&w=3840&q=75)
+  The prompt chaining workflow
+  **When to use this workflow:** This workflow is ideal for situations where the task can be easily and cleanly decomposed into fixed subtasks. The main goal is to trade off latency for higher accuracy, by making each LLM call an easier task.
+  **Examples where prompt chaining is useful:**
+  • Generating Marketing copy, then translating it into a different language.
+  • Writing an outline of a document, checking that the outline meets certain criteria, then writing the document based on the outline. ([View Highlight](https://read.readwise.io/read/01jkawgynwbtqc67f4vq35fdmn))
+- Workflow: Routing
+  Routing classifies an input and directs it to a specialized followup task. This workflow allows for separation of concerns, and building more specialized prompts. Without this workflow, optimizing for one kind of input can hurt performance on other inputs.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F5c0c0e9fe4def0b584c04d37849941da55e5e71c-2401x1000.png&w=3840&q=75)
+  The routing workflow
+  **When to use this workflow:** Routing works well for complex tasks where there are distinct categories that are better handled separately, and where classification can be handled accurately, either by an LLM or a more traditional classification model/algorithm.
+  **Examples where routing is useful:**
+  • Directing different types of customer service queries (general questions, refund requests, technical support) into different downstream processes, prompts, and tools.
+  • Routing easy/common questions to smaller models like Claude 3.5 Haiku and hard/unusual questions to more capable models like Claude 3.5 Sonnet to optimize cost and speed. ([View Highlight](https://read.readwise.io/read/01jkawhfwr0e3y3apn66t3kyhc))
+- Workflow: Parallelization
+  LLMs can sometimes work simultaneously on a task and have their outputs aggregated programmatically. This workflow, parallelization, manifests in two key variations:
+  • **Sectioning**: Breaking a task into independent subtasks run in parallel.
+  • **Voting:** Running the same task multiple times to get diverse outputs.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F406bb032ca007fd1624f261af717d70e6ca86286-2401x1000.png&w=3840&q=75)
+  The parallelization workflow
+  **When to use this workflow:** Parallelization is effective when the divided subtasks can be parallelized for speed, or when multiple perspectives or attempts are needed for higher confidence results. For complex tasks with multiple considerations, LLMs generally perform better when each consideration is handled by a separate LLM call, allowing focused attention on each specific aspect.
+  **Examples where parallelization is useful:**
+  • **Sectioning**:
+  • Implementing guardrails where one model instance processes user queries while another screens them for inappropriate content or requests. This tends to perform better than having the same LLM call handle both guardrails and the core response.
+  • Automating evals for evaluating LLM performance, where each LLM call evaluates a different aspect of the model’s performance on a given prompt.
+  • **Voting**:
+  • Reviewing a piece of code for vulnerabilities, where several different prompts review and flag the code if they find a problem.
+  • Evaluating whether a given piece of content is inappropriate, with multiple prompts evaluating different aspects or requiring different vote thresholds to balance false positives and negatives. ([View Highlight](https://read.readwise.io/read/01jkawhzskjpe1nxqwsxvtjkq2))
+- Workflow: Orchestrator-workers
+  In the orchestrator-workers workflow, a central LLM dynamically breaks down tasks, delegates them to worker LLMs, and synthesizes their results.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F8985fc683fae4780fb34eab1365ab78c7e51bc8e-2401x1000.png&w=3840&q=75)
+  The orchestrator-workers workflow
+  **When to use this workflow:** This workflow is well-suited for complex tasks where you can’t predict the subtasks needed (in coding, for example, the number of files that need to be changed and the nature of the change in each file likely depend on the task). Whereas it’s topographically similar, the key difference from parallelization is its flexibility—subtasks aren't pre-defined, but determined by the orchestrator based on the specific input.
+  **Example where orchestrator-workers is useful:**
+  • Coding products that make complex changes to multiple files each time.
+  • Search tasks that involve gathering and analyzing information from multiple sources for possible relevant information. ([View Highlight](https://read.readwise.io/read/01jkawje8ayp2da8z7zn1g61b9))
+- Workflow: Evaluator-optimizer
+  In the evaluator-optimizer workflow, one LLM call generates a response while another provides evaluation and feedback in a loop.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F14f51e6406ccb29e695da48b17017e899a6119c7-2401x1000.png&w=3840&q=75)
+  The evaluator-optimizer workflow
+  **When to use this workflow:** This workflow is particularly effective when we have clear evaluation criteria, and when iterative refinement provides measurable value. The two signs of good fit are, first, that LLM responses can be demonstrably improved when a human articulates their feedback; and second, that the LLM can provide such feedback. This is analogous to the iterative writing process a human writer might go through when producing a polished document.
+  **Examples where evaluator-optimizer is useful:**
+  • Literary translation where there are nuances that the translator LLM might not capture initially, but where an evaluator LLM can provide useful critiques.
+  • Complex search tasks that require multiple rounds of searching and analysis to gather comprehensive information, where the evaluator decides whether further searches are warrant ([View Highlight](https://read.readwise.io/read/01jkawjqkmcq7czxqz701v6wrd))
+- Agents
+  Agents are emerging in production as LLMs mature in key capabilities—understanding complex inputs, engaging in reasoning and planning, using tools reliably, and recovering from errors. Agents begin their work with either a command from, or interactive discussion with, the human user. Once the task is clear, agents plan and operate independently, potentially returning to the human for further information or judgement. During execution, it's crucial for the agents to gain “ground truth” from the environment at each step (such as tool call results or code execution) to assess its progress. Agents can then pause for human feedback at checkpoints or when encountering blockers. The task often terminates upon completion, but it’s also common to include stopping conditions (such as a maximum number of iterations) to maintain control. ([View Highlight](https://read.readwise.io/read/01jkawptxnkfb8h7rj5jn46pg0))
+- Agents can handle sophisticated tasks, but their implementation is often straightforward. They are typically just LLMs using tools based on environmental feedback in a loop. It is therefore crucial to design toolsets and their documentation clearly and thoughtfully. We expand on best practices for tool development in Appendix 2 ("Prompt Engineering your Tools").
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F58d9f10c985c4eb5d53798dea315f7bb5ab6249e-2401x1000.png&w=3840&q=75) ([View Highlight](https://read.readwise.io/read/01jkawr5d7cwbgqe1vdtdsfh27))
+- **When to use agents:** Agents can be used for open-ended problems where it’s difficult or impossible to predict the required number of steps, and where you can’t hardcode a fixed path. The LLM will potentially operate for many turns, and you must have some level of trust in its decision-making. Agents' autonomy makes them ideal for scaling tasks in trusted environments.
+  The autonomous nature of agents means higher costs, and the potential for compounding errors. We recommend extensive testing in sandboxed environments, along with the appropriate guardrails.
+  **Examples where agents are useful:**
+  The following examples are from our own implementations:
+  • A coding Agent to resolve [SWE-bench tasks](https://www.anthropic.com/research/swe-bench-sonnet), which involve edits to many files based on a task description;
+  • Our [“computer use” reference implementation](https://github.com/anthropics/anthropic-quickstarts/tree/main/computer-use-demo), where Claude uses a computer to accomplish tasks.
+  ![](https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F4b9a1f4eb63d5962a6e1746ac26bbc857cf3474f-2400x1666.png&w=3840&q=75) ([View Highlight](https://read.readwise.io/read/01jkaws0nvdh5ebh46pvwwv133))
+- Combining and customizing these patterns
+  These building blocks aren't prescriptive. They're common patterns that developers can shape and combine to fit different use cases. The key to success, as with any LLM features, is measuring performance and iterating on implementations. To repeat: you should consider adding complexity *only* when it demonstrably improves outcomes. ([View Highlight](https://read.readwise.io/read/01jkawsm0vw8pws3pdcv9swrnc))
+- Success in the LLM space isn't about building the most sophisticated system. It's about building the *right* system for your needs. Start with simple prompts, optimize them with comprehensive evaluation, and add multi-step agentic systems only when simpler solutions fall short. ([View Highlight](https://read.readwise.io/read/01jkawsrjf1hgdx8pj7ctgfpen))
+- When implementing agents, we try to follow three core principles:
+  1. Maintain **simplicity** in your agent's design.
+  2. Prioritize **transparency** by explicitly showing the agent’s planning steps.
+  3. Carefully craft your agent-computer interface (ACI) through thorough tool **documentation and testing**. ([View Highlight](https://read.readwise.io/read/01jkawswp5g1ecr2hy38h5tsr8))
+- Frameworks can help you get started quickly, but don't hesitate to reduce abstraction layers and build with basic components as you move to production. By following these principles, you can create agents that are not only powerful but also reliable, maintainable, and trusted by their users. ([View Highlight](https://read.readwise.io/read/01jkawsznahhr4rs3e10s7ycyg))
+- Our work with customers has revealed two particularly promising applications for AI agents that demonstrate the practical value of the patterns discussed above. Both applications illustrate how agents add the most value for tasks that require both conversation and action, have clear success criteria, enable feedback loops, and integrate meaningful human oversight. ([View Highlight](https://read.readwise.io/read/01jkawtcyzj2kv13xbtq61k545))
+- A. Customer support
+  Customer support combines familiar chatbot interfaces with enhanced capabilities through tool integration. This is a natural fit for more open-ended agents because:
+  • Support interactions naturally follow a conversation flow while requiring access to external information and actions;
+  • Tools can be integrated to pull customer data, order history, and knowledge base articles;
+  • Actions such as issuing refunds or updating tickets can be handled programmatically; and
+  • Success can be clearly measured through user-defined resolutions.
+  Several companies have demonstrated the viability of this approach through usage-based pricing models that charge only for successful resolutions, showing confidence in their agents' effectiveness. ([View Highlight](https://read.readwise.io/read/01jkawtppqavx42mfyh1h5e7tw))
+- B. Coding agents
+  The software development space has shown remarkable potential for LLM features, with capabilities evolving from code completion to autonomous problem-solving. Agents are particularly effective because:
+  • Code solutions are verifiable through automated tests;
+  • Agents can iterate on solutions using test results as feedback;
+  • The problem space is well-defined and structured; and
+  • Output quality can be measured objectively.
+  In our own implementation, agents can now solve real GitHub issues in the [SWE-bench Verified](https://www.anthropic.com/research/swe-bench-sonnet) benchmark based on the pull request description alone. However, whereas automated testing helps verify functionality, human review remains crucial for ensuring solutions align with broader system requirements. ([View Highlight](https://read.readwise.io/read/01jkawtth37tx8vee82dkz3rhs))
+- No matter which agentic system you're building, tools will likely be an important part of your agent. [Tools](https://www.anthropic.com/news/tool-use-ga) enable Claude to interact with external services and APIs by specifying their exact structure and definition in our API. When Claude responds, it will include a [tool use block](https://docs.anthropic.com/en/docs/build-with-claude/tool-use#example-api-response-with-a-tool-use-content-block) in the API response if it plans to invoke a tool. Tool definitions and specifications should be given just as much prompt engineering attention as your overall prompts. In this brief appendix, we describe how to prompt engineer your tools. ([View Highlight](https://read.readwise.io/read/01jkawv4s8f4y5y7d482m3dtb9))
+- There are often several ways to specify the same action. For instance, you can specify a file edit by writing a diff, or by rewriting the entire file. For structured output, you can return code inside markdown or inside JSON. In software engineering, differences like these are cosmetic and can be converted losslessly from one to the other. However, some formats are much more difficult for an LLM to write than others. Writing a diff requires knowing how many lines are changing in the chunk header before the new code is written. Writing code inside JSON (compared to markdown) requires extra escaping of newlines and quotes. ([View Highlight](https://read.readwise.io/read/01jkawvf1nwh7fzh7a927nxr0v))
+- Our suggestions for deciding on tool formats are the following:
+  • Give the model enough tokens to "think" before it writes itself into a corner.
+  • Keep the format close to what the model has seen naturally occurring in text on the internet.
+  • Make sure there's no formatting "overhead" such as having to keep an accurate count of thousands of lines of code, or string-escaping any code it writes. ([View Highlight](https://read.readwise.io/read/01jkawvjawd1d2bzvd7n0tmvxy))
+- One rule of thumb is to think about how much effort goes into human-computer interfaces (HCI), and plan to invest just as much effort in creating good *agent*-computer interfaces (ACI). Here are some thoughts on how to do so:
+  • Put yourself in the model's shoes. Is it obvious how to use this tool, based on the description and parameters, or would you need to think carefully about it? If so, then it’s probably also true for the model. A good tool definition often includes example usage, edge cases, input format requirements, and clear boundaries from other tools.
+  • How can you change parameter names or descriptions to make things more obvious? Think of this as writing a great docstring for a junior developer on your team. This is especially important when using many similar tools.
+  • Test how the model uses your tools: Run many example inputs in our [workbench](https://console.anthropic.com/workbench) to see what mistakes the model makes, and iterate.
+  • [Poka-yoke](https://en.wikipedia.org/wiki/Poka-yoke) your tools. Change the arguments so that it is harder to make mistakes. ([View Highlight](https://read.readwise.io/read/01jkawvz5bwbmpvatz9fzcj7tt))
+- While building our agent for [SWE-bench](https://www.anthropic.com/research/swe-bench-sonnet), we actually spent more time optimizing our tools than the overall prompt. For example, we found that the model would make mistakes with tools using relative filepaths after the agent had moved out of the root directory. To fix this, we changed the tool to always require absolute filepaths—and we found that the model used this method flawlessly. ([View Highlight](https://read.readwise.io/read/01jkawwbn6xse2p9wnpkqwmz6k))
