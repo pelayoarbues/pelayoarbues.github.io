@@ -1,5 +1,5 @@
 ---
-author: [[https://github.com/deepseek-ai/]]
+author:
 title: "Deepseek-Ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding"
 date: 2025-02-05
 tags: 
