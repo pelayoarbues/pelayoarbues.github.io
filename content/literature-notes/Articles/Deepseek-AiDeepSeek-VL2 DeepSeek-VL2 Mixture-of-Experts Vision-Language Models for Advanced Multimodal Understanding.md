@@ -1,5 +1,5 @@
 ---
-author:
+author: [[https://github.com/deepseek-ai/]]
 title: "Deepseek-Ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding"
 date: 2025-02-05
 tags: 
@@ -9,7 +9,7 @@ tags:
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 
 ## Metadata
-- Author: [[https://github.com/deepseek-ai/]]
+- Author: 
 - Full Title: Deepseek-Ai/DeepSeek-VL2: DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding
 - URL: https://github.com/deepseek-ai/DeepSeek-VL2/tree/main
 
