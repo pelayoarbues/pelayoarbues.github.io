@@ -5,7 +5,7 @@ tags:
   - link-blog
 ---
 
-This week, I want to highlight the article by Jon Ander from BBVA, it really contains a lot of lessons learned while building GenAI This week, I want to shine a spotlight on an exceptional article by Jon Ander from BBVA. It provides insightful lessons learned in the process of building GenAI applications—essential reading for anyone advocating for GenAI within their companies. My reading also delves into the fascinating realm of AI and open-source advancements, analyzing the challenges and potential of open releases like Gemma 3 and OLMo 2 32B, examining the market's trepidation regarding AI bubble comparisons, and exploring the innovative potential of agentic search. Additionally, it includes reflections on philosophical insights about the necessity of hard work for genuine fulfillment.
+This week, I want to shine a spotlight on an exceptional article by Jon Ander from BBVA. It provides insightful lessons learned in the process of building GenAI applications—essential reading for anyone advocating for GenAI within their companies. My reading also delves into the fascinating realm of AI and open-source advancements, analyzing the challenges and potential of open releases like Gemma 3 and OLMo 2 32B, examining the market's trepidation regarding AI bubble comparisons, and exploring the innovative potential of agentic search. Additionally, it includes reflections on philosophical insights about the necessity of hard work for genuine fulfillment.
 
 
 ## Online Marketplaces
