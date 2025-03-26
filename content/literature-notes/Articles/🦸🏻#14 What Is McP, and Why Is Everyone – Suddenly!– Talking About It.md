@@ -1,7 +1,7 @@
 ---
 author: [[huggingface.co]]
 title: "🦸🏻#14: What Is McP, and Why Is Everyone – Suddenly!– Talking About It?"
-date: 2025-03-24
+date: 2025-03-26
 tags: 
 - articles
 - literature-note
@@ -11,7 +11,6 @@ tags:
 ## Metadata
 - Author: [[huggingface.co]]
 - Full Title: 🦸🏻#14: What Is McP, and Why Is Everyone – Suddenly!– Talking About It?
-- URL: https://huggingface.co/blog/Kseniase/mcp
 
 ## Highlights
 - Large language models (LLMs) today are incredibly smart in a vacuum, but they struggle once they need information beyond what’s in their frozen training data. For AI agents to be truly useful, they must access the right context at the right time – whether that’s your files, knowledge bases, or tools – and even take actions like updating a document or sending an email based on that context. ([View Highlight](https://read.readwise.io/read/01jq4aw5szxn3s4wfrk2rpdq49))
@@ -64,3 +63,9 @@ tags:
 - It provides the plumbing that connects an AI agent to the outside world in a secure, structured manner. Without MCP (or something like it), every time an agent needs to do something in the world – whether fetching a file, querying a database, or invoking an API – developers would have to wire up a custom integration or use ad-hoc solutions. That’s like building a robot but having to custom-craft each finger to grasp different objects – tedious and not scalable. ([View Highlight](https://read.readwise.io/read/01jq4bra7a4z4j0zzn6yj1psk1))
 - It’s important to highlight again that MCP is not an orchestration engine or agent brain by itself. Rather, it’s an integration layer within an agentic architecture. It complements agent orchestration tools like LangChain, LangGraph, CrewAI, or LlamaIndex by serving as a unified "toolbox" from which AI agents can invoke external actions. Instead of replacing orchestration – which determines when and why an agent uses a tool – MCP defines how these tools are called and information exchanged. ([View Highlight](https://read.readwise.io/read/01jq4brq1nkgx87r6wctqvczc5))
 - It is akin to a standardized API gateway for agents, reducing integration complexity from an "N×M" to an "N+M" problem by allowing universal compatibility between clients (agents) and servers (tools). Ultimately, MCP streamlines the integration of external functionalities, making agents more versatile, adaptable, and capable of performing sophisticated tasks across diverse contexts. ([View Highlight](https://read.readwise.io/read/01jq4bryxb9b2zb7bm1b85586p))
+- MCP is still new, and its full potential is just being explored. The first wave of use cases is obvious – connecting enterprise data to chat assistants or enhancing coding agents with repository access. But some emerging applications could take AI agents to the next lev ([View Highlight](https://read.readwise.io/read/01jq9fta5qgnb4nw8f9ysrzp1r))
+- **Multi-Step, Cross-System Workflows Agentic systems often need to coordinate across platforms.** Say an AI plans an event: it checks your calendar, books a venue, emails guests, arranges travel, and updates a budget sheet. Right now, this requires stitching APIs together manually. With MCP, all these actions happen through a single interface. The agent calls a series of MCP tools (one for each task), keeping shared context across them—no lost threads, no custom integratio ([View Highlight](https://read.readwise.io/read/01jq9ft83c091wps88546k2ep2))
+- **Agents That Understand Their Environment (including Robotics)** Beyond tool access, MCP can enable AI agents embedded in smart environments – whether in a smart home or an operating system. An AI assistant could interact with sensors, IoT devices, or OS functions via standardized MCP servers. Instead of operating in isolation, the AI gains real-time awareness, enabling more natural and proactive assistance. ([View Highlight](https://read.readwise.io/read/01jq9ftckq126rp36khkfwyqw0))
+- **Collaborating Agents (Agent Societies)** – *I’m very excited about this one* – MCP could also serve as a shared workspace for multi-agent systems. Specialized AI agents – one for research, one for planning, another for execution – could use MCP to exchange information and coordinate tasks dynamically. With MCP, each agent doesn’t need direct integrations; they simply access a common toolset. ([View Highlight](https://read.readwise.io/read/01jq9ftf31cyneagr9bsfay9s6))
+- **Personal AI Assistants with Deep Integration MCP** could let users configure their own AI to interact with personal data and apps securely. A local MCP server could grant an AI access to emails, notes, and smart devices without exposing sensitive data to third parties. This could create an ultra-personalized AI assistant without relying on cloud-based services ([View Highlight](https://read.readwise.io/read/01jq9fthxd59j3qnf2hxtwt85q))
+- **Enterprise Governance and Security For businesses**, MCP standardizes AI access to internal tools, reducing integration overhead. It also enables governance: AI interactions can be logged, monitored, and controlled via an oversight layer, preventing unintended actions while maintaining efficiency. ([View Highlight](https://read.readwise.io/read/01jq9ftkndjrrtwh1y1dgc88wc))
