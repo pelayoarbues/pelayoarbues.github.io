@@ -18,3 +18,4 @@ tags:
   Now, it’s playing out in real time. Companies like Cursor, ElevenLabs, and Mercor, are hitting $100M+ ARR faster than any generation before. And they’re doing it with 30–50 people, almost no traditional sales motion, and AI at the core. ([View Highlight](https://read.readwise.io/read/01jrj1rb2z5pjd1h355gd6wndv))
 - What’s changed is deeper than just AI tools. Founders are thinking in systems. They’re building before hiring. Scale and headcount are no longer equivalent.
   Small has become a compounding advantage—lower burn, faster iteration, less dilution, more fun. ([View Highlight](https://read.readwise.io/read/01jrj1rkksm9khb433bs8beq15))
+
