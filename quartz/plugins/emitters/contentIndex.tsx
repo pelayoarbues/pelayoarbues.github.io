@@ -143,7 +143,7 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       if (opts?.enableRSS) {
         yield write({
           ctx,
-          content: generateRSSFeed(cfg, linkIndex, opts.rssLimit),
+          content: generateRSSFeed(cfg, linkIndex, includedSections, opts.rssLimit),
           slug: (opts?.rssSlug ?? "index") as FullSlug,
           ext: ".xml",
         })

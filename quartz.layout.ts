@@ -48,7 +48,7 @@ export const defaultContentPageLayout: PageLayout = {
         filterFn: (node) => {
           // set containing names of everything you want to filter out
           const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
-          return !omit.has(node.name.toLowerCase())
+          return !omit.has(node.displayName.toLowerCase())
         },
         sortFn: (a, b) => {
           const nameOrderMap: Record<string, number> = {
