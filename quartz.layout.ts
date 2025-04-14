@@ -47,8 +47,23 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Explorer({
         filterFn: (node) => {
           // set containing names of everything you want to filter out
-          const omit = new Set(["Map of Contents", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
-          return !omit.has(node.displayName.toLowerCase())
+          const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
+          
+          // Check if the node's display name (converted to lowercase) is in the omit set
+          // Also check slug if it exists as folders might be represented differently
+          if (omit.has(node.displayName.toLowerCase())) {
+            return false
+          }
+    
+          // If node has a file with a slug, check if its base path is in the omit set
+          if (node.slug) {
+            const parts = node.slug.split('/')
+            if (parts.length > 0 && omit.has(parts[0].toLowerCase())) {
+              return false
+            }
+          }
+    
+          return true
         },
         sortFn: (a, b) => {
           const nameOrderMap: Record<string, number> = {
@@ -56,23 +71,27 @@ export const defaultContentPageLayout: PageLayout = {
             "research": 101,
             "appearances": 200,
             "photography": 300
+          }
+         
+          let orderA = 999  // Default high value for items not in the map
+          let orderB = 999
+         
+          // Get the first part of the slug (folder name) or use displayName
+          const getOrderKey = (node: any) => {
+            if (node.slug) {
+              const parts = node.slug.split('/')
+              return parts[0].toLowerCase()
             }
-       
-          let orderA = 0
-          let orderB = 0
-       
-          if (a.file && a.file.slug) {
-            orderA = nameOrderMap[a.file.slug] || 0
-          } else if (a.name) {
-            orderA = nameOrderMap[a.name] || 0
+            return node.displayName.toLowerCase()
           }
-       
-          if (b.file && b.file.slug) {
-            orderB = nameOrderMap[b.file.slug] || 0
-          } else if (b.name) {
-            orderB = nameOrderMap[b.name] || 0
-          }
-       
+        
+          const keyA = getOrderKey(a)
+          const keyB = getOrderKey(b)
+        
+          // Use the order from the map if available
+          if (keyA in nameOrderMap) orderA = nameOrderMap[keyA]
+          if (keyB in nameOrderMap) orderB = nameOrderMap[keyB]
+         
           return orderA - orderB
         },
       })
