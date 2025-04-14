@@ -47,7 +47,7 @@ export const defaultContentPageLayout: PageLayout = {
       Component.Explorer({
         filterFn: (node) => {
           // set containing names of everything you want to filter out
-          const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
+          const omit = new Set(["Map of Contents", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
           return !omit.has(node.displayName.toLowerCase())
         },
         sortFn: (a, b) => {
