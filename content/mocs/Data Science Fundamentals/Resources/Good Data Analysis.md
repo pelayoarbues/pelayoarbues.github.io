@@ -19,4 +19,4 @@ This document summarizes the ideas and techniques that careful, methodical analy
 
 Contents:
 
-![Good%20Data%20Analysis%2004a423dcc28d4a1382ce02b7a80e0403/Untitled.png](Untitled.png)
+![Good%20Data%20Analysis%2004a423dcc28d4a1382ce02b7a80e0403/Untitled.png](notes/Data%20Science%20Fundamentals/Resources/attachments/Untitled.png)
