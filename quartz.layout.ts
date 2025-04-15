@@ -6,7 +6,21 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [  
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'pelayoarbues/pelayoarbues.github.io',
+      // from data-repo-id
+      repoId: 'R_kgDOIu8cEw',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOIu8cE84CpHjV',
+    }
+  }),
+   ],
   footer: Component.Footer({
     links: {
       Bluesky: "https://bsky.app/profile/pelayoarbues.com",
@@ -175,3 +189,4 @@ export const defaultListPageLayout: PageLayout = {
   ],
   right: [],
 }
+
