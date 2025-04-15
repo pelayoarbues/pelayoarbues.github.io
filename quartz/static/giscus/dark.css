@@ -3,7 +3,7 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
-main {
+ main {
   --color-prettylights-syntax-comment: #87857f; /* --secondary */
   --color-prettylights-syntax-constant: #79c0ff;
   --color-prettylights-syntax-entity: #d2a8ff;
@@ -96,7 +96,4 @@ main .pagination-loader-container {
 
 main .gsc-loading-image {
   background-image: url("https://github.githubassets.com/images/mona-loading-dark.gif");
-}/*! MIT License
- * Copyright (c) 2018 GitHub Inc.
- * https://github.com/primer/primitives/blob/main/LICENSE
- */
+}
