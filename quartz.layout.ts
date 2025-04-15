@@ -18,12 +18,9 @@ export const sharedPageComponents: SharedLayout = {
       category: 'Announcements',
       // from data-category-id
       categoryId: 'DIC_kwDOIu8cE84CpHjV',
-      //themeUrl: "https://pelayoarbues.com/static/giscus", // corresponds to quartz/static/giscus/
-      themeUrl: "http://localhost:8080/static/giscus", // corresponds to quartz/static/giscus/
+      themeUrl: "https://pelayoarbues.com/static/giscus", // corresponds to quartz/static/giscus/
       lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
       darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
-      mapping: "pathname",
-      strict: false,
     }
   }),
    ],

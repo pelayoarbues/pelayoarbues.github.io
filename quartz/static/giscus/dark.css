@@ -3,7 +3,7 @@
  * https://github.com/primer/primitives/blob/main/LICENSE
  */
 
- main {
+main {
   --color-prettylights-syntax-comment: #87857f; /* --secondary */
   --color-prettylights-syntax-constant: #79c0ff;
   --color-prettylights-syntax-entity: #d2a8ff;
