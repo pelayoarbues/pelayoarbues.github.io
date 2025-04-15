@@ -51,8 +51,7 @@ export const defaultContentPageLayout: PageLayout = {
           
           // Get folder name from various possible properties
           const folderName = 
-            (node.file?.slug?.split('/')[0] || 
-             node.slug?.split('/')[0] || 
+            (node.slug?.split('/')[0] || 
              node.displayName || 
              "").toLowerCase()
           
@@ -69,14 +68,12 @@ export const defaultContentPageLayout: PageLayout = {
           
           // Try to get the folder name (first part of slug or displayName)
           const folderA = 
-            (
-             a.slug?.split('/')[0] || 
+            (a.slug?.split('/')[0] || 
              a.displayName || 
              "").toLowerCase()
           
           const folderB = 
-            ( 
-             b.slug?.split('/')[0] || 
+            (b.slug?.split('/')[0] || 
              b.displayName || 
              "").toLowerCase()
           
@@ -135,7 +132,46 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
+        
+        // Get folder name from various possible properties
+        const folderName = 
+          (node.slug?.split('/')[0] || 
+           node.displayName || 
+           "").toLowerCase()
+        
+        // Check if folder name is in the omit set
+        return !omit.has(folderName)
+      },
+      sortFn: (a, b) => {
+        const nameOrderMap: Record<string, number> = {
+          "notes": 100,
+          "research": 101, 
+          "appearances": 200,
+          "photography": 300
+        }
+        
+        // Try to get the folder name (first part of slug or displayName)
+        const folderA = 
+          (a.slug?.split('/')[0] || 
+           a.displayName || 
+           "").toLowerCase()
+        
+        const folderB = 
+          (b.slug?.split('/')[0] || 
+           b.displayName || 
+           "").toLowerCase()
+        
+        // Get order values, default to high number if not found
+        const orderA = nameOrderMap[folderA] ?? 999
+        const orderB = nameOrderMap[folderB] ?? 999
+        
+        return orderA - orderB
+      }
+    }),
   ],
   right: [],
 }
