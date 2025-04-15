@@ -7,22 +7,25 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [  
-    Component.Comments({
-    provider: 'giscus',
-    options: {
-      // from data-repo
-      repo: 'pelayoarbues/pelayoarbues.github.io',
-      // from data-repo-id
-      repoId: 'R_kgDOIu8cEw',
-      // from data-category
-      category: 'Announcements',
-      // from data-category-id
-      categoryId: 'DIC_kwDOIu8cE84CpHjV',
-      themeUrl: "https://pelayoarbues.com/static/giscus", // corresponds to quartz/static/giscus/
-      lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
-      darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
-    }
-  }),
+  //   Component.Comments({
+  //   provider: 'giscus',
+  //   options: {
+  //     // from data-repo
+  //     repo: 'pelayoarbues/pelayoarbues.github.io',
+  //     // from data-repo-id
+  //     repoId: 'R_kgDOIu8cEw',
+  //     // from data-category
+  //     category: 'Announcements',
+  //     // from data-category-id
+  //     categoryId: 'DIC_kwDOIu8cE84CpHjV',
+  //     themeUrl: "https://pelayoarbues.github.io/static/giscus", // corresponds to quartz/static/giscus/
+  //     lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
+  //     darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
+  //     mapping: 'pathname',
+  //     strict: true,
+  //     reactionsEnabled: true,
+  //   }
+  // }),
    ],
   footer: Component.Footer({
     links: {
