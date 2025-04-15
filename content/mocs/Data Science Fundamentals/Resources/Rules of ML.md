@@ -16,6 +16,6 @@ This is pure gold:
 
 It includes greatest hits such as:
 
-![Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled.png](Untitled%201.png)
+![Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled.png](mocs/Data%20Science%20Fundamentals/Resources/attachments/Untitled%201.png)
 
-![Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled%201.png](Untitled%201%201.png)
+![Rules%20of%20ML%20ca06b5c936054ee38a53ecec7bbdbe6e/Untitled%201.png](mocs/Data%20Science%20Fundamentals/Resources/attachments/Untitled%201%201.png)

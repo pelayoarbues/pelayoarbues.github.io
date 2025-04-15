@@ -7,10 +7,11 @@ import { QuartzEmitterPlugin } from "../types"
 import { toHtml } from "hast-util-to-html"
 import { write } from "./helpers"
 import { i18n } from "../../i18n"
-import DepGraph from "../../depgraph"
 
-export type ContentIndex = Map<FullSlug, ContentDetails>
+export type ContentIndexMap = Map<FullSlug, ContentDetails>
 export type ContentDetails = {
+  slug: FullSlug
+  filePath: FilePath
   title: string
   links: SimpleSlug[]
   tags: string[]
@@ -25,6 +26,7 @@ interface Options {
   enableRSS: boolean
   rssLimit?: number
   rssFullHtml: boolean
+  rssSlug: string
   includeEmptyFiles: boolean
 }
 
@@ -33,10 +35,11 @@ const defaultOptions: Options = {
   enableRSS: true,
   rssLimit: 10,
   rssFullHtml: false,
+  rssSlug: "index",
   includeEmptyFiles: true,
 }
 
-function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndex): string {
+function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string {
   const base = cfg.baseUrl ?? ""
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<url>
     <loc>https://${joinSegments(base, encodeURI(slug))}</loc>
@@ -103,35 +106,16 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
   opts = { ...defaultOptions, ...opts }
   return {
     name: "ContentIndex",
-    async getDependencyGraph(ctx, content, _resources) {
-      const graph = new DepGraph<FilePath>()
-
-      for (const [_tree, file] of content) {
-        const sourcePath = file.data.filePath!
-
-        graph.addEdge(
-          sourcePath,
-          joinSegments(ctx.argv.output, "static/contentIndex.json") as FilePath,
-        )
-        if (opts?.enableSiteMap) {
-          graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "sitemap.xml") as FilePath)
-        }
-        if (opts?.enableRSS) {
-          graph.addEdge(sourcePath, joinSegments(ctx.argv.output, "index.xml") as FilePath)
-        }
-      }
-
-      return graph
-    },
-    async emit(ctx, content, _resources) {
+    async *emit(ctx, content) {
       const cfg = ctx.cfg.configuration
-      const emitted: FilePath[] = []
-      const linkIndex: ContentIndex = new Map()
+      const linkIndex: ContentIndexMap = new Map()
       for (const [tree, file] of content) {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
           linkIndex.set(slug, {
+            slug,
+            filePath: file.data.relativePath!,
             title: file.data.frontmatter?.title!,
             links: file.data.links ?? [],
             tags: file.data.frontmatter?.tags ?? [],
@@ -148,25 +132,21 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
       const includedSections = ["notes", "writing"]; // Define the sections to include
 
       if (opts?.enableSiteMap) {
-        emitted.push(
-          await write({
-            ctx,
-            content: generateSiteMap(cfg, linkIndex),
-            slug: "sitemap" as FullSlug,
-            ext: ".xml",
-          }),
-        )
+        yield write({
+          ctx,
+          content: generateSiteMap(cfg, linkIndex),
+          slug: "sitemap" as FullSlug,
+          ext: ".xml",
+        })
       }
 
       if (opts?.enableRSS) {
-        emitted.push(
-          await write({
-            ctx,
-            content: generateRSSFeed(cfg,linkIndex,includedSections, opts.rssLimit),
-            slug: "index" as FullSlug,
-            ext: ".xml",
-          }),
-        )
+        yield write({
+          ctx,
+          content: generateRSSFeed(cfg, linkIndex, includedSections, opts.rssLimit),
+          slug: (opts?.rssSlug ?? "index") as FullSlug,
+          ext: ".xml",
+        })
       }
 
       const fp = joinSegments("static", "contentIndex") as FullSlug
@@ -181,17 +161,26 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         }),
       )
 
-      emitted.push(
-        await write({
-          ctx,
-          content: JSON.stringify(simplifiedIndex),
-          slug: fp,
-          ext: ".json",
-        }),
-      )
-
-      return emitted
+      yield write({
+        ctx,
+        content: JSON.stringify(simplifiedIndex),
+        slug: fp,
+        ext: ".json",
+      })
     },
-    getQuartzComponents: () => [],
+    externalResources: (ctx) => {
+      if (opts?.enableRSS) {
+        return {
+          additionalHead: [
+            <link
+              rel="alternate"
+              type="application/rss+xml"
+              title="RSS Feed"
+              href={`https://${ctx.cfg.configuration.baseUrl}/index.xml`}
+            />,
+          ],
+        }
+      }
+    },
   }
 }

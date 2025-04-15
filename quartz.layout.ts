@@ -6,7 +6,24 @@ import { SimpleSlug } from "./quartz/util/path"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [  
+    Component.Comments({
+    provider: 'giscus',
+    options: {
+      // from data-repo
+      repo: 'pelayoarbues/pelayoarbues.github.io',
+      // from data-repo-id
+      repoId: 'R_kgDOIu8cEw',
+      // from data-category
+      category: 'Announcements',
+      // from data-category-id
+      categoryId: 'DIC_kwDOIu8cE84CpHjV',
+      themeUrl: "https://pelayoarbues.com/static/giscus", // corresponds to quartz/static/giscus/
+      lightTheme: "light", // corresponds to light-theme.css in quartz/static/giscus/
+      darkTheme: "dark", // corresponds to dark-theme.css quartz/static/giscus/
+    }
+  }),
+   ],
   footer: Component.Footer({
     links: {
       Bluesky: "https://bsky.app/profile/pelayoarbues.com",
@@ -23,7 +40,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.Breadcrumbs(),
+    Component.ConditionalRender({
+      component: Component.Breadcrumbs(),
+      condition: (page) => page.fileData.slug !== "index",
+    }),
     Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
@@ -31,40 +51,55 @@ export const defaultContentPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
     Component.DesktopOnly(
       Component.Explorer({
         filterFn: (node) => {
           // set containing names of everything you want to filter out
           const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
-          return !omit.has(node.name.toLowerCase())
+          
+          // Get folder name from various possible properties
+          const folderName = 
+            (node.slug?.split('/')[0] || 
+             node.displayName || 
+             "").toLowerCase()
+          
+          // Check if folder name is in the omit set
+          return !omit.has(folderName)
         },
         sortFn: (a, b) => {
           const nameOrderMap: Record<string, number> = {
             "notes": 100,
-            "research": 101,
+            "research": 101, 
             "appearances": 200,
             "photography": 300
-            }
-       
-          let orderA = 0
-          let orderB = 0
-       
-          if (a.file && a.file.slug) {
-            orderA = nameOrderMap[a.file.slug] || 0
-          } else if (a.name) {
-            orderA = nameOrderMap[a.name] || 0
           }
-       
-          if (b.file && b.file.slug) {
-            orderB = nameOrderMap[b.file.slug] || 0
-          } else if (b.name) {
-            orderB = nameOrderMap[b.name] || 0
-          }
-       
+          
+          // Try to get the folder name (first part of slug or displayName)
+          const folderA = 
+            (a.slug?.split('/')[0] || 
+             a.displayName || 
+             "").toLowerCase()
+          
+          const folderB = 
+            (b.slug?.split('/')[0] || 
+             b.displayName || 
+             "").toLowerCase()
+          
+          // Get order values, default to high number if not found
+          const orderA = nameOrderMap[folderA] ?? 999
+          const orderB = nameOrderMap[folderB] ?? 999
+          
           return orderA - orderB
-        },
+        }
       })
     ),
     Component.DesktopOnly(
@@ -105,9 +140,56 @@ export const defaultListPageLayout: PageLayout = {
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),
-    Component.Search(),
-    Component.Darkmode(),
-    Component.DesktopOnly(Component.Explorer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer({
+      filterFn: (node) => {
+        // set containing names of everything you want to filter out
+        const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
+        
+        // Get folder name from various possible properties
+        const folderName = 
+          (node.slug?.split('/')[0] || 
+           node.displayName || 
+           "").toLowerCase()
+        
+        // Check if folder name is in the omit set
+        return !omit.has(folderName)
+      },
+      sortFn: (a, b) => {
+        const nameOrderMap: Record<string, number> = {
+          "notes": 100,
+          "research": 101, 
+          "appearances": 200,
+          "photography": 300
+        }
+        
+        // Try to get the folder name (first part of slug or displayName)
+        const folderA = 
+          (a.slug?.split('/')[0] || 
+           a.displayName || 
+           "").toLowerCase()
+        
+        const folderB = 
+          (b.slug?.split('/')[0] || 
+           b.displayName || 
+           "").toLowerCase()
+        
+        // Get order values, default to high number if not found
+        const orderA = nameOrderMap[folderA] ?? 999
+        const orderB = nameOrderMap[folderB] ?? 999
+        
+        return orderA - orderB
+      }
+    }),
   ],
   right: [],
 }
+
