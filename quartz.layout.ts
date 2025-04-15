@@ -49,51 +49,43 @@ export const defaultContentPageLayout: PageLayout = {
           // set containing names of everything you want to filter out
           const omit = new Set(["mocs", "tags", "attachments", "literature-notes", "conflict-files-obsidian-git"])
           
-          // Check if the node's display name (converted to lowercase) is in the omit set
-          // Also check slug if it exists as folders might be represented differently
-          if (omit.has(node.displayName.toLowerCase())) {
-            return false
-          }
-    
-          // If node has a file with a slug, check if its base path is in the omit set
-          if (node.slug) {
-            const parts = node.slug.split('/')
-            if (parts.length > 0 && omit.has(parts[0].toLowerCase())) {
-              return false
-            }
-          }
-    
-          return true
+          // Get folder name from various possible properties
+          const folderName = 
+            (node.file?.slug?.split('/')[0] || 
+             node.slug?.split('/')[0] || 
+             node.displayName || 
+             "").toLowerCase()
+          
+          // Check if folder name is in the omit set
+          return !omit.has(folderName)
         },
         sortFn: (a, b) => {
           const nameOrderMap: Record<string, number> = {
             "notes": 100,
-            "research": 101,
+            "research": 101, 
             "appearances": 200,
             "photography": 300
           }
-         
-          let orderA = 999  // Default high value for items not in the map
-          let orderB = 999
-         
-          // Get the first part of the slug (folder name) or use displayName
-          const getOrderKey = (node: any) => {
-            if (node.slug) {
-              const parts = node.slug.split('/')
-              return parts[0].toLowerCase()
-            }
-            return node.displayName.toLowerCase()
-          }
-        
-          const keyA = getOrderKey(a)
-          const keyB = getOrderKey(b)
-        
-          // Use the order from the map if available
-          if (keyA in nameOrderMap) orderA = nameOrderMap[keyA]
-          if (keyB in nameOrderMap) orderB = nameOrderMap[keyB]
-         
+          
+          // Try to get the folder name (first part of slug or displayName)
+          const folderA = 
+            (
+             a.slug?.split('/')[0] || 
+             a.displayName || 
+             "").toLowerCase()
+          
+          const folderB = 
+            ( 
+             b.slug?.split('/')[0] || 
+             b.displayName || 
+             "").toLowerCase()
+          
+          // Get order values, default to high number if not found
+          const orderA = nameOrderMap[folderA] ?? 999
+          const orderB = nameOrderMap[folderB] ?? 999
+          
           return orderA - orderB
-        },
+        }
       })
     ),
     Component.DesktopOnly(
