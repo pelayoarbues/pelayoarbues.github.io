@@ -51,7 +51,7 @@ function generateSiteMap(cfg: GlobalConfiguration, idx: ContentIndexMap): string
   return `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">${urls}</urlset>`
 }
 
-function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndex, includedSections: string[], limit?: number): string {
+function generateRSSFeed(cfg: GlobalConfiguration, idx: ContentIndexMap, includedSections: string[], limit?: number): string {
   const base = cfg.baseUrl ?? "";
 
   const createURLEntry = (slug: SimpleSlug, content: ContentDetails): string => `<item>
