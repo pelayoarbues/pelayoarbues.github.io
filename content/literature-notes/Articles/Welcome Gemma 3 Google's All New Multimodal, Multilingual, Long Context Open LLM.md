@@ -1,0 +1,29 @@
+---
+author: [[huggingface.co]]
+title: 'Welcome Gemma 3: Google''s All New Multimodal, Multilingual, Long Context Open LLM'
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/thumbnail_K0kkuYl.png)
+
+## Metadata
+- Author: [[huggingface.co]]
+- Full Title: Welcome Gemma 3: Google's All New Multimodal, Multilingual, Long Context Open LLM
+- URL: https://huggingface.co/blog/gemma3
+
+## Highlights
+- Today Google releases [**Gemma 3**](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d), a new iteration of their Gemma family of models. The models range from 1B to 27B parameters, have a context window up to 128k tokens, can accept images and text, and support 140+ languages. ([View Highlight](https://read.readwise.io/read/01jp53133am6ztt16vdxx1w8y6))
+- [Gemma 3](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) is Google's latest iteration of open weight LLMs. It comes in four sizes, **1 billion**, **4 billion**, **12 billion**, and **27 billion** parameters with *base (pre-trained)* and *instruction-tuned* versions. Gemma 3 goes **multimodal** ! The 4, 12, and 27 billion parameter models can process both **images** and **text**, while the 1B variant is *text only*. ([View Highlight](https://read.readwise.io/read/01jp531fftw8ns1wtz1exyt3v1))
+- The input context window length has been increased from Gemma 2’s 8k to **32k** for the 1B variants, and **128k** for all others. As is the case with other VLMs (vision-language models), Gemma 3 generates text in response to the user inputs, which may consist of text and, optionally, images. Example uses include question answering, analyzing image content, summarizing documents, etc. ([View Highlight](https://read.readwise.io/read/01jp531hdej4mm3v4y1x0wbzyv))
+- Scaling context length to 128k tokens could be achieved efficiently without training models from scratch. Instead, models are pretrained with 32k sequences, and only the 4B, 12B, and 27B models are scaled to 128k tokens at the end of pretraining, saving significant compute. Positional embeddings, like RoPE, are adjusted—upgraded from a 10k base frequency in Gemma 2 to 1M in Gemma 3—and scaled by a factor of 8 for longer contexts. ([View Highlight](https://read.readwise.io/read/01jp531qqqst1sn2w05t2dm4wr))
+- Gemma 3 models use [SigLIP](https://huggingface.co/collections/google/siglip-659d5e62f0ae1a57ae0e83ba) as an image encoder, which encodes images into tokens that are ingested into the language model. The vision encoder takes as input square images resized to `896x896`. Fixed input resolution makes it more difficult to process non-square aspect ratios and high-resolution images. To address these limitations **during inference**, the images can be adaptively cropped, and each crop is then resized to `896x896` and encoded by the image encoder. This algorithm, called **pan and scan**, effectively enables the model to zoom in on smaller details in the image. ([View Highlight](https://read.readwise.io/read/01jp5323bcndj9ddk6bgh7kkk2))
+- Similar to PaliGemma, attention in Gemma 3 works differently for text and image inputs. Text is handled with one-way attention, where the model focuses only on previous words in a sequence. Images, on the other hand, get full attention with no masks, allowing the model to look at every part of the image in a **bidirectional** manner, giving it a complete, unrestricted understanding of the visual input. ([View Highlight](https://read.readwise.io/read/01jp5327dcfh2ycmdpghybmk76))
+- One can see in the figure below that the image tokens `<img>` are provided with bi-directional attention (the entire square is lit up) while the text tokens have causal attention. It also shows how attention works with the sliding window algorithm.
+  [![attention visualization](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/gemma3/attention-ascii.png)](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/gemma3/attention-ascii.png) ([View Highlight](https://read.readwise.io/read/01jp532ddww27kj88c9z12t17c))
+- To make a LLM multilingual, the pretraining dataset incorporates more languages. The dataset of Gemma 3 has **double** the amount of multilingual data to improve language coverage.
+  To account for the changes, the tokenizer is the same as that of Gemini 2.0. It is a SentencePiece tokenizer with 262K entries. The new tokenizer significantly improves the encoding of *Chinese*, *Japanese* and *Korean* text, to the expense of a slight increase of the token counts for English and Code. ([View Highlight](https://read.readwise.io/read/01jp532qmczxbzv7qege8dpbgp))
+- The LMSys Elo score is a number that ranks language models based on how well they perform in head-to-head competitions, judged by human preferences. On LMSys Chatbot Arena, Gemma 3 27B IT reports an Elo score of **1339**, and ranks among the top 10 best models, including leading closed ones. The Elo is comparable to o1-preview and is above other *non-thinking* open models. This score is achieved with Gemma 3 working on text-only inputs, like the other LLMs in the table.
+  [![chat bot arena](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/gemma3/chatbot-arena.png)](https://huggingface.co/datasets/huggingface/documentation-images/resolve/main/blog/gemma3/chatbot-arena.png) ([View Highlight](https://read.readwise.io/read/01jp5330324f07r4jqsk9ef83t))
+- Gemma 3 ships with day zero support in `mlx-vlm`, an open source library for running vision language models on Apple Silicon devices, including Macs and iPhones ([View Highlight](https://read.readwise.io/read/01jp533hb0e0q0rvanp263rq24))

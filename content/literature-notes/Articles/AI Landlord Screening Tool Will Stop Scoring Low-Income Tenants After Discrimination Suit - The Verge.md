@@ -1,0 +1,24 @@
+---
+author: [[Emma Roth]]
+title: 'AI Landlord Screening Tool Will Stop Scoring Low-Income Tenants After Discrimination Suit - The Verge'
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://cdn.vox-cdn.com/thumbor/B8CfyOtPnNFP9uWQlThzfERX8KU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25479106/STK476_LOCATION_DATA_CVIRGINIA_B.jpg)
+
+## Metadata
+- Author: [[Emma Roth]]
+- Full Title: AI Landlord Screening Tool Will Stop Scoring Low-Income Tenants After Discrimination Suit - The Verge
+- URL: https://www.theverge.com/2024/11/20/24297692/ai-landlord-tool-saferent-low-income-tenants-discrimination-settlement?utm_content=buffer32e42&utm_medium=social&utm_source=bufferapp.com&utm_campaign=buffer
+
+## Highlights
+- Screening system SafeRent will also pay around $2.3 million to Massachusetts residents with housing vouchers as part of a class action settlement. ([View Highlight](https://read.readwise.io/read/01jdem1wv30he8erd2vp40zz9q))
+- SafeRent, an AI screening tool used by landlords, will no longer use AI-powered “scores” to evaluate whether someone using housing vouchers would make a good tenant. On Wednesday, US District Judge Angel Kelley [issued final approval](https://www.documentcloud.org/documents/25355973-saferent-final-approval-order-11-20-2024?responsive=1&title=1) for a roughly $2.3 million settlement to prevent SafeRent from discriminating against tenants based on income and race. ([View Highlight](https://read.readwise.io/read/01jdem20msq4y3xp8rzanrbw2b))
+- The [settlement stems from a 2022 class action lawsuit filed](https://www.cohenmilstein.com/case-study/louis-et-al-v-saferent-solutions-et-al/) in Massachusetts. The suit alleged that SafeRent’s scoring system disproportionately harmed people using housing vouchers — specifically Black and Hispanic applicants. In addition to violating Massachusetts law, the complaint also accused SafeRent of breaking the Fair Housing Act, which prohibits housing discrimination. ([View Highlight](https://read.readwise.io/read/01jdem25h0wz0a8yd4rqz3gjge))
+- As outlined in the initial lawsuit, SafeRent’s scoring algorithm uses factors like credit history and non-rental-related debts to assign a SafeRent Score to potential tenants. Landlords can then use this score to determine whether to accept or deny someone’s rental application. The lawsuit claimed the process isn’t transparent, as SafeRent doesn’t tell landlords how it came up with a person’s score. And the system allegedly assigned lower scores unfairly for Black and Hispanic tenants, as well as people who use housing vouchers, leading landlords to deny their housing applications. ([View Highlight](https://read.readwise.io/read/01jdem2edebej6xm0tds5k6f71))
+- Under the five-year settlement, SafeRent will no longer display a tenant screening score for applicants using housing vouchers nationwide, nor can it include a score when landlords use its “affordable” SafeRent Score model. SafeRent’s service also can’t display recommendations on whether to “accept” or “deny” someone’s application if they use housing vouchers. This means landlords will now have to evaluate renters who use housing vouchers based on their entire record — rather than just using their SafeRent score. ([View Highlight](https://read.readwise.io/read/01jdem2rxcah2zdphspjfp8kwp))
+- “Credit scores and scores modeled similarly, such as SafeRent Scores, draw on information that has only be[en] tested at predicting repayment of credit obligations,” Shennan Kavanagh, the director of the National Consumer Law Center, said in a statement. “There is no evidence such data is predictive of tenants paying rent.” ([View Highlight](https://read.readwise.io/read/01jdem2yhzk4df88de5kzna0pe))
+- The money collected as part of the settlement will go to Massachusetts-based rental applicants who used housing vouchers and weren’t able to secure housing due to SafeRent’s tenant score. “While SafeRent continues to believe the SRS [SafeRent Solutions] Scores comply with all applicable laws, litigation is time-consuming and expensive,” SafeRent spokesperson Yazmin Lopez said in a statement to *The Verge*. “It became increasingly clear that defending the SRS Score in this case would divert time and resources SafeRent can better use to serve its core mission of giving housing providers the tools they need to screen applicants.” ([View Highlight](https://read.readwise.io/read/01jdem3j7b7937d0f8xtt9eyh1))
+- SafeRent is the latest algorithm-driven property management software to face legal action. In August, [the Department of Justice sued](https://www.theverge.com/2024/8/23/24226885/doj-realpage-antitrust-lawsuit-rent-fixing-software) RealPage over claims its algorithmic pricing software raises rent. ([View Highlight](https://read.readwise.io/read/01jdem3rz15vyjs7rardjneae6))

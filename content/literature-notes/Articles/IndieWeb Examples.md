@@ -1,0 +1,51 @@
+---
+author: [[indieweb.org]]
+title: 'IndieWeb Examples'
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://news.ycombinator.com/favicon.ico)
+
+## Metadata
+- Author: [[indieweb.org]]
+- Full Title: IndieWeb Examples
+- URL: https://indieweb.org/POSSE
+
+## Highlights
+- **Publish (on your) Own Site, [Syndicate](https://indieweb.org/Category:syndication) Elsewhere**, the practice of posting content on your own site first, then publishing copies or sharing links to third parties (like [social media](https://indieweb.org/social_media) silos) with [original post links](https://indieweb.org/original_post_link) to provide viewers a path to directly interacting with your content. ([View Highlight](https://read.readwise.io/read/01hke11xv2pbqzvfdmx8rhqb46))
+- **Let your friends read your posts, their way.** POSSE lets your friends keep using whatever they use to read your stuff (e.g. social media [silos](https://indieweb.org/silo) like [Instagram](https://indieweb.org/Instagram), [Tumblr](https://indieweb.org/Tumblr), [Twitter](https://indieweb.org/Twitter), [Neocities](https://indieweb.org/Neocities), etc.). ([View Highlight](https://read.readwise.io/read/01hke12pxxt6vfmw4ykk3cz6a0))
+- **Stay in touch with friends now**, not some theoretical future. POSSE is about staying in touch with current friends now, rather than the potential of staying in touch with friends in the future. ([View Highlight](https://read.readwise.io/read/01hke12w3wksrcgx9ha167jqry))
+- **Friends are more important than federation.** By focusing on relationships that matter to people rather than architectural ideals, from a human perspective, POSSE is more important than [federation](https://indieweb.org/federation). Additionally, if federated approaches take a POSSE approach first, they will likely get better adoption (everyone wants to stay in touch with their friends), and thereby more rapidly approach that federated future. ([View Highlight](https://read.readwise.io/read/01hke139kf7fme47dk26rh43xn))
+- **POSSE is beyond blogging.** It's a key part of why and how the IndieWeb movement is [different](https://indieweb.org/different) from just "everyone blog on their own site", and also different from "everyone just install and run (YourFavoriteSocialSoftware)" etc. [monoculture](https://indieweb.org/monoculture) solutions. ([View Highlight](https://read.readwise.io/read/01hke13kfevsgbrymwa8t8cbhe))
+- **Reduce 3rd party dependence.** By posting directly to your own site, you're not dependent on 3rd Party services to do so -- if you can access your site, you can publish your content. On the contrary with PESOS, [when the 3rd party site is down](https://twitter.com/colinjohnston/status/772533151960707072), you are unable to add content. ([View Highlight](https://read.readwise.io/read/01hke13x0ychgfzt39p0h7y2qe))
+- **Ownership.** By posting *first* on your own site, you create a direct ownership chain that can be traced back to you without any intervening 3rd party services (silos) TOS's getting in the way (which is a vulnerability of [PESOS](https://indieweb.org/PESOS)). ([View Highlight](https://read.readwise.io/read/01hke16a6pmx4xk111z78jxex6))
+- **Copies can cite the original.** By posting content first to your own site (and thus creating a permalink for it), copies that you post on 3rd Party services can link or cite the original on your site (see [syndication_formats](https://indieweb.org/syndication_formats) and [POSSE Notes to Twitter](https://indieweb.org/Twitter#POSSE_Notes_to_Twitter)) ([View Highlight](https://read.readwise.io/read/01hke1fkkga2zg72tb2j0frxy9))
+- **Better search.** Searching public content on your own domain (with any web search engine of your choice) works better than depending on [silos](https://indieweb.org/silos) exclusively to search your posts (e.g. Twitter for a while only showed recent tweets in search results. [Facebook](https://indieweb.org/Facebook) still has very poor search results). ([View Highlight](https://read.readwise.io/read/01hke1gamby707h37ecj70vn7c))
+- [backfeed](https://indieweb.org/backfeed) can be used to pull in (reverse syndicate) responses from other services ([View Highlight](https://read.readwise.io/read/01hke1gs72hebbxyqqeh3c5g59))
+- Common POSSE practice is to link from POSSE copies to your original, using a [permashortlink](https://indieweb.org/permashortlink). Here are a few reasons why: ([View Highlight](https://read.readwise.io/read/01hke1ncwyhaqfgwxfkrezbdwe))
+- **Discovery of your original content.** [discovery](https://indieweb.org/discovery) of your original content from the copies on 3rd party services is enabled by the permashortlinks to your originals posted on said services ([View Highlight](https://read.readwise.io/read/01hke1p7km690hd31t06aek5ys))
+- **Subvert spammers who copy your posts.** When spammers (e.g. @sin3rss) mindlessly copy from your POSSE copies and repost, they also copy the link back to the original, and thus provide more distribution for people to find and view your original post. "[2011-01-09 internet aikido](http://tantek.com/2011/009/t3/value-searching-finding-past-tweets-self-hosting)" of a sort. ([View Highlight](https://read.readwise.io/read/01hke1paq6e56bwwxkkez48sah))
+- **Better ranking for your original posts.** If/when your POSSE copies are themselves copied by others and (re)posted elsewhere (e.g. manual retweets, RSS bots etc.), when the copies link to your original posts, search engines figure that out by following those links back to the original and ranking it higher. ([View Highlight](https://read.readwise.io/read/01hke1pz0ch012k4egzakkvgg6))
+- In general, when your content posting software posts something, it should also post a copy to the [silo](https://indieweb.org/silo) destinations of your choice, with an [original post link](https://indieweb.org/original_post_link) (e.g. [permashortlink](https://indieweb.org/permashortlink) or [permashortcitation](https://indieweb.org/permashortcitation)) back to your original. ([View Highlight](https://read.readwise.io/read/01hke1tb8qypvppxhq0prfffhg))
+- Once you have posted the copy to the silo, you should:
+  • link to the syndicated copy from the original in a **[posts-elsewhere](https://indieweb.org/posts-elsewhere)** section on your post ([View Highlight](https://read.readwise.io/read/01hke1tmsrf49j01z2ztykqrmt))
+- The best user interface (UI) is automatic, dependable, and invisible. If you can implement POSSEing in a way that always does exactly what you want, predictably, then no explicit UI is needed. ([View Highlight](https://read.readwise.io/read/01hke1w2zb8jdvwn8mtxeek79d))
+- [Twitter](https://indieweb.org/Twitter) is perhaps the most popular POSSE destination and a good place to start. ([View Highlight](https://read.readwise.io/read/01hke1wdfzd4s5bvjyn5smw33d))
+- If you can start posting notes (tweets) to your own site and POSSEing to Twitter, *instead of* posting directly to Twitter, you have taken a big step towards owning your data. ([View Highlight](https://read.readwise.io/read/01hke1wrbc3q33d5qezxqysvsm))
+- [Bridgy](https://indieweb.org/Bridgy) [Publish](https://www.brid.gy/about#publish) is POSSE-as-a-service. It supports [Twitter](https://indieweb.org/Twitter), [Flickr](https://indieweb.org/Flickr), [GitHub](https://indieweb.org/GitHub) and [Mastodon](https://indieweb.org/Mastodon). You can use it interactively or programmatically via [webmention](https://indieweb.org/webmention). ([View Highlight](https://read.readwise.io/read/01hke2eb2sc6av772vqvzmfyf7))
+- [IFTTT](https://ifttt.com/) allows automatically reposting content with an RSS or Atom feed to a number of silos incuding Twitter, Tumblr, and Facebook ([View Highlight](https://read.readwise.io/read/01hke2erx9386e8c05a4jjfqp1))
+- The user writes a piece of content using a publishing client
+  • Optional: client provides UI for selecting which 3rd party services to push to if it knows about them, with optional customizations for per service ([View Highlight](https://read.readwise.io/read/01hke2f2jac8czvx4tesnkfxw3))
+- Having finished the content, the user publishes content to their server (optionally: with metadata of which 3rd party services and any customizations thereof)
+  • Optional: client can generate a permalink knowing the state of the server, and publish to that permalink ([View Highlight](https://read.readwise.io/read/01hke2f7d4jvjpsra8ndm7h8bq))
+- The server publishes the content, generates a permalink and summary (and/or customized content suited to 3rd party services) if necessary ([View Highlight](https://read.readwise.io/read/01hke2fafg4a33h34t7kjyyc8m))
+- • User only has to interact with one site over the internet, their own
+  • Syndication can be done fully automatically by the serve ([View Highlight](https://read.readwise.io/read/01hke2jvq8hbashtp59nc6ee7h))
+- Without a first "Publish Once" step on a site you "Own", and thus lacking [original post permalinks](https://indieweb.org/original_post_permalink), the COPE strategy fails to actually draw people to any one canonical place to read/view your stuff, and thus all it does is grow (likely) disjoint audiences across other people’s sites. ([View Highlight](https://read.readwise.io/read/01hke2pd9xpj4y29bfrsd7tgxc))
+    - Tags: [[favorite]] 
+- [POSE](https://indieweb.org/POSE), Publish Once Syndicate Everywhere, was a broader predecessor of POSSE that also included publishing once on one particular [silo](https://indieweb.org/silo), and then syndicating out to other silos. ([View Highlight](https://read.readwise.io/read/01hke2pxdr46gwbs4hhksp9046))
+- A similar but opposite approach is [PESOS](https://indieweb.org/PESOS) where content is posted first to 3rd party services and then copied/syndicated into a personal site. ([View Highlight](https://read.readwise.io/read/01hke2q6mec13njgyzwcsnyyww))
+- [PESETAS](https://indieweb.org/PESETAS) is like PESOS but copying/syndicating everything to a particular silo (without any involvement of a personal site). ([View Highlight](https://read.readwise.io/read/01hke2qnmmqwhhz9gv1wgj8e56))
+- If a POSSE destination allows updates/edits, then when you edit your post, you could propagate that update to the downstream POSSE copy as well. ([View Highlight](https://read.readwise.io/read/01hke2z5ygd8shypjqay53h9xn))

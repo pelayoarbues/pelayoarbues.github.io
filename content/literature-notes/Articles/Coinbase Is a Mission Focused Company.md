@@ -1,0 +1,56 @@
+---
+author: [[Brian Armstrong]]
+title: 'Coinbase Is a Mission Focused Company'
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+
+## Metadata
+- Author: [[Brian Armstrong]]
+- Full Title: Coinbase Is a Mission Focused Company
+- URL: https://www.coinbase.com/es-es/blog/coinbase-is-a-mission-focused-company
+
+## Highlights
+- In short, I want Coinbase to be laser focused on achieving its mission, because I believe that this is the way that we can have the biggest impact on the world. We will do this by playing as a championship team, focus on building, and being transparent about what our mission is and isn’t. ([View Highlight](https://read.readwise.io/read/01hvxyw1z06ajdk7v9vt89dqkz))
+- During difficult times I think it’s important to go back to the guideposts we’ve established, like our [culture doc](https://blog.coinbase.com/culture-at-coinbase-fe510fe9c098), mission, and values. ([View Highlight](https://read.readwise.io/read/01hvxywpzmgfefg05ezm5a10x3))
+- One of the tenets of the Coinbase culture doc is to play like a championship team. What does this mean?
+  • **Be company first:** We act as #OneCoinbase, putting the company’s goals ahead of any particular team or individual goals.
+  • **Act in service of the greater mission:** We have united as a team to try and accomplish something that none of us could have done on our own.
+  • **Default to trust:** We assume positive intent amongst our teammates, and assume ignorance over malice. We have each other’s backs.
+  • **Focus on what unites us, not what divides us:** We help create a sense of cohesion and unity, by focusing on what we have in common, not where we disagree, especially when it’s unrelated to our work.
+  • **Sustained high performance:** As compared to a family, where everyone is included regardless of performance, a championship team makes a concerted effort to raise the bar on talent, including changing out team members when needed. ([View Highlight](https://read.readwise.io/read/01hvxyx94n7g07dbb541eb1xwp))
+- There are many places that a company can choose to allocate its limited time and resources. There is never enough time to do everything, so companies need to choose what change they want to see in the world and focus there ([View Highlight](https://read.readwise.io/read/01hvxyz6kn1t2w3krw0yc50yr1))
+- At Coinbase, we say that we are focused on building. What does this mean? It means we are going to focus on being the best company we can be, and making progress toward our mission, as compared to broader societal issues. ([View Highlight](https://read.readwise.io/read/01hvxyzbnxk7ey9ja2szyzpw65))
+- We focus on the things that help us achieve our mission:
+  • **Build great products:** The vast majority of the impact we have will be from the products we create, which are used by millions of people.
+  • **Source amazing talent:** We create job opportunities for top people, including those from underrepresented backgrounds who don’t have equal access to opportunities, with things like diverse slates (Rooney rule) on senior hires, and casting a wide net to find top talent.
+  • **Fair talent practices:** We work to reduce unconscious bias in interviews, using things like structured interviews, and ensure fair practices in how we pay and promote. We have a pay for performance culture, which means that your rewards and promotions are linked to your overall contribution to the mission and company goals.
+  • **Enable belonging for everyone:** We work to create an environment where everyone is welcome and can do their best work, regardless of background, sexual orientation, race, gender, age, etc. ([View Highlight](https://read.readwise.io/read/01hvxz21st5v0r7rkhraxemz15))
+- We focus minimally on causes not directly related to the mission:
+  • **Policy decisions**: If there is a bill introduced around crypto, we may engage here, but we normally wouldn’t engage in policy decisions around healthcare or education for example.
+  • **Non-profit work:** We will do some work here with our Pledge 1% program and GiveCrypto.org, but this is about 1% of our efforts. We are a for-profit business. When we make profit, we can use that to hire more great people, and build even more. We shouldn’t ever shy away from making profit, because with more resources we can have a greater impact on the world.
+  • **Broader societal issues:** We don’t engage here when issues are unrelated to our core mission, because we believe impact only comes with focus.
+  • **Political causes:** We don’t advocate for any particular causes or candidates internally that are unrelated to our mission, because it is a distraction from our mission. Even if we all agree something is a problem, we may not all agree on the solution. ([View Highlight](https://read.readwise.io/read/01hvxz3a83wmdnbz3dh0xd9hh7))
+- And we want all employees to feel safe disagreeing on the work itself. Candor and debate are core to a healthy team, where it is safe to disagree. We consider these to be related to our mission. ([View Highlight](https://read.readwise.io/read/01hvxz4ka2yyy97kg6z75zyj0g))
+- It has become common for Silicon Valley companies to engage in a wide variety of social activism, even those unrelated to what the company does, and there are certainly employees who really want this in the company they work for. So why have we decided to take a different approach? ([View Highlight](https://read.readwise.io/read/01hvxzcrrzp26hanayat4w0hfg))
+- **The reason is that while I think these efforts are well intentioned, they have the potential to destroy a lot of value at most companies, both by being a distraction, and by creating internal division.** We’ve seen what internal strife at companies like Google and Facebook can do to productivity, and there are many smaller companies who have had their own challenges here. I believe most employees don’t want to work in these divisive environments. They want to work on a winning team that is united and making progress toward an important mission. They want to be respected at work, have a welcoming environment where they can contribute, and have growth opportunities. They want the workplace to be a refuge from the division that is increasingly present in the world. ([View Highlight](https://read.readwise.io/read/01hvxzcz0gy7dmaw0t7awvds77))
+- Change happens in the world only when a smart, talented, group of people come together to focus on a hard problem for a decade or more. Many companies never stand the test of time, because they decide to dabble in unrelated efforts, and distract and divide their workforce in the process. Paradoxically, by being laser focused on our mission, we will likely have an even greater impact on the world, through our products and growing customer base. ([View Highlight](https://read.readwise.io/read/01hvxzdasfe2s8k8at6204s92t))
+- Lastly, it would go against our principles of inclusion and belonging to be more of an activist company on issues outside of our core mission. We have people with many different backgrounds and viewpoints at Coinbase, and **even if we all agree that something is a problem, we may not agree on how to actually go solve it**. This is where there is a blurry line between moral statements and politics. We could use our work day debating what to do about various unrelated challenges in the world, but that would not be in service of the company or our own interests as employees and shareholders. ([View Highlight](https://read.readwise.io/read/01hvxzdrxjm0yjsrv5vex5dp46))
+- Coinbase’s mission is to create an open financial system for the world. This means we want to use cryptocurrency to bring economic freedom to people all over the world. This is difficult and important work, and every employee at Coinbase signed up because they are excited about this mission. ([View Highlight](https://read.readwise.io/read/01hvxzdzkmw5wx1s1am8cf0m98))
+- I realized at some point this year that many employees were interpreting our mission in different ways. Some people interpreted the mission more broadly, to include all forms of equality and justice. It makes sense if you believe that economic freedom is not possible without equality for all people. Others interpreted the mission more narrowly, believing that we were trying to create infrastructure for the cryptoeconomy, and that yes, this would create more equality of access for all people, but we weren’t trying to solve all forms of inequality in the world. ([View Highlight](https://read.readwise.io/read/01hvxzejrjgksfpqkg8k0nf26k))
+- **The narrower interpretation is how I intended the mission to be understood. I don’t think companies can succeed trying to do everything. Creating an open financial system for the world is already a hugely ambitious mission, and we could easily spend the next decade or two trying to move the needle on global economic freedom.** We will keep building the most trusted and easiest to use financial products that help people access the cryptoeconomy, so everyone can get the benefits of this new technology and we can bring more [economic freedom](https://blog.coinbase.com/how-digital-currency-will-change-the-world-310663fe4332) to the world. ([View Highlight](https://read.readwise.io/read/01hvxzesfswe6bq4e3j09r09j1))
+- At the Q3 all hands meeting this past week, I shared with the company the above clarification of our culture and mission. These types of clarifications are needed periodically, as almost every year there will be some sort of event which tests the culture. My goal is to create clarity for all employees going forward about how we’re going to operate. I suspect the vast majority of people will be excited to proceed in this direction — after all, the mission is what we all signed up for and is what Coinbase is uniquely positioned to achieve as a company. But for some employees, working at an activism focused company may be core to what they want, and we want to prompt that conversation with their manager to help them get to a better place. Life is too short to work somewhere that you aren’t excited about, and we’re happy to make that a win-win conversation. ([View Highlight](https://read.readwise.io/read/01hvxzfpde6wt9803w8c4xkp6p))
+- We won’t:
+  • Debate causes or political candidates internally that are unrelated to work
+  • Expect the company to represent our personal beliefs externally
+  • Assume negative intent, or not have each others back
+  • Take on activism outside of our core mission at work
+  We will:
+  • Fight to get on the same page when we have differences
+  • Support each other, and create team cohesion
+  • Assume positive intent
+  • Put the company goals ahead of our teams or individual goals ([View Highlight](https://read.readwise.io/read/01hvxzg3s3xy023h59zh0zvwgw))
+- With a strong, united culture, we can build a company that changes the world. At Coinbase, that culture means staying focused on our mission and being the best company we can be. I believe this is how we will have the greatest impact. With this clarity, hopefully everyone can make an informed decision and we can move forward as #OneCoinbase. ([View Highlight](https://read.readwise.io/read/01hvxzgccrfgrew2vy4tfgzyk8))
