@@ -1,0 +1,25 @@
+---
+author: [[Harvard Business Review]]
+title: "You’re Never Going to Be “Caught Up” at Work. Stop Feeling Guilty About It."
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://hbr.org/resources/images/article_assets/2018/07/jul18_18_603139845.jpg)
+
+## Metadata
+- Author: [[Harvard Business Review]]
+- Full Title: You’re Never Going to Be “Caught Up” at Work. Stop Feeling Guilty About It.
+- URL: https://hbr.org/2018/07/youre-never-going-to-be-caught-up-at-work-stop-feeling-guilty-about-it
+
+## Highlights
+- Most people I know have a to-do list so long that it’s not clear that there’s an end to it. Some tasks, even quite important ones, linger unfinished for a long time, and it’s easy to start feeling guilty or ashamed about what you have not yet completed. ([View Highlight](https://read.readwise.io/read/01ja90xsr4xv2tr6whezstk4rb))
+- People experience [guilt and its close cousin shame](http://psycnet.apa.org/buy/2011-08412-001) when they have done something wrong. Guilt is focused internally on the behavior someone has committed, while shame tends to involve feeling like you are a bad person, particularly in the context of bad behaviors that have become public knowledge. ([View Highlight](https://read.readwise.io/read/01ja90xkf94ybe8jkk527ym9jm))
+- Guilt can sometimes be motivating. For example, feelings of guilt can [increase people’s propensity to cooperate](https://www.tandfonline.com/doi/abs/10.1080/02699930143000662). And, in some cases, guilt can also motivate people to make progress on projects that have stalled. At a minimum, guilt does not seem to make people worse at completing tasks. However, feeling guilty when you’re away from work, when you aren’t in a position to do anything about it, is not helpful, and can be painful. It will make you feel worse about your job in general and spoil time that you could be spending with friends, family, or engaging in an enjoyable activity. ([View Highlight](https://read.readwise.io/read/01ja90ydjw63xz8xp9e98wb4jh))
+- Shame, though, is a different story. There is evidence that people will explicitly [procrastinate to avoid shame](http://psycnet.apa.org/record/2002-10572-013). Feeling shame about work you have not completed is likely to make the problem worse, not better, making it an emotion that is almost never helpful. ([View Highlight](https://read.readwise.io/read/01ja90ykd9b3fe39vpc2gf7anc))
+- One of the factors that can make these emotions more painful is rumination — the process of having repeated thoughts about something that is anxiety-provoking. There are several things you can do to interrupt and counter these negative thoughts. ([View Highlight](https://read.readwise.io/read/01ja90z1neam7rm97rqxkdp99j))
+- **Exercise [self-compassion](https://guilfordjournals.com/doi/abs/10.1521/jscp.2013.32.9.939).** Being kind to and willing to forgive yourself has shown to alleviate the negative effects of shame. Imagine that you are giving advice to someone else who is in the situation that you are in — to a friend who is behind on several projects, say. Chances are that you’d be willing to tell other people to give themselves a break. You should be willing to give yourself the same advice. ([View Highlight](https://read.readwise.io/read/01ja90z692ejwksp8bhpyh0xg8))
+- **Focus on your accomplishments.** [Gabriele Oettingen](https://www.amazon.com/Rethinking-Positive-Thinking-Science-Motivation-ebook/dp/B00INIXT40/)’s research demonstrates that focusing on the gap between what you have accomplished and what you want to accomplish leads to feelings of dissatisfaction. That energy can be motivating to act but when you’re not able to act, focusing on your accomplishments instead gives you a sense of pride in what you have done. Banish the guilt by feeling good about what you have already done. When you are in a position to take action, say sitting back at your desk on Monday morning, then you can make better use of the dissatisfaction that comes from focusing on what’s not yet done. ([View Highlight](https://read.readwise.io/read/01ja9114eq93z4pcf581e8gt7f))
+- **Practice acceptance.** One of the [outcomes of many mindfulness techniques](http://psycnet.apa.org/record/2005-02461-001) is an acceptance of your current situation. This is also useful when you are trying to overcome feelings of guilt. In those moments, you need to remember that all of the work you have to do will be there when you get back to work whether you feel guilty about it in the moment or not. In other words, remind yourself that feeling guilt at that moment doesn’t help. ([View Highlight](https://read.readwise.io/read/01ja9122ftp6bqdjyrt1q76ts1))
+- You want to use guilt as a motivational tool when you are in a position to get work done. When you’re not, develop strategies to leave it behind. And find ways to reduce feelings of shame. Recognize that failing to get some work completed does not make you a bad person. It just makes you a person. ([View Highlight](https://read.readwise.io/read/01ja912gdacd0xy2xsgw2t7ddt))

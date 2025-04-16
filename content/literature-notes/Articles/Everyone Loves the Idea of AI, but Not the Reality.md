@@ -1,0 +1,41 @@
+---
+author: [[Vin Vashishta]]
+title: "Everyone Loves the Idea of AI, but Not the Reality"
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/caa19313-dade-40b4-9f2e-e42414f54015_1200x630.png)
+
+## Metadata
+- Author: [[Vin Vashishta]]
+- Full Title: Everyone Loves the Idea of AI, but Not the Reality
+- URL: https://vinvashishta.substack.com/p/everyone-loves-the-idea-of-ai-but
+
+## Highlights
+- There’s no way to justify continuously investing millions for short-lived competitive advantages. Unfortunately, some companies have chosen the expensive road to no ROI. Models are increasingly commoditized. At Dreamforce, Marc Benioff said, “Companies thought they’d buy access to a private instance and integrate an LLM, and it’ll transform their business, and that’s happened exactly 0 times.” ([View Highlight](https://read.readwise.io/read/01j9hg0d54pn001370wdbe5qsy))
+- Small models make sense for businesses to develop for a broad range of use cases. Large models need multiple monetization opportunities, or costs scale faster than returns. If a business sells an AI product to its customers and can scale rapidly enough, there’s significant ROI. Even then, building a competitive advantage based on the model is the wrong approach. Data provides a more sustainable path forward. ([View Highlight](https://read.readwise.io/read/01j9hg0nfr5r0j0mafk29w5cbm))
+- Foundational model training requires more data than most businesses have, but internal data creates value in new ways. Datasets contain 360 views of customers and some domain expertise required to deliver value to those customers. Relying on an LLM’s internal knowledge alone doesn’t take advantage of the strengths trapped in the business’s data. ([View Highlight](https://read.readwise.io/read/01j9hg15ag9ra977e1k5pt3g5a))
+- Even companies that invest heavily in AI eventually pivot back to the data. Google realized that $60 million invested in computing delivered less than investing the same amount in higher-quality data. [Reddit’s dataset makes Google’s GenAI search results](https://www.reuters.com/technology/reddit-ai-content-licensing-deal-with-google-sources-say-2024-02-22/) more recent and relevant. For OpenAI, partnering with a range of companies like the Associated Press and the Atlantic gives them access to well-written, vetted content. ([View Highlight](https://read.readwise.io/read/01j9hg1ec7bbxzh6swt5g42ph6))
+- Most businesses are making similar pivots to data after realizing there’s a lot of data engineering technical debt hiding in Slide 2. Steve Hammond, EVP and GM of Salesforce’s Marketing Cloud, discussed how he often sees silos and walls between teams or processes translate into data silos and barriers to data access. If people can’t get access to the data they need, models don’t have a chance. ([View Highlight](https://read.readwise.io/read/01j9hg1t2sv1ndtknh5930yn43))
+- A single, powerful model generalizing across tasks and serving diverse business needs is the end goal for startups like OpenAI. So far, this approach has proven unworkable in practice. LLMs are highly capable but struggle with self-regulation. Like an overeager employee who takes on too much, they will attempt to handle any task but often fail to deliver consistent, reliable results. ([View Highlight](https://read.readwise.io/read/01j9hg2r2q7sz7sg5aaeempt9n))
+- Fine-tuning LLMs with internal data has also led to underwhelming outcomes. RAG replaced earlier methods. It offers improvements, particularly in reducing hallucinations, but still falls short of providing the level of control necessary for business and customer-critical applications. More robust guardrails are required to ensure the models behave predictably and accurately. ([View Highlight](https://read.readwise.io/read/01j9hg2t7qt7k34k53c0csyzyt))
+- Salesforce’s Agentforce development environment is an excellent example of how much work goes into guardrails and validation.
+  • The UI allows users to specify exactly which data sources and APIs an agent can leverage.
+  • It supports defining the tasks that are in and out of bounds for agents to perform.
+  • It allows users to define those steps in natural language vs. coded logic.
+  • The builder has tools for testing scenarios and scaling those tests to dozens or hundreds of scenarios.
+  • Explainability and auditing features are part of the testing workflows.
+  • Users can monitor agents’ responses using tools they currently use to monitor people doing the same tasks. ([View Highlight](https://read.readwise.io/read/01j9hg3gkj7kjea74xk4xcha67))
+- The Agentforce platform wouldn’t be possible without the digital tools, data, and existing workflows that have been part of the Salesforce platform for years. What businesses didn’t realize going into the GenAI boom was how much work goes into putting the pieces around LLMs to make them reliable enough to support business and customer use cases. ([View Highlight](https://read.readwise.io/read/01j9hg3w7f1q0c2chzbpn45vsn))
+    - Tags: [[favorite]] 
+- Models must be built for reliability, but the platform they run on must be designed to enforce reliability requirements. AI platforms must balance flexibility with control and oversight, which is a massive challenge. An AI platform strategy is the only viable approach to generating immediate returns from AI. ([View Highlight](https://read.readwise.io/read/01j9hg3zz7fbj1qt5fva9jk2sn))
+    - Tags: [[favorite]] 
+- Ketan Karkhanis, EVP and GM of Salesforce’s Sales Cloud, said that every AI conversation he has with customers is now an ROI conversation. Business leaders realize they don’t need more AI initiatives. They need a higher success rate. It’s 2024, and [over half of AI initiatives still fail to deliver value](https://www.rand.org/pubs/research_reports/RRA2680-1.html). Some studies find that as few as 1 in 5 succeed. ([View Highlight](https://read.readwise.io/read/01j9hg4cw4674bm328addm6fee))
+- Studies show that AI initiatives succeed when “technical staff understands the project purpose and domain context.” But… ([View Highlight](https://read.readwise.io/read/01j9hg4k57fz952pwakmtt8xfm))
+- “Stakeholders often misunderstand or miscommunicate what problem needs to be solved using AI. The organization focuses more on using the latest and greatest technology than on solving real problems for their intended users.” ([View Highlight](https://read.readwise.io/read/01j9hg4mgezb0rwpjxe7ad8khd))
+- Slide 2 rarely gets filled in because businesses are still coming to terms with what should be there. The hype cycle was driven by AI products being crowned a success before they were delivered. Use cases were called feasible before they were implemented. Marc Benioff said that so much about AI isn’t true, and AI platform vendors have disappointed their customers. ([View Highlight](https://read.readwise.io/read/01j9hg4wpzxys4wp13nyk4akaz))
+- [AI initiatives can take 14](https://blogs.microsoft.com/blog/2023/11/02/new-study-validates-the-business-value-and-opportunity-of-ai/) to [17 months to reach breakeven](https://www.information-age.com/ai-investment-to-increase-but-challenges-remain-around-delivering-roi-16787/), and many executives are still waiting to see if the business made the right investments. Benioff talked about customers switching to Salesforce after their first round of AI copilot experiments didn’t deliver Slide 3. Even companies that thought they had Slide 2 figured out are changing direction. ([View Highlight](https://read.readwise.io/read/01j9hg54kga2a7g875vjjsw3es))
+- The most significant challenge has been starting with the business and bending AI to fit the way the business operates. I pressed Ketan Karkhanis on how he’s achieved that alignment. “You must see it from one perspective {the customer’s} to align all sides…strategic alignment around a single outcome.” ([View Highlight](https://read.readwise.io/read/01j9hg5jftejh4hmgk53ts7tas))
+- The most difficult reality check of the last 2 years has been that customers don’t buy AI, and C-level leaders don’t fund technology. They pay for outcomes. ([View Highlight](https://read.readwise.io/read/01j9hg5zbk29t8ezvm9hne6pfm))

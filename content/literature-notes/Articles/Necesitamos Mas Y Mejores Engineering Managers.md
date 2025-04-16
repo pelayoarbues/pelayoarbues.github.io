@@ -1,0 +1,72 @@
+---
+author: [[Javier Escribano]]
+title: "Necesitamos Más Y Mejores Engineering Managers"
+date: 2025-04-16
+tags: 
+- articles
+- literature-note
+---
+![rw-book-cover](https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw3fHxkZXZlbG9wZXJzfGVufDB8fHx8MTcxODE4OTU2Mnww&ixlib=rb-4.0.3&q=80&w=1080)
+
+## Metadata
+- Author: [[Javier Escribano]]
+- Full Title: Necesitamos Más Y Mejores Engineering Managers
+- URL: https://escuelaescribano.substack.com/p/necesitamos-mas-y-mejores-engineering
+
+## Highlights
+- Uno de los patrones recurrentes que observo en los equipos de ingeniería que no funcionan bien es la falta de Engineering Managers. A menudo, estos equipos adoptan un modelo de Tech Leads por tecnología, sin una gestión adecuada del equipo. No cuentan con la figura de un Engineering Manager responsable tanto de su equipo de desarrolladores como del área de producto e ingeniería de ese squad. ([View Highlight](https://read.readwise.io/read/01j3m94b9gzpyw0753241t0bx4))
+- **el modelo de Engineering Manager es más efectivo para mantener un equipo altamente productivo en comparación con el modelo de Tech Leads**. Aunque no son mutuamente excluyentes, suele preferirse empezar con los Tech Leads, ya que es la manera fácil de recompensar a los desarrolladores que han realizado un buen trabajo inicialmente. Sin embargo, desde mi punto de vista, esta práctica es un error. ([View Highlight](https://read.readwise.io/read/01j3m954gharsbs7wjqa84wnyc))
+- Tech Leads por Tecnología sin Gestión de Equipo
+  Este modelo es común en empresas con squads que no están funcionando bien. El Tech Lead es la persona con mayor conocimiento técnico, encargado de tomar decisiones técnicas, pero sin gestionar el equipo. ([View Highlight](https://read.readwise.io/read/01j3m95karvw7e0r40s8rc77qc))
+- **Muchas empresas eligen este modelo porque es la manera más fácil de promover a un desarrollador senior que está haciendo un buen trabajo**, nombrándolo líder de su tecnología. Sin embargo, el reto en las empresas, en producto y en las funcionalidades, rara vez es solo tecnológico. Normalmente, los desafíos radican en tener una estrategia adecuada, entender bien el problema, desarrollar las soft-skills para trabajar con el resto del equipo o lograr alinear a todos los miembros. ([View Highlight](https://read.readwise.io/read/01j3m9675h360y6tev0f1eazp2))
+- **Ventajas:**
+  • El Tech Lead se enfoca en tomar mejores decisiones técnicas en su área. ([View Highlight](https://read.readwise.io/read/01j3m96nkkkkvv28gsawsffv19))
+- **Desventajas:**
+  • **Al no ser el manager de los desarrolladores, carece de mecanismos para proporcionar feedback efectivo** y tomar medidas si un desarrollador no mejora.
+  • Cualquier funcionalidad requiere que varios Tech Leads se coordinen y se pongan de acuerdo, complicando la comunicación con Producto y Negocio. ([View Highlight](https://read.readwise.io/read/01j3m98b76j5kge2cbshamvcy8))
+- Tech Leads por Squad sin Gestión de Equipo
+  Este modelo es también común en empresas con squads que no están funcionando bien. El Tech Lead está asociado a un squad y es alguien senior con conocimientos técnicos y habilidades en la gestión de proyectos. En este modelo, el equipo sigue reportando directamente al Head of Engineering o CTO. ([View Highlight](https://read.readwise.io/read/01j3m97bcsncmd9y5v4rznna25))
+- Muchas empresas optan por este modelo cuando quieren dar más responsabilidad a ciertos ingenieros pero no consideran adecuado o no desean que estos ingenieros se conviertan en managers del resto de sus compañeros del squad. **Este Tech Lead no tiene en su mano todas las herramientas para poder hacer un muy buen trabajo**. ([View Highlight](https://read.readwise.io/read/01j3m97pg8w8btv5gn7z6m1gcx))
+- **Ventajas:**
+  • El Tech Lead se alinea mejor con el Producto y entiende mejor los retos de negocio y producto a resolver.
+  • Ayuda a tomar mejores decisiones de producto, además de las técnicas. ([View Highlight](https://read.readwise.io/read/01j3m97vbetdv9zejcymp9ssn4))
+- **Desventajas:**
+  • Al no ser el manager de los desarrolladores, carece de mecanismos para proporcionar feedback efectivo y tomar medidas si un desarrollador no mejora. ([View Highlight](https://read.readwise.io/read/01j3m98hx4azfcf85weemdqb5v))
+- Tech Leads como Managers de los Desarrolladores de su Tecnología
+  En este modelo, el Tech Lead es la persona con mayor conocimiento en su área tecnológica y, además, es el manager de los desarrolladores de esa tecnología (frontend, backend, mobile, etc.). También se encarga de los proyectos de los diversos squads. ([View Highlight](https://read.readwise.io/read/01j3m9932amwkb67s3ka0yf8hv))
+- Los desarrolladores de un squad pueden reportar a distintos Tech Leads, lo que requiere que el Product Manager se coordine con varios Tech Leads, y éstos con varios Product Managers. ([View Highlight](https://read.readwise.io/read/01j3m99b1g77v6jm2e5zayns1z))
+- **Ventajas:**
+  • Al estar más cerca del día a día, el Tech Lead puede proporcionar feedback efectivo a su equipo, aumentando la calidad en las entregas y fomentando su desarrollo. ([View Highlight](https://read.readwise.io/read/01j3m99f319vh0p0b828bv54jq))
+- **Desventajas:**
+  • **El Tech Lead invierte la mayor parte de su tiempo en diversos proyectos y revisiones de PRs, alejándose del negocio y del producto**, lo que le impide considerar el contexto de negocio en sus decisiones técnicas. Esto puede llevar a conflictos con el producto, demoras en los proyectos, ampliación del alcance y una mala relación con los PMs.
+  • Cualquier funcionalidad requiere que varios Tech Leads se coordinen y se pongan de acuerdo, complicando la comunicación con Producto y Negocio. ([View Highlight](https://read.readwise.io/read/01j3m99nb5x6dx3t9srgxk51jx))
+- **Engineering Manager como Manager de un Squad Multidisciplinar**
+  Este modelo es el que mejor ha funcionado en mi experiencia, tanto en mis trabajos anteriores como en las empresas donde he ayudado a mejorar la productividad. Es un modelo que se alinea mejor con el negocio y el producto. ([View Highlight](https://read.readwise.io/read/01j3m9afk4bch55fwhj7za0we2))
+- En este caso, hay un manager de ingeniería por squad, que lidera a todos los desarrolladores de su equipo, independientemente de la tecnología. Su objetivo es alcanzar los objetivos de negocio y de producto mediante el uso de la tecnología, garantizando calidad y escalabilidad, siempre considerando el contexto de negocio. **El Engineering Manager es responsable tanto de hacer crecer a su equipo como de conseguir los objetivos del squad**. ([View Highlight](https://read.readwise.io/read/01j3m9b0bafz2h66q14c11wry5))
+- • Fomenta una excelente relación entre el PM y el Engineering Manager, facilitando una comprensión clara del problema a resolver y mejorando las decisiones sobre el enfoque y los trade-offs técnicos.
+  • Al estar en contacto constante con su equipo, el Engineering Manager puede proporcionar feedback más efectivo, trabajar en planes de carrera y comunicar claramente las prioridades. ([View Highlight](https://read.readwise.io/read/01j3m9bap4prtynxz1w1g863tz))
+- **Desventajas:**
+  • El Engineering Manager no necesariamente domina todas las tecnologías del squad, por lo que debe depender de miembros senior de su equipo o de otras figuras de referencia. ([View Highlight](https://read.readwise.io/read/01j3m9bpxhd5ybaxt910n5r23t))
+- Gestionar su tiempo para que el equipo pueda avanzar sin estar bloqueado
+  Tienen múltiples frentes abiertos y, por tanto, deben saber priorizar en qué temas involucrarse y cuáles delegar a otros miembros de su equipo. Es crucial asegurar que aspectos clave como dar feedback y mejorar al equipo siempre sean prioritarios. Es normal que los Engineering Managers se sientan abrumados con tanto trabajo, especialmente cuando varios temas no funcionan bien. ([View Highlight](https://read.readwise.io/read/01j3m9c44de62xhyk71z0z6zxd))
+- Una buena práctica para obtener ideas y gestionar las expectativas de todos es preguntar frecuentemente a tu manager, al Product Manager y a tu equipo:
+  • ¿Qué debería seguir haciendo?
+  • ¿Qué debería empezar a hacer?
+  • ¿Qué debería dejar de hacer? ([View Highlight](https://read.readwise.io/read/01j3m9cfj38h3zy3ajvx1wmzgw))
+- . Dar feedback efectivo para tener un equipo de alto rendimiento
+  Un aspecto esencial para los Engineering Managers es la capacidad de dar feedback efectivo a su equipo. He visto claramente como en muchos casos no se da un feedback claro y accionable, ni se explican las consecuencias de no mejorar. ([View Highlight](https://read.readwise.io/read/01j3m9d26fknxsqk5y6e2tm76s))
+- Esto puede llevar a que los desarrolladores no sepan cómo mejorar, no tengan claro qué es importante y se sorprendan cuando les comunican un mal performance o incluso les despidan. A menudo, los managers toleran el bajo rendimiento sin intentar mejorar la situación o buscar una alternativa. ([View Highlight](https://read.readwise.io/read/01j3m9d4s5bxnxnkg3afsx0mb9))
+    - Tags: [[favorite]] 
+- Esto no solo perjudica a esa persona, sino a todo el equipo y a la empresa en su conjunto. Si hay desarrolladores que no trabajan bien, aquellos que sí lo hacen acabarán desmotivándose y, eventualmente, dejando la empresa. Como resultado, los proyectos tendrán cada vez menos calidad y se acumularán más retrasos. ([View Highlight](https://read.readwise.io/read/01j3m9daqr4jkt26rhpjcr6t7d))
+- de negocio para plantear el roadmap de producto y técnico conjuntamente
+  Otro reto es el conocimiento del negocio y del roadmap de producto. Muchos ingenieros, acostumbrados a enfocarse en soluciones a corto plazo, tienden a tener discusiones muy cortoplacistas, especialmente si la empresa carece de una buena cultura de producto.
+  Para ser un buen líder de ingeniería, es crucial entender el negocio, el contexto competitivo, la situación financiera de la empresa y el feedback de los equipos de ventas y operaciones. Junto al product manager, deben proponer un roadmap que alinee los desafíos de negocio, producto e ingeniería. La responsabilidad del engineering manager es integrar el roadmap técnico con el de producto, evitando presentarlos por separado. Debe determinar qué partes técnicas deben priorizarse, refactorizarse o mejorarse para alcanzar los objetivos de negocio. Cuando un engineering manager logra esto, triunfa. ([View Highlight](https://read.readwise.io/read/01j3m9dz0yv7nb3981tpgy8re0))
+- . Conocer la tecnología para evaluar riesgos y tiempos
+  Es común que los engineering managers solo dominen una o dos de las tecnologías que su equipo utiliza, o incluso no conozcan el lenguaje de programación del equipo. Esto puede ser o no un problema, dependiendo de la cultura de la empresa. Algunos CTOs prefieren engineering managers muy técnicos, mientras que en otras culturas se valora más una comprensión general sin necesidad de ser el mayor experto del squad. ([View Highlight](https://read.readwise.io/read/01j3m9eh27s7yw7vfqy1bjd4we))
+- En cualquier caso, es importante tener un conocimiento mínimo de las tecnologías utilizadas. Deben entender cómo está construido el sistema, qué partes son más sólidas y cuáles necesitan evolucionar. Para plantear un roadmap técnico alineado con producto y negocio, además de comprender los retos mencionados, es fundamental conocer bien la tecnología. ([View Highlight](https://read.readwise.io/read/01j3m9esenxntv1sff2vp87qt8))
+- Una pregunta frecuente es si un engineering manager puede provenir de cualquier tecnología. Yo he tenido buenas experiencias con managers de Backend, Frontend y Mobile, aunque es cierto que si hay un componente de backend importante, un manager debe conocer bien todas las partes internas del sistema. Si vienes de frontend o mobile y no conoces el backend, necesitas un curso acelerado de arquitectura. ([View Highlight](https://read.readwise.io/read/01j3m9f4h84ezsh8e6bngp0cv3))
+- **Un manager de personas no debería supervisar más de 5-7 ingenieros**. Es muy difícil ayudar a crecer y prestar atención a los detalles importantes si el manager tiene demasiados temas en su agenda. Existen estudios que indican que es complicado ser un buen manager cuando se tienen más de 7 personas a cargo. Además, otros estudios señalan que a partir del sexto ingeniero se reduce la productividad del equipo, ya que la comunicación se complica y las personas tienden a asumir menos responsabilidad a medida que aumenta el tamaño del grupo. ([View Highlight](https://read.readwise.io/read/01j3m9fqj0pbdq6z3qayph1rwt))
+- **El manager debe estar involucrado en el día a día del equipo**. No sirven de mucho los managers con los que casi no trabajas y te dan feedback de terceros una vez al año. La mejor forma de aprender es trabajando directamente con tu manager y recibiendo feedback semanalmente. ([View Highlight](https://read.readwise.io/read/01j3m9fzw88pn56n7y0etrhns5))
+- **Es más efectiva una sola persona liderando equipo y producto**. Cuando hay distintas personas encargadas de la gestión del equipo de desarrolladores y de tomar decisiones técnicas, todo se retrasa más y surgen muchas más dificultades de comunicación. Por tanto, lo más efectivo es tener una sola persona, el engineering manager, responsable tanto del equipo como de las decisiones técnicas de su área del producto. Para compensar que el manager no sea el mayor experto técnicamente, cualquier proyecto con un componente técnico relevante debe tener un documento de diseño técnico con las alternativas evaluadas para recoger feedback de los expertos de la empresa, aunque el engineering manager siga liderando el tema. ([View Highlight](https://read.readwise.io/read/01j3m9gh38z36aajtzgjm8wbhb))
+- **Es crucial que los engineering managers entiendan el contexto del negocio**, comprendan bien el problema que quieren resolver y desafíen al PM sobre por qué estamos haciendo esto. Un engineering manager no puede tomar decisiones técnicas sin entender el problema a resolver y el impacto en el negocio. ([View Highlight](https://read.readwise.io/read/01j3m9gmdpd2mknd46mqsy3km6))
+- **Es muy importante que el engineering manager sepa dar feedback**, sea directo, claro y haga seguimiento. El equipo debe estar ligeramente en una tensión positiva para mantener un alto rendimiento. ([View Highlight](https://read.readwise.io/read/01j3m9gq2rwq3ew9ybg2y012z1))
