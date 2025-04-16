@@ -1,10 +1,10 @@
 ---
-author: [[Ben Recht]]
+author: "[[Ben Recht]]"
 title: 'Bit Prediction'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faec223c4-4976-454a-b4fc-913ea1eea974_840x600.jpeg)
 

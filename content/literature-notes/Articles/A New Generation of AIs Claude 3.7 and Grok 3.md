@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Mollick]]
+author: "[[Ethan Mollick]]"
 title: 'A New Generation of AIs: Claude 3.7 and Grok 3'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F521759cd-fb8e-4622-b49d-1a26af8c62c6_1376x864.png)
 

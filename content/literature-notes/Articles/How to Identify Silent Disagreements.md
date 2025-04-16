@@ -1,10 +1,10 @@
 ---
-author: [[Raviraj Achar]]
+author: "[[Raviraj Achar]]"
 title: 'How to Identify Silent Disagreements?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1919851-b635-4fd5-ba6d-10ada14d0214_4000x2800.png)
 

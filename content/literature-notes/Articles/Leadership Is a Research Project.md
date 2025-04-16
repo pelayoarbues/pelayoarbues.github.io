@@ -1,10 +1,10 @@
 ---
-author: [[Judd Antin]]
+author: "[[Judd Antin]]"
 title: 'Leadership Is a Research Project'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1024/1*gX4lPxojImcNFkmC-mwQEA.png)
 

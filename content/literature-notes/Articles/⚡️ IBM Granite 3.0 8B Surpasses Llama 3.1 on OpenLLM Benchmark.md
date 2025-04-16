@@ -1,10 +1,10 @@
 ---
-author: [[AlphaSignal]]
+author: "[[AlphaSignal]]"
 title: '⚡️ IBM Granite 3.0 8B Surpasses Llama 3.1 on OpenLLM Benchmark'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'What Is LyCORIS and How to Use Them in Stable Diffusion'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stable-diffusion-art.com/wp-content/uploads/2023/08/cover-06845-2269075082-capitals-girlwith-a-sailor-red-capred-and-black-color-clothes-anime-key-visual-full-body-portrait-character-concept-art-comman.png)
 

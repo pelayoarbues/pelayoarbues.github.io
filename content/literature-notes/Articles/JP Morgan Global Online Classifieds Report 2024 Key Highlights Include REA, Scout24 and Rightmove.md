@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'JP Morgan Global Online Classifieds Report 2024: Key Highlights Include REA, Scout24 and Rightmove'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/JPmorgzedited.png)
 

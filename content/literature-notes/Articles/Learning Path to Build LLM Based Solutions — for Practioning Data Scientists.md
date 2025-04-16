@@ -1,10 +1,10 @@
 ---
-author: [[Vasanthkumar Velayudham |]]
+author: "[[Vasanthkumar Velayudham |]]"
 title: 'Learning Path to Build LLM Based Solutions — for Practioning Data Scientists'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:750/1*bcWretvLzZNTIQjBN0nXsQ.jpeg)
 

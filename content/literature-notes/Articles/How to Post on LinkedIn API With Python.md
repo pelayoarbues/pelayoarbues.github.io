@@ -1,10 +1,10 @@
 ---
-author: [[Jean-Christophe Chouinard]]
+author: "[[Jean-Christophe Chouinard]]"
 title: 'How to Post on LinkedIn API With Python'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.jcchouinard.com/wp-content/uploads/2020/11/image-46-1024x344.png)
 

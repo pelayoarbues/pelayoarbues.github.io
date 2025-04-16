@@ -1,10 +1,10 @@
 ---
-author: [[Cal Newport]]
+author: "[[Cal Newport]]"
 title: 'What Kind of Writer Is ChatGPT? | the New Yorker'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://media.newyorker.com/photos/66e9ae69e5d847f2a81c1a03/16:9/w_1280,c_limit/ai_writing_still_FIN_2800x1600px_300dpi.jpg)
 

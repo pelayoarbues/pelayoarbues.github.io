@@ -1,10 +1,10 @@
 ---
-author: [[Vin Vashishta]]
+author: "[[Vin Vashishta]]"
 title: 'The End of Middle Management: Analytics and Automation Are Replacing Entire Leadership Layers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/7510c85b-e76c-429f-aa2d-b05e8409c161_1200x630.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Bill Gates]]
+author: "[[Bill Gates]]"
 title: 'The Age of AI has begun | Bill Gates'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/e675f5c2-624b-4efd-b82f-99e8a6ed968b/AI_20230215_new%20module_1200x580.jpg)
 

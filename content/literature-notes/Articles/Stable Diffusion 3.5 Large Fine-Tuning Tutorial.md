@@ -1,10 +1,10 @@
 ---
-author: [[Notion]]
+author: "[[Notion]]"
 title: 'Stable Diffusion 3.5 Large Fine-Tuning Tutorial'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.notion.so/images/meta/default.png)
 

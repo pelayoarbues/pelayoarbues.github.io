@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business Review]]
+author: "[[Harvard Business Review]]"
 title: 'You’re Never Going to Be “Caught Up” at Work. Stop Feeling Guilty About It.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2018/07/jul18_18_603139845.jpg)
 

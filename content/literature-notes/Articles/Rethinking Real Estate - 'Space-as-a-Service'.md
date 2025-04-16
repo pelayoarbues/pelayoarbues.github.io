@@ -1,10 +1,10 @@
 ---
-author: [[Yorke C-P]]
+author: "[[Yorke C-P]]"
 title: 'Rethinking Real Estate - ''Space-as-a-Service'''
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/08/The-Future-Office-Series-Smart-Spaces-Episode-3.png)
 

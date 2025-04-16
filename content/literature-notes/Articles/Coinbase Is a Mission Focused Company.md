@@ -1,10 +1,10 @@
 ---
-author: [[Brian Armstrong]]
+author: "[[Brian Armstrong]]"
 title: 'Coinbase Is a Mission Focused Company'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 

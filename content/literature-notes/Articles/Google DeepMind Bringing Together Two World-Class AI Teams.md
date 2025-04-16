@@ -1,10 +1,10 @@
 ---
-author: [[Sundar Pichai]]
+author: "[[Sundar Pichai]]"
 title: 'Google DeepMind: Bringing Together Two World-Class AI Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_products_hero.width-1300.jpg)
 

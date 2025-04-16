@@ -1,10 +1,10 @@
 ---
-author: [[Sharon Adarlo]]
+author: "[[Sharon Adarlo]]"
 title: 'There''s a Small Problem With the AI Industry: It''s Making Absolutely No Money'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/07/ai-industry-money.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Abby Morgan]]
+author: "[[Abby Morgan]]"
 title: 'SAM + Stable Diffusion for Text-to-Image Inpainting'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.comet.com/site/wp-content/uploads/2023/06/Untitled-design.png)
 

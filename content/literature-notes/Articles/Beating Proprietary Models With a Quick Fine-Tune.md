@@ -1,10 +1,10 @@
 ---
-author: [[Jason Liu]]
+author: "[[Jason Liu]]"
 title: 'Beating Proprietary Models With a Quick Fine-Tune'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://modal.com/blog/images/fine-tuning-embeddings-og?fallback=fine-tuning-embeddings)
 

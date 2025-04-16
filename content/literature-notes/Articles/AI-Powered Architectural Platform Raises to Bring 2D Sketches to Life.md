@@ -1,10 +1,10 @@
 ---
-author: [[Yorke C-P]]
+author: "[[Yorke C-P]]"
 title: 'AI-Powered Architectural Platform Raises to Bring 2D Sketches to Life'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/07/gendo-raise.png)
 

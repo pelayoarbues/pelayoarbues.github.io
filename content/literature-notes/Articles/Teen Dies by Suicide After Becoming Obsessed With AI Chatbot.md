@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Harrison Dupré]]
+author: "[[Maggie Harrison Dupré]]"
 title: 'Teen Dies by Suicide After Becoming Obsessed With AI Chatbot'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/10/teen-suicide-obsessed-ai-chatbot.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[jitty.com]]
+author: "[[jitty.com]]"
 title: 'Introducing the Jitty Price Guide: Your New Best Friend in the Property Market'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/6784f61a638ec0f46af08b6e_Graph204.3201.png)
 

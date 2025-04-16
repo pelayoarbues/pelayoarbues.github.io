@@ -1,10 +1,10 @@
 ---
-author: [[Noor Al-Sibai]]
+author: "[[Noor Al-Sibai]]"
 title: 'Sam Altman Replaces OpenAI’s Fired Safety Team With Himself and His Cronies'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/sam-altman-openai-safety-team-replacement.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Jason Fried (jason@hey.com)]]
+author: "[[Jason Fried (jason@hey.com)]]"
 title: 'We Increased Conversion ~30% and We Don''t Know Exactly How'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/jason/avatar-9f11ce77d31e68e834c564594ee0bc32a005ee8d)
 

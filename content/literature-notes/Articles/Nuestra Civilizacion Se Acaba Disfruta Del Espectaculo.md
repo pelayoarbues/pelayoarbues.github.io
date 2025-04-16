@@ -1,10 +1,10 @@
 ---
-author: [[Javier Benegas]]
+author: "[[Javier Benegas]]"
 title: 'Nuestra Civilización Se Acaba: Disfruta Del Espectáculo'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://disidentia.com/wp-content/uploads/2024/08/aditya-chinchure-ZhQCZjr9fHo-unsplash.jpg)
 

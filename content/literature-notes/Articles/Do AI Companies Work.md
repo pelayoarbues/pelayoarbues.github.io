@@ -1,10 +1,10 @@
 ---
-author: [[Benn Stancil]]
+author: "[[Benn Stancil]]"
 title: 'Do AI Companies Work?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2ec1c7ad-3195-4860-a7a7-a800dfeb58b2_1440x808.png)
 

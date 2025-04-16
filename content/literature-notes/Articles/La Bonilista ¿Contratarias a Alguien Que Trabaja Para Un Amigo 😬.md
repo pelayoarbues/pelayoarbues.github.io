@@ -1,10 +1,10 @@
 ---
-author: [[Bonilista Archive Feed]]
+author: "[[Bonilista Archive Feed]]"
 title: 'La Bonilista: ¿Contratarías a Alguien Que Trabaja Para Un Amigo? 😬'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/ab978f13-1c57-05bd-9dd7-fcf82a40fe3c.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[JUANJO BECERRA]]
+author: "[[JUANJO BECERRA]]"
 title: 'Rafael Yuste, Ideologo Del Proyecto Brain: "La Humanidad Se Subira a La Chepa De La Inteligencia Artificial"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://phantom-elmundo.unidadeditorial.es/03c2844b40edc9308a78359ba174d83b/crop/0x0/3072x2048/resize/1200/f/jpg/assets/multimedia/imagenes/2023/03/24/16796728111401.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[David Heinemeier Hansson (dhh@hey.com)]]
+author: "[[David Heinemeier Hansson (dhh@hey.com)]]"
 title: 'Manage Process Before People'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/dhh/avatar-20210222112907000000-293866624)
 

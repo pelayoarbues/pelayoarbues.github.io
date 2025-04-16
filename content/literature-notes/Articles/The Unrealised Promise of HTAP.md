@@ -1,10 +1,10 @@
 ---
-author: [[David Jayatillake]]
+author: "[[David Jayatillake]]"
 title: 'The Unrealised Promise of HTAP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1518369623551-510c7b3c9f5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwzN3x8Y29sdW1ucyUyMGFuZCUyMHJvd3N8ZW58MHx8fHwxNzI0NDIyMTM5fDA&ixlib=rb-4.0.3&q=80&w=1080)
 

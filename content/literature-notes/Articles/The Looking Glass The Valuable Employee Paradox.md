@@ -1,10 +1,10 @@
 ---
-author: [[Julie Zhuo]]
+author: "[[Julie Zhuo]]"
 title: 'The Looking Glass: The Valuable Employee Paradox'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6278cbaf-74b9-45b2-8a49-46e07ea3883a_886x499.png)
 

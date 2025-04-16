@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Simple Workflow That Is Fast and Highly Detailed'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/971aa068-1e2f-4943-b2e1-1bc11f81025f/width=1200/971aa068-1e2f-4943-b2e1-1bc11f81025f.jpeg)
 

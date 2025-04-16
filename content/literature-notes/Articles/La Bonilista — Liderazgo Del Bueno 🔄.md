@@ -1,10 +1,10 @@
 ---
-author: [[Bonilista Archive Feed]]
+author: "[[Bonilista Archive Feed]]"
 title: 'La Bonilista — Liderazgo Del Bueno 🔄'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/f95e9eff-ccc5-4c1b-bfec-44feadc4ccc1.jpg)
 

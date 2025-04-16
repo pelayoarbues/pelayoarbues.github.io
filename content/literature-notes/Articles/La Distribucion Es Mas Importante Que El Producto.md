@@ -1,10 +1,10 @@
 ---
-author: [[Simón Muñoz]]
+author: "[[Simón Muñoz]]"
 title: 'La Distribución Es Más Importante Que El Producto'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/6515ad2a-d838-4ad9-a63c-5650da9dbfd4_2464x1856.png)
 

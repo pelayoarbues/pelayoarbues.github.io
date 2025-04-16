@@ -1,10 +1,10 @@
 ---
-author: [[Craig Walls]]
+author: "[[Craig Walls]]"
 title: 'Optimizing API Output for Use as Tools in Model Context Protocol'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1024/1*NLcj_beZ0dhIJ1e1FeXD5Q.png)
 

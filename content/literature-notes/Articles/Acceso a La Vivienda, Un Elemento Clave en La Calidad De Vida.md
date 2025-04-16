@@ -1,10 +1,10 @@
 ---
-author: [[Miguel Ángel García Díaz]]
+author: "[[Miguel Ángel García Díaz]]"
 title: 'Acceso a La Vivienda, Un Elemento Clave en La Calidad De Vida'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.elnacional.cat/oneconomia/uploads/s1/44/50/78/05/miguel-angel-garcia-diaz-on-economia_51_1258x630.jpeg)
 

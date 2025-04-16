@@ -1,10 +1,10 @@
 ---
-author: [[Camille Fournier]]
+author: "[[Camille Fournier]]"
 title: 'OPP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lh3.googleusercontent.com/blogger_img_proxy/ANbyha1JQO_2H61ExkZYk9a6PcmZ59IdtQ8QWm9ypWKq8OJo00WblbJnE3-YG0Aca7YUtiViDjYPfzJWD-Uigf10umwfLkYdFvzXyKr5yXBU2T_3AXBHPrUOy-MIhOrLgfQAzMUzYkB8FDTd5g=w1200-h630-p-k-no-nu)
 

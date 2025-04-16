@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'Hello GPT-4o'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ctfassets.net/kftzwdyauwt9/4hxowKfhJ6Q3bVMqGsosjS/72c9e6f954de2ccd237813cab8a83a64/GPT-4o-blog.jpg?w=1080&h=1350&fit=fill)
 

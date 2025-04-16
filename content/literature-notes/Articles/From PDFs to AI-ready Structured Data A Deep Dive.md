@@ -1,10 +1,10 @@
 ---
-author: [[explosion.ai]]
+author: "[[explosion.ai]]"
 title: 'From PDFs to AI-ready Structured Data: A Deep Dive'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://explosion.ai/blog/pdfs_social.jpg)
 

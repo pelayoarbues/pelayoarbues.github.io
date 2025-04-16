@@ -1,10 +1,10 @@
 ---
-author: [[Hugging Face - Blog]]
+author: "[[Hugging Face - Blog]]"
 title: 'XLSCOUT Unveils ParaEmbed 2.0: A Powerful Embedding Model Tailored for Patents and IP With Expert Support From Hugging Face'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/front/thumbnails/v2-2.png)
 

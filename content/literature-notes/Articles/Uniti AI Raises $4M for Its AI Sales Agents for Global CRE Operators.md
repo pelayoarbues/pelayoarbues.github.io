@@ -1,10 +1,10 @@
 ---
-author: [[Catarina Seabra]]
+author: "[[Catarina Seabra]]"
 title: 'Uniti AI Raises $4M for Its AI Sales Agents for Global CRE Operators'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2025/03/uniti.png)
 

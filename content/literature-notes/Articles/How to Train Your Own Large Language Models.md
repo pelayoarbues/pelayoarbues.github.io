@@ -1,10 +1,10 @@
 ---
-author: [[Reza Shabani]]
+author: "[[Reza Shabani]]"
 title: 'How to Train Your Own Large Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.replit.com/images/llm/llm-training-replit.jpg?v=1681921300071)
 

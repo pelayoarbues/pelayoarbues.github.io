@@ -1,10 +1,10 @@
 ---
-author: [[Gordon Young]]
+author: "[[Gordon Young]]"
 title: 'Nvidia’s Jensen Huang Predicts IT Will Morph Into AI HR – And the Crowd Goes Wild'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://thedrum-media.imgix.net/thedrum-prod/s3/ces_keynote.jpg?w=1280&ar=default&fit=crop&crop=faces&auto=format)
 

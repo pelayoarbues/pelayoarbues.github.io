@@ -1,10 +1,10 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: 'Feature Discretization'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fffcb56fc-d0ef-4031-a2bd-e0a56412947a_3268x2460.png)
 

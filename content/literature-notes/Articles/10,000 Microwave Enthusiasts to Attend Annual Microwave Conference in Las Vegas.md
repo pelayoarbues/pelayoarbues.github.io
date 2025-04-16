@@ -1,10 +1,10 @@
 ---
-author: [[Benn Stancil]]
+author: "[[Benn Stancil]]"
 title: '10,000 Microwave Enthusiasts to Attend Annual Microwave Conference in Las Vegas'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc00232e7-e683-4080-8c5a-5c315b19f94c_1600x830.png)
 

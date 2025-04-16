@@ -1,10 +1,10 @@
 ---
-author: [[David Mattin]]
+author: "[[David Mattin]]"
 title: 'New Week #109'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c1148ff-5ac3-4234-b00a-288ed5839c51_1600x800.png)
 

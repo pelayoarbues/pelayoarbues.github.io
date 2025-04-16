@@ -1,10 +1,10 @@
 ---
-author: [[Chip Huyen]]
+author: "[[Chip Huyen]]"
 title: 'Multimodality and Large Multimodal Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huyenchip.com/favicon.ico)
 

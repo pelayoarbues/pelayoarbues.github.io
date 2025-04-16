@@ -1,10 +1,10 @@
 ---
-author: [[David Heinemeier Hansson (dhh@hey.com)]]
+author: "[[David Heinemeier Hansson (dhh@hey.com)]]"
 title: 'Open Source Hooliganism and the TypeScript Meltdown'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/dhh/avatar-df6405b0f7fafda980fd38b04c334bec936aef69)
 

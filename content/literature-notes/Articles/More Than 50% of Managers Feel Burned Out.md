@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business Review]]
+author: "[[Harvard Business Review]]"
 title: 'More Than 50% of Managers Feel Burned Out'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/android-chrome-512x512.png)
 

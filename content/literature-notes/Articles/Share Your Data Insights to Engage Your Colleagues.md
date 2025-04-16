@@ -1,10 +1,10 @@
 ---
-author: [[Paige Berry]]
+author: "[[Paige Berry]]"
 title: 'Share Your Data Insights to Engage Your Colleagues'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://locallyoptimistic.com/wp-content/uploads/2021/08/Share-Data-Insights-2.jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[MSCI]]
+author: "[[MSCI]]"
 title: 'MSCI 2023 Real Estate Market Size'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/209822345/4yeRgkwFUTjFUdt8nZTEuJ9N2I-34ovTwJVjc9er3Ik-cove_INCW1bH.png)
 

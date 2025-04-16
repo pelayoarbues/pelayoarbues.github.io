@@ -1,11 +1,11 @@
 ---
-author: [[Alberto Romero]]
+author: "[[Alberto Romero]]"
 title: '20 Predictions For AI in 2025 - by Alberto Romero
 20 Predictions For AI in 2025'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fad3c9d26-7e97-46a1-857f-af83cf3f3fef_1280x889.jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Taylor Brownlow]]
+author: "[[Taylor Brownlow]]"
 title: 'Driving Operational Clarity'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/65afdbc4e2b1566bedf48860/66606bb9dd01f582758a4f5d_Frame%20873%20(1).png)
 

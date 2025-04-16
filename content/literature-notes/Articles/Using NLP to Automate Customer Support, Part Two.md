@@ -1,10 +1,10 @@
 ---
-author: [[FloydHub Blog]]
+author: "[[FloydHub Blog]]"
 title: 'Using NLP to Automate Customer Support, Part Two'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1525422847952-7f91db09a364?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjExNzczfQ)
 

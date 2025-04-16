@@ -1,10 +1,10 @@
 ---
-author: [[Arun Venkatesan]]
+author: "[[Arun Venkatesan]]"
 title: 'Daylight at the End of the Tunnel'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.arun.is/static/31a9ec5ca3c315f2818f909370cde3f7/social.jpg)
 

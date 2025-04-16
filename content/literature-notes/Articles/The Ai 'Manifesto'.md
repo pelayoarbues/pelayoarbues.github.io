@@ -1,10 +1,10 @@
 ---
-author: [[Damola Morenikeji]]
+author: "[[Damola Morenikeji]]"
 title: 'The /Ai ''Manifesto'''
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5235c98f-7a96-4ce7-bb49-761c3553a7d9_600x600.png)
 

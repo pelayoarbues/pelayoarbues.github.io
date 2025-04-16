@@ -1,10 +1,10 @@
 ---
-author: [[argilla.io]]
+author: "[[argilla.io]]"
 title: '🔫 Zero-Shot and Few-Shot Classification With SetFit'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://docs.argilla.io/en/latest/_static/images/og-doc.png)
 

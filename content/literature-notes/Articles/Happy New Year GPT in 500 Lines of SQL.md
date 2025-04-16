@@ -1,10 +1,10 @@
 ---
-author: [[Quassnoi]]
+author: "[[Quassnoi]]"
 title: 'Happy New Year: GPT in 500 Lines of SQL'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://explainextended.com/wp-content/uploads/2023/12/kandinsky-download-1703639350496.jpg)
 

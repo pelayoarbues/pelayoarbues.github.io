@@ -1,10 +1,10 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: 'MLE vs. EM — What’s the Difference?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ba5c804-c48c-4e4e-bf2b-3af42438af81_3228x3462.jpeg)
 

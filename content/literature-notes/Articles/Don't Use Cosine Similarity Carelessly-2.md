@@ -1,10 +1,10 @@
 ---
-author: [[Piotr Migdał]]
+author: "[[Piotr Migdał]]"
 title: 'Don''t Use Cosine Similarity Carelessly'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://p.migdal.pl/blog/2025/01/dont-use-cosine-similarity/cartoon-espresso-word2vec.jpg)
 

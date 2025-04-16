@@ -1,10 +1,10 @@
 ---
-author: [[Ergest Xheblati]]
+author: "[[Ergest Xheblati]]"
 title: 'How Analytics Can Make a Massive Impact on the Bottom Line'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60c1d86e-f97d-4deb-8991-0662b9a07922_1024x1536.png)
 

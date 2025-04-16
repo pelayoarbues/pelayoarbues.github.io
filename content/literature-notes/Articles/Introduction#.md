@@ -1,10 +1,10 @@
 ---
-author: [[BentoML Documentation]]
+author: "[[BentoML Documentation]]"
 title: 'Introduction#'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://docs.bentoml.com/en/latest/_static/img/bentoml-banner.jpg)
 

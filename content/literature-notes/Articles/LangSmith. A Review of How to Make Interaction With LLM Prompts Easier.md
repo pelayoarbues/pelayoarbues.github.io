@@ -1,10 +1,10 @@
 ---
-author: [[Raúl Pérula-Martínez.]]
+author: "[[Raúl Pérula-Martínez.]]"
 title: 'LangSmith. A Review of How to Make Interaction With LLM Prompts Easier'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.sngular.com/wp-content/uploads/2023/11/LangSmith-4-scaled.jpg)
 

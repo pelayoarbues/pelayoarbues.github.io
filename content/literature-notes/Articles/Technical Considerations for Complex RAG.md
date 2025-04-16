@@ -1,10 +1,10 @@
 ---
-author: [[Chia Jeng Yang]]
+author: "[[Chia Jeng Yang]]"
 title: 'Technical Considerations for Complex RAG'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/da:true/resize:fit:1200/0*Y3VUFeJOyS--HRrN)
 

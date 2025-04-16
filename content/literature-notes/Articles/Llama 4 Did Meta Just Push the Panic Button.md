@@ -1,10 +1,10 @@
 ---
-author: [[Nathan Lambert]]
+author: "[[Nathan Lambert]]"
 title: 'Llama 4: Did Meta Just Push the Panic Button?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/3424c88c-0890-4072-93a0-448a21c86eba_1536x1024.png)
 

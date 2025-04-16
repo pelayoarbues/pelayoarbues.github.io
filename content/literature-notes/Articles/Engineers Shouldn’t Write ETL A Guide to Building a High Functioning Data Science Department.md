@@ -1,10 +1,10 @@
 ---
-author: [[stitchfix.com]]
+author: "[[stitchfix.com]]"
 title: 'Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://multithreaded.stitchfix.com/assets/images/logomark-linkedin.jpg)
 

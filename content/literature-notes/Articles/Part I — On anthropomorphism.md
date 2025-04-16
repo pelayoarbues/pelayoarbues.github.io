@@ -1,10 +1,10 @@
 ---
-author: [[Chenhao Tan]]
+author: "[[Chenhao Tan]]"
 title: 'Part I — On anthropomorphism'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:512/1*O2dNhJcuNgI7E_sPkK9Mog.png)
 

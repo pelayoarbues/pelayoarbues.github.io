@@ -1,11 +1,11 @@
 ---
-author: [[Javier Escribano]]
+author: "[[Javier Escribano]]"
 title: 'Producto debe entregar con calidad y en tiempos, ¿por qué cuesta tanto?
 Producto debe entregar con calidad y en tiempos, ¿por qué cuesta tanto?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1511376777868-611b54f68947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
 

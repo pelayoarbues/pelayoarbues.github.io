@@ -1,10 +1,10 @@
 ---
-author: [[ralphammer]]
+author: "[[ralphammer]]"
 title: 'Aristotle — How to Live a Good Life'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://ralphammer.com/wp-content/uploads/2024/02/Aristotle_220.gif)
 

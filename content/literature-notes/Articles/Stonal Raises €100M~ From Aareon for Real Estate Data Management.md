@@ -1,10 +1,10 @@
 ---
-author: [[Proptech Connect]]
+author: "[[Proptech Connect]]"
 title: 'Stonal Raises €100M~ From Aareon for Real Estate Data Management'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/05/stonal.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'Add Film Grain and Vignette to Images'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stable-diffusion-art.com/wp-content/uploads/2024/02/image-50.png)
 

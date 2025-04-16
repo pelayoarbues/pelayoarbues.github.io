@@ -1,10 +1,10 @@
 ---
-author: [[Cedric Chin]]
+author: "[[Cedric Chin]]"
 title: 'Becoming Data Driven, From First Principles'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://commoncog.com/content/images/2024/01/becoming_data_driven_first_principles-1.jpg)
 

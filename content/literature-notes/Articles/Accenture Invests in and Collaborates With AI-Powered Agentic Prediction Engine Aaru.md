@@ -1,10 +1,10 @@
 ---
-author: [[accenture.com]]
+author: "[[accenture.com]]"
 title: 'Accenture Invests in and Collaborates With AI-Powered Agentic Prediction Engine Aaru'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/media_1829affbfbf2d5d467d6f76ac7c0e71730fac325e.png)
 

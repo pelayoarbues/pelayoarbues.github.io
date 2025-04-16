@@ -1,10 +1,10 @@
 ---
-author: [[Catarina Seabra]]
+author: "[[Catarina Seabra]]"
 title: 'AI-Led Data Platforms BuildingMinds and Optiml Announce Partnership'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2025/03/optiml-building-minds.png)
 

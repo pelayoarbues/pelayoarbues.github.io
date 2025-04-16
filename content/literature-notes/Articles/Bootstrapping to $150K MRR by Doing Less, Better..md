@@ -1,10 +1,10 @@
 ---
-author: [[Marie Martens]]
+author: "[[Marie Martens]]"
 title: 'Bootstrapping to $150K MRR by Doing Less, Better.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.tally.so/content/images/2024/11/150-SEO-1.jpg)
 

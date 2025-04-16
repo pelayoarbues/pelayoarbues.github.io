@@ -1,10 +1,10 @@
 ---
-author: [[Inside AI]]
+author: "[[Inside AI]]"
 title: 'Scale AI Raises $1B / First European AI Rules to Take Effect in Weeks / Google to Show Ads in AI-generated Search Summaries'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 

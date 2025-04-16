@@ -1,10 +1,10 @@
 ---
-author: [[Carina Remmers]]
+author: "[[Carina Remmers]]"
 title: 'Going With Your Gut Feels Good, but It’s Not Always Wise'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/de5430e1-5a44-4239-97bc-813e7992de66/rt-gettyimages-1765296306.jpg)
 

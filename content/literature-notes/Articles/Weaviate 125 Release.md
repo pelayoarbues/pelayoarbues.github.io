@@ -1,10 +1,10 @@
 ---
-author: [[Blog]]
+author: "[[Blog]]"
 title: 'Weaviate 125 Release'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://weaviate.io/assets/images/hero-4815a9ea04f765f7b14bfea585839f20.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Noor Al-Sibai]]
+author: "[[Noor Al-Sibai]]"
 title: 'Warren Buffett Saw an AI That Scared Him'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/warren-buffett-ai-deepfake.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[IVAN ILIN]]
+author: "[[IVAN ILIN]]"
 title: 'Advanced RAG Techniques: An Illustrated Overview'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*1fgXZ3jvzFYVY0tU_f53cw.jpeg)
 

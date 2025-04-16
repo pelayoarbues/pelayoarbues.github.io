@@ -1,10 +1,10 @@
 ---
-author: [[notboring.co]]
+author: "[[notboring.co]]"
 title: '![CDATA[Not Boring by Packy McCormick]]>'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F12f3cb38-28d4-4495-8f45-a3456d22b32e_1308x1464.png)
 

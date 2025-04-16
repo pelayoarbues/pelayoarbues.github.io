@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Ortiz]]
+author: "[[Antonio Ortiz]]"
 title: 'Mi Pequeño Amigo Ensayista Que Cuesta 200 Dólares Al Mes Y Hace Lo Que Yo'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F588667c6-c7b7-4fab-bd49-aa0ea5ef97da_1344x768.jpeg)
 

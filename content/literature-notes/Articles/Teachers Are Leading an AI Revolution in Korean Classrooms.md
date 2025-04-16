@@ -1,10 +1,10 @@
 ---
-author: [[World Bank Blogs]]
+author: "[[World Bank Blogs]]"
 title: 'Teachers Are Leading an AI Revolution in Korean Classrooms'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s7d1.scene7.com/is/image/wbcollab/GEIS-2632-1140x500?qlt=90&hei=630&wid=1200&fit=hfit)
 

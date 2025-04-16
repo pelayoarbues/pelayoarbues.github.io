@@ -1,10 +1,10 @@
 ---
-author: [[PYMNTS]]
+author: "[[PYMNTS]]"
 title: 'Microsoft: Unlocking AI Benefits Will Require Cultural Changes for Enterprises'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.pymnts.com/wp-content/uploads/2024/04/Microsoft-1.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[anthropic.com]]
+author: "[[anthropic.com]]"
 title: 'Introducing Computer Use, a New Claude 3.5 Sonnet, and Claude 3.5 Haiku'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.sanity.io/images/4zrzovbb/website/80e83b2423639e5b10a75109cc99e77db7e2a949-2400x1260.png)
 

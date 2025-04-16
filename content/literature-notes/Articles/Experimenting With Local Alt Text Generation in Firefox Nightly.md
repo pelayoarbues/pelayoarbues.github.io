@@ -1,10 +1,10 @@
 ---
-author: [[Tarek Ziadé]]
+author: "[[Tarek Ziadé]]"
 title: 'Experimenting With Local Alt Text Generation in Firefox Nightly'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hacks.mozilla.org/wp-content/uploads/2024/05/Screenshot-2024-05-28-at-18.39.17.png)
 

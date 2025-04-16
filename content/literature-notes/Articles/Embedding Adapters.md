@@ -1,10 +1,10 @@
 ---
-author: [[trychroma.com]]
+author: "[[trychroma.com]]"
 title: 'Embedding Adapters'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://research.trychroma.com/img/embedding_adapters/card.png?v1)
 

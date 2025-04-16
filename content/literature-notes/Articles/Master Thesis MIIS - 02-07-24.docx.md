@@ -1,10 +1,10 @@
 ---
-author: [[readwise.io]]
+author: "[[readwise.io]]"
 title: 'Master Thesis MIIS - 02-07-24.docx'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/192737311/UMb0K3IJlMTobMh39jvCfL1Ed4xIVgp2lbZXG4w8iKE-cove_tKpHvMG.png)
 

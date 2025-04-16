@@ -1,10 +1,10 @@
 ---
-author: [[Spotify Engineering]]
+author: "[[Spotify Engineering]]"
 title: 'Data Platform Explained Part I'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/production-eng/1/2024/04/En216-BlogPost_1200x630_final.png)
 

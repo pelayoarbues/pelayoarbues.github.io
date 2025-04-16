@@ -1,10 +1,10 @@
 ---
-author: [[emods.es]]
+author: "[[emods.es]]"
 title: 'El Mapa Del Alquiler Calle a Calle en La Región De Murcia'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

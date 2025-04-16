@@ -1,10 +1,10 @@
 ---
-author: [[Abubakar Abid]]
+author: "[[Abubakar Abid]]"
 title: 'Welcome, Gradio 5'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/gradio-5/thumbnail.png)
 

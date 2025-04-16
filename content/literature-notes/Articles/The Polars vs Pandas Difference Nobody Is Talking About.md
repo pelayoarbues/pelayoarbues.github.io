@@ -1,10 +1,10 @@
 ---
-author: [[quansight.org]]
+author: "[[quansight.org]]"
 title: 'The Polars vs Pandas Difference Nobody Is Talking About'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://labs-qce3gh3dh-quansight.vercel.app/posts/dataframe-group-by/featured.jpg)
 

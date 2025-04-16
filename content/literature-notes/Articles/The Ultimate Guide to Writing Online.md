@@ -1,10 +1,10 @@
 ---
-author: [[David Perell]]
+author: "[[David Perell]]"
 title: 'The Ultimate Guide to Writing Online'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149483024.v2.pressablecdn.com/wp-content/uploads/2020/12/The-Ultimate-Guide-to-Writing-Online-1-scaled.jpg)
 

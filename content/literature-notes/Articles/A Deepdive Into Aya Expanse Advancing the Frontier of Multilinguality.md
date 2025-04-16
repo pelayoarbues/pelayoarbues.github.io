@@ -1,10 +1,10 @@
 ---
-author: [[Hugging Face - Blog]]
+author: "[[Hugging Face - Blog]]"
 title: 'A Deepdive Into Aya Expanse: Advancing the Frontier of Multilinguality'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/favicon.ico)
 

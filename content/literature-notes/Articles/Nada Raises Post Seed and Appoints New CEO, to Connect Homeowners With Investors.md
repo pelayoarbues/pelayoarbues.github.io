@@ -1,10 +1,10 @@
 ---
-author: [[Proptech Connect]]
+author: "[[Proptech Connect]]"
 title: 'Nada Raises Post Seed and Appoints New CEO, to Connect Homeowners With Investors'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/nada-raise-2.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[wikipedia.org]]
+author: "[[wikipedia.org]]"
 title: 'Wabi-Sabi'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/RyoanJi-Dry_garden.jpg/1200px-RyoanJi-Dry_garden.jpg)
 

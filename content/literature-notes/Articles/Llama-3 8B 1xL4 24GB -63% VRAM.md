@@ -1,10 +1,10 @@
 ---
-author: [[Unsloth - Unslow finetuning for AI & LLMs]]
+author: "[[Unsloth - Unslow finetuning for AI & LLMs]]"
 title: 'Llama-3 8B 1xL4 24GB -63% VRAM'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://unsloth.ai/cgi/image/llama3_landscape_xFJDqXxCsQbSm5H9ebcxV.png?width=16&quality=100&format=raw)
 

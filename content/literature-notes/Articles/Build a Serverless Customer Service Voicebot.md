@@ -1,10 +1,10 @@
 ---
-author: [[inferless.com]]
+author: "[[inferless.com]]"
 title: 'Build a Serverless Customer Service Voicebot'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mintlify.com/docs/api/og?division=Documentation&title=Build+a+Serverless+Customer+Service+Voicebot&description=Welcome+to+an+engaging+tutorial+designed+to+walk+you+through+creating+a+customer+support+voicebot+where+users+can+voice+their+queries+and+receive+solutions.+You%27ll+learn+to+integrate+speech+recognition%2C+large+language%2C+and+text-to-speech+models+to+develop+a+responsive+and+efficient+voice-based+customer+support+application.&logoLight=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Finferless-68%2Flogo.svg&logoDark=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Finferless-68%2Flogo.svg&primaryColor=%2394CF09&lightColor=%239FDD0C&darkColor=%2394CF09)
 

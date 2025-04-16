@@ -1,10 +1,10 @@
 ---
-author: [[Proptech Connect]]
+author: "[[Proptech Connect]]"
 title: 'Flyhomes Acquires Real Estate AI Startup, ZeroDown, and Launches AI Home Search Portal'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/06/Flyhomes-Acquire-ZeroDown-.png)
 

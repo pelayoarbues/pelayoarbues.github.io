@@ -1,10 +1,10 @@
 ---
-author: [[business-science.github.io]]
+author: "[[business-science.github.io]]"
 title: '1 Introducing Pytimetk: Simplifying Time Series Analysis for Everyone'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://business-science.github.io/pytimetk/logo-timetk.png)
 

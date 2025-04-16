@@ -1,10 +1,10 @@
 ---
-author: [[Daniel Vila]]
+author: "[[Daniel Vila]]"
 title: '🦙⚗️ Using Llama3 and Distilabel to Build Fine-Tuning Datasets'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/dvilasuero/synthetic-data-with-llama3-distilabel.png)
 

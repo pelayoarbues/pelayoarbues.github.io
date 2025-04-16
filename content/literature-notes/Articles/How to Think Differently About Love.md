@@ -1,10 +1,10 @@
 ---
-author: [[Arina Pismenny]]
+author: "[[Arina Pismenny]]"
 title: 'How to Think Differently About Love'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://psyche.co/apple-touch-icon.png)
 

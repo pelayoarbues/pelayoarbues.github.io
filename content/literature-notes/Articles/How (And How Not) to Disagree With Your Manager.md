@@ -1,10 +1,10 @@
 ---
-author: [[Camille Fournier]]
+author: "[[Camille Fournier]]"
 title: 'How (And How Not) to Disagree With Your Manager'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://leaddev.com/wp-content/uploads/2024/11/elephant-mouse-fin.png)
 

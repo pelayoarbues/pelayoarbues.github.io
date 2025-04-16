@@ -1,10 +1,10 @@
 ---
-author: [[Cedric Chin]]
+author: "[[Cedric Chin]]"
 title: '7 Powers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://commoncog.com/content/images/2021/06/7_powers.jpg)
 

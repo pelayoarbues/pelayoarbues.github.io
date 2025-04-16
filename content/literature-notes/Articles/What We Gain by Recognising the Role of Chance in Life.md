@@ -1,10 +1,10 @@
 ---
-author: [[Mark R Rank]]
+author: "[[Mark R Rank]]"
 title: 'What We Gain by Recognising the Role of Chance in Life'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/3b790519-f386-406b-a90e-adc7d9018dab/rt-edvard_munch_-_at_the_roulette_table_in_monte_carlo_-_google_art_project.jpg)
 

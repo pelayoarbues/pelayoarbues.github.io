@@ -1,10 +1,10 @@
 ---
-author: [[Frank Liu]]
+author: "[[Frank Liu]]"
 title: 'What is a Vector Database?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.zilliz.com/Apr_15_Vector_Database_A_Complete_Introduction8_index_types_95e80455d6.png)
 

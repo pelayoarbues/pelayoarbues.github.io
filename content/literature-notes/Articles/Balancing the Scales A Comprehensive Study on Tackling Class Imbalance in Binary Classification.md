@@ -1,10 +1,10 @@
 ---
-author: [[readytensor.ai]]
+author: "[[readytensor.ai]]"
 title: 'Balancing the Scales: A Comprehensive Study on Tackling Class Imbalance in Binary Classification'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 

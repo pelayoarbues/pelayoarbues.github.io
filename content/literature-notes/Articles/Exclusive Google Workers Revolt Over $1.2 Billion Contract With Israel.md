@@ -1,10 +1,10 @@
 ---
-author: [[Billy Perrigo]]
+author: "[[Billy Perrigo]]"
 title: 'Exclusive: Google Workers Revolt Over $1.2 Billion Contract With Israel'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://api.time.com/wp-content/uploads/2024/04/google-project-nimbus-no-tech-for-apartheid-2.jpg?quality=85)
 

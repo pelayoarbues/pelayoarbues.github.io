@@ -1,10 +1,10 @@
 ---
-author: [[Ro Fernandez]]
+author: "[[Ro Fernandez]]"
 title: 'How to Effectively Manage Low Performers: The CARES Framework'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1000/1*Ir3MWJuerGGv81pytvwAeg.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Nick Wingfield]]
+author: "[[Nick Wingfield]]"
 title: 'The Briefing: Mike Tyson, Jake Paul and Netflix'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

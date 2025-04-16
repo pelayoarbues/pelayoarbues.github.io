@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Harrison Dupré]]
+author: "[[Maggie Harrison Dupré]]"
 title: 'Palantir’s Military AI Tech Conference Sounds Absolutely Terrifying'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/palantir-military-ai-terrifying.jpg)
 

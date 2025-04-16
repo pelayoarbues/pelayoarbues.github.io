@@ -1,10 +1,10 @@
 ---
-author: [[scott cunningham]]
+author: "[[scott cunningham]]"
 title: 'GPT and the Economics of Cognitively Costly Writing Tasks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F72acb36a-9665-4164-8ace-a55529bca930_1600x1168.jpeg)
 

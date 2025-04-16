@@ -1,10 +1,10 @@
 ---
-author: [[Steph Ango]]
+author: "[[Steph Ango]]"
 title: 'Buy Wisely'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stephango.com/assets/card.png)
 

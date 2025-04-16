@@ -1,10 +1,10 @@
 ---
-author: [[Aino Corry]]
+author: "[[Aino Corry]]"
 title: 'Retrospectives Antipatterns'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://martinfowler.com/articles/retrospective-antipatterns/card.png)
 

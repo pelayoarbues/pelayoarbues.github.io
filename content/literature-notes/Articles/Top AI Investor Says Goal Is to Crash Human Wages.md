@@ -1,10 +1,10 @@
 ---
-author: [[Frank Landymore]]
+author: "[[Frank Landymore]]"
 title: 'Top AI Investor Says Goal Is to Crash Human Wages'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2025/01/ai-investor-goal-crash-human-wages.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[stephenwolfram.com]]
+author: "[[stephenwolfram.com]]"
 title: 'The Concept of the Ruliad'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.wolfram.com/uploads/sites/43/2021/11/1110swimg46.png)
 

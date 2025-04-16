@@ -1,10 +1,10 @@
 ---
-author: [[readwise.io]]
+author: "[[readwise.io]]"
 title: 'Discovering Language Model Behaviors with Model-Written Evaluations'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/G7KeYVCQm-zbGmMai1NoEPq-ThypGkPyqrW1Hw4eEsE-cover_8YM57CJ.png)
 

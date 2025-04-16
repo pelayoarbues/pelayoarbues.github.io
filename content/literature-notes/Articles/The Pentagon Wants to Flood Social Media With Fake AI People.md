@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Harrison Dupré]]
+author: "[[Maggie Harrison Dupré]]"
 title: 'The Pentagon Wants to Flood Social Media With Fake AI People'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://futurism.com/static/images/futurismOgImage.jpg)
 

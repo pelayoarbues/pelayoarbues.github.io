@@ -1,10 +1,10 @@
 ---
-author: [[Chris Mauck]]
+author: "[[Chris Mauck]]"
 title: 'Handling Mislabeled Tabular Data to Improve Your XGBoost Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/1-AFtlyJsUkEIhT0y-MXWpg.png)
 

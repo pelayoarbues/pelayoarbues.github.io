@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison]]
+author: "[[Simon Willison]]"
 title: 'New Phi-3 Models: Small, Medium and Vision'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://simonwillison.net/favicon.ico)
 

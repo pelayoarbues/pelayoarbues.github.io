@@ -1,10 +1,10 @@
 ---
-author: [[Sequoia Capital]]
+author: "[[Sequoia Capital]]"
 title: 'What''s Next for AI Agentic Workflows Ft. Andrew Ng of AI Fund'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.ytimg.com/vi/sal78ACtGTc/maxresdefault.jpg)
 

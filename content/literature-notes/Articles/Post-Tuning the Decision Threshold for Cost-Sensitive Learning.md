@@ -1,10 +1,10 @@
 ---
-author: [[scikit-learn]]
+author: "[[scikit-learn]]"
 title: 'Post-Tuning the Decision Threshold for Cost-Sensitive Learning'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png)
 

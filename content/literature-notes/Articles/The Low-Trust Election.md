@@ -1,10 +1,10 @@
 ---
-author: [[Cooper Lund]]
+author: "[[Cooper Lund]]"
 title: 'The Low-Trust Election'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*f72GLgiBw03eanBKy89OFA.jpeg)
 

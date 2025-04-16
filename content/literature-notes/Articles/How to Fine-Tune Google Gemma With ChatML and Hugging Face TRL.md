@@ -1,10 +1,10 @@
 ---
-author: [[schmidphilipp1995@gmail.com (Philipp Schmid)]]
+author: "[[schmidphilipp1995@gmail.com (Philipp Schmid)]]"
 title: 'How to Fine-Tune Google Gemma With ChatML and Hugging Face TRL'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.philschmid.de/static/favicons/apple-touch-icon.png)
 

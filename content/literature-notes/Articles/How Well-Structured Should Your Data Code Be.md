@@ -1,10 +1,10 @@
 ---
-author: [[Elijah ben Izzy]]
+author: "[[Elijah ben Izzy]]"
 title: 'How Well-Structured Should Your Data Code Be?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F494ed180-8641-4d0f-8e29-e01ee34f2671_582x502.png)
 

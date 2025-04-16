@@ -1,10 +1,10 @@
 ---
-author: [[Yorke C-P]]
+author: "[[Yorke C-P]]"
 title: 'IBM X JLL''s New ESG Reporting and Data Management Solution for CRE'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/07/IBM-JLL-ESG.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business Review]]
+author: "[[Harvard Business Review]]"
 title: 'You Can’t Sit Out Office Politics'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2021/06/hbr-ofpo-cover_1200.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[https://github.com/pchunduri6/]]
+author: "[[https://github.com/pchunduri6/]]"
 title: 'pchunduri6/rag-demystified: An LLM-powered advanced RAG pipeline built from scratch'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://opengraph.githubassets.com/96cf6c349f72083419c81d69ee3a966d4b4825c2d35bbbb267c1c928a7f327da/pchunduri6/rag-demystified)
 

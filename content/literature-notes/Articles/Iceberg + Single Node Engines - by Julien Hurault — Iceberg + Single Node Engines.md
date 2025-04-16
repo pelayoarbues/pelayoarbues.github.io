@@ -1,11 +1,11 @@
 ---
-author: [[Julien Hurault]]
+author: "[[Julien Hurault]]"
 title: 'Iceberg + Single Node Engines - by Julien Hurault
 Iceberg + Single Node Engines'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/ad9898c3-ff88-4e51-9c68-23906fbdb574_1604x1182.png)
 

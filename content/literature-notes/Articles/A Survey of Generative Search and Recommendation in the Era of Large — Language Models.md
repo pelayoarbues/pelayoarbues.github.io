@@ -1,11 +1,11 @@
 ---
-author: [[Yongqi Li, Xinyu Lin, Wenjie Wang, Fuli Feng, Liang Pang, Wenjie Li, Liqiang Nie, Xiangnan He, Tat-S...]]
+author: "[[Yongqi Li, Xinyu Lin, Wenjie Wang, Fuli Feng, Liang Pang, Wenjie Li, Liqiang Nie, Xiangnan He, Tat-S...]]"
 title: 'A Survey of Generative Search and Recommendation in the Era of Large
   Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/hp0XD_iE0ffSOl3KlsmupWp-QqzH5MvO0WCUSp6C_t4-cove_mMbwKzy.png)
 

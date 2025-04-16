@@ -1,10 +1,10 @@
 ---
-author: [[wikipedia.org]]
+author: "[[wikipedia.org]]"
 title: 'Millenarianism'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/2010_Utopien_arche04.jpg/1200px-2010_Utopien_arche04.jpg)
 

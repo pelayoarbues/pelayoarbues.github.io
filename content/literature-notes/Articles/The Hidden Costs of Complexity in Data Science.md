@@ -1,10 +1,10 @@
 ---
-author: [[Chris Walsh]]
+author: "[[Chris Walsh]]"
 title: 'The Hidden Costs of Complexity in Data Science'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1200/0*lfnwjqsG3PNpcPNt)
 

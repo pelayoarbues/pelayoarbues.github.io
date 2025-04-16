@@ -1,10 +1,10 @@
 ---
-author: [[Noam Chomsky, Ian Roberts, Jeffrey Watumull]]
+author: "[[Noam Chomsky, Ian Roberts, Jeffrey Watumull]]"
 title: 'Noam Chomsky: The False Promise of ChatGPT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static01.nyt.com/images/2023/03/08/opinion/08Chomsky-Promo/08Chomsky-Promo-facebookJumbo.png)
 

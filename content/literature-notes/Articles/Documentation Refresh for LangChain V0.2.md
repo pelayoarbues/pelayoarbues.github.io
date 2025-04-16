@@ -1,10 +1,10 @@
 ---
-author: [[Ankush Gola]]
+author: "[[Ankush Gola]]"
 title: 'Documentation Refresh for LangChain V0.2'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.langchain.dev/content/images/2024/05/Blog--docs-refresh.png)
 

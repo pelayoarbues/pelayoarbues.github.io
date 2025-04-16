@@ -1,10 +1,10 @@
 ---
-author: [[The Batch @ DeepLearning.AI]]
+author: "[[The Batch @ DeepLearning.AI]]"
 title: 'Music Industry Titan Targets AI, End-to-End Multimodality, Millions of Tokens of Context, More Responsive Text-to-Image'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

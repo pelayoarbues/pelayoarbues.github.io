@@ -1,10 +1,10 @@
 ---
-author: [[Lance Martin]]
+author: "[[Lance Martin]]"
 title: 'Evaluation of LLM question+answering chains can be challenging: here''s @huggingface...'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1655101667908677632/uCrwcWfO_normal.jpg)
 

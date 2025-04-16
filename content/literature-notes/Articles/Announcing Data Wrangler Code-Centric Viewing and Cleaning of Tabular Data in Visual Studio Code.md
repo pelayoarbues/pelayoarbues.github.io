@@ -1,10 +1,10 @@
 ---
-author: [[Jeffrey Mew & Courtney Webster & Rohit Ganguly]]
+author: "[[Jeffrey Mew & Courtney Webster & Rohit Ganguly]]"
 title: 'Announcing Data Wrangler: Code-Centric Viewing and Cleaning of Tabular Data in Visual Studio Code'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://devblogs.microsoft.com/python/wp-content/uploads/sites/12/2024/05/Filter.gif)
 

@@ -1,10 +1,10 @@
 ---
-author: [[SeattleDataGuy]]
+author: "[[SeattleDataGuy]]"
 title: 'The Data Team Playbook: 50+ Resources for High-Performing Data Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F988d4da0-6db8-41f5-88f9-9450dcf2fa18_1456x2344.webp)
 

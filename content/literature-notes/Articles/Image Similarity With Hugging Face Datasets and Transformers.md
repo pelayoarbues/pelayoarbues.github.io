@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: 'Image Similarity With Hugging Face Datasets and Transformers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/image_similarity/thumbnail.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Larry S McGrath]]
+author: "[[Larry S McGrath]]"
 title: 'Chatbots Remind Us That Natural Conversation Is Artificial Too'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://omicron.aeon.co/images/0ec8135c-1feb-4cdc-9bff-038d59dd3f70/2700x1530.jpg)
 

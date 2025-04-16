@@ -1,10 +1,10 @@
 ---
-author: [[jobergum]]
+author: "[[jobergum]]"
 title: 'Improving Zero-Shot Ranking With Vespa Hybrid Search - Part Two'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.vespa.ai/assets/2023-01-10-improving-zero-shot-ranking-with-vespa-part-two/tamarcus-brown-YWI8pZdcuAA-unsplash.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Mudler blog]]
+author: "[[Mudler blog]]"
 title: 'Question Answering on Documents Locally With LangChain, LocalAI, Chroma, and GPT4All'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mudler.pm)
 

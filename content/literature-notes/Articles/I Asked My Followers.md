@@ -1,10 +1,10 @@
 ---
-author: [[Codie Sanchez]]
+author: "[[Codie Sanchez]]"
 title: 'I Asked My Followers:'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1554845969828548610/MDTscd1U.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Philipp Schmid]]
+author: "[[Philipp Schmid]]"
 title: 'How to Fine-Tune Multimodal Models or VLMs With Hugging Face TRL'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.philschmid.de/static/blog/fine-tune-multimodal-llms-with-trl/thumbnail.jpg)
 

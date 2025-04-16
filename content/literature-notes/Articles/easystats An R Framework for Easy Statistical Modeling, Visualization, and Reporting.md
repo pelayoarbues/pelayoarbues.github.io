@@ -1,10 +1,10 @@
 ---
-author: [[easystats.github.io]]
+author: "[[easystats.github.io]]"
 title: 'easystats: An R Framework for Easy Statistical Modeling, Visualization, and Reporting'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://easystats.github.io/easystats/reference/figures/card.png)
 

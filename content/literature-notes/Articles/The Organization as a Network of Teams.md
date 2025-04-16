@@ -1,10 +1,10 @@
 ---
-author: [[Ricardo Forcano]]
+author: "[[Ricardo Forcano]]"
 title: 'The Organization as a Network of Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82cd4b84-afbc-4d43-bcbc-c0a7c606b6a5_2218x1744.png)
 

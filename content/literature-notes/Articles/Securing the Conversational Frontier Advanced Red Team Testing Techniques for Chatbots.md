@@ -1,10 +1,10 @@
 ---
-author: [[Deep Dhillon]]
+author: "[[Deep Dhillon]]"
 title: 'Securing the Conversational Frontier: Advanced Red Team Testing Techniques for Chatbots'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/RedTeamingV2_kl6kSof.png)
 

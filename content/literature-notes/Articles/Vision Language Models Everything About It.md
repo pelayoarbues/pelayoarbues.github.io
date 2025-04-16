@@ -1,10 +1,10 @@
 ---
-author: [[Zamal]]
+author: "[[Zamal]]"
 title: 'Vision Language Models: Everything About It'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:902/1*9uuWHtogKdDB_eOEEhzp7w.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business Review]]
+author: "[[Harvard Business Review]]"
 title: 'The Psychology Behind Meeting Overload'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2021/11/Nov21_12_1256452746.jpg)
 

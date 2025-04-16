@@ -1,10 +1,10 @@
 ---
-author: [[No Idea Blog]]
+author: "[[No Idea Blog]]"
 title: 'Being Glue talk'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/5a05ececd55b4165f250f032/t/5cc9ed1ec830253749518ae4/1556737311165/boat-1297042_1280+%281%29.png?format=1500w)
 

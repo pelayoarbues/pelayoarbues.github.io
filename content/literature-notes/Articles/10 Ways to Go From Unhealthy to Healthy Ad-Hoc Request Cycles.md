@@ -1,10 +1,10 @@
 ---
-author: [[count.co]]
+author: "[[count.co]]"
 title: '10 Ways to Go From Unhealthy to Healthy Ad-Hoc Request Cycles'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets-global.website-files.com/65afdbc4e2b1566bedf48860/6629293c164886d5ebee0985_-VPWt5rQCx1P0CrpCxE2S67ipzQ-uohH27bFlAC5k0M.png)
 

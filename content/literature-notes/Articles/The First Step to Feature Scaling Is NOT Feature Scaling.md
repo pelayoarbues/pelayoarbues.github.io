@@ -1,10 +1,10 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: 'The First Step to Feature Scaling Is NOT Feature Scaling'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F52192587-dd1d-4614-ae05-d1c338565d19_5307x4833.jpeg)
 

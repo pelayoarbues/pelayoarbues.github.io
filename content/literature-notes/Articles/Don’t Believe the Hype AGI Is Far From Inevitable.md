@@ -1,10 +1,10 @@
 ---
-author: [[ru.nl]]
+author: "[[ru.nl]]"
 title: 'Don’t Believe the Hype: AGI Is Far From Inevitable'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.ru.nl/sites/default/files/styles/open_graph_image/public/2023-10/Artificial-intelligence.jpg?itok=jF1Mkl-b)
 

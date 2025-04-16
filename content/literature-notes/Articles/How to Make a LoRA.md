@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'How to Make a LoRA'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/7cc19989-ec8c-4fb6-9f60-c437f0b1ba5e/width=1200/7cc19989-ec8c-4fb6-9f60-c437f0b1ba5e.jpeg)
 

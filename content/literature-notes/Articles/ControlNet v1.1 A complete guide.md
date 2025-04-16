@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'ControlNet v1.1: A complete guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/stable-diffusion-art.com/wp-content/uploads/2023/02/cover2-00004-1200166910-elegant-snobby-rich-Aerith-Gainsborough-looks-intently-at-you-in-wonder-and-anticipation.-ultra-detailed-painting-at-16K-resolut.png)
 

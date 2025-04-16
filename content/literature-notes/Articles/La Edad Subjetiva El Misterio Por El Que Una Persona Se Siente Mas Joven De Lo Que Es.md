@@ -1,10 +1,10 @@
 ---
-author: [[Enrique Alpañés]]
+author: "[[Enrique Alpañés]]"
 title: 'La Edad Subjetiva: El Misterio Por El Que Una Persona Se Siente Más Joven De Lo Que Es'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imagenes.elpais.com/resizer/WPbFRPp1wDU85ZuXSUR1WWa-G4g=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/KUNASX72QVKC7H7JLANBVH3LAA.jpg)
 

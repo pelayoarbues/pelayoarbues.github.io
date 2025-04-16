@@ -1,10 +1,10 @@
 ---
-author: [[Pinecone]]
+author: "[[Pinecone]]"
 title: 'Sentence Transformers and Embeddings'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.pinecone.io/images/sentence-embeddings-1.jpg)
 

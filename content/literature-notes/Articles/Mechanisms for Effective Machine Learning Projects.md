@@ -1,10 +1,10 @@
 ---
-author: [[eugeneyan]]
+author: "[[eugeneyan]]"
 title: 'Mechanisms for Effective Machine Learning Projects'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/mechanism.jpeg)
 

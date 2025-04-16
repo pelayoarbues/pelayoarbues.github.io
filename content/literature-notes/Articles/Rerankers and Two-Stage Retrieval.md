@@ -1,10 +1,10 @@
 ---
-author: [[pinecone.io]]
+author: "[[pinecone.io]]"
 title: 'Rerankers and Two-Stage Retrieval'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.pinecone.io/.netlify/functions/ogImage?title=Rerankers%20and%20Two-Stage%20Retrieval)
 

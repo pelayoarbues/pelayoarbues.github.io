@@ -1,10 +1,10 @@
 ---
-author: [[James Ravenscroft]]
+author: "[[James Ravenscroft]]"
 title: 'So AI Won''t Scale, Now What?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://brainsteam.co.uk/social/3ab29596bf19b94ba3a6454ab068403c75aceb32084666b73c8d2afa911fd7fe.png)
 

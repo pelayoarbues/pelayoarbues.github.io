@@ -1,10 +1,10 @@
 ---
-author: [[Irrational Exuberance]]
+author: "[[Irrational Exuberance]]"
 title: 'No Wrong Doors.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/author.png)
 

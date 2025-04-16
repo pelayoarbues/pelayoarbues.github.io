@@ -1,10 +1,10 @@
 ---
-author: [[lethain.com]]
+author: "[[lethain.com]]"
 title: 'Meeting People.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/blog/2019/meeting-people.png)
 

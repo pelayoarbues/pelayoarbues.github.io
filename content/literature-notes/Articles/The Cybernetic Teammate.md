@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Mollick]]
+author: "[[Ethan Mollick]]"
 title: 'The Cybernetic Teammate'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6f439719-d6b0-458f-bb0e-0df9796d7025_960x604.png)
 

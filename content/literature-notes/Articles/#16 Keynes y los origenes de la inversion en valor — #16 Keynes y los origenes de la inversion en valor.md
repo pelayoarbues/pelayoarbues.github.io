@@ -1,11 +1,11 @@
 ---
-author: [[Luis Torras]]
+author: "[[Luis Torras]]"
 title: '#16: Keynes y los orígenes de la inversión en valor
 #16: Keynes y los orígenes de la inversión en valor'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpu_BERlTV2.jpeg)
 

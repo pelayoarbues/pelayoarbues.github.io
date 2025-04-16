@@ -1,10 +1,10 @@
 ---
-author: [[Simón Muñoz]]
+author: "[[Simón Muñoz]]"
 title: 'Manual De Sabotaje De Organizaciones'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/377d5ab1-5f23-47b2-9da5-50741fb5a9c3_1302x824.png)
 

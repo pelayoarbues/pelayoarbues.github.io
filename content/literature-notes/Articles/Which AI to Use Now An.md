@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Mollick]]
+author: "[[Ethan Mollick]]"
 title: 'Which AI to Use Now: An'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fb8967281-46f5-483f-8655-20a5e86293d9_1376x864.png)
 

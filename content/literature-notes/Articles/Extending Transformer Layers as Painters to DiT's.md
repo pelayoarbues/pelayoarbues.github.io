@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: 'Extending Transformer Layers as Painters to DiT''s'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/NagaSaiAbhinay/transformer-layers-as-painters-dit.png)
 

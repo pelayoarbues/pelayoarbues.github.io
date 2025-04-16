@@ -1,10 +1,10 @@
 ---
-author: [[Eric Weber]]
+author: "[[Eric Weber]]"
 title: 'Data Products and the Journey to Data-Driven'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fericdataproduc_SkNZIKp.jpg3Fv3D213868409926version3D9)
 

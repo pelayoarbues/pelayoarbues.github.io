@@ -1,10 +1,10 @@
 ---
-author: [[Soumya Ranjan]]
+author: "[[Soumya Ranjan]]"
 title: 'Exploring the Potential of the Segment Anything Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://developmentseed.org/static/68f3e824ba559ca65942bef48a7b4571/097fa/sam-blog-cover-v2.jpg)
 

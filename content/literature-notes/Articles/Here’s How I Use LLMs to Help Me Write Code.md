@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison]]
+author: "[[Simon Willison]]"
 title: 'Here’s How I Use LLMs to Help Me Write Code'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.simonwillison.net/static/2025/colophon.jpg)
 

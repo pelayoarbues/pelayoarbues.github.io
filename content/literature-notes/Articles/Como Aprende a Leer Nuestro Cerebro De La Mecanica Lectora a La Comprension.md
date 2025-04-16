@@ -1,10 +1,10 @@
 ---
-author: [[Josep M Serra Grabulosa]]
+author: "[[Josep M Serra Grabulosa]]"
 title: 'Cómo Aprende a Leer Nuestro Cerebro: De La Mecánica Lectora a La Comprensión'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.theconversation.com/files/595158/original/file-20240520-17-gxdogp.jpg?ixlib=rb-4.1.0&rect=0%2C226%2C6592%2C3296&q=45&auto=format&w=1356&h=668&fit=crop)
 

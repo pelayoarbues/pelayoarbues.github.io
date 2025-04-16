@@ -1,10 +1,10 @@
 ---
-author: [[Dan Milmo]]
+author: "[[Dan Milmo]]"
 title: 'AI ‘Godfather’ Predicts Another Revolution in the Tech in Next Five Years'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.guim.co.uk/img/media/f8f23a884ad4905dc59c07569377e58b0e387420/16_30_3748_2250/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d4c38a2aa1260d14988c84874e88e669)
 

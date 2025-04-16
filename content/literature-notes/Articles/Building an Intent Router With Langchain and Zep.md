@@ -1,10 +1,10 @@
 ---
-author: [[Daniel Chalef]]
+author: "[[Daniel Chalef]]"
 title: 'Building an Intent Router With Langchain and Zep'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.getzep.com/content/images/2023/06/sunny_in_the_hills_a_cute_robot_standing_at_a_junction_in_a_roa_7a7cf9de-ce82-40e5-a56c-32c3870c7dc8.png)
 

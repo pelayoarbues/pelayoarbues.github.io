@@ -1,10 +1,10 @@
 ---
-author: [[Simon Baker]]
+author: "[[Simon Baker]]"
 title: 'Modelprop: Empowering UK Estate Agents With AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://media.licdn.com/dms/image/v2/D4E12AQHlHosDARwq5w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1730748138503?e=2147483647&v=beta&t=Rzn2aXNDO3gpeL3bCu_VhbQ25IaErD9blZYSNNv0PFY)
 

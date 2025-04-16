@@ -1,10 +1,10 @@
 ---
-author: [[Jessica Carew Kraft]]
+author: "[[Jessica Carew Kraft]]"
 title: 'How to Rewild Yourself'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/70c91c24-62b4-4083-bae3-606ad2b8a147/sq-panos_00279460.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Laura Ruiz Mitjana]]
+author: "[[Laura Ruiz Mitjana]]"
 title: 'El Aburrimiento No Nos Hace Más Creativos, Y Esta Es La Razón'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://img.remediosdigitales.com/2804df/img_7465/840_560.jpeg)
 

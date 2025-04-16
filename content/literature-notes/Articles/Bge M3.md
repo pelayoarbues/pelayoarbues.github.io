@@ -1,10 +1,10 @@
 ---
-author: [[milvus.io]]
+author: "[[milvus.io]]"
 title: 'Bge M3'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.zilliz.com/meta_image_milvus_d6510e10e0.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[that’s]]
+author: "[[that’s]]"
 title: 'Gwyneth Windflower'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.gwenwindflower.com/blog/favicon.png)
 

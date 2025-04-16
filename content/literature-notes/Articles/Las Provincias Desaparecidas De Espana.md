@@ -1,10 +1,10 @@
 ---
-author: [[Miguel García Álvarez]]
+author: "[[Miguel García Álvarez]]"
 title: 'Las Provincias Desaparecidas De España'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F550954d2-498e-419d-b3b1-5640d252dc3d_1280x1158.png)
 

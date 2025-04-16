@@ -1,10 +1,10 @@
 ---
-author: [[Amanda Silberling]]
+author: "[[Amanda Silberling]]"
 title: 'AI Safety Advocates Tell Founders to Slow Down'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://techcrunch.com/wp-content/uploads/2024/02/connectwise-flaw-huntress-security.jpg?resize=1200,800)
 

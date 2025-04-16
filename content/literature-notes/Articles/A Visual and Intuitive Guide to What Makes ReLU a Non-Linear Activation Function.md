@@ -1,10 +1,10 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: 'A Visual and Intuitive Guide to What Makes ReLU a Non-Linear Activation Function'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f8dc2c8-4b8f-4fa8-bcdd-f1151afb8ae3_1948x1644.png)
 

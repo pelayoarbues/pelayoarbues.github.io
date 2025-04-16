@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: '🦸🏻#14: What Is McP, and Why Is Everyone – Suddenly!– Talking About It?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/Kseniase/mcp.png)
 

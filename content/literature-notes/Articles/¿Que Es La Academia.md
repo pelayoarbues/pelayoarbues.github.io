@@ -1,10 +1,10 @@
 ---
-author: [[Luis Corchón Díaz]]
+author: "[[Luis Corchón Díaz]]"
 title: '¿Qué Es La Academia?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/imagen-corchon-1024x749.png)
 

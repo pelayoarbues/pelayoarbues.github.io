@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: '⚖️ Create a Legal Preference Dataset'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/front/thumbnails/learn/cookbook.png)
 

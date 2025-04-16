@@ -1,10 +1,10 @@
 ---
-author: [[Edmund Keith]]
+author: "[[Edmund Keith]]"
 title: 'Is Agentic Search the Portal Slaying Paradigm Shift We''ve Been Expecting for 25 Years?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2025/02/agentic-search-hero-image.png)
 

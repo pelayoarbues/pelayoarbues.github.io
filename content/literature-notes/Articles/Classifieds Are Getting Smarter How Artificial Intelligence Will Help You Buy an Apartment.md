@@ -1,10 +1,10 @@
 ---
-author: [[Dmitry Grigoriev]]
+author: "[[Dmitry Grigoriev]]"
 title: 'Classifieds Are Getting Smarter: How Artificial Intelligence Will Help You Buy an Apartment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blogs.forbes.ru/wp-content/uploads/2024/04/igor-omilaev-eggfz5x2lna-unsplash-2560.jpg)
 

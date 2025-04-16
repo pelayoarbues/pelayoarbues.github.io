@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Harrison Dupré]]
+author: "[[Maggie Harrison Dupré]]"
 title: 'AI Has Unlocked a Level of Facebook Pandering Previously Unknown to Science'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://futurism.com/favicon.png)
 

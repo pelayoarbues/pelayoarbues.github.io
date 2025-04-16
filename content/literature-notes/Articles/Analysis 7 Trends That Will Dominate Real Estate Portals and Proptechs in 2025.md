@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'Analysis: 7 Trends That Will Dominate Real Estate Portals and Proptechs in 2025'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2024/10/7-trends.png)
 

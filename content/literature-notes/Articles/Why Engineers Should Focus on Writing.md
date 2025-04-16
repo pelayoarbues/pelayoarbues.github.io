@@ -1,10 +1,10 @@
 ---
-author: [[Dmitry Kudryavtsev]]
+author: "[[Dmitry Kudryavtsev]]"
 title: 'Why Engineers Should Focus on Writing'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://yieldcode.blog/post/why-engineers-should-write/cover.png)
 

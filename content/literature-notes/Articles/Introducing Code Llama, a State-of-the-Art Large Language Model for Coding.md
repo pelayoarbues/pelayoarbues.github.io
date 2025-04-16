@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison]]
+author: "[[Simon Willison]]"
 title: 'Introducing Code Llama, a State-of-the-Art Large Language Model for Coding'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://simonwillison.net/favicon.ico)
 

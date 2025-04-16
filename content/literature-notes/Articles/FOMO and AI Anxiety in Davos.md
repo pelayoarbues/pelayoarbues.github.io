@@ -1,10 +1,10 @@
 ---
-author: [[Vin Vashishta]]
+author: "[[Vin Vashishta]]"
 title: 'FOMO and AI Anxiety in Davos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/bd4b70dc-4103-4bf9-802f-fcc26ecbb0b2_1200x630.png)
 

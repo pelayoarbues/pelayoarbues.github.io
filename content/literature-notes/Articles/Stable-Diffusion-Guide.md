@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: 'Stable-Diffusion-Guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-thumbnails.huggingface.co/social-thumbnails/models/hollowstrawberry/stable-diffusion-guide.png)
 

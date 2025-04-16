@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Ortiz]]
+author: "[[Antonio Ortiz]]"
 title: 'Las Ventajas De Que Tus Padres Aparezcan en Azul en La Wikipedia'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc3a85ef8-7b0c-492d-b611-e624e88a05f5_512x512.png)
 

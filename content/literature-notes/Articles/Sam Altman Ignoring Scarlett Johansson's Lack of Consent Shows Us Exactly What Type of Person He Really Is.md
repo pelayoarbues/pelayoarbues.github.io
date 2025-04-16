@@ -1,10 +1,10 @@
 ---
-author: [[Jon Christian]]
+author: "[[Jon Christian]]"
 title: 'Sam Altman Ignoring Scarlett Johansson''s Lack of Consent Shows Us Exactly What Type of Person He Really Is'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/sam-altman-openai-scarlett-johansson.jpg)
 

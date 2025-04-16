@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: 'Fine-Tuning Florence-2 - Microsoft''s Cutting-Edge Vision Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/182_finetune-florence/thumbnail.png)
 

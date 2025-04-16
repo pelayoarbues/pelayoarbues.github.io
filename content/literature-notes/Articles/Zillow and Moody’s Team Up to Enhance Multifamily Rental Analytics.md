@@ -1,10 +1,10 @@
 ---
-author: [[Yorke C-P]]
+author: "[[Yorke C-P]]"
 title: 'Zillow and Moody’s Team Up to Enhance Multifamily Rental Analytics'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/07/Zillow-partners-Moodys.png)
 

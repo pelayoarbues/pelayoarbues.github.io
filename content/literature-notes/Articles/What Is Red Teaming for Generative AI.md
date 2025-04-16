@@ -1,10 +1,10 @@
 ---
-author: [[Kim Martineau]]
+author: "[[Kim Martineau]]"
 title: 'What Is Red Teaming for Generative AI?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://d1bqvdqmynqyrb.cloudfront.net/_next/image?url=https%3A%2F%2Fresearch-website-prod-cms-uploads.s3.us.cloud-object-storage.appdomain.cloud%2Fredhat_8cb64a1b3e.png&w=1200&q=85)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Javier Escribano]]
+author: "[[Javier Escribano]]"
 title: 'Creando Una Cultura De Producto en Ingeniería'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1603201667141-5a2d4c673378?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwyMHx8dGVhbXxlbnwwfHx8fDE2OTQxNzAyNTN8MA&ixlib=rb-4.0.3&q=80&w=1080)
 

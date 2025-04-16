@@ -1,10 +1,10 @@
 ---
-author: [[Impromptu Engineer]]
+author: "[[Impromptu Engineer]]"
 title: 'A Guide to Structured Generation Using Constrained Decoding'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.aidancooper.co.uk/content/images/2024/04/constrain.webp)
 

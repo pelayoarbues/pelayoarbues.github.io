@@ -1,10 +1,10 @@
 ---
-author: [[Greg McKenna]]
+author: "[[Greg McKenna]]"
 title: 'Over 25% of Google’s Code Is Now Written by AI—and CEO Sundar Pichai Says It’s Just the Start'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://fortune.com/img-assets/wp-content/uploads/2024/10/GettyImages-2173545139_403340-e1730300609110.jpg?resize=1200,600)
 

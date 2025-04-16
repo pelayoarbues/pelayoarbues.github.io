@@ -1,10 +1,10 @@
 ---
-author: [[Charlie Marsh]]
+author: "[[Charlie Marsh]]"
 title: 'A New Home for Python-Build-Standalone'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://astral.sh/static/OpenGraph/Astral.jpg)
 

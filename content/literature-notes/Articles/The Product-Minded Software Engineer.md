@@ -1,10 +1,10 @@
 ---
-author: [[The Pragmatic Engineer]]
+author: "[[The Pragmatic Engineer]]"
 title: 'The Product-Minded Software Engineer'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.pragmaticengineer.com/content/images/2019/09/william-iven-gcsNOsPEXfs-unsplash.jpg)
 

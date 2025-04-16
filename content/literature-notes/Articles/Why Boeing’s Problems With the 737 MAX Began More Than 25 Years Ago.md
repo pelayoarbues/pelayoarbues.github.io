@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business School]]
+author: "[[Harvard Business School]]"
 title: 'Why Boeing’s Problems With the 737 MAX Began More Than 25 Years Ago'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fimages.ctfassets.net%2Fbeh2ph2tgbqk%2F05tIXNS2gSTYjLdHlr5tE7-asset%2F73702b158ed0057e0602a72844c7131f%2FBoeing-Article_2800x1296.jpg)
 

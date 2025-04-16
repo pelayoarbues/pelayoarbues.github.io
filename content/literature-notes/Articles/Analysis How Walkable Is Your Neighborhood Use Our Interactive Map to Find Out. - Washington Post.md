@@ -1,10 +1,10 @@
 ---
-author: [[Harry Stevens]]
+author: "[[Harry Stevens]]"
 title: 'Analysis | How Walkable Is Your Neighborhood? Use Our Interactive Map to Find Out. - Washington Post'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRNMLQ6DC5F33PUG5TYJ73QWDI.jpg&w=1200)
 

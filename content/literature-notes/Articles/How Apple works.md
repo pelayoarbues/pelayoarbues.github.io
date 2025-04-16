@@ -1,10 +1,10 @@
 ---
-author: [[Adam Lashinsky]]
+author: "[[Adam Lashinsky]]"
 title: 'How Apple works'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://media.newyorker.com/photos/64026565ba3fe6db4b35cacc/16:9/w_1280,c_limit/230313_r41986_rd.jpg)
 

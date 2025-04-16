@@ -1,10 +1,10 @@
 ---
-author: [[Hugging Face - Blog]]
+author: "[[Hugging Face - Blog]]"
 title: 'TGI Multi-LoRA: Deploy Once, Serve 30 Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/front/thumbnails/v2-2.png)
 

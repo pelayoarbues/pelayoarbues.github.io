@@ -1,10 +1,10 @@
 ---
-author: [[hello@readwise.io (Readwise)]]
+author: "[[hello@readwise.io (Readwise)]]"
 title: 'Wisereads Vol. 43 — Apple''s Private Cloud, Cal Newport on Note-Taking, and More'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/owl.24130856a41e.jpg)
 

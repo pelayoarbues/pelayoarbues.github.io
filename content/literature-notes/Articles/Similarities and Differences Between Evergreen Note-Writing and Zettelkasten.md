@@ -1,10 +1,10 @@
 ---
-author: [[Andyʼs working notes]]
+author: "[[Andyʼs working notes]]"
 title: 'Similarities and Differences Between Evergreen Note-Writing and Zettelkasten'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://rdl.ink/render/https%3A%2F%2Fnotes.andymatuschak.org%2FzQvwwb95vzcHcpow3GWy5Wi)
 

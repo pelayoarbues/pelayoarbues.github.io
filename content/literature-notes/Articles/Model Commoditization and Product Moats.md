@@ -1,10 +1,10 @@
 ---
-author: [[Nathan Lambert]]
+author: "[[Nathan Lambert]]"
 title: 'Model Commoditization and Product Moats'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/29ef41f3-6ec9-4d8b-874d-91a190af5ece_3200x1800.png)
 

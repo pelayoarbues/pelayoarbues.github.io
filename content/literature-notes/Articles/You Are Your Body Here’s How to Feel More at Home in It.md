@@ -1,10 +1,10 @@
 ---
-author: [[Elna Schütz]]
+author: "[[Elna Schütz]]"
 title: 'You Are Your Body: Here’s How to Feel More at Home in It'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/b625f91b-7bc1-48fe-a238-35d2af336552/rt-final-mg141018.jpg)
 

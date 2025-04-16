@@ -1,10 +1,10 @@
 ---
-author: [[Edmund Keith]]
+author: "[[Edmund Keith]]"
 title: 'KE Holdings: The Most Interesting Real Estate Company in the World'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2023/03/Shutterstock_225443569.jpg)
 

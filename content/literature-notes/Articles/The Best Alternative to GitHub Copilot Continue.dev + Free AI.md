@@ -1,10 +1,10 @@
 ---
-author: [[Vishvaraj Dhanawade]]
+author: "[[Vishvaraj Dhanawade]]"
 title: 'The Best Alternative to GitHub Copilot: Continue.dev + Free AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-images-1.medium.com/max/1024/1*nlNr_c2mMgy7XV4FYwA5PQ.jpeg)
 

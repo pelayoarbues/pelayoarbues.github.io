@@ -1,10 +1,10 @@
 ---
-author: [[Anna Piñol]]
+author: "[[Anna Piñol]]"
 title: 'The AI Workforce Is Here: The Rise of a New Labor Market'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2024/04/word-image-19840-1.jpeg)
 

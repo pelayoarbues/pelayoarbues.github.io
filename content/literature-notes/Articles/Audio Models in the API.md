@@ -1,10 +1,10 @@
 ---
-author: [[OpenAI]]
+author: "[[OpenAI]]"
 title: 'Audio Models in the API'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.ytimg.com/vi/lXb0L16ISAc/maxresdefault.jpg?v=67dc2b22)
 

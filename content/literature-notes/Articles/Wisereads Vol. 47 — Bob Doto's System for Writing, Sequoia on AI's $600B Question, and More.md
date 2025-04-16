@@ -1,10 +1,10 @@
 ---
-author: [[hello@readwise.io (Readwise)]]
+author: "[[hello@readwise.io (Readwise)]]"
 title: 'Wisereads Vol. 47 — Bob Doto''s System for Writing, Sequoia on AI''s $600B Question, and More'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/owl.24130856a41e.jpg)
 

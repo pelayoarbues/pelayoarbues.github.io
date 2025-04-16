@@ -1,10 +1,10 @@
 ---
-author: [[Canopy]]
+author: "[[Canopy]]"
 title: 'Tip: Vision Informs Work'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://canopy.is/assets/marketing/social-training-ca34f0bfeb58dd7061564c5e6173afdfa2e93cdfdd41507df4d7905431154b09.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Sundar Pichai]]
+author: "[[Sundar Pichai]]"
 title: 'Introducing Gemini: Our Largest and Most Capable AI Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/final_open_graph_1.width-1300.png)
 

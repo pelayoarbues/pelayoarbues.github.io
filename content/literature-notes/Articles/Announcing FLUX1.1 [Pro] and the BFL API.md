@@ -1,10 +1,10 @@
 ---
-author: [[Black Forest Labs]]
+author: "[[Black Forest Labs]]"
 title: 'Announcing FLUX1.1 [Pro] and the BFL API'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blackforestlabs.ai/wp-content/uploads/2024/10/1290644213569945673_1.jpg)
 

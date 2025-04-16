@@ -1,10 +1,10 @@
 ---
-author: [[Bonilista Archive Feed]]
+author: "[[Bonilista Archive Feed]]"
 title: 'La Bonilista — La Cláusula Que Nadie Debería Firmar 📄'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/4959f141-f89c-019b-247f-2c00154acaf5.jpg)
 

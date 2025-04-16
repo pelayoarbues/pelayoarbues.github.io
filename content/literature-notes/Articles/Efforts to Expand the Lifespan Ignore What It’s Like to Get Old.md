@@ -1,10 +1,10 @@
 ---
-author: [[Robert S Gable]]
+author: "[[Robert S Gable]]"
 title: 'Efforts to Expand the Lifespan Ignore What It’s Like to Get Old'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://epsilon.aeon.co/images/b6c77e6c-fe34-42b8-8322-46ace534c352/2700x1530.jpg)
 

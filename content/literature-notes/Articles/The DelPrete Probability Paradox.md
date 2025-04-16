@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'The DelPrete Probability Paradox'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/57b1c75aebbd1abcdecf8171/57b1c7c3414fb58fb6cbb91c/6613e372f52e59406f7e9d94/1712590372869/Screenshot+2024-04-03+at+3.08.55%E2%80%AFPM.png?format=1500w)
 

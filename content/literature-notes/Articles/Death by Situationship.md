@@ -1,10 +1,10 @@
 ---
-author: [[Magdalene J. Taylor]]
+author: "[[Magdalene J. Taylor]]"
 title: 'Death by Situationship'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5d0fa85d-a033-4a6e-9f15-c466b4079f1e_1186x1038.png)
 

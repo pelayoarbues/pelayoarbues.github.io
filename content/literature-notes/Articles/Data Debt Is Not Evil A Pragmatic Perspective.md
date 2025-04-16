@@ -1,10 +1,10 @@
 ---
-author: [[areca data]]
+author: "[[areca data]]"
 title: 'Data Debt Is Not Evil: A Pragmatic Perspective'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.arecadata.com/content/images/2023/11/_e3f27df2-81ab-40c3-944b-1f936d3fbbef.jpeg)
 

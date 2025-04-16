@@ -1,10 +1,10 @@
 ---
-author: [[Jonathan Haidt]]
+author: "[[Jonathan Haidt]]"
 title: 'The Terrible Costs of a Phone-Based Childhood - The Atlantic'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://web.archive.org/web/20240324130057im_/https://cdn.theatlantic.com/thumbor/wU7Wp_-2d42UE0Rb8v9uwgwXH9Q=/0x27:1251x679/1200x625/media/img/mt/2024/03/MS_GenzPhones344_copy_2/original.jpg)
 

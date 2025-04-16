@@ -1,10 +1,10 @@
 ---
-author: [[Amelia Wattenberger]]
+author: "[[Amelia Wattenberger]]"
 title: 'Bridging the Hard and the Soft'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wattenberger.com/thoughts/hard-and-soft/segments.png)
 

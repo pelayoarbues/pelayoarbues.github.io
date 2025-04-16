@@ -1,10 +1,10 @@
 ---
-author: [[Vin Vashishta]]
+author: "[[Vin Vashishta]]"
 title: 'The Art of Pushback for Data Product Managers and Leaders'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/22f8cce1-7dc2-48c4-a327-4449260281c6_1200x630.png)
 

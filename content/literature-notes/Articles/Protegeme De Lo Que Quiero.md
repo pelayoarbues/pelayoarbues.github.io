@@ -1,10 +1,10 @@
 ---
-author: [[Joan Tubau]]
+author: "[[Joan Tubau]]"
 title: 'Protegeme De Lo Que Quiero'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60d4d2d8-c8be-4bc2-a488-7b706540b73e_1600x1192.jpeg)
 

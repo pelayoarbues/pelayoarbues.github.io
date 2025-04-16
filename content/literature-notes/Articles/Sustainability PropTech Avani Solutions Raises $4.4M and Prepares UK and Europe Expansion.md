@@ -1,10 +1,10 @@
 ---
-author: [[Catarina Seabra]]
+author: "[[Catarina Seabra]]"
 title: 'Sustainability PropTech Avani Solutions Raises $4.4M and Prepares UK and Europe Expansion'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2025/03/Avani-1.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[lethain.com]]
+author: "[[lethain.com]]"
 title: 'Cold Sourcing: Hire Someone You Don''t Know.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/blog/2018/cold-sourcing-hero.png)
 

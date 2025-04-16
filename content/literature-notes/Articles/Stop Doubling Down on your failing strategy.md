@@ -1,10 +1,10 @@
 ---
-author: [[Freek Vermeulen and Niro Sivanathan]]
+author: "[[Freek Vermeulen and Niro Sivanathan]]"
 title: 'Stop Doubling Down on your failing strategy'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/G09De4r7iDVtRl5ytYLhJ3pG5Vs9iG_yqC2tpO4m_Ro-cover_xuwR7fp.png)
 

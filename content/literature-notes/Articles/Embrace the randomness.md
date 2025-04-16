@@ -1,10 +1,10 @@
 ---
-author: [[Philipp Singer]]
+author: "[[Philipp Singer]]"
 title: 'Embrace the randomness'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/826415206272204801/B_g7QQ3B_normal.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Ortiz]]
+author: "[[Antonio Ortiz]]"
 title: 'La Gran Crisis De Las Carreras De Humanidades en La Universidad: Más Informáticos, Es La Guerra'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fcb354c-9d86-4745-bb11-00119a545eeb_2048x1144.png)
 

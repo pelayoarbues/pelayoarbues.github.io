@@ -1,10 +1,10 @@
 ---
-author: [[Stanford Report]]
+author: "[[Stanford Report]]"
 title: 'AI Index 2025: State of AI in 10 Charts'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hai-production.s3.amazonaws.com/images/ai-index-2025-blog-post-thumb-2.png)
 

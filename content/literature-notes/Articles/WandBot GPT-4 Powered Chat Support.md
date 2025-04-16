@@ -1,10 +1,10 @@
 ---
-author: [[W&B]]
+author: "[[W&B]]"
 title: 'WandBot: GPT-4 Powered Chat Support'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wandb.ai/logo.png)
 

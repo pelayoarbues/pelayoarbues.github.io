@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Appleton]]
+author: "[[Maggie Appleton]]"
 title: 'The Expanding Dark Forest and Generative AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://maggieappleton.com/og.png)
 

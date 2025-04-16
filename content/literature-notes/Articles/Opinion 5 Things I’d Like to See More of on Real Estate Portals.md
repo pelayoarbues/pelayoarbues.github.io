@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'Opinion: 5 Things I’d Like to See More of on Real Estate Portals'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2024/07/RE-Portal-of-the-Future.png)
 

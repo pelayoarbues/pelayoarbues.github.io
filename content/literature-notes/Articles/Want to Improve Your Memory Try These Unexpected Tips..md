@@ -1,10 +1,10 @@
 ---
-author: [[Allie Volpe]]
+author: "[[Allie Volpe]]"
 title: 'Want to Improve Your Memory? Try These Unexpected Tips.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/7c2x61QOmsFTksAaeQFvqduIUwE=/167x0:2834x2000/1310x983/cdn.vox-cdn.com/uploads/chorus_image/image/71826126/memory02.0.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Harvard Business Review]]
+author: "[[Harvard Business Review]]"
 title: 'How CEOs Can Lead a Data-Driven Culture'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2020/03/Mar20_23_1069992382.jpg)
 

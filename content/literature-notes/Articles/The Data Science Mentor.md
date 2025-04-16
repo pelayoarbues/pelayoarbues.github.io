@@ -1,10 +1,10 @@
 ---
-author: [[Alessandro Romano]]
+author: "[[Alessandro Romano]]"
 title: 'The Data Science Mentor'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-images-1.medium.com/proxy/1*TGH72Nnw24QL3iV9IOm4VA.png)
 

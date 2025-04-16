@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'Chess Without Checkmate: The Portal Wars'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/57b1c75aebbd1abcdecf8171/57b1c7c3414fb58fb6cbb91c/67447ddbc83d075e6dcc6525/1732542206444/Screenshot+2024-11-25+at+6.41.48%E2%80%AFAM.png?format=1500w)
 

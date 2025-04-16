@@ -1,10 +1,10 @@
 ---
-author: [[nabeelqu.co]]
+author: "[[nabeelqu.co]]"
 title: 'Reflections on Palantir'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cortex.persona.co/i/e99e3f408312551ffa939c8106895dd62e7130de552c36e642e7ed483895655a/school-of-athens-small.jpeg)
 

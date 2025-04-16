@@ -1,10 +1,10 @@
 ---
-author: [[admin]]
+author: "[[admin]]"
 title: 'Cuatro Observaciones (Y Tres Preguntas) Sobre El Nuevo Índice De Referencia Para La Actualización Del Alquiler De Vivienda'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/row-old-buildings-made-classic-style-barcelona-spain-1024x576.jpg)
 

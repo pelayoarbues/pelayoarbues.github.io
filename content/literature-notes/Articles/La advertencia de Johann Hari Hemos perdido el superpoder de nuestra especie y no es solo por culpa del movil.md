@@ -1,10 +1,10 @@
 ---
-author: [[Ángel Villarino]]
+author: "[[Ángel Villarino]]"
 title: 'La advertencia de Johann Hari: "Hemos perdido el superpoder de nuestra especie y no es solo por culpa del móvil"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ecestaticos.com/mk3_Cnkz1P4TeMhnrBfw3JvrgP4=/0x0:2272x1278/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/351/ca8/898/351ca88988bf5883814c68ed0dbd89eb.jpg)
 

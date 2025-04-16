@@ -1,10 +1,10 @@
 ---
-author: [[Benn Stancil]]
+author: "[[Benn Stancil]]"
 title: 'Whatever, Do the Secondary Sale'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7529c22-3d1e-403e-aea1-db7e2b6d1f3f_1920x1080.jpeg)
 

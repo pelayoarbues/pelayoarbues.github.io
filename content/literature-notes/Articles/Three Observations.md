@@ -1,10 +1,10 @@
 ---
-author: [[Sam Altman]]
+author: "[[Sam Altman]]"
 title: 'Three Observations'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://phthemes.s3.amazonaws.com/189/ocI2l2NFgWKLlp1H/images/favicon.ico?v=1496356566)
 

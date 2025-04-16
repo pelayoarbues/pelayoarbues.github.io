@@ -1,11 +1,11 @@
 ---
-author: [[Simón Muñoz]]
+author: "[[Simón Muñoz]]"
 title: '¿Qué es Product Management? Por Shreyas Doshi
 ¿Qué es Product Management? Por Shreyas Doshi'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F174d9f43-d9fc-454d-821a-1766aee74328_225x224.jpeg)
 

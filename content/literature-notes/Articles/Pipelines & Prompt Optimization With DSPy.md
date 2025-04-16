@@ -1,10 +1,10 @@
 ---
-author: [[Drew Breunig]]
+author: "[[Drew Breunig]]"
 title: 'Pipelines & Prompt Optimization With DSPy'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.dbreunig.com/img/sf_beach_og.jpg)
 

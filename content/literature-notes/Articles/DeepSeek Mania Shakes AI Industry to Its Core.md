@@ -1,10 +1,10 @@
 ---
-author: [[404 Media]]
+author: "[[404 Media]]"
 title: 'DeepSeek Mania Shakes AI Industry to Its Core'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.404media.co/content/images/size/w1200/2025/01/CleanShot-2025-01-27-at-08.38.20@2x.png)
 

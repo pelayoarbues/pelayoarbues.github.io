@@ -1,10 +1,10 @@
 ---
-author: [[Ryan Wong]]
+author: "[[Ryan Wong]]"
 title: 'Young Workers Don''t Want to Become Managers — And This Study Uncovers the Reason Why.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.entrepreneur.com/content/3x2/2000/1696972502-young-workers-no-manager-aspirations-1023-g671372163.jpg)
 

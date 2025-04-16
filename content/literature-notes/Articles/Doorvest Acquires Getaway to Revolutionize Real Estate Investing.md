@@ -1,10 +1,10 @@
 ---
-author: [[Yorke C-P]]
+author: "[[Yorke C-P]]"
 title: 'Doorvest Acquires Getaway to Revolutionize Real Estate Investing'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/09/Doorvest-acquires-Getaway.png)
 

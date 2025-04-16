@@ -1,10 +1,10 @@
 ---
-author: [[Farnam Street]]
+author: "[[Farnam Street]]"
 title: 'Ben Franklin: The Thirteen Necessary Virtues'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149664534.v2.pressablecdn.com/wp-content/uploads/2014/01/Thirteen-Necessary-Virtues.png)
 

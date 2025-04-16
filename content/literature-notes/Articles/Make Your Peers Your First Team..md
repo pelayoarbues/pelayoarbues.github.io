@@ -1,10 +1,10 @@
 ---
-author: [[lethain.com]]
+author: "[[lethain.com]]"
 title: 'Make Your Peers Your First Team.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/blog/2018/first-team-hero.png)
 

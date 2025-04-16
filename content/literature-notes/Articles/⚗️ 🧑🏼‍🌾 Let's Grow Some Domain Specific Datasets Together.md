@@ -1,10 +1,10 @@
 ---
-author: [[huggingface.co]]
+author: "[[huggingface.co]]"
 title: '⚗️ 🧑🏼‍🌾 Let''s Grow Some Domain Specific Datasets Together'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn-thumbnails.huggingface.co/social-thumbnails/blog/burtenshaw/domain-specific-datasets.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Panda Smith]]
+author: "[[Panda Smith]]"
 title: 'Build a Search Engine, Not a Vector DB'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.elicit.com/content/images/2023/12/Mosaic-Artwork-Embossed.webp)
 

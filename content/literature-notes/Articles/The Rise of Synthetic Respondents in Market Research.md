@@ -1,10 +1,10 @@
 ---
-author: [[NIQ]]
+author: "[[NIQ]]"
 title: 'The Rise of Synthetic Respondents in Market Research:'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nielseniq.com/wp-content/uploads/sites/4/2023/11/niq-artificial-intelligence-for-all-great-ai-for-some.png)
 

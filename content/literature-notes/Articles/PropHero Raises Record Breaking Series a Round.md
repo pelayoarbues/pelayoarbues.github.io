@@ -1,10 +1,10 @@
 ---
-author: [[Catarina Seabra]]
+author: "[[Catarina Seabra]]"
 title: 'PropHero Raises Record Breaking Series a Round'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2025/02/prophero.png)
 

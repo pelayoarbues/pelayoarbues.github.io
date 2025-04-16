@@ -1,10 +1,10 @@
 ---
-author: [[Tai Chi Classes NYC - WholenessInMotion: Tai Chi Classes in New York City]]
+author: "[[Tai Chi Classes NYC - WholenessInMotion: Tai Chi Classes in New York City]]"
 title: 'The Art of Focus – New York Times David Brooks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

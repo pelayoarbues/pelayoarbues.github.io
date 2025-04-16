@@ -1,10 +1,10 @@
 ---
-author: [[Kirsten Berg]]
+author: "[[Kirsten Berg]]"
 title: 'Elon Musk’s Demolition Crew'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.propublica.org/projects/doge-tracker/Elon-Employees-OG.jpg)
 

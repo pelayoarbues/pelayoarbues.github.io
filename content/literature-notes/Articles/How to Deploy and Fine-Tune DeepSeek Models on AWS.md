@@ -1,10 +1,10 @@
 ---
-author: [[Hugging Face - Blog]]
+author: "[[Hugging Face - Blog]]"
 title: 'How to Deploy and Fine-Tune DeepSeek Models on AWS'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/favicon.ico)
 

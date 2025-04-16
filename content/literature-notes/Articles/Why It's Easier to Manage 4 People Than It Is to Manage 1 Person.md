@@ -1,10 +1,10 @@
 ---
-author: [[Stay SaaSy]]
+author: "[[Stay SaaSy]]"
 title: 'Why It''s Easier to Manage 4 People Than It Is to Manage 1 Person'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg)
 

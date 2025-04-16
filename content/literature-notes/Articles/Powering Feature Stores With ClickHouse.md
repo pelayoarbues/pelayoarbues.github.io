@@ -1,10 +1,10 @@
 ---
-author: [[ClickHouse]]
+author: "[[ClickHouse]]"
 title: 'Powering Feature Stores With ClickHouse'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://clickhouse.com/uploads/feature_stores_30fee64840.png)
 

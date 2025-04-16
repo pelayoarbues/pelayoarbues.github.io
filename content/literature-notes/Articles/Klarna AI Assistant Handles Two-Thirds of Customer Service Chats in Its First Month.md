@@ -1,10 +1,10 @@
 ---
-author: [[klarna.com]]
+author: "[[klarna.com]]"
 title: 'Klarna AI Assistant Handles Two-Thirds of Customer Service Chats in Its First Month'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mb.cision.com/Public/1740/3936812/a10a16d19078e325_org.jpeg)
 

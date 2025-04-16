@@ -1,10 +1,10 @@
 ---
-author: [[Xataka]]
+author: "[[Xataka]]"
 title: 'Cada Vez Hay Más Voces Dentro De La Industria Tecnológica Que Piensan Que La IA Es Una Gigantesca Burbuja. Y Tienen Buenos Argumentos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.blogs.es/4a95b9/ai-bubble/840_560.jpeg)
 

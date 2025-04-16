@@ -1,10 +1,10 @@
 ---
-author: [[link.alphasignal.ai]]
+author: "[[link.alphasignal.ai]]"
 title: 'Dive Into Anything'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.redditstatic.com/shreddit/assets/favicon/64x64.png)
 

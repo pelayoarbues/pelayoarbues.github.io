@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Ortiz]]
+author: "[[Antonio Ortiz]]"
 title: 'Las Mujeres Jóvenes Van Más a La Universidad, Ganan Más Dinero Por Hora Trabajada Y Votan Más a La Izquierda Que Los Hombres Jóvenes'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F559cbbf3-6beb-4a5e-a618-f75f2339cfb2_1456x816.png)
 

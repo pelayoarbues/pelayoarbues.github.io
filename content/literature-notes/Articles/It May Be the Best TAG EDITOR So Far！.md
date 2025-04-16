@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'It May Be the Best TAG EDITOR So Far！'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dac13ecf-004d-49cc-90f8-af38af6575e5/width=1200/dac13ecf-004d-49cc-90f8-af38af6575e5.jpeg)
 

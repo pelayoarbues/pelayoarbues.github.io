@@ -1,10 +1,10 @@
 ---
-author: [[César Urrutia]]
+author: "[[César Urrutia]]"
 title: '¿Por Qué Está Condenado El Alquiler Tradicional De Viviendas? Se Gana Hasta Cuatro Veces Más Al Mes Con Un Piso Turístico'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://phantom-elmundo.unidadeditorial.es/183ac1107d6854a6765b3ac9c061691e/f/webp/assets/multimedia/imagenes/2024/05/27/17168371093432.jpg)
 

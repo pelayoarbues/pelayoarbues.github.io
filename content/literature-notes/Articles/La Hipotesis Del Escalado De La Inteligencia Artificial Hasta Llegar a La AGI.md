@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Ortiz]]
+author: "[[Antonio Ortiz]]"
 title: 'La Hipótesis Del Escalado De La Inteligencia Artificial Hasta Llegar a La AGI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8e3f437d-ec95-4e54-a9f2-6ad92664ca42_2688x1536.png)
 

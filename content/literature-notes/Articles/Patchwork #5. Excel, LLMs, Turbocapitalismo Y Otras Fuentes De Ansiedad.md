@@ -1,10 +1,10 @@
 ---
-author: [[Dr. Mario]]
+author: "[[Dr. Mario]]"
 title: 'Patchwork #5. Excel, LLMs, Turbocapitalismo Y Otras Fuentes De Ansiedad'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc340f686-9f20-4fb3-b9a2-369e8e7e1dae_556x600.jpeg)
 

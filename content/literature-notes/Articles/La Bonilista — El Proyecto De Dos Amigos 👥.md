@@ -1,10 +1,10 @@
 ---
-author: [[Bonilista Archive Feed]]
+author: "[[Bonilista Archive Feed]]"
 title: 'La Bonilista — El Proyecto De Dos Amigos 👥'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/fb2203c5-75f8-69b3-66ad-716424212cca.jpg)
 

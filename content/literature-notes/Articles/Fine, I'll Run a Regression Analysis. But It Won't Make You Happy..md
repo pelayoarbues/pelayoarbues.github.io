@@ -1,10 +1,10 @@
 ---
-author: [[Nate Silver]]
+author: "[[Nate Silver]]"
 title: 'Fine, I''ll Run a Regression Analysis. But It Won''t Make You Happy.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc6a1362a-c56c-4a62-b8f4-2416ac9fc637_1280x582.png)
 

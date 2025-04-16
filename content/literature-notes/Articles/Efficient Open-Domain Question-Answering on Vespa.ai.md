@@ -1,10 +1,10 @@
 ---
-author: [[lesters]]
+author: "[[lesters]]"
 title: 'Efficient Open-Domain Question-Answering on Vespa.ai'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.vespa.ai/assets/2020-09-30-efficient-open-domain-question-answering-on-vespa/QA.png)
 

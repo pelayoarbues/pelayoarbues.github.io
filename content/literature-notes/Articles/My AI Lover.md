@@ -1,10 +1,10 @@
 ---
-author: [[Psyche Film]]
+author: "[[Psyche Film]]"
 title: 'My AI Lover'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://alpha.aeon.co/images/2e042c6f-ed42-44dd-bf31-38fc193f3fee/600x340.jpg)
 

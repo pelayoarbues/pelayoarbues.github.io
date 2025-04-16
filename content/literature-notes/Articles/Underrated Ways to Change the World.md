@@ -1,10 +1,10 @@
 ---
-author: [[Adam Mastroianni]]
+author: "[[Adam Mastroianni]]"
 title: 'Underrated Ways to Change the World'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F91149279-dbc0-4377-aba0-e2c200e3d855_985x1280.jpeg)
 

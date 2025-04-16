@@ -1,10 +1,10 @@
 ---
-author: [[Simón Muñoz]]
+author: "[[Simón Muñoz]]"
 title: 'Cuando Tu IA Son en Realidad 1000 Indios Anónimos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/e1440016-0d56-4c52-ad0f-21a7c02109d1_1450x750.png)
 

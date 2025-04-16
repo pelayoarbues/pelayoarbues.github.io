@@ -1,10 +1,10 @@
 ---
-author: [[Aidan Gomez]]
+author: "[[Aidan Gomez]]"
 title: 'Introducing Command R+: A Scalable LLM Built for Business'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://txt.cohere.com/content/images/size/w1200/2024/04/r--Blog-Header.png)
 

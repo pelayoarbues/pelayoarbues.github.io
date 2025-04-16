@@ -1,10 +1,10 @@
 ---
-author: [[Beth Kindig]]
+author: "[[Beth Kindig]]"
 title: 'This Stock Is Crushing Salesforce, MongoDB and Snowflake in AI Revenue'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imageio.forbes.com/specials-images/imageserve/67114ce74ed3734d6f4e915c/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds)
 

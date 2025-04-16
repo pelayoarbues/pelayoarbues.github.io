@@ -1,10 +1,10 @@
 ---
-author: [[Bluesky Social]]
+author: "[[Bluesky Social]]"
 title: 'Sébastien Dubois'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:bvr5xozgpwntri4dtfskgtjw/bafkreibvqghdpqln7phfpaq5v32pyhucmb7h7skq42ve5q5b5vikvtkfg4@jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Ankit Patel]]
+author: "[[Ankit Patel]]"
 title: 'NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blogs.nvidia.com/wp-content/uploads/2024/06/llm-blog-customization-techniques-2847735-1280x680-1-842x450.png)
 

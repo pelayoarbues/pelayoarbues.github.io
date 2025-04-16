@@ -1,10 +1,10 @@
 ---
-author: [[newsroom]]
+author: "[[newsroom]]"
 title: 'Cisco Unveils AI Defense to Secure the AI Transformation of Enterprises'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://newsroom.cisco.com/c/dam/r/newsroom/en/us/assets/a/y2025/m01/AIDefense-1200x675.jpg)
 

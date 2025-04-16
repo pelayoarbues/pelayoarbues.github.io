@@ -1,11 +1,11 @@
 ---
-author: [[Simon O'Regan]]
+author: "[[Simon O'Regan]]"
 title: 'Types of Data Products'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[shortlist]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[shortlist]]"
 ---
 ![rw-book-cover](https://miro.medium.com/max/1200/1*1B2P2iusPhpUBODy_Lhqsw.jpeg)
 

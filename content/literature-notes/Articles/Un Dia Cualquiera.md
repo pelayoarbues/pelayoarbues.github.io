@@ -1,10 +1,10 @@
 ---
-author: [[Marta Macho Stadler]]
+author: "[[Marta Macho Stadler]]"
 title: 'Un Día Cualquiera'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mujeresconciencia.com/app/uploads/2021/02/inventroas.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[propertyfinder.com]]
+author: "[[propertyfinder.com]]"
 title: 'Property Finder Launches SuperAgent, MENA’s FIRST AI- Driven Ranking System for Agents'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 

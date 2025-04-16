@@ -1,10 +1,10 @@
 ---
-author: [[anthropic.com]]
+author: "[[anthropic.com]]"
 title: 'Building Effective Agents'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.sanity.io/images/4zrzovbb/website/b05cf65de663b0b93909dee5071c73b273a3cef3-2560x1344.png)
 

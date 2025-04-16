@@ -1,10 +1,10 @@
 ---
-author: [[Celeb-A HQ and FFHQ]]
+author: "[[Celeb-A HQ and FFHQ]]"
 title: 'Train Your ControlNet With Diffusers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/136_train-your-controlnet/thumbnail.png)
 

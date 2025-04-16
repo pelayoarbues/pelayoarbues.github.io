@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'Large Language Models Beyond Dialogue'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/prodigiosaia_A_collage_of_colorful_speech_bubbles_with_differen_2c008ba7-9802-436c-8503-4deb565b5f4c-2.webp)
 

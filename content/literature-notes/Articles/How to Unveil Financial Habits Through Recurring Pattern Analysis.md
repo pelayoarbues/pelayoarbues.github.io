@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'How to Unveil Financial Habits Through Recurring Pattern Analysis'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/patterns.png)
 

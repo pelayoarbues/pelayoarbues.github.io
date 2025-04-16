@@ -1,10 +1,10 @@
 ---
-author: [[Cedric Chin]]
+author: "[[Cedric Chin]]"
 title: 'Making Sense of Deming'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://commoncog.com/content/images/2024/03/making_sense_of_deming.jpg)
 

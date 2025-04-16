@@ -1,10 +1,10 @@
 ---
-author: [[skrub]]
+author: "[[skrub]]"
 title: 'Feature Interpretation With the GapEncoder'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://skrub-data.github.io/stable/_static/skrub.svg)
 

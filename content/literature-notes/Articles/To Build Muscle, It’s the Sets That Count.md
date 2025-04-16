@@ -1,10 +1,10 @@
 ---
-author: [[Alex Hutchinson]]
+author: "[[Alex Hutchinson]]"
 title: 'To Build Muscle, It’s the Sets That Count'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.outsideonline.com/wp-content/uploads/2024/03/man-lifting-sitting_h-1024x576.jpg?width=1200)
 

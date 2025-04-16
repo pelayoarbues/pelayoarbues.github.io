@@ -1,10 +1,10 @@
 ---
-author: [[Forrest]]
+author: "[[Forrest]]"
 title: 'In 2009, a Man Asked Ted Kaczynski if Nuclear Weapons...'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1540316982100238338/lPbR-eZi.jpg)
 

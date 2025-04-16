@@ -1,10 +1,10 @@
 ---
-author: [[Christopher M Bellitto]]
+author: "[[Christopher M Bellitto]]"
 title: 'The Medieval Notion That Shows Why Even Experts Should Be Humble'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/663fc809-b6cd-4612-a08f-1d95f54cf459/rt-final-gettyimages-1234052446.jpg)
 

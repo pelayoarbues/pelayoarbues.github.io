@@ -1,10 +1,10 @@
 ---
-author: [[Eugene Yan]]
+author: "[[Eugene Yan]]"
 title: 'How to Write Better With the Why, What, How Framework'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/writing-docs.jpg)
 

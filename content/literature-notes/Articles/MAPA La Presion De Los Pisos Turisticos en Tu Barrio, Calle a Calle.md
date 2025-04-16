@@ -1,10 +1,10 @@
 ---
-author: [[datadista.com]]
+author: "[[datadista.com]]"
 title: 'MAPA | La Presión De Los Pisos Turísticos en Tu Barrio, Calle a Calle'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.datadista.com/content/images/2025/02/mapa_vt_v3.gif)
 

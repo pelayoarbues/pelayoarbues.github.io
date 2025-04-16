@@ -1,10 +1,10 @@
 ---
-author: [[Ellen Rolfes]]
+author: "[[Ellen Rolfes]]"
 title: 'Big Tech Goes Nuclear.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.marketplace.org/wp-content/uploads/2024/10/Exelon_Three_Mile_Island_Nuclear_Generating_Station.jpg?fit=2300%2C1293&w=1200)
 

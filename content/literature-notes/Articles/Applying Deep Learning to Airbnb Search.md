@@ -1,10 +1,10 @@
 ---
-author: [[Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, N...]]
+author: "[[Malay Haldar, Mustafa Abdool, Prashant Ramanathan, Tao Xu, Shulin Yang, Huizhong Duan, Qing Zhang, N...]]"
 title: 'Applying Deep Learning to Airbnb Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/193043714/RlWjpyqKFQFiIXCiFKawHmzXC4G9bIDlgFKRSAKNr6E-cove_McnYXDh.png)
 

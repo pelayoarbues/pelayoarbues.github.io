@@ -1,10 +1,10 @@
 ---
-author: [[NFX]]
+author: "[[NFX]]"
 title: 'Real Estate’s Hidden AI Revolution'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2023/09/real-estate-ai-social.jpg)
 

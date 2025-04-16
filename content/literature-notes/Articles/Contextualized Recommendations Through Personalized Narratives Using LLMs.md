@@ -1,10 +1,10 @@
 ---
-author: [[Spotify Engineering]]
+author: "[[Spotify Engineering]]"
 title: 'Contextualized Recommendations Through Personalized Narratives Using LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/research-production/1/2024/12/RS067-Option-01-How-Spotify-Adapted-Llama-to-Enhance-Personalization-and-Discovery-WITHLOGO.png)
 

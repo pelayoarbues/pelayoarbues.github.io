@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'What Is Rightmove''s Strategy Against the Threat From OnTheMarket and CoStar? We Analyse the Portal''s Capital Markets Day'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2023/11/Untitled-design.png)
 

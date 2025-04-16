@@ -1,10 +1,10 @@
 ---
-author: [[Maureen Dowd]]
+author: "[[Maureen Dowd]]"
 title: 'Palantir’s Alex Karp Talks About War, AI and America’s Future - The New York Times'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static01.nyt.com/images/2024/08/18/multimedia/17ALEX-KARP-01-glfw/17ALEX-KARP-01-glfw-facebookJumbo.jpg)
 

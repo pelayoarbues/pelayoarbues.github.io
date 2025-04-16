@@ -1,10 +1,10 @@
 ---
-author: [[Aimstack]]
+author: "[[Aimstack]]"
 title: 'LangChain + Aim: Building and Debugging AI Systems Made EASY!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://aimstack.io/images/dynamic/langchain_header.jpg)
 

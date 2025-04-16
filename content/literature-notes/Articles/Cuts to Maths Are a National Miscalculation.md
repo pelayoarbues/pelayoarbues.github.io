@@ -1,10 +1,10 @@
 ---
-author: [[Marcus du Sautoy]]
+author: "[[Marcus du Sautoy]]"
 title: 'Cuts to Maths Are a National Miscalculation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc8baa6ed-2830-4840-80ba-7fe6f1bb7801.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1)
 

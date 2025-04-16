@@ -1,10 +1,10 @@
 ---
-author: [[Paul Graham]]
+author: "[[Paul Graham]]"
 title: 'The Right Kind of Stubborn'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 

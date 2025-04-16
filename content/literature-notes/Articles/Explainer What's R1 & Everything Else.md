@@ -1,10 +1,10 @@
 ---
-author: [[Tim Kellogg]]
+author: "[[Tim Kellogg]]"
 title: 'Explainer: What''s R1 & Everything Else?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.pixabay.com/photo/2022/07/18/11/12/statue-7329573_1280.jpg)
 

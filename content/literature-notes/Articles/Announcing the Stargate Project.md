@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'Announcing the Stargate Project'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ctfassets.net/kftzwdyauwt9/clrP0hJbf2oP3r6hiZWWI/9c05a67b32d2f8ee623470db9a11dce5/Stargate_Preview_Header.png?w=1600&h=900&fit=fill)
 

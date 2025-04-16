@@ -1,10 +1,10 @@
 ---
-author: [[Julie Zhuo]]
+author: "[[Julie Zhuo]]"
 title: 'The Looking Glass: The Paradoxes of Data'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F453b5b74-7931-4179-ac3e-977954834b5a_1024x1024.webp)
 

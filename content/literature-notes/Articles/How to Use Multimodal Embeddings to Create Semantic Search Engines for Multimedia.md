@@ -1,10 +1,10 @@
 ---
-author: [[Adrian Araya]]
+author: "[[Adrian Araya]]"
 title: 'How to Use Multimodal Embeddings to Create Semantic Search Engines for Multimedia'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.wixstatic.com/media/c53988_a91018b961384b2aa278b68131585de2~mv2.png/v1/fill/w_1000,h_520,al_c,q_90,usm_0.66_1.00_0.01/c53988_a91018b961384b2aa278b68131585de2~mv2.png)
 

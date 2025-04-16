@@ -1,10 +1,10 @@
 ---
-author: [[Luis Serrano]]
+author: "[[Luis Serrano]]"
 title: 'What Are Word and Sentence Embeddings?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://txt.cohere.ai/content/images/2023/01/1.png)
 

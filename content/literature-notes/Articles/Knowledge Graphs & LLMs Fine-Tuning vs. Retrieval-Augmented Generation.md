@@ -1,11 +1,11 @@
 ---
-author: [[Tomaz Bratanic]]
+author: "[[Tomaz Bratanic]]"
 title: 'Knowledge Graphs & LLMs: Fine-Tuning vs. Retrieval-Augmented Generation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[rag]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[rag]]"
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1024/1*gMyohWeGauh6BZvbqsXAgw.png)
 

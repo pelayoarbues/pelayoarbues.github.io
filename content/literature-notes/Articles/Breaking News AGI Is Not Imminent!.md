@@ -1,10 +1,10 @@
 ---
-author: [[Gary Marcus]]
+author: "[[Gary Marcus]]"
 title: 'Breaking News: AGI Is Not Imminent!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F16d0cd98-dc79-41d7-bd27-d4eea96b1a5b_1387x567.png)
 

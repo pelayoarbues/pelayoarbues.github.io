@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Rosenthal]]
+author: "[[Ethan Rosenthal]]"
 title: 'Data Scientists Work Alone and That''s Bad'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.ethanrosenthal.com/favicon.ico)
 

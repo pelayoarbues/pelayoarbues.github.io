@@ -1,10 +1,10 @@
 ---
-author: [[ESADE]]
+author: "[[ESADE]]"
 title: 'El Futuro De La Innovación Es Azul'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://dobetter.esade.edu/sites/default/files/post/2024-01/future-innovation-blue-ocean-w.webp)
 

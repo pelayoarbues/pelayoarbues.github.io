@@ -1,10 +1,10 @@
 ---
-author: [[George Lawton]]
+author: "[[George Lawton]]"
 title: 'Autonomous AI Agents: A Progress Report'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.ttgtmedia.com/rms/onlineimages/ai_g1182183209.jpg)
 

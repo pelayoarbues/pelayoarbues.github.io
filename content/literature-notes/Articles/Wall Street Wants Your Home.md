@@ -1,10 +1,10 @@
 ---
-author: [[James Rodriguez]]
+author: "[[James Rodriguez]]"
 title: 'Wall Street Wants Your Home'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.insider.com/65d79f26ce7f1785b2e3330d?width=1200&format=jpeg)
 

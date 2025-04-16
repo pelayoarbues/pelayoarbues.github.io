@@ -1,10 +1,10 @@
 ---
-author: [[Maggie Harrison Dupré]]
+author: "[[Maggie Harrison Dupré]]"
 title: 'Google’s Search AI Recommends Changing Your Car’s Blinker Fluid, Which Is a Made Up Thing That Does Not Exist'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/googles-search-ai-recommends-blinker-fluid.jpg)
 

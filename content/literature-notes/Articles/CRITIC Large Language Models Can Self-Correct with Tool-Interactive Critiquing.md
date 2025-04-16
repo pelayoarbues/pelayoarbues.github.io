@@ -1,10 +1,10 @@
 ---
-author: [[readwise.io]]
+author: "[[readwise.io]]"
 title: 'CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/ev2tCuTUnfIKB3Lq-lfgzFEAErM76WlxbBgPLwD2ghE-cover_ZGJk4ue.png)
 

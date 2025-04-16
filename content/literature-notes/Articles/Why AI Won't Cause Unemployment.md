@@ -1,10 +1,10 @@
 ---
-author: [[Marc Andreessen]]
+author: "[[Marc Andreessen]]"
 title: 'Why AI Won''t Cause Unemployment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F975d2151-7def-45a4-8c52-878cf32d8c7b_1320x1424.png)
 

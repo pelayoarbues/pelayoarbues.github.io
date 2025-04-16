@@ -1,10 +1,10 @@
 ---
-author: [[Julie Zhuo]]
+author: "[[Julie Zhuo]]"
 title: 'The Looking Glass: The Year of Everyday Risks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd2c7021f-f98e-41c1-9421-42a15e21c49f_1024x1024.webp)
 

@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'Introducing ChatGPT and Whisper APIs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://openaicom.imgix.net/44fefabe-41f8-4dbf-9218-b1e1c44dc319/introducing-chatgpt-and-whisper-apis.jpg?auto=compress%2Cformat&fit=min&fm=jpg&q=80&rect=%2C%2C%2C)
 

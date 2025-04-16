@@ -1,10 +1,10 @@
 ---
-author: [[matterapp.com]]
+author: "[[matterapp.com]]"
 title: 'Where Does Kudos Come From? The Origin of Kudos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/60b9220d74f790b74e1230f9/6157862e9b989b5cd0de21a8_wheredoeskudoscomefrom.jpg)
 

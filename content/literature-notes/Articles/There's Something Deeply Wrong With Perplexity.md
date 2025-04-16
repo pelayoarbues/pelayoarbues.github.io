@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'There''s Something Deeply Wrong With Perplexity'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/06/something-deeply-wrong-perplexity.jpg)
 

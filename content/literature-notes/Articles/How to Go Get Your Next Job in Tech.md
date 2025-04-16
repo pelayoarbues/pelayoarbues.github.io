@@ -1,10 +1,10 @@
 ---
-author: [[Ian McAllister]]
+author: "[[Ian McAllister]]"
 title: 'How to Go Get Your Next Job in Tech'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/1f5efef5-a6c1-4136-91f0-44248d6a12d0_301x224.jpeg)
 

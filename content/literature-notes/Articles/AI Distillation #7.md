@@ -1,10 +1,10 @@
 ---
-author: [[Sairam Sundaresan]]
+author: "[[Sairam Sundaresan]]"
 title: 'AI Distillation #7'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff5f929db-a99f-410e-8a86-d3c3ed79b3ba_640x480.gif)
 

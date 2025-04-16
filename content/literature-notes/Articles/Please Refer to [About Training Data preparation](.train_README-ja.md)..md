@@ -1,10 +1,10 @@
 ---
-author: [[raw-githubusercontent-com.translate.goog]]
+author: "[[raw-githubusercontent-com.translate.goog]]"
 title: 'Please Refer to [About Training Data preparation](./train_README-ja.md).'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 

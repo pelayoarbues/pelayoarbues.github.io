@@ -1,10 +1,10 @@
 ---
-author: [[Banco de España]]
+author: "[[Banco de España]]"
 title: 'El Análisis De La Riqueza en España: 20 Años De La Encuesta Financiera De Las Familias'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bde.es/f/webbe/INF/assets/images/opengraph/0410_A_IMAGEN_DEFECTO_RRSS.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[wikipedia.org]]
+author: "[[wikipedia.org]]"
 title: 'Worse is better'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://rdl.ink/render/https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FWorse_is_better)
 

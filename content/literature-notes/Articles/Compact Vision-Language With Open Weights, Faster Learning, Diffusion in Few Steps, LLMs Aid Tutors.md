@@ -1,10 +1,10 @@
 ---
-author: [[The Batch @ DeepLearning.AI]]
+author: "[[The Batch @ DeepLearning.AI]]"
 title: 'Compact Vision-Language With Open Weights, Faster Learning, Diffusion in Few Steps, LLMs Aid Tutors'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
 

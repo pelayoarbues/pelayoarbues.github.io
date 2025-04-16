@@ -1,10 +1,10 @@
 ---
-author: [[Frank Landymore]]
+author: "[[Frank Landymore]]"
 title: 'Google CEO Says Easy AI Gains Are Over'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/12/google-ceo-easy-ai-over.jpg)
 

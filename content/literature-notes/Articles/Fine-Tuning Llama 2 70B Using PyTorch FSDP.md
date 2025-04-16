@@ -1,10 +1,10 @@
 ---
-author: [[Hugging Face - Blog]]
+author: "[[Hugging Face - Blog]]"
 title: 'Fine-Tuning Llama 2 70B Using PyTorch FSDP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/front/thumbnails/v2-2.png)
 

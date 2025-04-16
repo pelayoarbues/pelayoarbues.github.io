@@ -1,10 +1,10 @@
 ---
-author: [[Peter Sobot]]
+author: "[[Peter Sobot]]"
 title: 'Introducing Voyager: Spotify’s New Nearest-Neighbor Search Library'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/production-eng/1/2023/10/0225-Voyager-Blog-Header-1200x630-1.png)
 

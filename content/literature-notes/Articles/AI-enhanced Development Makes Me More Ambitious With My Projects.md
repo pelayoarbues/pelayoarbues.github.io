@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison's Weblog]]
+author: "[[Simon Willison's Weblog]]"
 title: 'AI-enhanced Development Makes Me More Ambitious With My Projects'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.simonwillison.net/static/2023/chatgpt-chrome-inspector-cropped.jpg)
 

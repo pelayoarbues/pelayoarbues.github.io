@@ -1,10 +1,10 @@
 ---
-author: [[explosion.ai]]
+author: "[[explosion.ai]]"
 title: 'How Nesta Uses NLP to Process 7m Job Ads and Shed Light on the UK’s Labor Market'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://explosion.ai/blog/nesta.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Manfred]]
+author: "[[Manfred]]"
 title: 'The ManfredDeveloper Career Report'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.getmanfred.com/images/cards/card_state_of_the_sector.png)
 

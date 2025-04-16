@@ -1,10 +1,10 @@
 ---
-author: [[IEEE Spectrum]]
+author: "[[IEEE Spectrum]]"
 title: 'The Creepy New Digital Afterlife Industry'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://spectrum.ieee.org/media-library/an-illustration-of-a-skull-made-up-of-squiggly-lines.png?id=48187917&amp;width=1245&amp;height=700&amp;coordinates=0%2C918%2C0%2C919)
 

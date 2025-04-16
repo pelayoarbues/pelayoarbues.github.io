@@ -1,10 +1,10 @@
 ---
-author: [[eugeneyan]]
+author: "[[eugeneyan]]"
 title: 'Don''t Mock Machine Learning Models in Unit Tests'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/unit-testing-ml.png)
 

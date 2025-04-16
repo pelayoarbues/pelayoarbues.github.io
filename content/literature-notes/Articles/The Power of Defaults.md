@@ -1,10 +1,10 @@
 ---
-author: [[Julian Lehr]]
+author: "[[Julian Lehr]]"
 title: 'The Power of Defaults'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://julian.digital/wp-content/uploads/2021/12/defaultpreview.png)
 

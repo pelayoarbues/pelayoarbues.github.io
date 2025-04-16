@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'Apple''s Huge AI Announcement Is a Chatbot and an Image Generator, Which Is the Exact Same Boring Offering as Microsoft, Google and Meta'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://futurism.com/favicon.png)
 

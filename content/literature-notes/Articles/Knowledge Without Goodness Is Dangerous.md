@@ -1,10 +1,10 @@
 ---
-author: [[Sarah M. Chappell]]
+author: "[[Sarah M. Chappell]]"
 title: 'Knowledge Without Goodness Is Dangerous'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw4NXx8YWl8ZW58MHx8fHwxNzE0OTIxODcyfDA&ixlib=rb-4.0.3&q=80&w=1080)
 

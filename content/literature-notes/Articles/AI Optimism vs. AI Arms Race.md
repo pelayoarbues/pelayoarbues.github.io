@@ -1,10 +1,10 @@
 ---
-author: [[David Cahn]]
+author: "[[David Cahn]]"
 title: 'AI Optimism vs. AI Arms Race'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/07/venn-OG.png)
 

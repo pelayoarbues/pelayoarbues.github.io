@@ -1,10 +1,10 @@
 ---
-author: [[Javier Escribano]]
+author: "[[Javier Escribano]]"
 title: 'Necesitamos Más Y Mejores Engineering Managers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1528901166007-3784c7dd3653?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHw3fHxkZXZlbG9wZXJzfGVufDB8fHx8MTcxODE4OTU2Mnww&ixlib=rb-4.0.3&q=80&w=1080)
 

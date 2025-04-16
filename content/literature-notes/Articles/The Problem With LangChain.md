@@ -1,10 +1,10 @@
 ---
-author: [[minimaxir.com]]
+author: "[[minimaxir.com]]"
 title: 'The Problem With LangChain'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://minimaxir.com/media/icon_hu8e97f1fc1d6468da1325468be42ca7f8_10286_512x512_fill_gaussian_center_3.png)
 

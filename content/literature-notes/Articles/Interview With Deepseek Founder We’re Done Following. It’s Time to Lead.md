@@ -1,10 +1,10 @@
 ---
-author: [[China Academy - an intellectual content network dedicated to illustrating how key dynamics shape China's view on the world]]
+author: "[[China Academy - an intellectual content network dedicated to illustrating how key dynamics shape China's view on the world]]"
 title: 'Interview With Deepseek Founder: We’re Done Following. It’s Time to Lead'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://thechinaacademy.org/wp-content/uploads/2025/01/40236225-f7c2-4e12-9042-696ff14ea772.png)
 

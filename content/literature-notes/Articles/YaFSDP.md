@@ -1,10 +1,10 @@
 ---
-author: [[yandex]]
+author: "[[yandex]]"
 title: 'YaFSDP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://opengraph.githubassets.com/13d5a73661916b54fee18c4ad389d1a8e1d216ee508dfd4724e7c80405de0146/yandex/YaFSDP)
 

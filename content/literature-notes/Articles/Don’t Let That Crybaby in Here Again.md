@@ -1,10 +1,10 @@
 ---
-author: [[Steven Shapin]]
+author: "[[Steven Shapin]]"
 title: 'Don’t Let That Crybaby in Here Again'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.lrb.co.uk/storage/social_image_on_bg/images/0/7/1/5/6155170-1-eng-GB/LRB-2217-01.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Google Cloud]]
+author: "[[Google Cloud]]"
 title: 'Build and Deploy Generative AI and Machine Learning Models in an Enterprise'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cloud.google.com/_static/cloud/images/social-icon-google-cloud-1200-630.png)
 

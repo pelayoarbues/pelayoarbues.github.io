@@ -1,10 +1,10 @@
 ---
-author: [[Enrique Krauze]]
+author: "[[Enrique Krauze]]"
 title: 'A Philosopher for Our Times'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://webapi.project-syndicate.org/library/23c6842e92f8c6b02e7c7e29d5c1b5b1.2-1-super.1.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Alistair Pullen]]
+author: "[[Alistair Pullen]]"
 title: 'I Got Early Access to ChatGPT API and Then Pushed It to It’s Limits. Here’s What You Need to Know.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/63dac39a0ea2353d0e132a36/63daf57772bc814cc05cac89/63ff9c5b6052bf01d9e5a57c/1677699006371/ChatGPT-Emblem.png?format=1500w)
 

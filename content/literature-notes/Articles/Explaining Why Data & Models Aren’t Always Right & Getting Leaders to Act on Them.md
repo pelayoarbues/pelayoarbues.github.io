@@ -1,10 +1,10 @@
 ---
-author: [[Vin Vashishta]]
+author: "[[Vin Vashishta]]"
 title: 'Explaining Why Data & Models Aren’t Always Right & Getting Leaders to Act on Them'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/cffa515e-95d5-4a93-b18a-ff6a366f4023_1200x630.png)
 

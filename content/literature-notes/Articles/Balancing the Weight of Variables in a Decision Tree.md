@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'Balancing the Weight of Variables in a Decision Tree'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/GettyImages-923622818-1.jpg)
 

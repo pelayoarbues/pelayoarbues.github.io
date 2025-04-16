@@ -1,10 +1,10 @@
 ---
-author: [[OpenAI]]
+author: "[[OpenAI]]"
 title: 'Planning for AGI and Beyond'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://openai.com/content/images/2023/02/our-intentions.jpg)
 

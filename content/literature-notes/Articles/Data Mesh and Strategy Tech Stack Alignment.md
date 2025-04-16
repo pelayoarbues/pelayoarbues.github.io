@@ -1,10 +1,10 @@
 ---
-author: [[Vin Vashishta]]
+author: "[[Vin Vashishta]]"
 title: 'Data Mesh and Strategy Tech Stack Alignment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/6e0c55c7-a0e2-46e4-9245-732b324fb6d3_1920x1080.png)
 

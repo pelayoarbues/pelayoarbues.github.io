@@ -1,10 +1,10 @@
 ---
-author: [[Parker Rogers]]
+author: "[[Parker Rogers]]"
 title: 'What Is "Data as a Product" Really?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets-global.website-files.com/60d9fbbfcd9fcb40bad8aac3/62a38e5a180196a1a760c86c_What-is-data-as-a-product-really.png)
 

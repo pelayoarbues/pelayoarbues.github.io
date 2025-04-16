@@ -1,10 +1,10 @@
 ---
-author: [[inigomedina.co]]
+author: "[[inigomedina.co]]"
 title: 'IA Y Navegadores'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://inigomedina.co/posts/03-14-ia-y-navegadores/cover.png)
 

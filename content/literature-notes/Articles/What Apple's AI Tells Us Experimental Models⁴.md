@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Mollick]]
+author: "[[Ethan Mollick]]"
 title: 'What Apple''s AI Tells Us: Experimental Models⁴'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3c7c224-4e28-49c0-ac16-5178fdfa4d15_1376x864.png)
 

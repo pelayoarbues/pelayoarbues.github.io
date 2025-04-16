@@ -1,10 +1,10 @@
 ---
-author: [[Nathan Benaich]]
+author: "[[Nathan Benaich]]"
 title: 'State of AI Report - 2024'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/224919358/f74stvTNG_CBQ2Q7w88mZ2ptviLCOTYl_DSpUlyXjUY-cove_tIbOM2D.png)
 

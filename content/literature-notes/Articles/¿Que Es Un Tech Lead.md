@@ -1,10 +1,10 @@
 ---
-author: [[Félix López]]
+author: "[[Félix López]]"
 title: '¿Qué Es Un Tech Lead?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fflopezluis.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1986148719%26version%3D9)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Catarina Seabra]]
+author: "[[Catarina Seabra]]"
 title: 'Zillow Group Acquires AI Company for Virtual Staging'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/10/zillow.png)
 

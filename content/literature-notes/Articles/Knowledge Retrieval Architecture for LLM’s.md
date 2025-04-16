@@ -1,10 +1,10 @@
 ---
-author: [[Matt Boegner]]
+author: "[[Matt Boegner]]"
 title: 'Knowledge Retrieval Architecture for LLM’s'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mattboegner.com/content/images/2023/01/featured-image-llm-knowledge-architecture.png)
 

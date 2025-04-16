@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison]]
+author: "[[Simon Willison]]"
 title: 'An Analysis of Chinese LLM Censorship and Bias With Qwen 2 Instruct'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://simonwillison.net/favicon.ico)
 

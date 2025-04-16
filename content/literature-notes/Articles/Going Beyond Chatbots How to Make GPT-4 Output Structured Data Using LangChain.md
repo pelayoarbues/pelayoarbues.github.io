@@ -1,10 +1,10 @@
 ---
-author: [[Jacob Lee]]
+author: "[[Jacob Lee]]"
 title: 'Going Beyond Chatbots: How to Make GPT-4 Output Structured Data Using LangChain'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.langchain.dev/content/images/2023/05/Screenshot-2023-05-21-at-8.20.41-PM.png)
 

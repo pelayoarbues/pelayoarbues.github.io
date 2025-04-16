@@ -1,10 +1,10 @@
 ---
-author: [[Stephen Wolfram]]
+author: "[[Stephen Wolfram]]"
 title: 'Useful to the Point of Being Revolutionary: Introducing Wolfram Notebook Assistant'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.wolfram.com/sites/43/2024/12/nba-hero-min.png)
 

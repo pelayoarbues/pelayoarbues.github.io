@@ -1,10 +1,10 @@
 ---
-author: [[eugeneyan]]
+author: "[[eugeneyan]]"
 title: 'How Prototyping Can Help You to Get Buy-In'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/prototype-title.jpg)
 

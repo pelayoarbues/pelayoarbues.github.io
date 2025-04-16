@@ -1,10 +1,10 @@
 ---
-author: [[Argilla S.L.U.]]
+author: "[[Argilla S.L.U.]]"
 title: 'Finetuning an LLM: RLHF and Alternatives'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.argilla.io/blog/mantisnlp-rlhf/part-2-banner.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: 'The Motivation Behind Using KernelPCA Over PCA for Dimensionality Reduction'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/3117bf57-0cd1-458d-b47f-6bbba9cd3332_2944x2752.png)
 

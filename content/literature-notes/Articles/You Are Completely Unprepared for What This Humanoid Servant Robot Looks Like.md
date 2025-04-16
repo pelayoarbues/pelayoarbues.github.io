@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'You Are Completely Unprepared for What This Humanoid Servant Robot Looks Like'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2025/02/1x-humanoid-robot-neo-gamma.jpg)
 

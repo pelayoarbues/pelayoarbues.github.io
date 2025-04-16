@@ -1,10 +1,10 @@
 ---
-author: [[Joan Tubau]]
+author: "[[Joan Tubau]]"
 title: 'España No Tiene FIRE'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F7774de77-689d-4db9-8672-f35faa25f7d7_4000x2921.jpeg)
 

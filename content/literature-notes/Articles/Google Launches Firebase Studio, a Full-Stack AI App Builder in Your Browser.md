@@ -1,10 +1,10 @@
 ---
-author: [[Chris McKay]]
+author: "[[Chris McKay]]"
 title: 'Google Launches Firebase Studio, a Full-Stack AI App Builder in Your Browser'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.maginative.com/content/images/size/w1200/2025/04/firebase-studio.jpg)
 

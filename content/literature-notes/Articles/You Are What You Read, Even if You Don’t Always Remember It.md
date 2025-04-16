@@ -1,10 +1,10 @@
 ---
-author: [[Jim Nielsen]]
+author: "[[Jim Nielsen]]"
 title: 'You Are What You Read, Even if You Don’t Always Remember It'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.jim-nielsen.com/favicon.ico)
 

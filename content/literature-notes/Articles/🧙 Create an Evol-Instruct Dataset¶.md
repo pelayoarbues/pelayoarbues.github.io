@@ -1,10 +1,10 @@
 ---
-author: [[Argilla, Inc.]]
+author: "[[Argilla, Inc.]]"
 title: '🧙 Create an Evol-Instruct Dataset¶'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://argilla-io.github.io/distilabel/0.6.0/assets/images/social/tutorials/create-evol-instruct-dataset.png)
 

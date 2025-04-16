@@ -1,10 +1,10 @@
 ---
-author: [[cbeams]]
+author: "[[cbeams]]"
 title: 'How to Write a Git Commit Message'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cbea.ms/content/images/2021/01/git_commit_2x.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Daniel van Strien]]
+author: "[[Daniel van Strien]]"
 title: 'Distiling DeepSeek Reasoning to ModernBERT Classifiers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://github.com/davanstrien/blog/raw/refs/heads/main/posts/2025/modern-bert-sythetic-labels/bert-illustration.webp)
 

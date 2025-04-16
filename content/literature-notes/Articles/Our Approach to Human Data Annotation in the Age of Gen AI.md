@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'Our Approach to Human Data Annotation in the Age of Gen AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/prodigiosaia_Two_hands_one_raised_up_and_the_other_down_on_blue_b8921a05-2c0f-45b5-b322-475b8b8f871e-1.webp)
 

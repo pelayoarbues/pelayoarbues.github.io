@@ -1,10 +1,10 @@
 ---
-author: [[Computer Things]]
+author: "[[Computer Things]]"
 title: 'Data and Reality'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://buttondown.com/static/images/icons/icon-square@400.png)
 

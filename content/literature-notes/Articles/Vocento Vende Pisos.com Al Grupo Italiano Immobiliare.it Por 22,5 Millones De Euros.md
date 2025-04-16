@@ -1,10 +1,10 @@
 ---
-author: [[Diario ABC]]
+author: "[[Diario ABC]]"
 title: 'Vocento Vende Pisos.com Al Grupo Italiano Immobiliare.it Por 22,5 Millones De Euros'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s3.abcstatics.com/abc/www/multimedia/economia/2025/03/18/OCH06946-ktL--1024x512@diario_abc.jpg)
 

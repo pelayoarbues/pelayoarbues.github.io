@@ -1,10 +1,10 @@
 ---
-author: [[Mallika Komarapuram Sreedhar]]
+author: "[[Mallika Komarapuram Sreedhar]]"
 title: 'Book Review – Data Culture by Dr. Shorful Islam'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/nightingaledvs.com/wp-content/uploads/2024/10/Cover.png?fit=1920%2C1080&ssl=1)
 

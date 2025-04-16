@@ -1,10 +1,10 @@
 ---
-author: [[a Database guy]]
+author: "[[a Database guy]]"
 title: 'The Birth of chDB'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://auxten.com/logo.png)
 

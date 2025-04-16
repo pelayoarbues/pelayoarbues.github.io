@@ -1,10 +1,10 @@
 ---
-author: [[infraeng.dev]]
+author: "[[infraeng.dev]]"
 title: 'Tech Spec Review'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://infraeng.dev/static/site.png)
 

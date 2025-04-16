@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'El Banco de España multa con 590.000 euros a Sociedad de Tasación y su cúpula'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.idealista.com/news/s3/files/styles/highlighted_md/public/2025-01/20250109200711.jpg)
 

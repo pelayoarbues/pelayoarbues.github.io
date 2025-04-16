@@ -1,10 +1,10 @@
 ---
-author: [[Context by Cohere]]
+author: "[[Context by Cohere]]"
 title: 'Cohere Compass Private Beta: A New Multi-Aspect Embedding Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://txt.cohere.com/content/images/size/w1200/2024/04/image12.png)
 

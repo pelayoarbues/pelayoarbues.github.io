@@ -1,10 +1,10 @@
 ---
-author: [[Tammy Xu]]
+author: "[[Tammy Xu]]"
 title: 'What Are Tracer Bullets in Software Development?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://builtin.com/sites/www.builtin.com/files/styles/og/public/fireworks-tracer-bullets.png)
 

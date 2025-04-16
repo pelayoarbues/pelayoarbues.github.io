@@ -1,10 +1,10 @@
 ---
-author: [[Malay Haldar]]
+author: "[[Malay Haldar]]"
 title: 'Improving Search Ranking for Maps'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/da:true/resize:fit:1200/0*DO7m1JZFPSvVRlBG)
 

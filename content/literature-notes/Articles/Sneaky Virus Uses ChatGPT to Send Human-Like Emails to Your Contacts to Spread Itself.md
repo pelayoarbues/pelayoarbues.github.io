@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'Sneaky Virus Uses ChatGPT to Send Human-Like Emails to Your Contacts to Spread Itself'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/07/virus-chatgpt-write-human-emails.jpg)
 

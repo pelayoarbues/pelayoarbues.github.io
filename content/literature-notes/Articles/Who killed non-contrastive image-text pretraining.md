@@ -1,10 +1,10 @@
 ---
-author: [[Lucas Beyer]]
+author: "[[Lucas Beyer]]"
 title: 'Who killed non-contrastive image-text pretraining?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/378800000845687873/37bba4f807fe3a2c644a252f8191338d_normal.jpeg)
 

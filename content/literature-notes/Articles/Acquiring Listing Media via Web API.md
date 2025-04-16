@@ -1,10 +1,10 @@
 ---
-author: [[Claire Northrop]]
+author: "[[Claire Northrop]]"
 title: 'Acquiring Listing Media via Web API'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.reso.org/wp-content/uploads/2024/02/AquiringLisingMedia_Set_Image.png)
 

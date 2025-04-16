@@ -1,10 +1,10 @@
 ---
-author: [[Chip Huyen]]
+author: "[[Chip Huyen]]"
 title: 'Building LLM Applications for Production'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huyenchip.com/assets/pics/llmops/llama_taming.png)
 

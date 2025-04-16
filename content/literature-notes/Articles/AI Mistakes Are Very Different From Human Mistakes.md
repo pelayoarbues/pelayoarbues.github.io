@@ -1,10 +1,10 @@
 ---
-author: [[Bruce Schneier]]
+author: "[[Bruce Schneier]]"
 title: 'AI Mistakes Are Very Different From Human Mistakes'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149400697.v2.pressablecdn.com/wp-content/uploads/2020/06/cropped-favicon-1-32x32.png)
 

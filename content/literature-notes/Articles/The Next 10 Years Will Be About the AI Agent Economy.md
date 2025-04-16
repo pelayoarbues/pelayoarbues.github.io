@@ -1,10 +1,10 @@
 ---
-author: [[NFX]]
+author: "[[NFX]]"
 title: 'The Next 10 Years Will Be About the AI Agent Economy'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2025/02/word-image-20650-1.jpeg)
 

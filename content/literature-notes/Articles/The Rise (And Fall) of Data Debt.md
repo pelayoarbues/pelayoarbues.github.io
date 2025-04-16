@@ -1,10 +1,10 @@
 ---
-author: [[Martin Sahlen]]
+author: "[[Martin Sahlen]]"
 title: 'The Rise (And Fall?) of Data Debt'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpub_JH7b5wf.png)
 

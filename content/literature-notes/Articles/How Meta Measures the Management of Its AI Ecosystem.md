@@ -1,10 +1,10 @@
 ---
-author: [[facebook.com]]
+author: "[[facebook.com]]"
 title: 'How Meta Measures the Management of Its AI Ecosystem'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent-lax3-1.xx.fbcdn.net/v/t39.2365-6/329234186_930918231689922_3285773809582652411_n.png?_nc_cat=110&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=RU0GESjgIB4AX9qbUBi&_nc_oc=AQkg1wFWei_XXivsqCAYN0ukwGdqiAIHsCPvzQAoousH5voRuqf1ZgYoYKbyno_-T4A&_nc_ht=scontent-lax3-1.xx&oh=00_AfCGyHrMIKs11s2nCHFncQ22KzaxSfkGc2F6QgUVETCMDg&oe=6424F147)
 

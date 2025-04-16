@@ -1,10 +1,10 @@
 ---
-author: [[Amar Subramanya]]
+author: "[[Amar Subramanya]]"
 title: 'Gemini’s Big Upgrade: Faster Responses With 1.5 Flash'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_SS_New.width-1300.jpg)
 

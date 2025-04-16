@@ -1,10 +1,10 @@
 ---
-author: [[Alex Shashkevich]]
+author: "[[Alex Shashkevich]]"
 title: 'Stanford Researcher Examines Earliest Concepts of Artificial Intelligence, Robots in Ancient Myths'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.stanford.edu/wp-content/uploads/2019/02/AncientRobots_1_featured.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[mckinsey.com]]
+author: "[[mckinsey.com]]"
 title: 'The-State-of-Ai-How-Organizations-Are-Rewiring-to-Capture-Value_final'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/282713386/ZcYOg9T1NCuM-x5MzvNPlfTQW_r3CCNGO20Hx4wi7fo-cove_oAa3PNW.png)
 

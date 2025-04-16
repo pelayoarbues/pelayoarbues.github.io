@@ -1,10 +1,10 @@
 ---
-author: [[McKinsey & Company]]
+author: "[[McKinsey & Company]]"
 title: 'Executive’s guide to developing AI at scale'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/executive-guide-ai-1536x1536.png)
 

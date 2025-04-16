@@ -1,10 +1,10 @@
 ---
-author: [[Akshat Bubna]]
+author: "[[Akshat Bubna]]"
 title: 'How to Label 1M Data Points/Week'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.builder.io/api/v1/image/assets%2Fe0438815ba51486bbb6a202747122d4b%2F4ba57966ec8e4f30a76576f000b8f572)
 

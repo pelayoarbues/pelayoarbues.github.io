@@ -1,10 +1,10 @@
 ---
-author: [[Anas Awadalla]]
+author: "[[Anas Awadalla]]"
 title: 'MINT-1T: Scaling Open-Source Multimodal Data by 10x: A Multimodal Dataset With One Trillion Tokens'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.salesforceairesearch.com/content/images/2024/07/Screenshot-2024-07-22-at-3.02.30-PM.png)
 

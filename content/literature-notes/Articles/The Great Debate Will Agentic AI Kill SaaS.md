@@ -1,10 +1,10 @@
 ---
-author: [[Chuck Whitten]]
+author: "[[Chuck Whitten]]"
 title: 'The Great Debate: Will Agentic AI Kill SaaS?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bain.com/contentassets/2827a03e514f4df497ed0f237f6f96b4/agentic1-gettyimages-2148113350-16-9.jpg)
 

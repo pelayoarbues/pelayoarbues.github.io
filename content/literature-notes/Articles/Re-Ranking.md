@@ -1,10 +1,10 @@
 ---
-author: [[Google for Developers]]
+author: "[[Google for Developers]]"
 title: 'Re-Ranking'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.gstatic.com/devrel-devsite/prod/v032f5e834ea07ceb506abc7629b7ff47ac48c72d9122b91b2cecfd4022841b1c/developers/images/opengraph/white.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[rentry.org]]
+author: "[[rentry.org]]"
 title: 'Rough FAQ for 東方Project AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.imgur.com/AbCsLEx.png)
 

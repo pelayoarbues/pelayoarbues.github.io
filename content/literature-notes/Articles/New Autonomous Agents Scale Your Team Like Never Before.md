@@ -1,10 +1,10 @@
 ---
-author: [[Jared Spataro - CMO]]
+author: "[[Jared Spataro - CMO]]"
 title: 'New Autonomous Agents Scale Your Team Like Never Before'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blogs.microsoft.com/wp-content/uploads/prod/2024/10/Copilot.png)
 

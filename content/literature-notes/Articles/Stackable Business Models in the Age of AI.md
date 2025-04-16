@@ -1,10 +1,10 @@
 ---
-author: [[NFX]]
+author: "[[NFX]]"
 title: 'Stackable Business Models in the Age of AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2025/01/OGFinal.jpg)
 

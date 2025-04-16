@@ -1,10 +1,10 @@
 ---
-author: [[Alex Li]]
+author: "[[Alex Li]]"
 title: 'Diffusion models have amazing image creation abilities'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1646908294563233793/lsOCbifE_normal.jpg)
 

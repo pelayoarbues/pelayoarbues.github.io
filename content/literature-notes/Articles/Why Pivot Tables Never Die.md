@@ -1,10 +1,10 @@
 ---
-author: [[Simon Späti]]
+author: "[[Simon Späti]]"
 title: 'Why Pivot Tables Never Die'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/65a86746782488f38259fe35/67a126af97f65dba2fd38b05_Pivot%20tables%20(2).png)
 

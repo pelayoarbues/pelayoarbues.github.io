@@ -1,10 +1,10 @@
 ---
-author: [[anthropic.com]]
+author: "[[anthropic.com]]"
 title: 'Introducing the Model Context Protocol'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.ycombinator.com/y18.svg)
 

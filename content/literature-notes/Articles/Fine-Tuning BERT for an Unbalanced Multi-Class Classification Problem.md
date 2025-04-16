@@ -1,10 +1,10 @@
 ---
-author: [[dataroots.io]]
+author: "[[dataroots.io]]"
 title: 'Fine-Tuning BERT for an Unbalanced Multi-Class Classification Problem'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://dataroots.io/api/social-preview?title=&description=Fine-tuning%20BERT%20for%20an%20unbalanced%20multi-class%20classification%20problem&subdescription=by%20Antoine%20Caytan&width=1200&height=630&previewImgUrl=&backgroundImgUrl=https%3A%2F%2Fdataroots.ghost.io%2Fcontent%2Fimages%2F2023%2F06%2FDALL-E-Word-Embeddings.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Lenny Rachitsky]]
+author: "[[Lenny Rachitsky]]"
 title: 'How to Learn the Most About a Candidate From a Single Interview Question'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2043bdf1-3c2b-43d0-87cc-9a867cc3d071_2048x1024.png)
 

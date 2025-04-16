@@ -1,10 +1,10 @@
 ---
-author: [[Samuel Gil]]
+author: "[[Samuel Gil]]"
 title: '#227 Software B2B en la era de la IA'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/youtube/w_728,c_limit/aIKfA3gIXwo)
 

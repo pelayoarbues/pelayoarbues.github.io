@@ -1,10 +1,10 @@
 ---
-author: [[Sebastian Raschka]]
+author: "[[Sebastian Raschka]]"
 title: 'Understanding Multimodal LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://sebastianraschka.com/images/favicons/apple-touch-icon.png)
 

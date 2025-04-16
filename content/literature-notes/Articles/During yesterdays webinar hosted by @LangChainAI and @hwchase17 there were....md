@@ -1,10 +1,10 @@
 ---
-author: [[Eric Ciarla]]
+author: "[[Eric Ciarla]]"
 title: 'During yesterdays webinar hosted by @LangChainAI and @hwchase17 there were...'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1616231349718863873/xD7Sjvii_normal.jpg)
 

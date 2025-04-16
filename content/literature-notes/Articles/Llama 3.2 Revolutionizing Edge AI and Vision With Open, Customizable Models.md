@@ -1,10 +1,10 @@
 ---
-author: [[meta.com]]
+author: "[[meta.com]]"
 title: 'Llama 3.2: Revolutionizing Edge AI and Vision With Open, Customizable Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/460993006_2920762584889879_5205653052963582511_n.png?_nc_cat=104&ccb=1-7&_nc_sid=e280be&_nc_ohc=ZQcnpDW25kMQ7kNvgGSUlLE&_nc_ht=scontent-sjc3-1.xx&_nc_gid=AVm2pLtxrlmSyKqSiWWXj7V&oh=00_AYCVENm9lVrIlw2MQ6R5R8VcvIk3pYtxkBXn7_OLMnGIYw&oe=670E8B3C)
 

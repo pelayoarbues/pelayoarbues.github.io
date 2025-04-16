@@ -1,10 +1,10 @@
 ---
-author: [[Jason Fried]]
+author: "[[Jason Fried]]"
 title: 'I’ve Never Had a Goal'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=192%2C192&ssl=1)
 

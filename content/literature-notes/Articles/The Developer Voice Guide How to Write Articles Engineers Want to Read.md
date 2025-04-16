@@ -1,10 +1,10 @@
 ---
-author: [[Adi Polak]]
+author: "[[Adi Polak]]"
 title: 'The Developer Voice Guide: How to Write Articles Engineers Want to Read'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:307/1*HqsXGETECwHdTPVHfcFpHQ.png)
 

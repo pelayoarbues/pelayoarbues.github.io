@@ -1,10 +1,10 @@
 ---
-author: [[Kerry Howley]]
+author: "[[Kerry Howley]]"
 title: 'Andrew Huberman’s Mechanisms of Control'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pyxis.nymag.com/v1/imgs/9d0/e48/a65cd5fe6ab8ff7856bfed3f033273ad94-Andrew-Huberman.1x.rsocial.w1200.jpg)
 

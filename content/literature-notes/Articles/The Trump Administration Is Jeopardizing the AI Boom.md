@@ -1,10 +1,10 @@
 ---
-author: [[Matteo Wong]]
+author: "[[Matteo Wong]]"
 title: 'The Trump Administration Is Jeopardizing the AI Boom'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.theatlantic.com/thumbor/KrVL3GGR4Ad1EZIMsN68GkA0Rwg=/0x0:2000x1125/960x540/media/img/mt/2025/04/AI_maga/original.jpg)
 

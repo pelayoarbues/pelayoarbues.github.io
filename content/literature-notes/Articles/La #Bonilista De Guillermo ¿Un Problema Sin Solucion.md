@@ -1,10 +1,10 @@
 ---
-author: [[Bonilista Archive Feed]]
+author: "[[Bonilista Archive Feed]]"
 title: 'La #Bonilista De Guillermo: ¿Un Problema Sin Solución?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/833894ac-685c-acf9-8eee-3a227681bc5e.jpg)
 

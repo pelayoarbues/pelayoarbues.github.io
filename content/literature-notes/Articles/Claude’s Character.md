@@ -1,10 +1,10 @@
 ---
-author: [[anthropic.com]]
+author: "[[anthropic.com]]"
 title: 'Claude’s Character'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.sanity.io/images/4zrzovbb/website/95f9f6787181f5587dcecfeec27e6d21bed20b21-3024x1584.png)
 

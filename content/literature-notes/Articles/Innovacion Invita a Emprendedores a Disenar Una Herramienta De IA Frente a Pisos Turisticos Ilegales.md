@@ -1,10 +1,10 @@
 ---
-author: [[EDICIONES PLAZA, S.L.]]
+author: "[[EDICIONES PLAZA, S.L.]]"
 title: 'Innovación Invita a Emprendedores a Diseñar Una Herramienta De IA Frente a Pisos Turísticos Ilegales'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://alicanteplaza.es/public/Image/socialThumb/17200853703700230.png)
 

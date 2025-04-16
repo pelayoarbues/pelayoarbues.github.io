@@ -1,10 +1,10 @@
 ---
-author: [[Farnam Street]]
+author: "[[Farnam Street]]"
 title: 'Ego Is the Enemy: The Legend of Genghis Khan'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149664534.v2.pressablecdn.com/wp-content/uploads/2016/06/Genghis-Khan.png)
 

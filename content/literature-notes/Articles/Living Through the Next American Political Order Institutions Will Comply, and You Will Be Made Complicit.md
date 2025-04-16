@@ -1,10 +1,10 @@
 ---
-author: [[tompepinsky.com]]
+author: "[[tompepinsky.com]]"
 title: 'Living Through the Next American Political Order: Institutions Will Comply, and You Will Be Made Complicit'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://tompepinsky.com/wp-content/uploads/2016/08/cropped-cropped-13701171_10101244934263554_5199987785469726126_o3.jpg?w=200)
 

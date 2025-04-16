@@ -1,10 +1,10 @@
 ---
-author: [[Gary Marcus]]
+author: "[[Gary Marcus]]"
 title: 'Elon Musk: 1; Yann LeCun: 1; Humanity: 0'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcea0241d-a7a2-4516-86a6-4c4b7dfad516_1798x1247.png)
 

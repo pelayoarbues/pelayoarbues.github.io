@@ -1,10 +1,10 @@
 ---
-author: [[Alberto Iglesias Fraga]]
+author: "[[Alberto Iglesias Fraga]]"
 title: 'Agentes Autónomos: Salesforce Aterriza en España La Gran Revolución Empresarial De La IA en La Gestión De Clientes'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s1.elespanol.com/2024/11/12/actualidad/900670012_250797717_1706x960.jpg)
 

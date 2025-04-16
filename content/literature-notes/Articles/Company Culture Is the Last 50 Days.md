@@ -1,10 +1,10 @@
 ---
-author: [[Jason Fried (jason@hey.com)]]
+author: "[[Jason Fried (jason@hey.com)]]"
 title: 'Company Culture Is the Last 50 Days'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/jason/avatar-20200630203149000000-2745081)
 

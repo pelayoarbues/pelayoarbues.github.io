@@ -1,10 +1,10 @@
 ---
-author: [[José Luis Aranda]]
+author: "[[José Luis Aranda]]"
 title: 'Vivienda Presenta El Nuevo Índice De Precios Para Poner Límites a Los Alquileres Y Entrará en Vigor El 13 De Marzo'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imagenes.elpais.com/resizer/D7AuIc9pNMP5yX1UWLvPr92UcxM=/1200x0/filters:focal(2672x965:2682x975)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/HAY3SMIEF3EIPQZYOMFI6V4ZNU.jpg)
 

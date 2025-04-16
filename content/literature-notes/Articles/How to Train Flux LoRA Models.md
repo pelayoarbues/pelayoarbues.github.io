@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'How to Train Flux LoRA Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stable-diffusion-art.com/wp-content/uploads/2024/09/train-flux-lora-cover.png)
 

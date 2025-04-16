@@ -1,10 +1,10 @@
 ---
-author: [[eugeneyan.com]]
+author: "[[eugeneyan.com]]"
 title: 'What I Do Before a Data Science Project to Ensure Success'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/ideal-data-science-workflow.jpg)
 

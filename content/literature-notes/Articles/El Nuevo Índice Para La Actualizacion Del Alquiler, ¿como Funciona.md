@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'El Nuevo Índice Para La Actualización Del Alquiler, ¿cómo Funciona?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2024-12/images/indoor-shot-woman-optical-glasses-checks-bank-account-recieves-bills-holds-plastic-card.jpg?VersionId=HxINGVy7rrNP7fKk6eBRNHYDK1811nQt&itok=US4YelR1)
 

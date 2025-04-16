@@ -1,10 +1,10 @@
 ---
-author: [[Ralph Jones]]
+author: "[[Ralph Jones]]"
 title: '‘Not Second Screen Enough’: Is Netflix Deliberately Dumbing Down TV So People Can Watch While Scrolling?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.guim.co.uk/img/media/4ec7273606027624be3f9acb482039003cc8e137/0_0_7200_4320/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbe793983b3ff2c42907f4eca8c38767)
 

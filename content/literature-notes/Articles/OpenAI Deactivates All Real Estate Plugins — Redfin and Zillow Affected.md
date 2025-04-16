@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'OpenAI Deactivates All Real Estate Plugins — Redfin and Zillow Affected'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2023/05/Shutterstock_2301582993.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Anna Via]]
+author: "[[Anna Via]]"
 title: 'From Data Scientist to ML / AI Product Manager'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/da:true/resize:fit:1200/0*roGk5WDZtzmGuL-C)
 

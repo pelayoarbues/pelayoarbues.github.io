@@ -1,10 +1,10 @@
 ---
-author: [[Nacho Meneses]]
+author: "[[Nacho Meneses]]"
 title: 'Rise Europe, Una Alianza Internacional Para Impulsar El Emprendimiento Tecnológico'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imagenes.elpais.com/resizer/v2/RVWDHZAZENGN3FQGBHRMCXR2HE.jpg?auth=93aba4a24379010e047bd87b7b3a9dceb07d40f6797fb875b4c8e3bafc580bf4&width=1200)
 

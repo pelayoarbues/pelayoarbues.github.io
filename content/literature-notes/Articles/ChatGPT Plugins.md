@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'ChatGPT Plugins'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://openai.com/favicon.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Next Diffusion]]
+author: "[[Next Diffusion]]"
 title: 'Fixing Faces in Stable Diffusion Using ADetailer Extension'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://res.cloudinary.com/db7mzrftq/image/upload/v1693232514/fixing_faces_in_stable_diffusion_using_adetailer_extension_thumbnail_56b9284f53.webp)
 

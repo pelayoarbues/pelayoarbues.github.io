@@ -1,10 +1,10 @@
 ---
-author: [[Stanford HAI]]
+author: "[[Stanford HAI]]"
 title: 'Reflections on Foundation Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hai.stanford.edu/sites/default/files/news/teaser-images/brick%20foundation%20wall%20photo%20copy.jpg)
 

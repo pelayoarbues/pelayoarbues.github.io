@@ -1,11 +1,11 @@
 ---
-author: [[Sierra]]
+author: "[[Sierra]]"
 title: 'Sierra Speaks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[favorite]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[favorite]]"
 ---
 ![rw-book-cover](https://sierra.ai/-/cdn/image?src=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fca4jck6w%2Fproduction%2F43d0e82256cfe47ac2b90efc2fd6a9dcc4157518-3600x1890.png&width=1200&quality=75)
 

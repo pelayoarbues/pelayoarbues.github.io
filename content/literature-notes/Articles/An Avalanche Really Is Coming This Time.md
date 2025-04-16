@@ -1,10 +1,10 @@
 ---
-author: [[Wonkhe]]
+author: "[[Wonkhe]]"
 title: 'An Avalanche Really Is Coming This Time'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wonkhe.com/wp-content/wonkhe-uploads/2023/03/AYw41iPh_2x-scaled.jpg?_t=1679031917)
 

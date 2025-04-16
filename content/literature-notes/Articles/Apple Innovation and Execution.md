@@ -1,10 +1,10 @@
 ---
-author: [[Benedict Evans]]
+author: "[[Benedict Evans]]"
 title: 'Apple Innovation and Execution'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.squarespace-cdn.com/content/v1/50363cf324ac8e905e7df861/40b5d38d-6a9e-47b3-aa7d-2809404aedc6/Screenshot+2025-03-13+at+5.39.20%E2%80%AFpm.png?format=1000w)
 

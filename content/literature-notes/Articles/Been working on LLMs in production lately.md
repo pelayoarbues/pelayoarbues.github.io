@@ -1,10 +1,10 @@
 ---
-author: [[Shreya Shankar]]
+author: "[[Shreya Shankar]]"
 title: 'Been working on LLMs in production lately'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1342529111839944705/hzr44mb5_normal.jpg)
 

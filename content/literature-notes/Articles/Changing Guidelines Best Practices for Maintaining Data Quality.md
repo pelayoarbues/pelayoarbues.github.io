@@ -1,10 +1,10 @@
 ---
-author: [[Argilla S.L.U.]]
+author: "[[Argilla S.L.U.]]"
 title: 'Changing Guidelines: Best Practices for Maintaining Data Quality'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.argilla.io/blog/annotation-guidelines-practices/annotation-guidelines-banner.png)
 

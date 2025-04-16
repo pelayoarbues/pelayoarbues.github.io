@@ -1,10 +1,10 @@
 ---
-author: [[Steve Banker]]
+author: "[[Steve Banker]]"
 title: 'One of the World Most Innovative Supply Chains'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imageio.forbes.com/blogs-images/stevebanker/files/2018/09/BASF-AGV.jpg?format=jpg&width=1200)
 

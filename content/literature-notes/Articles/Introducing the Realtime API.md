@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'Introducing the Realtime API'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ctfassets.net/kftzwdyauwt9/139I6Ga8xl6qTXGPL9lWyc/82838b1ef1a26a4946a27d656de0c806/01_Realtime_API.png?w=1600&h=900&fit=fill)
 

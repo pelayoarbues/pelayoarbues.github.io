@@ -1,10 +1,10 @@
 ---
-author: [[kyla scanlon]]
+author: "[[kyla scanlon]]"
 title: 'Trumpcoin and TikTok'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F15d9b6cf-29cc-4a37-9f9c-a44027c8d749_1280x720.png)
 

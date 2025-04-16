@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'From Business to Data: Boosting AI Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/MG_3284.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Pinterest Engineering]]
+author: "[[Pinterest Engineering]]"
 title: 'How Pinterest Leverages Realtime User Actions in Recommendation to Boost Homefeed Engagement Volume'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1200/0*SUNAYGRd2kTgrBNh)
 

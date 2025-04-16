@@ -1,11 +1,11 @@
 ---
-author: [[Erik Hoel]]
+author: "[[Erik Hoel]]"
 title: 'Stop trying to make a "good" social media site
 Stop trying to make a "good" social media site'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8c997fbc-d614-4d3a-9eee-bd12b539ac3d_1181x1299.jpeg)
 

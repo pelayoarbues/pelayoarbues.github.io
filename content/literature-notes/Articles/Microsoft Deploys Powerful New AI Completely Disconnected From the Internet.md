@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'Microsoft Deploys Powerful New AI Completely Disconnected From the Internet'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/05/microsoft-ai-disconnected-from-internet.jpg)
 

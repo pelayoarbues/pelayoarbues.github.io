@@ -1,10 +1,10 @@
 ---
-author: [[Sean Scott]]
+author: "[[Sean Scott]]"
 title: 'Google Shopping’s Getting a Big Transformation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Shopping-Hero_4.width-1300.jpg)
 

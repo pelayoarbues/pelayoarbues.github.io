@@ -1,10 +1,10 @@
 ---
-author: [[Tiago Forte]]
+author: "[[Tiago Forte]]"
 title: 'How to Summarize Books Using ChatGPT: 7 Experiments in AI Distillation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://fortelabs.com/wp-content/uploads/2023/05/Blog-Thumbnails-2.0-7.png)
 

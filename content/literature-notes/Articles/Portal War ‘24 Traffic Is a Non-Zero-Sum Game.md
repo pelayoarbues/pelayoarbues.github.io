@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'Portal War ‘24: Traffic Is a Non-Zero-Sum Game'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/57b1c75aebbd1abcdecf8171/57b1c7c3414fb58fb6cbb91c/6645fa360ba51831da637ce3/1715869001676/Screenshot+2024-05-16+at+9.25.03%E2%80%AFAM.png?format=1500w)
 

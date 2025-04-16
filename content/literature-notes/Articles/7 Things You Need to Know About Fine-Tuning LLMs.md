@@ -1,10 +1,10 @@
 ---
-author: [[predibase.com]]
+author: "[[predibase.com]]"
 title: '7 Things You Need to Know About Fine-Tuning LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://predibase.com/static/c5f62ce48a44ebc6f50f95728c9f4db7/3a835/7_things_about_fine-tuning__1_.png)
 

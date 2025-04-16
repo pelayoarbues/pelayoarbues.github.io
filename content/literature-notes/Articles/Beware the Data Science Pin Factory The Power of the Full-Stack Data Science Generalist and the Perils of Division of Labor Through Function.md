@@ -1,10 +1,10 @@
 ---
-author: [[stitchfix.com]]
+author: "[[stitchfix.com]]"
 title: 'Beware the Data Science Pin Factory: The Power of the Full-Stack Data Science Generalist and the Perils of Division of Labor Through Function'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://multithreaded.stitchfix.com/assets/posts/2019-03-11-FullStackDS-Generalists/image1.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Jim Baker]]
+author: "[[Jim Baker]]"
 title: 'The Story of Three Bricklayers – A Parable About The Power of Purpose'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://sacredstructures.org/wp-content/uploads/2019/04/bricklayer.jpg)
 

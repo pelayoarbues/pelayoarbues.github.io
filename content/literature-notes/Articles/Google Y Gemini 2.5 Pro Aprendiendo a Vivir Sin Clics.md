@@ -1,10 +1,10 @@
 ---
-author: [[El blog de Enrique Dans]]
+author: "[[El blog de Enrique Dans]]"
 title: 'Google Y Gemini 2.5 Pro: Aprendiendo a Vivir Sin Clics'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.enriquedans.com/wp-content/uploads/2025/03/The-end-of-search-engines-Dall·E.jpg)
 

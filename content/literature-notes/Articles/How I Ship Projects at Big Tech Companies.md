@@ -1,10 +1,10 @@
 ---
-author: [[seangoedecke.com]]
+author: "[[seangoedecke.com]]"
 title: 'How I Ship Projects at Big Tech Companies'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.ycombinator.com/y18.svg)
 

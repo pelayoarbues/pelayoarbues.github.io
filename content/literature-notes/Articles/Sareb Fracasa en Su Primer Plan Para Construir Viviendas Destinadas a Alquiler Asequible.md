@@ -1,10 +1,10 @@
 ---
-author: [[Gabriel Santamarina]]
+author: "[[Gabriel Santamarina]]"
 title: 'Sareb Fracasa en Su Primer Plan Para Construir Viviendas Destinadas a Alquiler Asequible'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://estaticos-cdn.prensaiberica.es/clip/790313ce-62ad-4bf4-90b2-8c05cd7c068a_16-9-discover-aspect-ratio_default_0.jpg)
 

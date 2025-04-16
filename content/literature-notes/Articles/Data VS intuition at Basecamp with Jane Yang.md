@@ -1,10 +1,10 @@
 ---
-author: [[Javi Santana]]
+author: "[[Javi Santana]]"
 title: 'Data VS intuition at Basecamp with Jane Yang'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://uploads-ssl.webflow.com/602eb44929e1ed6bb7616533/6053625aec6ece75bc7ca846_Jane%20Yang.png)
 

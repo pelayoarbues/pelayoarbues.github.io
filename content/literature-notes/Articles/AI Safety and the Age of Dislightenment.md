@@ -1,10 +1,10 @@
 ---
-author: [[Jeremy Howard]]
+author: "[[Jeremy Howard]]"
 title: 'AI Safety and the Age of Dislightenment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.fast.ai/images/enlightenment.jpeg)
 

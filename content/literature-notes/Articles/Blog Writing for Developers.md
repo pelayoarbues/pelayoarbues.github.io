@@ -1,10 +1,10 @@
 ---
-author: [[Blog Writing for Developers]]
+author: "[[Blog Writing for Developers]]"
 title: 'Blog Writing for Developers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://rmoff.net/images/2023/07/h_IMG_3288.jpeg)
 

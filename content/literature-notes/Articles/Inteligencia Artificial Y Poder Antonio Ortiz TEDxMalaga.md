@@ -1,10 +1,10 @@
 ---
-author: [[TEDx Talks]]
+author: "[[TEDx Talks]]"
 title: 'Inteligencia Artificial Y Poder | Antonio Ortiz | TEDxMálaga'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.ytimg.com/vi/WsJtUeyvBgk/maxresdefault.jpg)
 

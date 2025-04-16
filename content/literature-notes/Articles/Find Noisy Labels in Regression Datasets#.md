@@ -1,10 +1,10 @@
 ---
-author: [[cleanlab]]
+author: "[[cleanlab]]"
 title: 'Find Noisy Labels in Regression Datasets#'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://raw.githubusercontent.com/cleanlab/assets/master/cleanlab/clos-preview-card.png)
 

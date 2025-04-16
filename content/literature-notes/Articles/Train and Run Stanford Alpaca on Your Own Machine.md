@@ -1,10 +1,10 @@
 ---
-author: [[replicate.com]]
+author: "[[replicate.com]]"
 title: 'Train and Run Stanford Alpaca on Your Own Machine'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://replicate.com/static/blog/replicate-alpaca/party-alpaca.png)
 

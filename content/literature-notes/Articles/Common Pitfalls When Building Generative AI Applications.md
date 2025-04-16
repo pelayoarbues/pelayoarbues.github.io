@@ -1,10 +1,10 @@
 ---
-author: [[Chip Huyen]]
+author: "[[Chip Huyen]]"
 title: 'Common Pitfalls When Building Generative AI Applications'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huyenchip.com/favicon.ico)
 

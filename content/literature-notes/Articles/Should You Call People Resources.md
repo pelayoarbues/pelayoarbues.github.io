@@ -1,10 +1,10 @@
 ---
-author: [[Emily Webber]]
+author: "[[Emily Webber]]"
 title: 'Should You Call People Resources?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://emilywebber.co.uk/wp-content/uploads/2018/04/peopleheader.jpg)
 

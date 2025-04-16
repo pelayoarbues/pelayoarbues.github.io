@@ -1,10 +1,10 @@
 ---
-author: [[Daniel Falbel]]
+author: "[[Daniel Falbel]]"
 title: 'Understanding LoRA With a Minimal Example'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blogs.rstudio.com/tensorflow/posts/2023-06-22-understanding-lora/images/lora.png)
 

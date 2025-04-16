@@ -1,10 +1,10 @@
 ---
-author: [[marqo.ai]]
+author: "[[marqo.ai]]"
 title: 'Introducing Marqo Specialized Embedding Models for Ecommerce: Powering Multimodal AI Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/630ca238d7b194730630c5ee/672e3cdbd17f2bce96eef737_ecommerce-launch.png)
 

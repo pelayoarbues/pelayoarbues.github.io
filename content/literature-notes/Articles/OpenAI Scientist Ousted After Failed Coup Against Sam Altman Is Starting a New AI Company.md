@@ -1,10 +1,10 @@
 ---
-author: [[Noor Al-Sibai]]
+author: "[[Noor Al-Sibai]]"
 title: 'OpenAI Scientist Ousted After Failed Coup Against Sam Altman Is Starting a New AI Company'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/06/ilya-sutskever-openai-new-venture.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[James Temperton]]
+author: "[[James Temperton]]"
 title: 'The Magic of Small Engineering Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/ca7a6935-8565-4fbb-a4c6-60683e4d31a7_4836x2720.jpeg)
 

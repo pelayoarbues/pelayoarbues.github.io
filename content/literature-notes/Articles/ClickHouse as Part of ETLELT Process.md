@@ -1,10 +1,10 @@
 ---
-author: [[Nikolai Potapov]]
+author: "[[Nikolai Potapov]]"
 title: 'ClickHouse as Part of ETL/ELT Process'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*oD1bF9ljXln39pBGrKR3iA.jpeg)
 

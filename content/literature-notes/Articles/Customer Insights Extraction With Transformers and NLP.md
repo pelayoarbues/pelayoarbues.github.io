@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'Customer Insights Extraction With Transformers and NLP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/prodigiosaia_Colorful_cute_and_simple_doodle_icons_of_happy_and_2ddf1ad6-d983-42f2-be57-e3299578d317-1-1280x717.png)
 

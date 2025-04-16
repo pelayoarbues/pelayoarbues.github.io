@@ -1,10 +1,10 @@
 ---
-author: [[threadreaderapp.com]]
+author: "[[threadreaderapp.com]]"
 title: 'Try Unrolling a Thread Yourself!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://threadreaderapp.com/images/screenshots/thread/1846220545542529329.jpg)
 

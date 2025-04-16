@@ -1,10 +1,10 @@
 ---
-author: [[acryldata.io]]
+author: "[[acryldata.io]]"
 title: 'Data Contracts in DataHub: Combining Verifiability With Holistic Data Management'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.acryldata.io/images/meta/default-meta-image.png?1696531662395)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Dragan Babić]]
+author: "[[Dragan Babić]]"
 title: 'To Worry Is to Work'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://draganbabic.com/wp-content/uploads/2023/12/to-worry-is-to-work.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Randy Bias]]
+author: "[[Randy Bias]]"
 title: 'The History of Pets vs Cattle and How to Use the Analogy Properly'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://cloudscaling.com/assets/images/cloudscaling_logo.png)
 

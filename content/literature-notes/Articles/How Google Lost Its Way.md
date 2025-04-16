@@ -1,10 +1,10 @@
 ---
-author: [[Hugh Langley, Lara O'Reilly]]
+author: "[[Hugh Langley, Lara O'Reilly]]"
 title: 'How Google Lost Its Way'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.insider.com/65dd06bf90413ab8e1d6f9db?width=1200&format=jpeg)
 

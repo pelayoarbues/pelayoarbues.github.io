@@ -1,10 +1,10 @@
 ---
-author: [[Sourab Mangrulkar]]
+author: "[[Sourab Mangrulkar]]"
 title: 'Large Models Are Expensive to Fine-Tune on Downstream Tasks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1616378799624687618/IrF7Ft2r.jpg)
 

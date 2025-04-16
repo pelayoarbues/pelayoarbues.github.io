@@ -1,10 +1,10 @@
 ---
-author: [[Isabella Fulford]]
+author: "[[Isabella Fulford]]"
 title: '🌟 Our ChatGPT Retrieval Plugin is #1 trending on GitHub!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1440534288571645960/eln6MCRw_normal.jpg)
 

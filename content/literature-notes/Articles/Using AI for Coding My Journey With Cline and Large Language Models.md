@@ -1,10 +1,10 @@
 ---
-author: [[Paolo Galeone]]
+author: "[[Paolo Galeone]]"
 title: 'Using AI for Coding: My Journey With Cline and Large Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pgaleone.eu/images/me.jpeg)
 

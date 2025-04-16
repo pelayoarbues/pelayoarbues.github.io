@@ -1,10 +1,10 @@
 ---
-author: [[Libre Mercado]]
+author: "[[Libre Mercado]]"
 title: 'Sumar Quiere Controlar Los Algoritmos Que Usan Idealista Y Fotocasa'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s.libertaddigital.com/2025/03/19/1200/627/1304x503/lm/europapress-6590261-vicepresidenta-segunda-ministra-trabajo-yolanda-diaz-interviene-sesion.jpg)
 

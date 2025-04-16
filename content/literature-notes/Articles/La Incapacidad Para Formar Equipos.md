@@ -1,10 +1,10 @@
 ---
-author: [[Plácido Fajardo]]
+author: "[[Plácido Fajardo]]"
 title: 'La Incapacidad Para Formar Equipos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ecestaticos.com/9-8a357A2nl-Ixd5xQIRshgzlIY=/0x0:2121x1414/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/363/6a4/d72/3636a4d72fd0e385e764935bd967c1d3.jpg)
 

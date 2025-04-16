@@ -1,10 +1,10 @@
 ---
-author: [[Matt Turck]]
+author: "[[Matt Turck]]"
 title: '5 Thoughts on The 2023 MAD (Machine Learning, Artificial Intelligence and Data) Landscape'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://mattturck.com/wp-content/uploads/2023/02/firstmark-mad-landscape_orange-1.jpg)
 

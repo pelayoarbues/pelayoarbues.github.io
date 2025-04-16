@@ -1,10 +1,10 @@
 ---
-author: [[Borja Pérez]]
+author: "[[Borja Pérez]]"
 title: 'How AI Is Reshaping Recruiting'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://getmanfred.com/wp-content/uploads/2024/12/Group-146.png)
 

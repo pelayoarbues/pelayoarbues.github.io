@@ -1,10 +1,10 @@
 ---
-author: [[David Cahn]]
+author: "[[David Cahn]]"
 title: 'Steel, Servers and Power: What it Takes to Win the Next Phase of AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/08/AI-Steel-social.jpg)
 

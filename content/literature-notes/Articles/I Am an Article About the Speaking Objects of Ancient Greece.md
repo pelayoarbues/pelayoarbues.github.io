@@ -1,10 +1,10 @@
 ---
-author: [[Teddy Fassberg]]
+author: "[[Teddy Fassberg]]"
 title: 'I Am an Article About the Speaking Objects of Ancient Greece'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://psyche.co/apple-touch-icon.png)
 

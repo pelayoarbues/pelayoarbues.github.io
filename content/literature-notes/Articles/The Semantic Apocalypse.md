@@ -1,10 +1,10 @@
 ---
-author: [[Erik Hoel]]
+author: "[[Erik Hoel]]"
 title: 'The Semantic Apocalypse'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fd657a5f4-d71b-4247-9636-f132bf777627_1200x953.jpeg)
 

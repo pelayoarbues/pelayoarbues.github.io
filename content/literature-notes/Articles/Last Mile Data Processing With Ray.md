@@ -1,10 +1,10 @@
 ---
-author: [[Pinterest Engineering]]
+author: "[[Pinterest Engineering]]"
 title: 'Last Mile Data Processing With Ray'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*A0WPSyaHovk3DFYUzFV3bA.jpeg)
 

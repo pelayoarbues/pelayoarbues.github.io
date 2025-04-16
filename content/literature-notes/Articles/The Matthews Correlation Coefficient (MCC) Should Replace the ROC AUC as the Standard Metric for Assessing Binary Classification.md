@@ -1,10 +1,10 @@
 ---
-author: [[BioMed Central]]
+author: "[[BioMed Central]]"
 title: 'The Matthews Correlation Coefficient (MCC) Should Replace the ROC AUC as the Standard Metric for Assessing Binary Classification'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static-content.springer.com/image/art%3A10.1186%2Fs13040-023-00322-4/MediaObjects/13040_2023_322_Fig1_HTML.png)
 

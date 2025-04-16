@@ -1,10 +1,10 @@
 ---
-author: [[https://github.com/openai/]]
+author: "[[https://github.com/openai/]]"
 title: 'openai-cookbook/techniques_to_improve_reliability.md at main · openai/openai-cookbook'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://opengraph.githubassets.com/7466328614ed751a0a24d3d5a757eb663c6c3937d4e683e695ee99c3cc2db23d/openai/openai-cookbook)
 

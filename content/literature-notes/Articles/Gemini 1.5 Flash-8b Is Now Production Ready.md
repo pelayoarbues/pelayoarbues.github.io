@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison]]
+author: "[[Simon Willison]]"
 title: 'Gemini 1.5 Flash-8b Is Now Production Ready'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://simonwillison.net/favicon.ico)
 

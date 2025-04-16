@@ -1,10 +1,10 @@
 ---
-author: [[Noah Smith]]
+author: "[[Noah Smith]]"
 title: 'Plentiful, High-Paying Jobs in the Age of AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3986bcc1-d2cd-455a-b039-b0927375952c_950x633.jpeg)
 

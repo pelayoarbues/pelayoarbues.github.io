@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'El Ministerio de Vivienda ‘olvida’ a Hacienda y se atribuye el aumento de los alquileres declarados'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/03_gobierno_gtres_freepik.jpg)
 

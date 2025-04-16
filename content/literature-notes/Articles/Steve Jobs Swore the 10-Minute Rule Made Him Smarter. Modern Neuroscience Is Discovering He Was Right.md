@@ -1,10 +1,10 @@
 ---
-author: [[Jessica Stillman]]
+author: "[[Jessica Stillman]]"
 title: 'Steve Jobs Swore the 10-Minute Rule Made Him Smarter. Modern Neuroscience Is Discovering He Was Right'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/steve-jobs-inc-76857994_545252_ukzxx6.jpg)
 

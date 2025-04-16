@@ -1,10 +1,10 @@
 ---
-author: [[Célia Lacaux]]
+author: "[[Célia Lacaux]]"
 title: 'The Brain’s Twilight Zone: When You’re Neither Awake Nor Asleep'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/98e73026-0db6-426a-bcc5-41b51471e36e/rt-final-gettyimages-108162012.jpg)
 

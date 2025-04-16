@@ -1,10 +1,10 @@
 ---
-author: [[mistral.ai]]
+author: "[[mistral.ai]]"
 title: 'Mistral OCR'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cms.mistral.ai/assets/060bdeb1-fbff-419c-b2ae-b32b5e441864)
 

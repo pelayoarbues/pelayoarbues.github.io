@@ -1,10 +1,10 @@
 ---
-author: [[El País]]
+author: "[[El País]]"
 title: 'El Reino Unido Se Renueva'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imagenes.elpais.com/resizer/v2/EHFW24HTVNSMAI57OI2WTJRLGI.jpg?auth=c5b4b44bb228d86df33013102e02fc5868c857d7cfff7f99b496cf7adef2899d&width=1200)
 

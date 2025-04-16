@@ -1,10 +1,10 @@
 ---
-author: [[Gary Marcus]]
+author: "[[Gary Marcus]]"
 title: 'No, Sora Has Not “Learned Physics”'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61a1a17d-b420-42c6-987a-469726e29c5a_1072x1039.png)
 

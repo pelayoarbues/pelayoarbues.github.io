@@ -1,10 +1,10 @@
 ---
-author: [[Counting Stuff]]
+author: "[[Counting Stuff]]"
 title: 'When Product Teams Think Anecdotes Is Research'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.counting-stuff.com/content/images/2024/10/PXL_20230527_232940107.jpg)
 

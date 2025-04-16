@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison's Weblog]]
+author: "[[Simon Willison's Weblog]]"
 title: 'The Changelog Podcast: LLMs Break the Internet'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/changelog-card.jpg)
 

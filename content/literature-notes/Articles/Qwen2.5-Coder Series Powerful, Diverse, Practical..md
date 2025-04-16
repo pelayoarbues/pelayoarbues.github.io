@@ -1,10 +1,10 @@
 ---
-author: [[Qwen Team]]
+author: "[[Qwen Team]]"
 title: 'Qwen2.5-Coder Series: Powerful, Diverse, Practical.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://qwenlm.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E)
 

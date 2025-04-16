@@ -1,10 +1,10 @@
 ---
-author: [[Sara Brown]]
+author: "[[Sara Brown]]"
 title: 'How to Build Data Literacy in Your Company'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mitsloan.mit.edu/sites/default/files/styles/og_image/public/2021-02/data-literacy.jpg?h=7691f918&itok=nT7ZDRTr)
 

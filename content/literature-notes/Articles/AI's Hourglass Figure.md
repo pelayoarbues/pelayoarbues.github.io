@@ -1,10 +1,10 @@
 ---
-author: [[Rob May]]
+author: "[[Rob May]]"
 title: 'AI''s Hourglass Figure'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F34ffbba8-39cc-4a70-8e4a-710f24ebf838_1170x522.png)
 

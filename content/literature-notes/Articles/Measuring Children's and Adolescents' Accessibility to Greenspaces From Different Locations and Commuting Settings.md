@@ -1,10 +1,10 @@
 ---
-author: [[sciencedirect.com]]
+author: "[[sciencedirect.com]]"
 title: 'Measuring Children''s and Adolescents'' Accessibility to Greenspaces From Different Locations and Commuting Settings'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://ars.els-cdn.com/content/image/1-s2.0-S0198971522X00094-cov150h.gif)
 

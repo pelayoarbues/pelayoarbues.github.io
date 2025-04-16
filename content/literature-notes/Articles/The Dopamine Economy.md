@@ -1,10 +1,10 @@
 ---
-author: [[umair haque]]
+author: "[[umair haque]]"
 title: 'The Dopamine Economy'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1050/1*sum3tjf13I8Di_Nxdpp4pw.jpeg)
 

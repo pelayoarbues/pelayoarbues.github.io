@@ -1,11 +1,11 @@
 ---
-author: [[LangChain]]
+author: "[[LangChain]]"
 title: 'Retrieval'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[RAG]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[RAG]]"
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1576201836106-db1758fd1c97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDEwfHxnb2xkZW4lMjByZXRyaWV2ZXJ8ZW58MHx8fHwxNjc5NjMyNDA2&ixlib=rb-4.0.3&q=80&w=2000)
 

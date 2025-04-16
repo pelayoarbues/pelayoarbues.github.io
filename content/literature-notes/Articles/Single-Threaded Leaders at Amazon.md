@@ -1,10 +1,10 @@
 ---
-author: [[Themefisher]]
+author: "[[Themefisher]]"
 title: 'Single-Threaded Leaders at Amazon'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pedrodelgallego.github.io/images/post/single-threaded-leadership_hu856173de303e25ab9ba5817fdb202bd5_596392_925x475_fill_box_smart1_3.png)
 

@@ -1,11 +1,11 @@
 ---
-author: [[Avi Chawla]]
+author: "[[Avi Chawla]]"
 title: '(27) How to Find Optimal Epsilon Value For DBSCAN Clustering?
 How to Find Optimal Epsilon Value For DBSCAN Clustering?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc294178a-edb6-4f0d-94fa-03cb2e70531d_5500x6304.jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[mr-destructive.github.io]]
+author: "[[mr-destructive.github.io]]"
 title: 'Techstructive Blog'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://res.cloudinary.com/techstructive-blog/image/upload/v1648373330/blog-media/nnr0gjk0n0wmauvu5yo4.png)
 

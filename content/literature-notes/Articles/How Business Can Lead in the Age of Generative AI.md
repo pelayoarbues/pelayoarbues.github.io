@@ -1,10 +1,10 @@
 ---
-author: [[Oliver Wyman]]
+author: "[[Oliver Wyman]]"
 title: 'How Business Can Lead in the Age of Generative AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.oliverwymanforum.com/content/dam/oliver-wyman/ow-forum/newsletter/January-RON-Banner-AI.jpeg)
 

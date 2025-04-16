@@ -1,10 +1,10 @@
 ---
-author: [[Matteo Courthoud]]
+author: "[[Matteo Courthoud]]"
 title: 'CUPED'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*yrXImqFDp6EdrNe8cWqujQ.png)
 

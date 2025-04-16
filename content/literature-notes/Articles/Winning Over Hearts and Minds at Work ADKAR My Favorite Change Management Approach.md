@@ -1,10 +1,10 @@
 ---
-author: [[DAGWorks Inc.]]
+author: "[[DAGWorks Inc.]]"
 title: 'Winning Over Hearts and Minds at Work: ADKAR My Favorite Change Management Approach'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24b1cff2-dd80-47f9-b2a0-452083d824dd_1024x1024.png)
 

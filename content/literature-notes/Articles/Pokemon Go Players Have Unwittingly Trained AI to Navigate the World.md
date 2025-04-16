@@ -1,10 +1,10 @@
 ---
-author: [[404 Media]]
+author: "[[404 Media]]"
 title: 'Pokémon Go Players Have Unwittingly Trained AI to Navigate the World'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.404media.co/content/images/size/w1200/2023/08/podcast-art-black-1.jpg)
 

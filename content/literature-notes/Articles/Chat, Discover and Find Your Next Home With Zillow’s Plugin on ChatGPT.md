@@ -1,10 +1,10 @@
 ---
-author: [[kristenr]]
+author: "[[kristenr]]"
 title: 'Chat, Discover and Find Your Next Home With Zillow’s Plugin on ChatGPT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-tid.zillowstatic.com/bedrock/app/uploads/sites/21/2023/05/Blog-Zillow-ChatGPT-V2.png)
 

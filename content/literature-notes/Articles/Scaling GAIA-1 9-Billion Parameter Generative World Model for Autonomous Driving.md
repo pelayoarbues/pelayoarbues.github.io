@@ -1,10 +1,10 @@
 ---
-author: [[Rudi Rankin]]
+author: "[[Rudi Rankin]]"
 title: 'Scaling GAIA-1: 9-Billion Parameter Generative World Model for Autonomous Driving'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wayve.ai/wp-content/uploads/2023/09/Wayve-GAIA-1-Tech-Blog-Thumbnail.jpg)
 

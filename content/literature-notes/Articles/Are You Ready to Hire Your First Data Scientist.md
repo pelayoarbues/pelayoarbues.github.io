@@ -1,10 +1,10 @@
 ---
-author: [[firstround.com]]
+author: "[[firstround.com]]"
 title: 'Are You Ready to Hire Your First Data Scientist?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.proof.pub/2056/firstround%2FGettyImages-1341849935.jpg)
 

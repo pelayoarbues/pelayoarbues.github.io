@@ -1,10 +1,10 @@
 ---
-author: [[Joan Tubau]]
+author: "[[Joan Tubau]]"
 title: 'Algunas Reflexiones Acerca Del Mundo Real De Uno Que Echó Un Vistazo Y Se Marchó'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F42045924-28e0-4221-91b4-3b1499475668_2502x1764.webp)
 

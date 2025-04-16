@@ -1,10 +1,10 @@
 ---
-author: [[Kay Ewbank]]
+author: "[[Kay Ewbank]]"
 title: 'GitHub Copilot Gets Agent Mode'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article2.74d541386bbf.png)
 

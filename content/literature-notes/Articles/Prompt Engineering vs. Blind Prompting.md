@@ -1,10 +1,10 @@
 ---
-author: [[Mitchell Hashimoto]]
+author: "[[Mitchell Hashimoto]]"
 title: 'Prompt Engineering vs. Blind Prompting'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mitchellh.com)
 

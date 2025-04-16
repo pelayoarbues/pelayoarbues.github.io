@@ -1,10 +1,10 @@
 ---
-author: [[John Herrman]]
+author: "[[John Herrman]]"
 title: 'Who’s Behind All the ‘Pussy in Bio’ on X?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pyxis.nymag.com/v1/imgs/5b5/4ce/41a89396b48582d420054e2199bc04a871-herman-sex-bots-lede.1x.rsocial.w1200.jpg)
 

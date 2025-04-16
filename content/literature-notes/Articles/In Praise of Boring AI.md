@@ -1,10 +1,10 @@
 ---
-author: [[Ethan Mollick]]
+author: "[[Ethan Mollick]]"
 title: 'In Praise of Boring AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F532949ab-5f9a-40cd-a1e4-0f11a9013eba_1376x864.png)
 

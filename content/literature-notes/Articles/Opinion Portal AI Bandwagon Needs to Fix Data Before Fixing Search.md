@@ -1,10 +1,10 @@
 ---
-author: [[Edmund Keith]]
+author: "[[Edmund Keith]]"
 title: 'Opinion: Portal AI Bandwagon Needs to Fix Data Before Fixing Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2023/05/Shutterstock_2301582993.png)
 

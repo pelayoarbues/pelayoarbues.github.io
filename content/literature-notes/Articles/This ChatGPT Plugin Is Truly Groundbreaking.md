@@ -1,10 +1,10 @@
 ---
-author: [[Reid Elliot]]
+author: "[[Reid Elliot]]"
 title: 'This ChatGPT Plugin Is Truly Groundbreaking'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1024/1*YVKiAlbexFZ1X4rnohoXWw.png)
 

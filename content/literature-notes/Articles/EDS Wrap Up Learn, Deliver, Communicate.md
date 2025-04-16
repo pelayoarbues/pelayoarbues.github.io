@@ -1,10 +1,10 @@
 ---
-author: [[Eugene Yan]]
+author: "[[Eugene Yan]]"
 title: 'EDS Wrap Up: Learn, Deliver, Communicate'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 

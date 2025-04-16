@@ -1,10 +1,10 @@
 ---
-author: [[Omar Sanseviero]]
+author: "[[Omar Sanseviero]]"
 title: 'Introducing PaliGemma 2 mix: A vision-language model for multiple tasks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Paligemma_2_-_Meta.2e16d0ba.fill-1200x600.png)
 

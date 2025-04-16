@@ -1,10 +1,10 @@
 ---
-author: [[Benn Stancil]]
+author: "[[Benn Stancil]]"
 title: 'Will We Ever Have Clean Data?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8777e48-a0bb-4794-a621-916ea05f8cf7_1920x2179.jpeg)
 

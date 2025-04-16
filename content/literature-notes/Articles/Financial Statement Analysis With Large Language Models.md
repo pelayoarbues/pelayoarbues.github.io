@@ -1,10 +1,10 @@
 ---
-author: [[Alex Kim]]
+author: "[[Alex Kim]]"
 title: 'Financial Statement Analysis With Large Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.ssrn.com/ssrn-global-header/11589acb53bc518aa22929bf19add113.svg)
 

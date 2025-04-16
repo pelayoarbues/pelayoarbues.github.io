@@ -1,10 +1,10 @@
 ---
-author: [[Arthur C. Brooks]]
+author: "[[Arthur C. Brooks]]"
 title: 'Jung’s Five Pillars of a Good Life'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.theatlantic.com/thumbor/ZUr3sw1Y4KG9FDhzotaIPv87Q30=/0x0:3000x1688/960x540/media/img/mt/2024/04/HowToBuildALife184-1/original.jpg)
 

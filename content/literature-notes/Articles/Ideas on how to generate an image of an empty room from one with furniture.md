@@ -1,10 +1,10 @@
 ---
-author: [[reddit.com]]
+author: "[[reddit.com]]"
 title: 'Ideas on how to generate an image of an empty room from one with furniture?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 

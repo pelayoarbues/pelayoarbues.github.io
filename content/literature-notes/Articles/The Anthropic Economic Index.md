@@ -1,10 +1,10 @@
 ---
-author: [[anthropic.com]]
+author: "[[anthropic.com]]"
 title: 'The Anthropic Economic Index'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.sanity.io/images/4zrzovbb/website/4b8bc05b916dc4fbaf2543f76f946e5587aaeb43-2400x1260.png)
 

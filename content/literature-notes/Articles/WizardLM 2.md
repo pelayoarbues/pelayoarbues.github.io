@@ -1,10 +1,10 @@
 ---
-author: [[wizardlm.github.io]]
+author: "[[wizardlm.github.io]]"
 title: 'WizardLM 2'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wizardlm.github.io/WizardLM2/static/image/your_banner_image.png)
 

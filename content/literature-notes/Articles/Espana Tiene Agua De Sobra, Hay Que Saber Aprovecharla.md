@@ -1,10 +1,10 @@
 ---
-author: [[THE OBJECTIVE]]
+author: "[[THE OBJECTIVE]]"
 title: 'España Tiene Agua De Sobra, Hay Que Saber Aprovecharla'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://theobjective.com/wp-content/uploads/2024/02/LUIS-DEL-RIVERO.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Google DeepMind]]
+author: "[[Google DeepMind]]"
 title: 'AI Achieves Silver-Medal Standard Solving International Mathematical Olympiad Problems'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lh3.googleusercontent.com/2A21eFt7wdDrmMzzkenrCTuioLWGFdzU5Ao5dPH9yPtAw6QNHxZcDmoQA2_ZriU2gMjX8mzEOtfPbMCRuL5kVzLoz6efLgqT_foBXU3pxKBXTTOXXpc=w1200-h630-n-nu)
 

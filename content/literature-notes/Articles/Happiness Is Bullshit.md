@@ -1,10 +1,10 @@
 ---
-author: [[David Pinsof]]
+author: "[[David Pinsof]]"
 title: 'Happiness Is Bullshit'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_limit,f_jpg,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03387551-d2c7-42d8-aba2-4b9a924a37cf_2500x1667.jpeg)
 

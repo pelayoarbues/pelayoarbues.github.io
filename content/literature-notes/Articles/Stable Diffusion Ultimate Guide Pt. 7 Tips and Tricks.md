@@ -1,10 +1,10 @@
 ---
-author: [[Umberto Grando]]
+author: "[[Umberto Grando]]"
 title: 'Stable Diffusion Ultimate Guide Pt. 7: Tips and Tricks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*zV-JIbliUh-TWHqxa-qcTA.png)
 

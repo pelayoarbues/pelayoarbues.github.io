@@ -1,10 +1,10 @@
 ---
-author: [[Jane Fine]]
+author: "[[Jane Fine]]"
 title: 'Data Science Agent in Colab: The Future of Data Analysis With Gemini'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/Colab-Gemini-Data-meta-alt.2e16d0ba.fill-1200x600.png)
 

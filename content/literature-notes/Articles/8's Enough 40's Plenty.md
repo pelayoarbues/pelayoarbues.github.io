@@ -1,10 +1,10 @@
 ---
-author: [[37signals.com]]
+author: "[[37signals.com]]"
 title: '8''s Enough 40''s Plenty'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://37signals.com/podcast/assets/head/social-image.png)
 

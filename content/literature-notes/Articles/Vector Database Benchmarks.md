@@ -1,10 +1,10 @@
 ---
-author: [[qdrant.tech]]
+author: "[[qdrant.tech]]"
 title: 'Vector Database Benchmarks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://qdrant.tech/images/social_preview.png)
 

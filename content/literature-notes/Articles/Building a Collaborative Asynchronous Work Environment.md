@@ -1,10 +1,10 @@
 ---
-author: [[Karl Hughes]]
+author: "[[Karl Hughes]]"
 title: 'Building a Collaborative Asynchronous Work Environment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149351115.v2.pressablecdn.com/wp-content/uploads/2023/03/032323-Stack-Overflow-Asynchronus-work-environment_sm.png)
 

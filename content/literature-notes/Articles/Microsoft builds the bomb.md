@@ -1,10 +1,10 @@
 ---
-author: [[Benn Stancil]]
+author: "[[Benn Stancil]]"
 title: 'Microsoft builds the bomb'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33949711-494c-4b6e-87e1-855c9de2164a_1400x700.jpeg)
 

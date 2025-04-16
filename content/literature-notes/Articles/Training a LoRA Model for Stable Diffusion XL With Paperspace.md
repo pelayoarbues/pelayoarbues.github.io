@@ -1,10 +1,10 @@
 ---
-author: [[James Skelton]]
+author: "[[James Skelton]]"
 title: 'Training a LoRA Model for Stable Diffusion XL With Paperspace'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.paperspace.com/content/images/2023/04/Group-142.jpg)
 

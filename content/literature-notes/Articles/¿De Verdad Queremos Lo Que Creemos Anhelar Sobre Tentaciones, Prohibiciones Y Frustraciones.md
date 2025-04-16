@@ -1,10 +1,10 @@
 ---
-author: [[Nacho Hernández]]
+author: "[[Nacho Hernández]]"
 title: '¿De Verdad Queremos Lo Que Creemos Anhelar? Sobre Tentaciones, Prohibiciones Y Frustraciones'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://ethic.es/wp-content/uploads/2021/02/ulises-e1613397715969.jpg)
 

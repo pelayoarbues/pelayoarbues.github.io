@@ -1,10 +1,10 @@
 ---
-author: [[Counting Stuff]]
+author: "[[Counting Stuff]]"
 title: 'We re All the #dataBS, but Individually Not'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.counting-stuff.com/content/images/2024/11/databs.jpg)
 

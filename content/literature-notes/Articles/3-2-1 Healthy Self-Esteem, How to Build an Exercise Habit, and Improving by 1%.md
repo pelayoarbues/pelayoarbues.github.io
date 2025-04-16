@@ -1,10 +1,10 @@
 ---
-author: [[3-2-1 Thursday newsletter - James Clear]]
+author: "[[3-2-1 Thursday newsletter - James Clear]]"
 title: '3-2-1: Healthy Self-Esteem, How to Build an Exercise Habit, and Improving by 1%'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://jamesclear.com/wp-content/uploads/2020/11/cropped-icon-270x270.png)
 

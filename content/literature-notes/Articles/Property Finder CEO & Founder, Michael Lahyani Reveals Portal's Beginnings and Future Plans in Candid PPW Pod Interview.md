@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'Property Finder CEO & Founder, Michael Lahyani Reveals Portal''s Beginnings and Future Plans in Candid PPW Pod Interview'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2024/03/OMP-Hero-Michael-Lahyani-episode.png)
 

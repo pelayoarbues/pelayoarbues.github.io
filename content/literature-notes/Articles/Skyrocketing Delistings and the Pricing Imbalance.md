@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'Skyrocketing Delistings and the Pricing Imbalance'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/57b1c75aebbd1abcdecf8171/57b1c7c3414fb58fb6cbb91c/66573c8827bb7134aa9aa8f9/1716993392792/Screenshot+2024-05-29+at+8.36.15%E2%80%AFAM.png?format=1500w)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Economy and Finance]]
+author: "[[Economy and Finance]]"
 title: 'Role and Mandate of National Productivity Boards'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://economy-finance.ec.europa.eu/profiles/contrib/ewcms/modules/ewcms_seo/assets/images/ec-socialmedia-fallback.png)
 

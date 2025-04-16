@@ -1,10 +1,10 @@
 ---
-author: [[Jon Ander Beracoechea, PhD]]
+author: "[[Jon Ander Beracoechea, PhD]]"
 title: 'BBVA''s GenAI Journey: When Everything You Know About AI Projects Gets Turned Up to Eleven'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://media.licdn.com/dms/image/v2/D4D12AQEgIm2lXoPZrQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1733844785789?e=2147483647&v=beta&t=TbeLepx-zOlKxYBxzKBAaH4p4rehqDvroqzJ-o2Cvbs)
 

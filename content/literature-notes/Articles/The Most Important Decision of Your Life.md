@@ -1,10 +1,10 @@
 ---
-author: [[Sahil Bloom's Curiosity Chronicle]]
+author: "[[Sahil Bloom's Curiosity Chronicle]]"
 title: 'The Most Important Decision of Your Life'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 

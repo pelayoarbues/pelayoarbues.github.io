@@ -1,10 +1,10 @@
 ---
-author: [[scott cunningham]]
+author: "[[scott cunningham]]"
 title: 'A Primer on Acemoglu, AI and Automation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f7cbe18-3ece-448e-a617-a33d4009b485_1697x1101.heic)
 

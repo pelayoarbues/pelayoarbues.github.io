@@ -1,10 +1,10 @@
 ---
-author: [[facebook.com]]
+author: "[[facebook.com]]"
 title: 'DINOv2: State-of-the-Art Computer Vision Models With Self-Supervised Learning'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent.ftpq3-1.fna.fbcdn.net/v/t39.2365-6/341008524_960886174936720_632340648951309797_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=iEomSus3K2cAX9cz1KH&_nc_ht=scontent.ftpq3-1.fna&oh=00_AfDEjzfsTxxentuO__8oIAcOEP1AV5-yNdnfFdvvxlIZMg&oe=6441F560)
 

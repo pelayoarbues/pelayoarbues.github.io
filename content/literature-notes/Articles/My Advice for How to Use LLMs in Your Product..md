@@ -1,10 +1,10 @@
 ---
-author: [[Irrational Exuberance]]
+author: "[[Irrational Exuberance]]"
 title: 'My Advice for How to Use LLMs in Your Product.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/author.png)
 

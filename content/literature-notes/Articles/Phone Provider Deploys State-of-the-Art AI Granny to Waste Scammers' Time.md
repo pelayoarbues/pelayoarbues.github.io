@@ -1,10 +1,10 @@
 ---
-author: [[Ashley Bardhan]]
+author: "[[Ashley Bardhan]]"
 title: 'Phone Provider Deploys "State-of-the-Art AI Granny" to Waste Scammers'' Time'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/11/o2-ai-chatbot-grandma.jpg)
 

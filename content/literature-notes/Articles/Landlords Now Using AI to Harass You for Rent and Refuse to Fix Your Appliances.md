@@ -1,10 +1,10 @@
 ---
-author: [[Frank Landymore]]
+author: "[[Frank Landymore]]"
 title: 'Landlords Now Using AI to Harass You for Rent and Refuse to Fix Your Appliances'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/06/landlords-using-ai.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Noor Al-Sibai]]
+author: "[[Noor Al-Sibai]]"
 title: 'In Leaked Audio, Amazon Cloud CEO Says Human Developers Will Soon Be a Thing of the Past'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2024/08/aws-ceo-human-devs-ai.jpg)
 

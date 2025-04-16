@@ -1,10 +1,10 @@
 ---
-author: [[Elie Bakouch]]
+author: "[[Elie Bakouch]]"
 title: 'SmolVLM - Small Yet Mighty Vision Language Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/smolvlm/banner.png)
 

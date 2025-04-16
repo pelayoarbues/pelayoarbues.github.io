@@ -1,10 +1,10 @@
 ---
-author: [[meta.com]]
+author: "[[meta.com]]"
 title: 'Self-Supervised Learning With Vision Transformers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent.fdel27-5.fna.fbcdn.net/v/t39.2365-6/175563722_2961317637477713_3077911381961439916_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=99smNAaZJ-UAX-zJxaA&_nc_ht=scontent.fdel27-5.fna&oh=00_AfB3lZU-VtrFZEmGVdeqtEqjVrDoKN2miVzTVVVf48Wzkw&oe=64F9D673)
 

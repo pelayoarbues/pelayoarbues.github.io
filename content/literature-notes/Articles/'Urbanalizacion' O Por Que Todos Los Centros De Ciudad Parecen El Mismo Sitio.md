@@ -1,10 +1,10 @@
 ---
-author: [[Albert Nogueras Tarrero]]
+author: "[[Albert Nogueras Tarrero]]"
 title: '''Urbanalización'' O Por Qué Todos Los Centros De Ciudad Parecen El Mismo Sitio'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.eldiario.es/clip/480e5b56-e759-4042-8e01-2b0f728d2135_facebook-watermarked-aspect-ratio_default_0.jpg)
 

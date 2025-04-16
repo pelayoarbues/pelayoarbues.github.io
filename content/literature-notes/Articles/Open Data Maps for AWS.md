@@ -1,10 +1,10 @@
 ---
-author: [[Alan McConchie]]
+author: "[[Alan McConchie]]"
 title: 'Open Data Maps for AWS'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stamen.com/wp-content/uploads/2023/08/image10-1024x608.gif)
 

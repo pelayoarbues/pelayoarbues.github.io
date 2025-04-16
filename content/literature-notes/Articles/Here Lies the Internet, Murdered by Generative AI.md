@@ -1,10 +1,10 @@
 ---
-author: [[Erik Hoel]]
+author: "[[Erik Hoel]]"
 title: 'Here Lies the Internet, Murdered by Generative AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb062015-02ee-4351-8c26-edae4b11f369_1181x1299.jpeg)
 

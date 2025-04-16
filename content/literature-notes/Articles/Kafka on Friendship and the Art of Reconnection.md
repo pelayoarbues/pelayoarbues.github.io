@@ -1,10 +1,10 @@
 ---
-author: [[Maria Popova]]
+author: "[[Maria Popova]]"
 title: 'Kafka on Friendship and the Art of Reconnection'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/www.themarginalian.org/wp-content/uploads/2021/10/cropped-tm_site_icon-1.png?fit=192%2C192&ssl=1)
 

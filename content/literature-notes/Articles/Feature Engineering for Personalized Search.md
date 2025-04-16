@@ -1,10 +1,10 @@
 ---
-author: [[Nick Parsons]]
+author: "[[Nick Parsons]]"
 title: 'Feature Engineering for Personalized Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://fennel.ai/blog/favicon.png)
 

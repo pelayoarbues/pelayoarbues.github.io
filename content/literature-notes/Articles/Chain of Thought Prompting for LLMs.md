@@ -1,10 +1,10 @@
 ---
-author: [[Cameron R. Wolfe]]
+author: "[[Cameron R. Wolfe]]"
 title: 'Chain of Thought Prompting for LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/045c8b4e-c626-4974-86b8-a9a9d5820f7c_2546x1426.png)
 

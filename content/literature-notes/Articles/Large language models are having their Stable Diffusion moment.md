@@ -1,10 +1,10 @@
 ---
-author: [[simonwillison.net]]
+author: "[[simonwillison.net]]"
 title: 'Large language models are having their Stable Diffusion moment'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.simonwillison.net/static/2023/llama-smaller.gif)
 

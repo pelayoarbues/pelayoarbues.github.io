@@ -1,10 +1,10 @@
 ---
-author: [[Dori Adar]]
+author: "[[Dori Adar]]"
 title: 'In-Depth Guide for Training Logos With AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.wixstatic.com/media/2aa053_939578b6b42d44a9afd4112851b4508d~mv2.png/v1/fill/w_960,h_540,al_c/2aa053_939578b6b42d44a9afd4112851b4508d~mv2.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'La Ley De Vivienda Un Año Después: La Oferta Cae a Mínimos Y Los Precios Suben a Máximos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2024-05/images/gettyimages-2149997829.jpg?VersionId=vXi2ZYdUTK0.SpMg7u8wtuCd9sZw1gB6&itok=xhBwwdz7)
 

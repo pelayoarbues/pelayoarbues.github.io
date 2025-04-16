@@ -1,10 +1,10 @@
 ---
-author: [[Eric Migicovsky]]
+author: "[[Eric Migicovsky]]"
 title: 'Why We’re Bringing Pebble Back'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://ericmigi.com/assets/why-were-bringing-pebble-back-0-pebble-lineup.jpg)
 

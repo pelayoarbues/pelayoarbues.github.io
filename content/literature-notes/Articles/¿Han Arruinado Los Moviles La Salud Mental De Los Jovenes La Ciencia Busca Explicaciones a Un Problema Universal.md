@@ -1,10 +1,10 @@
 ---
-author: [[Antonio Martínez Ron]]
+author: "[[Antonio Martínez Ron]]"
 title: '¿Han Arruinado Los Móviles La Salud Mental De Los Jóvenes? La Ciencia Busca Explicaciones a Un Problema Universal'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.eldiario.es/clip/ddb651e5-5bd6-4e34-bc93-e5516620ad86_facebook-watermarked-aspect-ratio_default_0.jpg)
 

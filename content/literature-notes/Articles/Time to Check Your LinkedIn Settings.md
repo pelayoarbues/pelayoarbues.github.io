@@ -1,10 +1,10 @@
 ---
-author: [[Q McCallum]]
+author: "[[Q McCallum]]"
 title: 'Time to Check Your LinkedIn Settings'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://qethanm.cc/images/q-binary-logo.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Fitness Revolucionario]]
+author: "[[Fitness Revolucionario]]"
 title: '¿Cuantas Ingestas De Proteína Debes Hacer Al Día? ¿Y Con Ayuno Intermitente?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.fitnessrevolucionario.com/wp-content/uploads/2020/06/ProteinaAyunoIntermitentetomas.jpg)
 

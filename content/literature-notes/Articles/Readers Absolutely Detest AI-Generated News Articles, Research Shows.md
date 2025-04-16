@@ -1,10 +1,10 @@
 ---
-author: [[Frank Landymore]]
+author: "[[Frank Landymore]]"
 title: 'Readers Absolutely Detest AI-Generated News Articles, Research Shows'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/06/readers-detest-ai-generated-news.jpg)
 

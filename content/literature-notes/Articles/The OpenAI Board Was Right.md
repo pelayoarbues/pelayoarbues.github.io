@@ -1,10 +1,10 @@
 ---
-author: [[Gary Marcus]]
+author: "[[Gary Marcus]]"
 title: 'The OpenAI Board Was Right'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f8cd7d5-7a51-474b-a959-3fa58c0aa4c3_1282x309.jpeg)
 

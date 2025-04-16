@@ -1,10 +1,10 @@
 ---
-author: [[LangChain]]
+author: "[[LangChain]]"
 title: 'How to Safely Query Enterprise Data With LangChain Agents + SQL + OpenAI + Gretel'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.langchain.dev/content/images/2023/09/64ff5e36ac4b999af4a08f05_image-20230911-155918.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Victor Tangermann]]
+author: "[[Victor Tangermann]]"
 title: 'Microsoft Brags That With the Powers of AI, You''ll Be Able to Attend Three Meetings at the Same Time'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/06/microsoft-brags-ai-attend-three-meetings.jpg)
 

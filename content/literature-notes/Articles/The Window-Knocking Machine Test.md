@@ -1,10 +1,10 @@
 ---
-author: [[ines.io]]
+author: "[[ines.io]]"
 title: 'The Window-Knocking Machine Test'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://ines.io/static/d8935790490cb5cef1ecf4f80fda0df4/1e28b/window-knocking.jpg)
 

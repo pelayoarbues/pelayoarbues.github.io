@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Bringing It Up to Twelve! Going Deep Into Quality.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9276d76-769f-4e2f-93bc-67ad8fdb9068/width=1200/f9276d76-769f-4e2f-93bc-67ad8fdb9068.jpeg)
 

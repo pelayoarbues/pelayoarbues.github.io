@@ -1,10 +1,10 @@
 ---
-author: [[explosion.ai]]
+author: "[[explosion.ai]]"
 title: 'A Practical Guide to Human-in-the-Loop Distillation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://explosion.ai/blog/distillation.jpg)
 

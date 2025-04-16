@@ -1,10 +1,10 @@
 ---
-author: [[langfuse.com]]
+author: "[[langfuse.com]]"
 title: 'Open-Source AI Agent Frameworks: Which One Is Right for You?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://langfuse.com/images/blog/2025-03-19-ai-agent-comparison/agent-comparison.png)
 

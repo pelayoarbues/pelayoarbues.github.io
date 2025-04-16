@@ -1,10 +1,10 @@
 ---
-author: [[David Jayatillake]]
+author: "[[David Jayatillake]]"
 title: 'Dear Stakeholder'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F6db2c91c-f476-4828-aed3-4814666c2c2e_1969x947.jpeg)
 

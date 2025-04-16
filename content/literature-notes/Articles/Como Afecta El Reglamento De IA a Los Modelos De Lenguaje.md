@@ -1,10 +1,10 @@
 ---
-author: [[Pablo Haya]]
+author: "[[Pablo Haya]]"
 title: 'Cómo Afecta El Reglamento De IA a Los Modelos De Lenguaje'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://www.iic.uam.es/wp-content/uploads/2024/05/reglamento-IA.jpg)
 

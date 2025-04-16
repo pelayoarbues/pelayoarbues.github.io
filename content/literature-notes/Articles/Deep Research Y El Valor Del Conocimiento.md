@@ -1,10 +1,10 @@
 ---
-author: [[Simón Muñoz]]
+author: "[[Simón Muñoz]]"
 title: 'Deep Research Y El Valor Del Conocimiento'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F51d63b25-0aa6-4750-83ab-a88d0b5a538f_500x500.gif)
 

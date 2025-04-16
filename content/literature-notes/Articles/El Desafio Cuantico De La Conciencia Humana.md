@@ -1,10 +1,10 @@
 ---
-author: [[Victor Etxebarria Ecenarro]]
+author: "[[Victor Etxebarria Ecenarro]]"
 title: 'El Desafio Cuantico De La Conciencia Humana'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.eldiario.es/clip/77c812ef-10e3-49a2-92fe-3d64efd77973_facebook-aspect-ratio_default_0.jpg)
 

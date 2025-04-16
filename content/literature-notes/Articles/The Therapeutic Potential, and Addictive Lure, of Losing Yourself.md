@@ -1,10 +1,10 @@
 ---
-author: [[Shayla Love]]
+author: "[[Shayla Love]]"
 title: 'The Therapeutic Potential, and Addictive Lure, of Losing Yourself'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/cee16d44-2f40-4335-893d-1d30ceec969a/rt-final-gettyimages-146941640.jpg)
 

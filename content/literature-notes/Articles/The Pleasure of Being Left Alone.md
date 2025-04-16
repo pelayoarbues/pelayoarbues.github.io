@@ -1,10 +1,10 @@
 ---
-author: [[Maria Popova]]
+author: "[[Maria Popova]]"
 title: 'The Pleasure of Being Left Alone'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.themarginalian.org/wp-content/uploads/2019/11/velocity_debbie_dasha.jpg?fit=600%2C315&ssl=1)
 

@@ -1,10 +1,10 @@
 ---
-author: [[lethain.com]]
+author: "[[lethain.com]]"
 title: 'Reminiscing: The Retreat to Comforting Work.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/author.png)
 

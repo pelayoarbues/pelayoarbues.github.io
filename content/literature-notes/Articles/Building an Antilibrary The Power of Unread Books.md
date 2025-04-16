@@ -1,10 +1,10 @@
 ---
-author: [[Anne-Laure Le Cunff]]
+author: "[[Anne-Laure Le Cunff]]"
 title: 'Building an Antilibrary: The Power of Unread Books'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nesslabs.com/wp-content/uploads/2020/10/antilibrary-banner.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Marty Cagan]]
+author: "[[Marty Cagan]]"
 title: 'Alternatives to Product Managers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.svpg.com/wp-content/themes/svpg2022/app/img/svpg-social.jpg)
 

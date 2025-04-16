@@ -1,11 +1,11 @@
 ---
-author: [[Scott Barnett, Stefanus Kurniawan, Srikanth Thudumu, Zach Brannelly, Mohamed Abdelrazek]]
+author: "[[Scott Barnett, Stefanus Kurniawan, Srikanth Thudumu, Zach Brannelly, Mohamed Abdelrazek]]"
 title: 'Seven Failure Points When Engineering a Retrieval Augmented Generation
   System'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/uNXNDrJnaMAmwtIhn_kLV8kNsLoVifLjp9VbLy4QRdo-cove_1cEUEju.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[rachel binx]]
+author: "[[rachel binx]]"
 title: 'Why You Should Be Prototyping'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/960/1*bxpcPuAlmc75KYWvALzyog.png)
 

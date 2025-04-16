@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'VAE RAW to Obtain Greater Detail'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/391ea021-ddf3-4531-af6e-5df33345d66f/width=1200/391ea021-ddf3-4531-af6e-5df33345d66f.jpeg)
 

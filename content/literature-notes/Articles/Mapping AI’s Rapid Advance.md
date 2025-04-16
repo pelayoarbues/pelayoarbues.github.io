@@ -1,10 +1,10 @@
 ---
-author: [[Eric Schmidt]]
+author: "[[Eric Schmidt]]"
 title: 'Mapping AI’s Rapid Advance'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://noemamag.imgix.net/2024/05/NOEMA_DOTS_2x1.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=268770120f5b9276a8488d2717fbf9d1)
 

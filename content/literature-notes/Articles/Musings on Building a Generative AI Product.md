@@ -1,10 +1,10 @@
 ---
-author: [[linkedin.com]]
+author: "[[linkedin.com]]"
 title: 'Musings on Building a Generative AI Product'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/1714047701372)
 

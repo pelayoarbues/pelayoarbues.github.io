@@ -1,10 +1,10 @@
 ---
-author: [[Eugene Yan]]
+author: "[[Eugene Yan]]"
 title: 'More Design Patterns for Machine Learning Systems'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://eugeneyan.com/assets/og_image/default.jpg)
 

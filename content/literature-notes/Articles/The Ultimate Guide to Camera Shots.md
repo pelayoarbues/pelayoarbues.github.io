@@ -1,10 +1,10 @@
 ---
-author: [[StudioBinder]]
+author: "[[StudioBinder]]"
 title: 'The Ultimate Guide to Camera Shots'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s.studiobinder.com/wp-content/uploads/2020/09/The-Ultimate-Guide-to-Camera-Shots-over-50-Types-of-Shots-and-Angles-in-Film-Featured.jpg)
 

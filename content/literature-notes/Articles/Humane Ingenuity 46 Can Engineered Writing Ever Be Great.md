@@ -1,10 +1,10 @@
 ---
-author: [[buttondown.email]]
+author: "[[buttondown.email]]"
 title: 'Humane Ingenuity 46: Can Engineered Writing Ever Be Great?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://buttondown-attachments.s3.us-west-2.amazonaws.com/images/d9edd45f-9959-4d01-9887-3eaa6dc8bca4.png)
 

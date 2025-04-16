@@ -1,10 +1,10 @@
 ---
-author: [[Cory Doctorow]]
+author: "[[Cory Doctorow]]"
 title: '''Enshittification'' Is Coming for Absolutely Everything'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.sott.net/image/s34/699815/full/ftcms_8409bb76_5481_4e60_b333_.jpg)
 

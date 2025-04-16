@@ -1,10 +1,10 @@
 ---
-author: [[KFG Notes]]
+author: "[[KFG Notes]]"
 title: 'A Short Introduction to the Underlay'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.pubpub.org/fgcweja9/21551712264226.png)
 

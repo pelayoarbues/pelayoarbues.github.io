@@ -1,10 +1,10 @@
 ---
-author: [[Bhoomi Gadhia]]
+author: "[[Bhoomi Gadhia]]"
 title: 'NVIDIA Earth-2 Features First Gen AI to Power Weather Super-Resolution for Continental US'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blogs.nvidia.com/wp-content/uploads/2025/02/CorrDiff_blog_featured_still_sized-842x450.jpg)
 

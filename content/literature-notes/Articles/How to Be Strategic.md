@@ -1,10 +1,10 @@
 ---
-author: [[Julie Zhuo]]
+author: "[[Julie Zhuo]]"
 title: 'How to Be Strategic'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1200/1*87h-TyL_geocNgIdsFvwOQ.jpeg)
 

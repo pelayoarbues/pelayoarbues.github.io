@@ -1,10 +1,10 @@
 ---
-author: [[Jason Fried (jason@hey.com)]]
+author: "[[Jason Fried (jason@hey.com)]]"
 title: 'On Hiring, Rehiring, and One Question to Answer Them All'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/jason/avatar-20230413145313000000-2745081)
 

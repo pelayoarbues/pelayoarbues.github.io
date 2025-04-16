@@ -1,10 +1,10 @@
 ---
-author: [[Stephen Oladele]]
+author: "[[Stephen Oladele]]"
 title: 'Building a Machine Learning Platform [Definitive Guide]'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://neptune.ai/wp-content/uploads/2023/03/blog_feature_image_091023_6_1_5_5.jpg)
 

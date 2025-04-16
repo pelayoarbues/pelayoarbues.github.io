@@ -1,10 +1,10 @@
 ---
-author: [[Dan Poppy]]
+author: "[[Dan Poppy]]"
 title: 'Ep 46: DBT Labs on DBT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.scdn.co/image/ab6765630000ba8a3fb7535d147648f2337de70b)
 

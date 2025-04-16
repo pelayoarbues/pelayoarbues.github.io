@@ -1,10 +1,10 @@
 ---
-author: [[jcken95.github.io]]
+author: "[[jcken95.github.io]]"
 title: 'Code Review for Statisticians, Data Scientists & Modellers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
 

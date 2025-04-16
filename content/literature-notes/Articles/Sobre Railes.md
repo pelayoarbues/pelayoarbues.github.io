@@ -1,10 +1,10 @@
 ---
-author: [[Javi Santana]]
+author: "[[Javi Santana]]"
 title: 'Sobre Raíles'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fjavisantana.substack.com%2Fimg%2Fsubstack.png)
 

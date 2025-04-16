@@ -1,10 +1,10 @@
 ---
-author: [[DHH]]
+author: "[[DHH]]"
 title: 'Moonlighting Managers Ain’t Got No Time for Bullshit'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/m.signalvnoise.com/wp-content/uploads/2019/01/cropped-svn-icon.gif?fit=512%2C512&ssl=1)
 

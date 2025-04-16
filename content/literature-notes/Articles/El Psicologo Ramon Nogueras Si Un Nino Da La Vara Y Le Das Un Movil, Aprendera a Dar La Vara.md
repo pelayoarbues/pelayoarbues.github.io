@@ -1,10 +1,10 @@
 ---
-author: [[Juan Rodríguez de Rivera]]
+author: "[[Juan Rodríguez de Rivera]]"
 title: 'El Psicólogo Ramón Nogueras: "Si Un Niño Da La Vara Y Le Das Un Móvil, Aprenderá a Dar La Vara"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s1.elespanol.com/2024/03/22/ciencia/salud/841926414_240957370_1706x960.jpg)
 

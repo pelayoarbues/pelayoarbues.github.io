@@ -1,10 +1,10 @@
 ---
-author: [[Sven Balnojan]]
+author: "[[Sven Balnojan]]"
 title: 'Hello Product Data Team, Goodbye Ad-Hoc Work'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://locallyoptimistic.com/wp-content/uploads/2023/04/Data-Product-Teams-1024x791.jpg)
 

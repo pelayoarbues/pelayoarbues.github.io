@@ -1,10 +1,10 @@
 ---
-author: [[Featuring Ryan Atkins]]
+author: "[[Featuring Ryan Atkins]]"
 title: 'The Ultimate Guide on Engineering Operations | Ryan Atkins'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://global-uploads.webflow.com/622e9926ab27e10fa174ef99/62abd6d2d94c9e8bc8dcce17_Ryan.png)
 

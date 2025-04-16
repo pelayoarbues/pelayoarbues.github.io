@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'How to Generate Consistent Style With Stable Diffusion Using Style Aligned and Reference ControlNet'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stable-diffusion-art.com/wp-content/uploads/2024/06/consistent-style-cover.png)
 

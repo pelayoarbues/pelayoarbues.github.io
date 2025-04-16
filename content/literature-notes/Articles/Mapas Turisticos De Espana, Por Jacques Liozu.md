@@ -1,10 +1,10 @@
 ---
-author: [[Miguel García]]
+author: "[[Miguel García]]"
 title: 'Mapas Turísticos De España, Por Jacques Liozu'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F62f4498f-dcb0-4158-95ad-e9e96eeb4b2d_2000x2943.jpeg)
 

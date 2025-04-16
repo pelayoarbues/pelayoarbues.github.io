@@ -1,10 +1,10 @@
 ---
-author: [[larahogan.me]]
+author: "[[larahogan.me]]"
 title: 'Actively Listening'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://larahogan.me/images/twitter-card2.jpg)
 

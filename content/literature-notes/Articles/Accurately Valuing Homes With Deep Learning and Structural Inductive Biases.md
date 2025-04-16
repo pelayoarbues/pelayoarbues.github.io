@@ -1,11 +1,11 @@
 ---
-author: [[Stu (Michael) Stewart]]
+author: "[[Stu (Michael) Stewart]]"
 title: 'Accurately Valuing Homes With Deep Learning and Structural Inductive Biases'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[favorite]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[favorite]]"
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*G4oSJEEk7Y0xeG5Tkk283w.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Timothy Joseph]]
+author: "[[Timothy Joseph]]"
 title: 'QASource’s Comprehensive Guide to Chatbot Testing'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://f.hubspotusercontent20.net/hubfs/1751973/image/industry-insight/a-guide-to-chatbot-testing.jpg)
 

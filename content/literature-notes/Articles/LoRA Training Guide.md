@@ -1,10 +1,10 @@
 ---
-author: [[rentry.org]]
+author: "[[rentry.org]]"
 title: 'LoRA Training Guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s8d2.turboimg.net/sp/e2ed3eb8853d349d05716f8031fbd584/hdg0.5x.png?5203)
 

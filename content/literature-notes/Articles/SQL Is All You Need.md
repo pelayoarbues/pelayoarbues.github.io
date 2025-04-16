@@ -1,10 +1,10 @@
 ---
-author: [[jordivillar.com]]
+author: "[[jordivillar.com]]"
 title: 'SQL Is All You Need'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://jordivillar.com/sql.jpeg)
 

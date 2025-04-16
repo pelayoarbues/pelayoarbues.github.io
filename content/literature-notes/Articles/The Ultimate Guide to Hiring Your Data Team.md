@@ -1,10 +1,10 @@
 ---
-author: [[More Than Numbers]]
+author: "[[More Than Numbers]]"
 title: 'The Ultimate Guide to Hiring Your Data Team'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.count.co/content/images/2023/04/Blog-Titles-1.png)
 

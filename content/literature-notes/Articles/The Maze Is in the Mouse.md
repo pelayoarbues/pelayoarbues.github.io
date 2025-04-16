@@ -1,10 +1,10 @@
 ---
-author: [[Praveen Seshadri]]
+author: "[[Praveen Seshadri]]"
 title: 'The Maze Is in the Mouse'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/0VsJFrT07L6k-lbx9_jNICHC5)
 

@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Play in Control - ControlNet Training Setup Guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ad8d3655-a607-4577-8163-7203e17f505a/width=1200/ad8d3655-a607-4577-8163-7203e17f505a.jpeg)
 

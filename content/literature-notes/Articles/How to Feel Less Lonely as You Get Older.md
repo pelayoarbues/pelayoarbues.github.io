@@ -1,10 +1,10 @@
 ---
-author: [[Carrie Ditzel]]
+author: "[[Carrie Ditzel]]"
 title: 'How to Feel Less Lonely as You Get Older'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://epsilon.aeon.co/images/3b109c44-3de0-4167-8ba4-fd51b70d48e0/1500x1500.jpg)
 

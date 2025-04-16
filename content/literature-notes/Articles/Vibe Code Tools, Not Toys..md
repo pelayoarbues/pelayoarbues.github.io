@@ -1,10 +1,10 @@
 ---
-author: [[Ramiro Aznar]]
+author: "[[Ramiro Aznar]]"
 title: 'Vibe Code Tools, Not Toys.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://tinybird-blog.ghost.io/content/images/2025/03/opengraph-1742850428134-1.png)
 

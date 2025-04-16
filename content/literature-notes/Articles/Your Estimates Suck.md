@@ -1,10 +1,10 @@
 ---
-author: [[hey.com]]
+author: "[[hey.com]]"
 title: 'Your Estimates Suck'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://world.hey.com/dhh/avatar-20210222112907000000-293866624)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Erik Hoel]]
+author: "[[Erik Hoel]]"
 title: 'Getting Your Child to Love Reading in 2024'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0abd0dba-b565-4fc8-958e-c1f572e8adaa_1181x1299.jpeg)
 

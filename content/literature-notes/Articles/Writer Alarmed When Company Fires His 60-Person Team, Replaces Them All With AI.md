@@ -1,10 +1,10 @@
 ---
-author: [[Frank Landymore]]
+author: "[[Frank Landymore]]"
 title: 'Writer Alarmed When Company Fires His 60-Person Team, Replaces Them All With AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wp-assets.futurism.com/2024/06/company-replaces-writers-ai.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Álvaro Holgado]]
+author: "[[Álvaro Holgado]]"
 title: 'La Isla'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s1.abcstatics.com/narwhal/latest/assets/images/lavoz-noticias.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Javi Santana]]
+author: "[[Javi Santana]]"
 title: 'El Prisas'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fjavisantana.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-796306857%26version%3D9)
 

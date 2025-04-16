@@ -1,10 +1,10 @@
 ---
-author: [[AIcrowd | Generative Interior Design Challenge 2024 | Challenges]]
+author: "[[AIcrowd | Generative Interior Design Challenge 2024 | Challenges]]"
 title: 'The Final Sprint in the Generative Interior Design Challenge - New Dev Data Released'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aicrowd.com/raw_images/challenges/social_media_image_file/1133/4c185c57e79623fa079f.jpg)
 

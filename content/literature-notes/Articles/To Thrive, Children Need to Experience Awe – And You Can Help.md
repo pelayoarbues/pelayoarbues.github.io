@@ -1,10 +1,10 @@
 ---
-author: [[Artemisia O’bi & Fan Yang]]
+author: "[[Artemisia O’bi & Fan Yang]]"
 title: 'To Thrive, Children Need to Experience Awe – And You Can Help'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/cf6bc6b8-ff4d-432b-9493-6129f0f62116/rt-final-par377966.jpg)
 

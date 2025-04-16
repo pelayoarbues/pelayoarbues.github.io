@@ -1,10 +1,10 @@
 ---
-author: [[3-2-1 Thursday newsletter - James Clear]]
+author: "[[3-2-1 Thursday newsletter - James Clear]]"
 title: '3-2-1: On Endless Pursuits, the Value of Courage, and How to Buy Back Your Time'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://jamesclear.com/wp-content/uploads/2021/04/3-2-1-Featured-Image.png)
 

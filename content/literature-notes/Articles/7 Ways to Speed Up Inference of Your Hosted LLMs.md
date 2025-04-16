@@ -1,10 +1,10 @@
 ---
-author: [[Sergei Savvov]]
+author: "[[Sergei Savvov]]"
 title: '7 Ways to Speed Up Inference of Your Hosted LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:768/1*YjluBtcYIcQYHUSr2jntpg.png)
 

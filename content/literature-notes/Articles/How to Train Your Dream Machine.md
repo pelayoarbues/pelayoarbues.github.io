@@ -1,10 +1,10 @@
 ---
-author: [[Eira May]]
+author: "[[Eira May]]"
 title: 'How to Train Your Dream Machine'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://stackoverflow.blog/wp-content/uploads/2017/03/cropped-SO_Logo_glyph-use-this-one-smaller-32x32.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Noor Al-Sibai]]
+author: "[[Noor Al-Sibai]]"
 title: 'YouTubers Furious After Apple and Anthropic Steal Their Data to Train AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://futurism.com/favicon.png)
 

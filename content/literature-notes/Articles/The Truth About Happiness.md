@@ -1,10 +1,10 @@
 ---
-author: [[Lionel Page]]
+author: "[[Lionel Page]]"
 title: 'The Truth About Happiness'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bb7f3f2-b1d0-4c82-97df-237c9e9da1c1_1024x1024.png)
 

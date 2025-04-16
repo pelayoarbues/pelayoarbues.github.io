@@ -1,10 +1,10 @@
 ---
-author: [[How I Try To Keep Up With The Data Tech World (A List of Data Blogs)]]
+author: "[[How I Try To Keep Up With The Data Tech World (A List of Data Blogs)]]"
 title: 'How I Try to Keep Up With the Data Tech World'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://rmoff.net/images/2024/05/h_IMG_1771.webp)
 

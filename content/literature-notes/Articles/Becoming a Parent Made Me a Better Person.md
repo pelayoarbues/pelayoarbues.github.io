@@ -1,10 +1,10 @@
 ---
-author: [[Erik Hoel]]
+author: "[[Erik Hoel]]"
 title: 'Becoming a Parent Made Me a Better Person'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F673eb076-6462-4047-a5c9-48f29720c1ed_1181x1244.jpeg)
 

@@ -1,11 +1,11 @@
 ---
-author: [[Chad Sanderson]]
+author: "[[Chad Sanderson]]"
 title: 'Data is not a Microservice - by Chad Sanderson
 Data is not a Microservice'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3fe6497-a167-47a8-818f-aada570f6341%2Ffavicon-32x32.png)
 

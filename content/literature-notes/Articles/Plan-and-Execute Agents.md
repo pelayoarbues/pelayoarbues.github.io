@@ -1,10 +1,10 @@
 ---
-author: [[LangChain]]
+author: "[[LangChain]]"
 title: 'Plan-and-Execute Agents'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDF8fHBsYW58ZW58MHx8fHwxNjgzNjkxMTQ2&ixlib=rb-4.0.3&q=80&w=2000)
 

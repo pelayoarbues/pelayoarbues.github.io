@@ -1,10 +1,10 @@
 ---
-author: [[Irrational Exuberance]]
+author: "[[Irrational Exuberance]]"
 title: 'Building Personal and Organizational Prestige'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/favicon.ico)
 

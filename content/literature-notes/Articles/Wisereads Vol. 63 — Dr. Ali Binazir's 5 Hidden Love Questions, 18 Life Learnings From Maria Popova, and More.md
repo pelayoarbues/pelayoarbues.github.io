@@ -1,10 +1,10 @@
 ---
-author: [[hello@readwise.io (Readwise)]]
+author: "[[hello@readwise.io (Readwise)]]"
 title: 'Wisereads Vol. 63 — Dr. Ali Binazir''s 5 Hidden Love Questions, 18 Life Learnings From Maria Popova, and More'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/wisereads/base/owl.24130856a41e.jpg)
 

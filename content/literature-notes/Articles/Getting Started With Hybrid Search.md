@@ -1,10 +1,10 @@
 ---
-author: [[Pinecone]]
+author: "[[Pinecone]]"
 title: 'Getting Started With Hybrid Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.pinecone.io/images/hybrid-search-intro-0-alt.png)
 

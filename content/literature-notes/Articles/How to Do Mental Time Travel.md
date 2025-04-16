@@ -1,10 +1,10 @@
 ---
-author: [[Richard Fisher]]
+author: "[[Richard Fisher]]"
 title: 'How to Do Mental Time Travel'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.aeonmedia.co/images/359ddc9c-a38c-4603-b91a-9d09f8283e78/test-lon34514.jpg)
 

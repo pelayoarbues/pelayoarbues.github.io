@@ -1,10 +1,10 @@
 ---
-author: [[José Luis Ferreira]]
+author: "[[José Luis Ferreira]]"
 title: 'El Premio Nobel De Economía 2024 a Daron Acemoglu, Simon Johnson and James A. Robinson'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/protadajlf-1024x496.jpg)
 

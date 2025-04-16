@@ -1,10 +1,10 @@
 ---
-author: [[poloclub.github.io]]
+author: "[[poloclub.github.io]]"
 title: 'What is a Transformer?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://poloclub.github.io/transformer-explainer/favicon.png)
 

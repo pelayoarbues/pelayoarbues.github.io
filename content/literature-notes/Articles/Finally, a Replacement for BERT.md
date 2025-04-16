@@ -1,10 +1,10 @@
 ---
-author: [[Benjamin Warner]]
+author: "[[Benjamin Warner]]"
 title: 'Finally, a Replacement for BERT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/modernbert/thumbnail.png)
 

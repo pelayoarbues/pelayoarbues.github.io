@@ -1,10 +1,10 @@
 ---
-author: [[Maxwell Zeff]]
+author: "[[Maxwell Zeff]]"
 title: 'Perplexity Launches Sonar, an API for AI Search'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2181313521.jpg?w=1024)
 

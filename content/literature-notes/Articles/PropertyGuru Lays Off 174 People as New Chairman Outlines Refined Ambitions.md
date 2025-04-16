@@ -1,10 +1,10 @@
 ---
-author: [[Harvey Hancock]]
+author: "[[Harvey Hancock]]"
 title: 'PropertyGuru Lays Off 174 People as New Chairman Outlines "Refined" Ambitions'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.onlinemarketplaces.com/wp-content/uploads/2023/11/PropertyGuruGroupBoardroom.png)
 

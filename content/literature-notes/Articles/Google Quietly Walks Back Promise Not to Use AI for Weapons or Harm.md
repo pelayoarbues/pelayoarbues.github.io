@@ -1,10 +1,10 @@
 ---
-author: [[Joe Wilkins]]
+author: "[[Joe Wilkins]]"
 title: 'Google Quietly Walks Back Promise Not to Use AI for Weapons or Harm'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wordpress-assets.futurism.com/2025/02/google-quietly-promise-ai-evil.jpg)
 

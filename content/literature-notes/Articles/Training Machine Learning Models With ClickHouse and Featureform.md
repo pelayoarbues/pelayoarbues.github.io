@@ -1,10 +1,10 @@
 ---
-author: [[ClickHouse]]
+author: "[[ClickHouse]]"
 title: 'Training Machine Learning Models With ClickHouse and Featureform'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://clickhouse.com/uploads/training_models_clickhouse_featureform_d294abd5b2.png)
 

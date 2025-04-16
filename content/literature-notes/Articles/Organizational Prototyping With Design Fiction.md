@@ -1,10 +1,10 @@
 ---
-author: [[Fabien Girardin]]
+author: "[[Fabien Girardin]]"
 title: 'Organizational Prototyping With Design Fiction'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*kUvpNvwZCwQ8L1qhs-1qVw.png)
 

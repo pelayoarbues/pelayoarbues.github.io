@@ -1,10 +1,10 @@
 ---
-author: [[Antonia Díaz]]
+author: "[[Antonia Díaz]]"
 title: 'El Pensamiento De Suma Cero'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/tug-of-war-1013740_1920-1024x518.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Xavier Gumara Rigol]]
+author: "[[Xavier Gumara Rigol]]"
 title: 'Data as a product'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1000/0*XeHjlfiKO2_w6KYk)
 

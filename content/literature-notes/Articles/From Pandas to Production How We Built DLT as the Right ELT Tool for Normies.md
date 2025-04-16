@@ -1,10 +1,10 @@
 ---
-author: [[Adrian Brudaru]]
+author: "[[Adrian Brudaru]]"
 title: 'From Pandas to Production: How We Built DLT as the Right ELT Tool for Normies'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/dlt-blog-images/i-am-normal.png)
 

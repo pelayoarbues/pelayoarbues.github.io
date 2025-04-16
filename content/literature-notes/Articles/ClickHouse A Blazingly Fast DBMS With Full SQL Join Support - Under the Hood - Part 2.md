@@ -1,10 +1,10 @@
 ---
-author: [[ClickHouse]]
+author: "[[ClickHouse]]"
 title: 'ClickHouse: A Blazingly Fast DBMS With Full SQL Join Support - Under the Hood - Part 2'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://clickhouse.com/uploads/Blazingly_Fast_DBMS_Part_2_f97edfa04f.png)
 

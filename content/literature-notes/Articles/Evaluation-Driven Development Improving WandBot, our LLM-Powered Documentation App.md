@@ -1,10 +1,10 @@
 ---
-author: [[W&B]]
+author: "[[W&B]]"
 title: 'Evaluation-Driven Development: Improving WandBot, our LLM-Powered Documentation App'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wandb.ai/logo.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[admin]]
+author: "[[admin]]"
 title: 'El Problema De La Vivienda: Soluciones Y No Soluciones'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/Neg-logo-400x400.jpeg)
 

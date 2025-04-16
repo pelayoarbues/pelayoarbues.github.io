@@ -1,10 +1,10 @@
 ---
-author: [[Posit Team]]
+author: "[[Posit Team]]"
 title: 'Data Career Insights: Lessons From Four Senior Leaders in the Data Space'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://posit.co/wp-content/themes/Posit/dist/images/site-share-image.jpg)
 

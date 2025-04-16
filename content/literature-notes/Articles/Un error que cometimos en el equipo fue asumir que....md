@@ -1,10 +1,10 @@
 ---
-author: [[Alex Fernández]]
+author: "[[Alex Fernández]]"
 title: 'Un error que cometimos en el equipo fue asumir que...'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1618889703784054785/aFnJae58_normal.jpg)
 

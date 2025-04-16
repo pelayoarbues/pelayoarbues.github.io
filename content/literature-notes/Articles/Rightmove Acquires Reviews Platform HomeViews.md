@@ -1,10 +1,10 @@
 ---
-author: [[Proptech Connect]]
+author: "[[Proptech Connect]]"
 title: 'Rightmove Acquires Reviews Platform HomeViews'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://proptechconnect.com/wp-content/uploads/2024/02/rightmove.png)
 

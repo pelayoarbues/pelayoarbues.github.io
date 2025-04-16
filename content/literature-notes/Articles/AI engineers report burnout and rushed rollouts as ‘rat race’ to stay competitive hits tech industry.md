@@ -1,10 +1,10 @@
 ---
-author: [[Hayden Field]]
+author: "[[Hayden Field]]"
 title: 'AI engineers report burnout and rushed rollouts as ‘rat race’ to stay competitive hits tech industry'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.cnbcfm.com/api/v1/image/107250892-1685971223494-gettyimages-1258377934-AFP_33GU4HE.jpeg?v=1714676772&w=1920&h=1080)
 

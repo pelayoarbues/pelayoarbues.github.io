@@ -1,10 +1,10 @@
 ---
-author: [[Team PyTorch]]
+author: "[[Team PyTorch]]"
 title: 'Inside the Matrix: Visualizing Matrix Multiplication, Attention and Beyond'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pytorch.org/assets/images/pytorch-logo.png)
 

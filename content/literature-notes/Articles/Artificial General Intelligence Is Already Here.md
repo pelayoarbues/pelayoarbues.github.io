@@ -1,10 +1,10 @@
 ---
-author: [[Blaise Agüera y Arcas]]
+author: "[[Blaise Agüera y Arcas]]"
 title: 'Artificial General Intelligence Is Already Here'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://noemamag.imgix.net/2023/10/Noema_Card-display-2000x1000-0-00-04-04.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&w=1200&wpsize=noema-social-facebook&s=2e1793c1499718ac74749479e3989c10)
 

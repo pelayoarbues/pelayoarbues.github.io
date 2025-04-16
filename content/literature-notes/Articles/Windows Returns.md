@@ -1,10 +1,10 @@
 ---
-author: [[Ben Thompson]]
+author: "[[Ben Thompson]]"
 title: 'Windows Returns'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/stratechery.com/wp-content/uploads/2018/03/cropped-android-chrome-512x512-1.png?fit=32%2C32&ssl=1)
 

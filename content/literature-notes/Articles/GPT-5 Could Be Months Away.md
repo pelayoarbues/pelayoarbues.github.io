@@ -1,10 +1,10 @@
 ---
-author: [[Superhuman AI]]
+author: "[[Superhuman AI]]"
 title: 'GPT-5 Could Be Months Away'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 

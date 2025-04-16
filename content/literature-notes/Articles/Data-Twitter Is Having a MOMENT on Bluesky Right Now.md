@@ -1,10 +1,10 @@
 ---
-author: [[Counting Stuff]]
+author: "[[Counting Stuff]]"
 title: 'Data-Twitter Is Having a MOMENT on Bluesky Right Now'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.counting-stuff.com/content/images/2024/10/PXL_20240624_002959264.NIGHT-EDIT.jpg)
 

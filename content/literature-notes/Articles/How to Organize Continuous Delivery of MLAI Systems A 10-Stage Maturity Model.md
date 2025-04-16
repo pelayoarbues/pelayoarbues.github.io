@@ -1,10 +1,10 @@
 ---
-author: [[The Outerbounds Team]]
+author: "[[The Outerbounds Team]]"
 title: 'How to Organize Continuous Delivery of ML/AI Systems: A 10-Stage Maturity Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://outerbounds.com/blog/og/continuous-delivery-of-ml-ai.jpg)
 

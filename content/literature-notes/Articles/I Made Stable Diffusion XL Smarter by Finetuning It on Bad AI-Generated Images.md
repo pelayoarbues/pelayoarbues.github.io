@@ -1,10 +1,10 @@
 ---
-author: [[minimaxir.com]]
+author: "[[minimaxir.com]]"
 title: 'I Made Stable Diffusion XL Smarter by Finetuning It on Bad AI-Generated Images'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://minimaxir.com/2023/08/stable-diffusion-xl-wrong/featured.webp)
 

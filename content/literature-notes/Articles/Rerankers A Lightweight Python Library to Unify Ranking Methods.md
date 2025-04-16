@@ -1,10 +1,10 @@
 ---
-author: [[Benjamin Clavié]]
+author: "[[Benjamin Clavié]]"
 title: 'Rerankers: A Lightweight Python Library to Unify Ranking Methods'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.answer.ai/posts/images/rerankers/rerankers_map.png)
 

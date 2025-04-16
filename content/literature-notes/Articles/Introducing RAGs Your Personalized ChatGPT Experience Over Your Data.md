@@ -1,10 +1,10 @@
 ---
-author: [[Jerry Liu]]
+author: "[[Jerry Liu]]"
 title: 'Introducing RAGs: Your Personalized ChatGPT Experience Over Your Data'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*nGy5LNTZo0rdx6FuVwudyQ.png)
 

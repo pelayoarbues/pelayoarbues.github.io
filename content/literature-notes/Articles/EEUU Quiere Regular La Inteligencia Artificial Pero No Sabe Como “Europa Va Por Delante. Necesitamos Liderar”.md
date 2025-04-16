@@ -1,10 +1,10 @@
 ---
-author: [[Esther Paniagua]]
+author: "[[Esther Paniagua]]"
 title: 'EEUU Quiere Regular La Inteligencia Artificial Pero No Sabe Cómo: “Europa Va Por Delante. Necesitamos Liderar”'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://s1.eestatic.com/2023/05/17/invertia/disruptores-innovadores/america-tech/764433564_233228594_1200x630.jpg)
 

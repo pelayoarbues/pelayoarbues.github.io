@@ -1,10 +1,10 @@
 ---
-author: [[nathenry.com]]
+author: "[[nathenry.com]]"
 title: 'Is Seattle a 15-Minute City? It Depends on Where You Want to Walk'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nathenry.com/assets/media/writing/seattle_walkability/walkability_splash.png)
 

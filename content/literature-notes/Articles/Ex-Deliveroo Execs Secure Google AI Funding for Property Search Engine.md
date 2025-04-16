@@ -1,10 +1,10 @@
 ---
-author: [[Sky News]]
+author: "[[Sky News]]"
 title: 'Ex-Deliveroo Execs Secure Google AI Funding for Property Search Engine'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://e3.365dm.com/23/08/1600x900/skynews-kleinman-jitty_6264436.jpg?20230827084549)
 

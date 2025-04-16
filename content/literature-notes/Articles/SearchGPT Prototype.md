@@ -1,10 +1,10 @@
 ---
-author: [[openai.com]]
+author: "[[openai.com]]"
 title: 'SearchGPT Prototype'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ctfassets.net/kftzwdyauwt9/3PW6ybA3KHgTzQRTLewRE0/6b7dbca9baa496dce6cf2d929b0d971d/SearchGPT_1x1_Asset_2.png?w=1600&h=900&fit=fill)
 

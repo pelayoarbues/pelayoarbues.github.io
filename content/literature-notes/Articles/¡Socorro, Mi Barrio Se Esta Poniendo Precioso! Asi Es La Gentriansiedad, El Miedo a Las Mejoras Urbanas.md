@@ -1,10 +1,10 @@
 ---
-author: [[Begoña Gómez Urzaiz]]
+author: "[[Begoña Gómez Urzaiz]]"
 title: '¡Socorro, Mi Barrio Se Esta Poniendo Precioso! Asi Es La Gentriansiedad, El Miedo a Las Mejoras Urbanas'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.lavanguardia.com/files/og_thumbnail/uploads/2023/05/18/6466147a6ff23.jpeg)
 

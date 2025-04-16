@@ -1,10 +1,10 @@
 ---
-author: [[Ilyas Chahed]]
+author: "[[Ilyas Chahed]]"
 title: 'Welcome FalconMamba: The First Strong Attention-Free 7B Model'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/favicon.ico)
 

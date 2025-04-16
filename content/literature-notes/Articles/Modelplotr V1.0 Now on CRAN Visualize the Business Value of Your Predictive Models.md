@@ -1,10 +1,10 @@
 ---
-author: [[Jurriaan Nagelkerke]]
+author: "[[Jurriaan Nagelkerke]]"
 title: 'Modelplotr V1.0 Now on CRAN: Visualize the Business Value of Your Predictive Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://modelplot.github.io/img/goplay.jpg)
 

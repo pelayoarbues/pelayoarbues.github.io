@@ -1,10 +1,10 @@
 ---
-author: [[Judd Antin]]
+author: "[[Judd Antin]]"
 title: 'Too Many Meetings Is Not Your Problem'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1024/1*xq9Xfbdd2XCUe4j6wDpqeg.png)
 

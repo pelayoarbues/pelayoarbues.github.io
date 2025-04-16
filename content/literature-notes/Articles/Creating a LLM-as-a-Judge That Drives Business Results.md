@@ -1,10 +1,10 @@
 ---
-author: [[Hamel Husain]]
+author: "[[Hamel Husain]]"
 title: 'Creating a LLM-as-a-Judge That Drives Business Results'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hamel.dev/blog/posts/llm-judge/images/cover_img.png)
 

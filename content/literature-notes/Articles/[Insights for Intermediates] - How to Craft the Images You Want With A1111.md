@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: '[Insights for Intermediates] - How to Craft the Images You Want With A1111'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc102ba8-0f3b-4f1d-aab1-afc1559b8f9e/width=1200/cc102ba8-0f3b-4f1d-aab1-afc1559b8f9e.jpeg)
 

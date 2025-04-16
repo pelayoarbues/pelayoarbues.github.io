@@ -1,10 +1,10 @@
 ---
-author: [[Themefisher]]
+author: "[[Themefisher]]"
 title: 'Tenets at Amazon'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pedrodelgallego.github.io/images/post/amazon/tenets_hucb1d63e3f5f03daf36f594ccf71c91bf_908765_925x475_fill_box_smart1_3.png)
 

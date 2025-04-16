@@ -1,10 +1,10 @@
 ---
-author: [[Javier Escribano]]
+author: "[[Javier Escribano]]"
 title: 'El Pleasurable MVP De Hey Calendar'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa23dfe8a-f2c9-46f2-abcc-c1679ac5eeba_2541x1425.png)
 

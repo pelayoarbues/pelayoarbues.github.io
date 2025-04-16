@@ -1,10 +1,10 @@
 ---
-author: [[staffeng.com]]
+author: "[[staffeng.com]]"
 title: 'Guides / Work on What Matters'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://staffeng.com/StaffEngSocialShare.jpg)
 

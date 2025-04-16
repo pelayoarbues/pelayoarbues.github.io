@@ -1,10 +1,10 @@
 ---
-author: [[Judd Antin]]
+author: "[[Judd Antin]]"
 title: 'How to Leave a Tech Job'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*LCFGJ2ZyEDoyP9lgv0DJsw.png)
 

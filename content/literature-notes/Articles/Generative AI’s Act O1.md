@@ -1,10 +1,10 @@
 ---
-author: [[Sonya Huang]]
+author: "[[Sonya Huang]]"
 title: 'Generative AI’s Act O1'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.sequoiacap.com/wp-content/uploads/sites/6/2024/10/Opengraph.jpg)
 

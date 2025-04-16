@@ -1,10 +1,10 @@
 ---
-author: [[facebook.com]]
+author: "[[facebook.com]]"
 title: 'Introducing Sphere: Meta AI’s Web-Scale Corpus for Better Knowledge-Intensive NLP'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent-hou1-1.xx.fbcdn.net/v/t39.2365-6/291960519_725957045327707_8585421034921666233_n.png?_nc_cat=100&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=YnhLOKg-EIEAX8C7CDV&_nc_ht=scontent-hou1-1.xx&oh=00_AfDJ27RpiI3-ueuvUwnUz3NicBY397xxOnj8rTXwNDeH2g&oe=6401BCF5)
 

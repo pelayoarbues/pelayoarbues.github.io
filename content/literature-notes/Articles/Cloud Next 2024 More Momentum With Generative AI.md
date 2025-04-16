@@ -1,10 +1,10 @@
 ---
-author: [[Sundar Pichai]]
+author: "[[Sundar Pichai]]"
 title: 'Cloud Next 2024: More Momentum With Generative AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Next_SP-social-share.width-1300.png)
 

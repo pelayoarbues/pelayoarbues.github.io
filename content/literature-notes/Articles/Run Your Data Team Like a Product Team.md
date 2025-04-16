@@ -1,10 +1,10 @@
 ---
-author: [[Emilie Schario and Taylor A. Murphy, PhD]]
+author: "[[Emilie Schario and Taylor A. Murphy, PhD]]"
 title: 'Run Your Data Team Like a Product Team'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://locallyoptimistic.com/wp-content/uploads/2021/04/Image-from-iOS-1024x791.jpg)
 

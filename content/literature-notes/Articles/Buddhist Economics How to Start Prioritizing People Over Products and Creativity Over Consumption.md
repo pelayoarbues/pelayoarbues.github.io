@@ -1,10 +1,10 @@
 ---
-author: [[Maria Popova]]
+author: "[[Maria Popova]]"
 title: 'Buddhist Economics: How to Start Prioritizing People Over Products and Creativity Over Consumption'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.themarginalian.org/wp-content/uploads/2014/07/buddhisteconomics0.jpg?fit=600%2C315&ssl=1)
 

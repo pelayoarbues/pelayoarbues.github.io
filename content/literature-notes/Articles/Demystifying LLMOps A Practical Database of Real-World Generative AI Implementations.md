@@ -1,10 +1,10 @@
 ---
-author: [[zenml.io]]
+author: "[[zenml.io]]"
 title: 'Demystifying LLMOps: A Practical Database of Real-World Generative AI Implementations'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/65264f6bf54e751c3a776db1/674d7ebb4caad1b52c8dcf0d_midjourney1.png)
 

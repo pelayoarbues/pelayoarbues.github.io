@@ -1,10 +1,10 @@
 ---
-author: [[Alondra Nelson]]
+author: "[[Alondra Nelson]]"
 title: 'Three Fallacies: Alondra Nelson''s Remarks at the Elysée Palace on the Occasion of the AI Action Summit'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.sanity.io/images/3tzzh18d/production/28c7bbab5e457327edaf84a0b2b55610c3470330-1200x675.png)
 

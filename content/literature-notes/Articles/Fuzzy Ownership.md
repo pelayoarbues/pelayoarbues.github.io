@@ -1,10 +1,10 @@
 ---
-author: [[posthog.com]]
+author: "[[posthog.com]]"
 title: 'Fuzzy Ownership'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://posthog.com/og-images/handbookcompanyfuzzy-ownership.jpeg)
 

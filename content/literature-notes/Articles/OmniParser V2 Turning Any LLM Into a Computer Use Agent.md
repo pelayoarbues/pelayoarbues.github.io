@@ -1,10 +1,10 @@
 ---
-author: [[Microsoft Research]]
+author: "[[Microsoft Research]]"
 title: 'OmniParser V2: Turning Any LLM Into a Computer Use Agent'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.microsoft.com/en-us/research/uploads/prod/2025/02/header_bar.png)
 

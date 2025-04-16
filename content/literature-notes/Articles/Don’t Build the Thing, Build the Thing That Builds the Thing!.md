@@ -1,10 +1,10 @@
 ---
-author: [[Scott Martens]]
+author: "[[Scott Martens]]"
 title: 'Don’t Build the Thing, Build the Thing That Builds the Thing!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://jina-ai-gmbh.ghost.io/content/images/2023/06/Untitled--1--2.png)
 

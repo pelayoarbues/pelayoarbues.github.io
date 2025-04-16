@@ -1,10 +1,10 @@
 ---
-author: [[NFX]]
+author: "[[NFX]]"
 title: 'AI Leapfrogging: How AI Will Transform “Lagging” Industries'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2023/06/AI-leapfrogging-v2-social.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Emma Roth]]
+author: "[[Emma Roth]]"
 title: 'AI Landlord Screening Tool Will Stop Scoring Low-Income Tenants After Discrimination Suit - The Verge'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/B8CfyOtPnNFP9uWQlThzfERX8KU=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25479106/STK476_LOCATION_DATA_CVIRGINIA_B.jpg)
 

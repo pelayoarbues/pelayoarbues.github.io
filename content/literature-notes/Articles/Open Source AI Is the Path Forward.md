@@ -1,10 +1,10 @@
 ---
-author: [[Mark Zuckerberg]]
+author: "[[Mark Zuckerberg]]"
 title: 'Open Source AI Is the Path Forward'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://about.fb.com/wp-content/uploads/2024/07/MZ-Open-Letter-AI_Social-Share.jpg?w=1200)
 

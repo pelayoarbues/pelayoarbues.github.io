@@ -1,10 +1,10 @@
 ---
-author: [[Chioma Onwuanibe]]
+author: "[[Chioma Onwuanibe]]"
 title: 'No Time to Lead? Then Be Prepared to Fail.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://go.forrester.com/wp-content/uploads/2022/03/FMK_FORR_GenericSocialImage_220314.jpg)
 

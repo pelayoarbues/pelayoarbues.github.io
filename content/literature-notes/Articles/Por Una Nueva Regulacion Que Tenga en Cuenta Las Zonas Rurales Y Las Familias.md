@@ -1,10 +1,10 @@
 ---
-author: [[Airbnb]]
+author: "[[Airbnb]]"
 title: 'Por Una Nueva Regulación Que Tenga en Cuenta Las Zonas Rurales Y Las Familias'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.airbnb.com/wp-content/uploads/sites/4/2022/10/airbnb_keys1.jpg?resize=2400,1260)
 

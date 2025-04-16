@@ -1,10 +1,10 @@
 ---
-author: [[Richard Florida]]
+author: "[[Richard Florida]]"
 title: 'The Pandemic Didn’t Upend US Geography'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqzpeaCOBEsA/v1/1200x900.jpg)
 

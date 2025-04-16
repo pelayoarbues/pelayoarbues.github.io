@@ -1,10 +1,10 @@
 ---
-author: [[Ramiro Aznar]]
+author: "[[Ramiro Aznar]]"
 title: '🎮 La Unrealidad Ya Está Aquí'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F148d5dcf-9a5e-4be4-ae96-e998a4d1019d_640x400.png)
 

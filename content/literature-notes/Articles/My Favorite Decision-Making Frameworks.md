@@ -1,10 +1,10 @@
 ---
-author: [[Lenny Rachitsky]]
+author: "[[Lenny Rachitsky]]"
 title: 'My Favorite Decision-Making Frameworks'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64af5358-b6c6-440b-9120-6bd90075b310_1137x1200.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Joan Tubau]]
+author: "[[Joan Tubau]]"
 title: 'Cómo Aprendí Economía'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffbf9fc1d-1d47-4529-acfb-45ba6ffce6e6_1920x1446.jpeg)
 

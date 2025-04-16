@@ -1,10 +1,10 @@
 ---
-author: [[lethain.com]]
+author: "[[lethain.com]]"
 title: 'Running an Engineering Reorg'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lethain.com/static/blog/heroes/reorg-hero.png)
 

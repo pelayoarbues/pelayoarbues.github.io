@@ -1,10 +1,10 @@
 ---
-author: [[deepcogito.com]]
+author: "[[deepcogito.com]]"
 title: 'Cogito V1 Preview Introducing IDA as a Path to General Superintelligence'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://deep-cogito-website.vercel.app/OGImage_CogitoV1Preview.png)
 

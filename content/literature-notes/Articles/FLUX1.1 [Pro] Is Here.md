@@ -1,10 +1,10 @@
 ---
-author: [[replicate.com]]
+author: "[[replicate.com]]"
 title: 'FLUX1.1 [Pro] Is Here'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://og.replicate.com/api/blog/flux-1-1-pro-is-here)
 

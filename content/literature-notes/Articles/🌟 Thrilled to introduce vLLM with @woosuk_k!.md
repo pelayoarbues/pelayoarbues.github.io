@@ -1,10 +1,10 @@
 ---
-author: [[Zhuohan Li]]
+author: "[[Zhuohan Li]]"
 title: '🌟 Thrilled to introduce vLLM with @woosuk_k!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1230577035170340864/NRvpL0H8_normal.jpg)
 

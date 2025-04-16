@@ -1,10 +1,10 @@
 ---
-author: [[Nilesh Chopda]]
+author: "[[Nilesh Chopda]]"
 title: 'Mastering RAG Pipelines: A Guide to Optimisation and Hyperparameter Tuning'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*6BKsDCBNodR5s4O-6hJ-Bg.png)
 

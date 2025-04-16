@@ -1,10 +1,10 @@
 ---
-author: [[Javier García]]
+author: "[[Javier García]]"
 title: '«¡Ignorante! Facturamos Más, Ganamos Más, Valemos Más»: ¿Ah Sí? Inditex Y Telefónica Te Lo Explican'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.ecestaticos.com/_ZkMBwxnGBAdseXMGiLGYJhQ4hw=/0x0:2272x1704/600x315/filters:fill(white):format(jpg):quality(99):watermark(f.elconfidencial.com/file/bae/eea/fde/baeeeafde1b3229287b0c008f7602058.png,0,275,1)/f.elconfidencial.com/original/048/999/e8d/048999e8dc3d29d6eb946ead3fff515e.jpg)
 

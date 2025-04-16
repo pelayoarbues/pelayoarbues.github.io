@@ -1,10 +1,10 @@
 ---
-author: [[efeverde]]
+author: "[[efeverde]]"
 title: 'La OMS Recomienda “Mapas Urbanos De Calor” Para Reducir Las Víctimas Del Calentamiento Global'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://efeverde.com/wp-content/uploads/2023/05/CALOR-CIUDADES-e1685597127153.jpg)
 

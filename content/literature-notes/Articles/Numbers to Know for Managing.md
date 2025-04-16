@@ -1,10 +1,10 @@
 ---
-author: [[Stay SaaSy]]
+author: "[[Stay SaaSy]]"
 title: 'Numbers to Know for Managing'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://staysaasy.com/assets/template/stay-saasy-black-ogimage.jpeg)
 

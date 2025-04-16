@@ -1,10 +1,10 @@
 ---
-author: [[Esther Miguel Trula]]
+author: "[[Esther Miguel Trula]]"
 title: 'La Formula 10-3-2-1-0 Quiere Que Duermas Mejor Y, De Paso, Volverte Mas Productivo'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.blogs.es/478592/dormir-mas-ser-mas-productivo/840_560.jpg)
 

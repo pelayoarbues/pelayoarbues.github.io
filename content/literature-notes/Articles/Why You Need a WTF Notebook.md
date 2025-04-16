@@ -1,10 +1,10 @@
 ---
-author: [[Simpler Machines]]
+author: "[[Simpler Machines]]"
 title: 'Why You Need a "WTF Notebook"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxMTc3M3wwfDF8c2VhcmNofDJ8fGJ1bGxldCUyMGxpc3R8ZW58MHx8fHwxNjMyNTEyNjI1&ixlib=rb-1.2.1&q=80&w=2000)
 

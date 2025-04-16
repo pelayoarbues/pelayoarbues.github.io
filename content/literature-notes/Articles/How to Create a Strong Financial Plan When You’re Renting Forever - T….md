@@ -1,10 +1,10 @@
 ---
-author: [[archive.ph]]
+author: "[[archive.ph]]"
 title: 'How to Create a Strong Financial Plan When You’re Renting Forever - T…'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://archive.ph/yvxLU/a8ab010304686a56a35a3d2663f2956aef6a2896/scr.png)
 

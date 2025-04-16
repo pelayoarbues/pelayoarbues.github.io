@@ -1,10 +1,10 @@
 ---
-author: [[indieweb.org]]
+author: "[[indieweb.org]]"
 title: 'IndieWeb Examples'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://news.ycombinator.com/favicon.ico)
 

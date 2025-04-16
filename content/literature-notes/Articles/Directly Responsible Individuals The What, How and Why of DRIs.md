@@ -1,10 +1,10 @@
 ---
-author: [[Tettra]]
+author: "[[Tettra]]"
 title: 'Directly Responsible Individuals: The What, How and Why of DRIs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://tettra.com/wp-content/uploads/2018/12/directly-responsible-individuals-guide.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Nathan Lambert]]
+author: "[[Nathan Lambert]]"
 title: 'Gemma 3, OLMo 2 32B, and the Growing Potential of Open-Source AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2Fa68b8b8e-a0f6-46ce-8d9f-12275452cda3_2228x1484.png)
 

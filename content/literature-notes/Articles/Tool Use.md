@@ -1,10 +1,10 @@
 ---
-author: [[docs.anthropic.com]]
+author: "[[docs.anthropic.com]]"
 title: 'Tool Use'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mintlify.com/docs/api/og?division=Documentation&mode=light&title=Tool+use+%28function+calling%29&logoLight=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fanthropic%2Flogo%2Flight.svg&logoDark=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fanthropic%2Flogo%2Fdark.svg&primaryColor=%230E0E0E&lightColor=%23D4A27F&darkColor=%230E0E0E)
 

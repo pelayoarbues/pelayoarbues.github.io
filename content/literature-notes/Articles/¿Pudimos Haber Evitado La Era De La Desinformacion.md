@@ -1,10 +1,10 @@
 ---
-author: [[.Wp-Block-Post-Author-Name Box-Sizing Border-Box]]
+author: "[[.Wp-Block-Post-Author-Name Box-Sizing Border-Box]]"
 title: '¿Pudimos Haber Evitado La Era De La Desinformación?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://paullop.com/wp-content/uploads/2024/11/desinformacion.jpg)
 

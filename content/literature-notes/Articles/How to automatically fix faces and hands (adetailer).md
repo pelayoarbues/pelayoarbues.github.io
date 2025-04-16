@@ -1,10 +1,10 @@
 ---
-author: [[Andrew]]
+author: "[[Andrew]]"
 title: 'How to automatically fix faces and hands (adetailer)'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i0.wp.com/stable-diffusion-art.com/wp-content/uploads/2023/07/cover-02543-1134911810-Photo-of-A-woman-sitting-on-a-giant-ice-cream-which-is-adorned-with-vibrant-colors-delightful-and-rainbow-sprinkles.-sweetnes.png)
 

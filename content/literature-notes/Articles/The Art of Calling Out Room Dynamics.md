@@ -1,10 +1,10 @@
 ---
-author: [[Csaba Okrona]]
+author: "[[Csaba Okrona]]"
 title: 'The Art of Calling Out Room Dynamics'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://leadership.garden/_astro/naming-whats-happening-in-the-room.DhhcH2jp.png)
 

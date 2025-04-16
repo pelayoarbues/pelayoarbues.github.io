@@ -1,10 +1,10 @@
 ---
-author: [[stephenwolfram.com]]
+author: "[[stephenwolfram.com]]"
 title: 'ChatGPT Gets Its “Wolfram Superpowers”!'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.wolfram.com/uploads/sites/43/2023/03/gpt-plugin-hero6.png)
 

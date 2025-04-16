@@ -1,10 +1,10 @@
 ---
-author: [[Garrison Lovely]]
+author: "[[Garrison Lovely]]"
 title: 'Can Humanity Survive AI?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://alcove.website/system/cache/accounts/avatars/111/111/905/299/721/945/original/1adc66a38a882e04.jpg)
 

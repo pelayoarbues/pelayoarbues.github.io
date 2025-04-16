@@ -1,10 +1,10 @@
 ---
-author: [[Online Marketplaces]]
+author: "[[Online Marketplaces]]"
 title: 'Should Portals Be Terrified by AI Agentic Search? With Mal McCallion'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://i.ytimg.com/vi/1kG7dBIb7h0/maxresdefault.jpg)
 

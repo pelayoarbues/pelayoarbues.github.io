@@ -1,10 +1,10 @@
 ---
-author: [[Philipp Schmid]]
+author: "[[Philipp Schmid]]"
 title: 'Fine-Tune BERT for Text Classification on AWS Trainium'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.philschmid.de/static/blog/getting-started-trainium/thumbnail.jpg)
 

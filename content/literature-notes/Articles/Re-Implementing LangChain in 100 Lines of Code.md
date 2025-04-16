@@ -1,10 +1,10 @@
 ---
-author: [[ColinEberhardt]]
+author: "[[ColinEberhardt]]"
 title: 'Re-Implementing LangChain in 100 Lines of Code'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.scottlogic.com/ceberhardt/assets/ai.png)
 

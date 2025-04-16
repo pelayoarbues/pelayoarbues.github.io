@@ -1,10 +1,10 @@
 ---
-author: [[Lilian Weng]]
+author: "[[Lilian Weng]]"
 title: 'LLM Powered Autonomous Agents'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://lilianweng.github.io/favicon-32x32.png)
 

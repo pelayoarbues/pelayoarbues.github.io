@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'El Mercado Inmobiliario Español, en Máximos: Récord De Precios Con Muy Poca Oferta Y Mucha Demanda'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2025-01/images/idealista.jpg?VersionId=BOYkZlxVRAH2yjCAGAJ.pGcXLXUJm9cs&itok=InRjs6FV)
 

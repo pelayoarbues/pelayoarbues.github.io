@@ -1,10 +1,10 @@
 ---
-author: [[Farnam Street]]
+author: "[[Farnam Street]]"
 title: 'Experts vs. Imitators'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://fs.blog/wp-content/uploads/2015/06/cropped-farnamstreet-80x80.png)
 

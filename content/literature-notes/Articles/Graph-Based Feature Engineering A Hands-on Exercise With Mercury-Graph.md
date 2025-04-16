@@ -1,10 +1,10 @@
 ---
-author: [[BBVA AI Factory]]
+author: "[[BBVA AI Factory]]"
 title: 'Graph-Based Feature Engineering: A Hands-on Exercise With Mercury-Graph'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.bbvaaifactory.com/wp-content/uploads/prodigiosaia_a_background_full_of_dots_that_are_connected_with__de869b8a-8d95-4386-b6b8-bd494a4583cc.png)
 

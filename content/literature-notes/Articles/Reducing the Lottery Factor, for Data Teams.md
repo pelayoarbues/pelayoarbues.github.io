@@ -1,10 +1,10 @@
 ---
-author: [[Jacob Adler]]
+author: "[[Jacob Adler]]"
 title: 'Reducing the Lottery Factor, for Data Teams'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://locallyoptimistic.com/wp-content/uploads/2023/04/Jackpot-1024x791.jpg)
 

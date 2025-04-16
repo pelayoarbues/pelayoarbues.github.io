@@ -1,10 +1,10 @@
 ---
-author: [[Sebastian Raschka]]
+author: "[[Sebastian Raschka]]"
 title: 'Using and Finetuning Pretrained Transformers'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/9a2f144c-3665-4f77-81bb-9bbbbbe756b6_1604x1224.jpeg)
 

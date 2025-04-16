@@ -1,10 +1,10 @@
 ---
-author: [[The Batch @ DeepLearning.AI]]
+author: "[[The Batch @ DeepLearning.AI]]"
 title: 'Autonomous Coding Agents, Instability at Stability AI, Mamba Mania, What Users Do With GenAI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 

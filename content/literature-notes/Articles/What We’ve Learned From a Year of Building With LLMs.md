@@ -1,10 +1,10 @@
 ---
-author: [[Eugene Yan]]
+author: "[[Eugene Yan]]"
 title: 'What We’ve Learned From a Year of Building With LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://applied-llms.org/images/mkdocs_social_card.png)
 

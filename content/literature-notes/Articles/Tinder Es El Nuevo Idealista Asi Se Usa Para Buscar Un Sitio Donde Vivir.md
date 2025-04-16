@@ -1,10 +1,10 @@
 ---
-author: [[Lucía Franco]]
+author: "[[Lucía Franco]]"
 title: 'Tinder Es El Nuevo Idealista: Así Se Usa Para Buscar Un Sitio Donde Vivir'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://imagenes.elpais.com/resizer/mR8ykyEXEQyTNs9q6vz9QXTnA4c=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AFY7PVPRTBD7BLUNWGUG2PJGXI.jpg)
 

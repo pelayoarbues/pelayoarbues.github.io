@@ -1,10 +1,10 @@
 ---
-author: [[arXiv.org]]
+author: "[[arXiv.org]]"
 title: 'Ask Me Anything: A Simple Strategy for Prompting Language Models'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.arxiv.org/icons/twitter/arxiv-logo-twitter-square.png)
 

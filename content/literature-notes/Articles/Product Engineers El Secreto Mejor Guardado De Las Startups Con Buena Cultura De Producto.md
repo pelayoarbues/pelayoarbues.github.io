@@ -1,11 +1,11 @@
 ---
-author: [[Javier Escribano]]
+author: "[[Javier Escribano]]"
 title: 'Product Engineers: El Secreto Mejor Guardado De Las Startups Con Buena Cultura De Producto'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
-Document Tags: -[[favorite]]
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[favorite]]"
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22c74f0c-72a0-499a-8367-6575492e25c2_480x362.gif)
 

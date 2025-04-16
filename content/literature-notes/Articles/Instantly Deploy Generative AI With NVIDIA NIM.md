@@ -1,10 +1,10 @@
 ---
-author: [[NVIDIA]]
+author: "[[NVIDIA]]"
 title: 'Instantly Deploy Generative AI With NVIDIA NIM'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.nvidia.com/content/dam/en-zz/Solutions/ai/nvidia-gen-ai-api-og-iamge-1200x630.jpg)
 

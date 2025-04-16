@@ -1,10 +1,10 @@
 ---
-author: [[Julie Zhuo]]
+author: "[[Julie Zhuo]]"
 title: 'The Looking Glass: Sharpening Judgement'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe71cf9b6-0253-4a41-9907-f4ee2ab6272d_1024x1024.png)
 

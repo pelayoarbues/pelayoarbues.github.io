@@ -1,10 +1,10 @@
 ---
-author: [[tonsky.me]]
+author: "[[tonsky.me]]"
 title: 'Time to Upgrade Your Monitor'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://dynogee.com/gen?id=dhqv5e0x3kfz7dy&title=Time+to+upgrade+your+monitor)
 

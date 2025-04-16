@@ -1,10 +1,10 @@
 ---
-author: [[kore-nordmann.de]]
+author: "[[kore-nordmann.de]]"
 title: 'Focus Time for Developers and Everybody Else'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://kore-nordmann.de/blog/card/focus_time_for_developers_and_everybody_else.png)
 

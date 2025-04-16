@@ -1,10 +1,10 @@
 ---
-author: [[Blessing Adesiji]]
+author: "[[Blessing Adesiji]]"
 title: 'Understanding Question Answering'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mantiumai.com/wp-content/uploads/2022/11/QA-blog_408552325-1024x506-1.jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[BFI]]
+author: "[[BFI]]"
 title: 'When Product Markets Become Collective Traps: The Case of Social Media'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://web.archive.org/web/20240321115829im_/https://bfi.uchicago.edu/wp-content/uploads/2021/03/BFI-2.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[DorsaRoh]]
+author: "[[DorsaRoh]]"
 title: 'GitHub - DorsaRoh/Machine-Learning: Machine Learning From Scratch'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://opengraph.githubassets.com/29bf18668b4d740994e459a7d986a50ccc5d0e35ecde180ce65ecdd7d8e0b84c/DorsaRoh/Machine-Learning)
 

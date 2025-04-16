@@ -1,10 +1,10 @@
 ---
-author: [[Simon Späti]]
+author: "[[Simon Späti]]"
 title: 'Pandas 2.0 and Its Ecosystem'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/6405ad1697677f5909fad571_pandas_2_0_arrow_feature.jpg)
 

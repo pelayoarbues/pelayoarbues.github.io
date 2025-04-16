@@ -1,10 +1,10 @@
 ---
-author: [[iA]]
+author: "[[iA]]"
 title: 'Turning the Tables on AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://ia.net/wp-content/themes/iA-library/assets/hotlink-ok/favicon-192x192.png)
 

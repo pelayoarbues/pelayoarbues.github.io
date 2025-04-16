@@ -1,10 +1,10 @@
 ---
-author: [[Meor Amer]]
+author: "[[Meor Amer]]"
 title: 'Validating LLM Outputs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cohere.com/_ipx/w_640,q_75/https%3A%2F%2Fcohere-ai.ghost.io%2Fcontent%2Fimages%2F2023%2F09%2FValidating-Large-Language-Model-Outputs.png?url=https%3A%2F%2Fcohere-ai.ghost.io%2Fcontent%2Fimages%2F2023%2F09%2FValidating-Large-Language-Model-Outputs.png&w=640&q=75)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Piotr Skalski]]
+author: "[[Piotr Skalski]]"
 title: 'How to Fine-Tune PaliGemma 2'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.roboflow.com/content/images/2024/12/img-blog-fine-tune-paligemma2-v3.png)
 

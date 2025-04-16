@@ -1,10 +1,10 @@
 ---
-author: [[Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom]]
+author: "[[Timo Schick, Jane Dwivedi-Yu, Roberto Dessì, Roberta Raileanu, Maria Lomeli, Luke Zettlemoyer, Nicola Cancedda, Thomas Scialom]]"
 title: 'Toolformer: LMs can teach themselves to use tools'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/lyeR8EVX0yhyPwjySNcyJcJxCmZg_p2dbnDDi6Ub328-cover_4HVaSHG.png)
 

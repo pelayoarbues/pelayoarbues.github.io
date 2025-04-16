@@ -1,10 +1,10 @@
 ---
-author: [[Martin Neil Baily]]
+author: "[[Martin Neil Baily]]"
 title: 'Machines of Mind: The Case for an AI-powered Productivity Boom'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.brookings.edu/wp-content/uploads/2023/05/Shutterstock_2250721589.jpg?w=1200&h=630&crop=1)
 

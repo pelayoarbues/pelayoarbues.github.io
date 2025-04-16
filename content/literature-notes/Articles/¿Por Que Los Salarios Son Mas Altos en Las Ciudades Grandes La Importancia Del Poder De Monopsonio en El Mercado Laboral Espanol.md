@@ -1,10 +1,10 @@
 ---
-author: [[admin]]
+author: "[[admin]]"
 title: '¿Por Que Los Salarios Son Mas Altos en Las Ciudades Grandes? La Importancia Del Poder De Monopsonio en El Mercado Laboral Español'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://nadaesgratis.es/wp-content/uploads/imagen_portada-1-300x200.jpeg)
 

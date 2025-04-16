@@ -1,10 +1,10 @@
 ---
-author: [[tinybird.co]]
+author: "[[tinybird.co]]"
 title: 'Hey Claude, Help Me Analyze Bluesky Data.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://tinybird-blog.ghost.io/content/images/2024/11/bluesky-blog-header-img.png)
 

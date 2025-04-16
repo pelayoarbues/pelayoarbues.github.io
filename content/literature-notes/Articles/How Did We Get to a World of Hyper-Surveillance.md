@@ -1,10 +1,10 @@
 ---
-author: [[Diana Ruzova]]
+author: "[[Diana Ruzova]]"
 title: 'How Did We Get to a World of Hyper-Surveillance?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hyperallergic-newspack.s3.amazonaws.com/uploads/2024/10/7.-Asya-Dodina-and-Slava-Polishchuk-Is-Anyone-Listening-or-Am-I-Talking-to-Myself_-scaled.jpeg)
 

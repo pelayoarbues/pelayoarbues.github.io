@@ -1,10 +1,10 @@
 ---
-author: [[Lionel Page]]
+author: "[[Lionel Page]]"
 title: '"A Theory of Everyone" by Michael Muthukrishna'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1246b962-0449-49e2-883b-5e2f952712f3_1536x2319.jpeg)
 

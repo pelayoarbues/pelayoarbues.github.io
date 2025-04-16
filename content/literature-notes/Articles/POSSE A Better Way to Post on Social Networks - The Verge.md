@@ -1,10 +1,10 @@
 ---
-author: [[David Pierce]]
+author: "[[David Pierce]]"
 title: 'POSSE: A Better Way to Post on Social Networks - The Verge'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.vox-cdn.com/thumbor/Qc0VmdsNGUhdC31iK-Z56GKB9kI=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24596746/236620_Activitypub_New_Social_Protocol_HHerrera.jpeg)
 

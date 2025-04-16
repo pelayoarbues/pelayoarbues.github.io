@@ -1,10 +1,10 @@
 ---
-author: [[★❤✰ Vicki Boykis ★❤✰]]
+author: "[[★❤✰ Vicki Boykis ★❤✰]]"
 title: 'Why Are We Using LLMs as Calculators'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://vickiboykis.com/images/logo.png)
 

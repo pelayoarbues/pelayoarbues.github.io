@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: '''Proyecto Trinity'' O La Importancia De Que La Sociedad Entienda La Necesidad De Invertir en Vivienda'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2024-07/images/dl_a01990347.jpg?VersionId=LkW9ByKKiH8R2i9z6DfGmAEVXCGgy4uG&itok=wLVQ3TlA)
 

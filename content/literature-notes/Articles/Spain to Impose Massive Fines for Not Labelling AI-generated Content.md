@@ -1,10 +1,10 @@
 ---
-author: [[Reuters]]
+author: "[[Reuters]]"
 title: 'Spain to Impose Massive Fines for Not Labelling AI-generated Content'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.reuters.com/resizer/v2/B2APLTSTTJKGTHLIBI6AGQCEZA.jpg?auth=a502a34787f092c18e5101ed26b62c5bdb802c77b5daad1e1b97d4c1d5bee950&height=1005&width=1920&quality=80&smart=true)
 

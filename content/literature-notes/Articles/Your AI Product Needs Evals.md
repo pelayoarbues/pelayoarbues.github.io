@@ -1,10 +1,10 @@
 ---
-author: [[Hamel Husain]]
+author: "[[Hamel Husain]]"
 title: 'Your AI Product Needs Evals'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hamel.dev/blog/posts/evals/images/diagram.png)
 

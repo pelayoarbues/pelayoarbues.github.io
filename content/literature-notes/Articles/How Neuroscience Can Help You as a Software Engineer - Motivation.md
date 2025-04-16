@@ -1,10 +1,10 @@
 ---
-author: [[allegro.tech]]
+author: "[[allegro.tech]]"
 title: 'How Neuroscience Can Help You as a Software Engineer - Motivation'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://blog.allegro.tech/img/allegro-tech.png)
 

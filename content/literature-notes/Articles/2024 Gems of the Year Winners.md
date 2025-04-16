@@ -1,10 +1,10 @@
 ---
-author: [[obsidian.md]]
+author: "[[obsidian.md]]"
 title: '2024 Gems of the Year Winners'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://obsidian.md/favicon.ico)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'Zillow’s Most Interesting Product'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://images.squarespace-cdn.com/content/v1/57b1c75aebbd1abcdecf8171/1549423151219-TTDAP3OQ3OFNU662EY8G/favicon.ico)
 

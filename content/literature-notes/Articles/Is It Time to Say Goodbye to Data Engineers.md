@@ -1,10 +1,10 @@
 ---
-author: [[SeattleDataGuy]]
+author: "[[SeattleDataGuy]]"
 title: 'Is It Time to Say Goodbye to Data Engineers?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbf0be093-775e-4c0b-916d-fee805f1a6e1_2304x1728.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Swapnil Chauhan]]
+author: "[[Swapnil Chauhan]]"
 title: 'Procrastination and the Fear of Not Being ''Good Enough'''
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://swapnilchauhan.com/logo512.png)
 

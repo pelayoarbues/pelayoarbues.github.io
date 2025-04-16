@@ -1,10 +1,10 @@
 ---
-author: [[Pan, Xingang]]
+author: "[[Pan, Xingang]]"
 title: 'Drag Your GAN: Interactive Point-Based Manipulation on the Generative Image Manifold'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[research.google]]
+author: "[[research.google]]"
 title: 'Accelerating Scientific Breakthroughs With an AI Co-Scientist'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-research2023-media/images/Open_Graph.width-800.format-jpeg.jpg)
 

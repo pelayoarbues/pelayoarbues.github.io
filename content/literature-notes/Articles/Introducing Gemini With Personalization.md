@@ -1,10 +1,10 @@
 ---
-author: [[Dave Citron & Senior Director & Product Management & Gemini App & Keyword Team & Molly Mchugh-Johnso...]]
+author: "[[Dave Citron & Senior Director & Product Management & Gemini App & Keyword Team & Molly Mchugh-Johnso...]]"
 title: 'Introducing Gemini With Personalization'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_16x9.width-1300.png)
 

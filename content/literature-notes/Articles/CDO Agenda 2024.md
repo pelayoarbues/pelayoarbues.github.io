@@ -1,10 +1,10 @@
 ---
-author: [[AWS]]
+author: "[[AWS]]"
 title: 'CDO Agenda 2024'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/JFPNW5clA61IAnR3CwIqT882u9wHLsOm_o_SIEEYXHs-cove_1QO2xew.png)
 

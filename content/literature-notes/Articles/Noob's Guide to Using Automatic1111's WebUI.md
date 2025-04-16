@@ -1,10 +1,10 @@
 ---
-author: [[reddit.com]]
+author: "[[reddit.com]]"
 title: 'Noob''s Guide to Using Automatic1111''s WebUI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://external-preview.redd.it/6jfLFLGrv0tqHGcFPRSZ-b5cOzSdb57pftUvJ3YPkYU.jpg?auto=webp&v=enabled&s=d43280d51781266bdeaa8dee5dcc0297787a6a49)
 

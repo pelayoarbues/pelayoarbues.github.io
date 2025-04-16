@@ -1,10 +1,10 @@
 ---
-author: [[Ben Horowitz]]
+author: "[[Ben Horowitz]]"
 title: 'Good Product Manager/Bad Product Manager'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://a16z.com/wp-content/uploads/2012/06/Bad-Product-Manager.jpg)
 

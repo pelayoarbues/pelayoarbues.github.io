@@ -1,10 +1,10 @@
 ---
-author: [[Marc Andreessen]]
+author: "[[Marc Andreessen]]"
 title: 'Why AI Will Save the World'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://a16z.com/wp-content/uploads/2023/06/AI-Saves-The-World_Yoast-FB.jpg)
 

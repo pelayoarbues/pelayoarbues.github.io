@@ -1,10 +1,10 @@
 ---
-author: [[Riley Hun]]
+author: "[[Riley Hun]]"
 title: 'Supercharging ML Workflows: Integrating Metaflow With Ray'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*z6C00q7CO0ON7qI4bfLaRQ.png)
 

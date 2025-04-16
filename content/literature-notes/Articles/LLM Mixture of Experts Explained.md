@@ -1,10 +1,10 @@
 ---
-author: [[Miguel Carreira Neves]]
+author: "[[Miguel Carreira Neves]]"
 title: 'LLM Mixture of Experts Explained'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.wixstatic.com/media/b45b25_de1010838b544a269ef427743ca031b9~mv2.png/v1/fill/w_1024,h_1024,al_c/b45b25_de1010838b544a269ef427743ca031b9~mv2.png)
 

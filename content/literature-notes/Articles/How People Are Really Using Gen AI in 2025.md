@@ -1,10 +1,10 @@
 ---
-author: [[Marc Zao-Sanders]]
+author: "[[Marc Zao-Sanders]]"
 title: 'How People Are Really Using Gen AI in 2025'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://hbr.org/resources/images/article_assets/2025/03/Apr25_09_AndreaUcini.jpg)
 

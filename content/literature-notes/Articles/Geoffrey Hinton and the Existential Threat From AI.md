@@ -1,10 +1,10 @@
 ---
-author: [[Sue Gee]]
+author: "[[Sue Gee]]"
 title: 'Geoffrey Hinton and the Existential Threat From AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article0.00998d930354.png)
 

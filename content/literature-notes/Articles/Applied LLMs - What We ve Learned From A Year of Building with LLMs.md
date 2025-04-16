@@ -1,10 +1,10 @@
 ---
-author: [[Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, Shreya Shankar]]
+author: "[[Eugene Yan, Bryan Bischof, Charles Frye, Hamel Husain, Jason Liu, Shreya Shankar]]"
 title: 'Applied LLMs - What We ve Learned From A Year of Building with LLMs'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/182552986/EY8CXfPDMKnrVpxTPvNDBzKGBeTgFxqTC8WmMYrYazA-cove_wOL04jV.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[strategyzer.com]]
+author: "[[strategyzer.com]]"
 title: 'Lead Innovate and Grow With AI and Generative AI'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn.prod.website-files.com/64830736e7f43d491d70ef30/668276bdb88e1b5adc27b9cd_Lead%20innovate%20and%20grow%20with%20Ai%20and%20generative%20AI%20hero.png)
 

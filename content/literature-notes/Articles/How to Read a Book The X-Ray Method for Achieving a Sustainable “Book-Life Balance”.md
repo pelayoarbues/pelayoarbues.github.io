@@ -1,10 +1,10 @@
 ---
-author: [[Scott A. Sandage]]
+author: "[[Scott A. Sandage]]"
 title: 'How to Read a Book: The X-Ray Method for Achieving a Sustainable “Book-Life Balance”'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://commonplace.online/wp-content/uploads/2023/10/Sandage-Figure-Cover.jpg)
 

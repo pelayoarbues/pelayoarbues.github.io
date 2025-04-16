@@ -1,10 +1,10 @@
 ---
-author: [[Simon Willison's Weblog]]
+author: "[[Simon Willison's Weblog]]"
 title: 'Mistral Small 3.1 on Ollama'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://simonwillison.net/favicon.ico)
 

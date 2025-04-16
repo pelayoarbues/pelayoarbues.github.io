@@ -1,10 +1,10 @@
 ---
-author: [[Bryce Wilson]]
+author: "[[Bryce Wilson]]"
 title: 'Introducing Stable LM 2 12B'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/6213c340453c3f502425776e/62f2452bc121595f4d87c713/66143d45c4e10030ed37f44b/1712653004495/image+%2831%29.png?format=1500w)
 

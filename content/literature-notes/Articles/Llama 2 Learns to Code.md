@@ -1,10 +1,10 @@
 ---
-author: [[Philipp Schmid]]
+author: "[[Philipp Schmid]]"
 title: 'Llama 2 Learns to Code'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://huggingface.co/blog/assets/160_codellama/thumbnail.jpg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Gergely Orosz]]
+author: "[[Gergely Orosz]]"
 title: 'State of the Software Engineering Job Market in 2024'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84ad1b8b-ec0b-4404-b3d5-b4eb8bd1529c_1796x1304.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[dharris]]
+author: "[[dharris]]"
 title: 'Investing in Tennr'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://a16z.com/wp-content/uploads/2021/02/cropped-favicon-512-1-32x32.png)
 

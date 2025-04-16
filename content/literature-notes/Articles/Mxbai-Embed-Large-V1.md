@@ -1,10 +1,10 @@
 ---
-author: [[Sean Lee]]
+author: "[[Sean Lee]]"
 title: 'Mxbai-Embed-Large-V1'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.mixedbread.ai/images/blog/embed-v1/intro-mxbai-embed-v1.png?heading=Open+Source+Strikes+Bread+-+New+Fluffy+Embeddings+Model&type=Blog+Post&mode=dark)
 

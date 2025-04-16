@@ -1,10 +1,10 @@
 ---
-author: [[Farnam Street]]
+author: "[[Farnam Street]]"
 title: 'Carol Dweck: A Summary of Growth and Fixed Mindsets'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://149664534.v2.pressablecdn.com/wp-content/uploads/2015/06/cropped-farnamstreet-300x300.png)
 

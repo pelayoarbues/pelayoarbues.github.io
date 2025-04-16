@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Improving Results by Using Multiple Models of the Same Concept (Turning It to 11!).'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/807edca0-c540-42e5-adb8-d0cdaf4aaacf/width=1200/807edca0-c540-42e5-adb8-d0cdaf4aaacf.jpeg)
 

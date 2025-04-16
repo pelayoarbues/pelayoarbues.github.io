@@ -1,10 +1,10 @@
 ---
-author: [[idealista/news]]
+author: "[[idealista/news]]"
 title: 'Ismael Clemente (CEO De Merlin): "Bajar Los Tipos De Interés Demasiado Pronto Puede Ser Peligroso"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2024-05/images/ismaelclemente_2.jpg?VersionId=yXlMLhc0A0qy083NwzjGIH6hSrkvgjZY&itok=64zNu7xW)
 

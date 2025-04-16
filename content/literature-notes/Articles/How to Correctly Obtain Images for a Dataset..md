@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'How to "Correctly" Obtain Images for a Dataset.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b3de4695-26f6-4fab-8695-bbc466842b79/width=1200/b3de4695-26f6-4fab-8695-bbc466842b79.jpeg)
 

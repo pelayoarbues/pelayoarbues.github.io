@@ -1,10 +1,10 @@
 ---
-author: [[AUTHORED BY]]
+author: "[[AUTHORED BY]]"
 title: 'Cohort Revenue & Retention Analysis'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pymc-labs.github.io/blog-posts/cohort-revenue-retention/cover.png)
 

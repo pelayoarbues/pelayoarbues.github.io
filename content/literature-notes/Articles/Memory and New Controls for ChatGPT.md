@@ -1,10 +1,10 @@
 ---
-author: [[OpenAI]]
+author: "[[OpenAI]]"
 title: 'Memory and New Controls for ChatGPT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://openai.com/favicon.png)
 

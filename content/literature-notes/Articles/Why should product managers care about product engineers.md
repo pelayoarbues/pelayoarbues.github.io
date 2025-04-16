@@ -1,10 +1,10 @@
 ---
-author: [[Sherif Mansour]]
+author: "[[Sherif Mansour]]"
 title: 'Why should product managers care about product engineers?'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/proxy/1*kFrc4tBFM_tCis-2Ic87WA.png)
 

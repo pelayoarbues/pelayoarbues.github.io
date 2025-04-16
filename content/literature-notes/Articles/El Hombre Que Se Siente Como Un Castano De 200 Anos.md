@@ -1,10 +1,10 @@
 ---
-author: [[Eduardo Lagar]]
+author: "[[Eduardo Lagar]]"
 title: 'El Hombre Que Se Siente Como Un Castaño De 200 Años'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://estaticos-cdn.prensaiberica.es/clip/cc95c746-df8c-43b6-9cc0-0468e59f83bb_16-9-aspect-ratio_default_0_x2719y2227.jpg)
 

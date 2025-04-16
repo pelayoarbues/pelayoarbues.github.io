@@ -1,10 +1,10 @@
 ---
-author: [[Richardson Gunde]]
+author: "[[Richardson Gunde]]"
 title: 'Fine-Tuning the Multimodal Marvel: Qwen-2 VL With LlamaFactory'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*MjX5ttvzIYV03ZRbmAIAqw.png)
 

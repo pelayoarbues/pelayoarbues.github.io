@@ -1,10 +1,10 @@
 ---
-author: [[James Currier]]
+author: "[[James Currier]]"
 title: 'The 3-Person Unicorn Startup'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.nfx.com/wp-content/uploads/2023/07/3-person-unicorn-1.jpg)
 

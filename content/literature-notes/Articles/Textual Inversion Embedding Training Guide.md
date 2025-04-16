@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Textual Inversion / Embedding Training Guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/0c2972e0-3d76-4e74-9df1-d6bac892f1f1/width=1200/0c2972e0-3d76-4e74-9df1-d6bac892f1f1.jpeg)
 

@@ -1,10 +1,10 @@
 ---
-author: [[Sairam Sundaresan]]
+author: "[[Sairam Sundaresan]]"
 title: 'You Can’t Spell Diffusion without U'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/max/1200/0*BQZFmE9s3RNm-2L4)
 

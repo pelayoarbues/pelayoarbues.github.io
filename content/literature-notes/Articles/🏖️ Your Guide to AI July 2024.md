@@ -1,10 +1,10 @@
 ---
-author: [[Nathan Benaich]]
+author: "[[Nathan Benaich]]"
 title: '🏖️ Your Guide to AI: July 2024'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c9086c7-6780-4dbb-be11-04472c7350e0_1624x906.png)
 

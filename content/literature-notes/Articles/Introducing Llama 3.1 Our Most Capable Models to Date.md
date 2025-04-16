@@ -1,10 +1,10 @@
 ---
-author: [[meta.com]]
+author: "[[meta.com]]"
 title: 'Introducing Llama 3.1: Our Most Capable Models to Date'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://scontent-sjc3-1.xx.fbcdn.net/v/t39.2365-6/452380335_1646136526224716_2406884886416151566_n.png?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=YyqchCKyiaUQ7kNvgGEwsCk&_nc_ht=scontent-sjc3-1.xx&oh=00_AYDI44dBqIfVNB4YsW5eP3WQzJjrtaMdVWnwBovkGShlsQ&oe=66B9FD46)
 

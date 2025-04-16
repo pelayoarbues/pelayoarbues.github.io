@@ -1,10 +1,10 @@
 ---
-author: [[Anthony Gottlieb]]
+author: "[[Anthony Gottlieb]]"
 title: 'The Man Who Thought Too Fast | The New Yorker'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://media.newyorker.com/photos/5ea0a6ea6f64bc0008564b5e/16:9/w_1280,c_limit/200504_r36325.jpg)
 

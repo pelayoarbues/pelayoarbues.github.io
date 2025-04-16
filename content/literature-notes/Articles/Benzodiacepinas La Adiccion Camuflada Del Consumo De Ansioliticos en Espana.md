@@ -1,10 +1,10 @@
 ---
-author: [[National Geographic]]
+author: "[[National Geographic]]"
 title: 'Benzodiacepinas: La Adicción Camuflada Del Consumo De Ansiolíticos en España'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.nationalgeographic.es/files/styles/image_3200/public/benzos2.jpg?w=400&h=400&q=75)
 

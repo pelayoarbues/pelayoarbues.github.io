@@ -1,10 +1,10 @@
 ---
-author: [[Wes Kao]]
+author: "[[Wes Kao]]"
 title: 'How to Interrupt (And Be Interrupted) Respectfully in the Workplace'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdf2e2a4b-52a6-4a41-8311-d70d1e4cd70a_2912x1636.jpeg)
 

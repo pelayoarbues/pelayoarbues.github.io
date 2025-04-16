@@ -1,10 +1,10 @@
 ---
-author: [[Cory Doctorow]]
+author: "[[Cory Doctorow]]"
 title: 'Pluralistic: Three AI Insights for Hard-Charging, Future-Oriented Smartypantses'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article4.6bc1851654a0.png)
 

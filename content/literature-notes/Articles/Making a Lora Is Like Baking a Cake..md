@@ -1,10 +1,10 @@
 ---
-author: [[civitai.com]]
+author: "[[civitai.com]]"
 title: 'Making a Lora Is Like Baking a Cake.'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0aa2ec7-994c-4645-841c-30e4bf8ae264/width=1200/e0aa2ec7-994c-4645-841c-30e4bf8ae264.jpeg)
 

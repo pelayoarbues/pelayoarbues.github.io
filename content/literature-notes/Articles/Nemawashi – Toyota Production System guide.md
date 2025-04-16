@@ -1,10 +1,10 @@
 ---
-author: [[Toyota Blog]]
+author: "[[Toyota Blog]]"
 title: 'Nemawashi – Toyota Production System guide'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://mag.toyota.co.uk/wp-content/uploads/sites/2/2013/05/Nemawashi-1.jpg)
 

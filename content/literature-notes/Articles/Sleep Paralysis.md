@@ -1,10 +1,10 @@
 ---
-author: [[Jessica Schrader]]
+author: "[[Jessica Schrader]]"
 title: 'Sleep Paralysis'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://cdn2.psychologytoday.com/assets/styles/min_1200px_wide/public/field_user_blogger_photo/Michelle-Carr-SCALED.jpg?itok=fuR6R55A)
 

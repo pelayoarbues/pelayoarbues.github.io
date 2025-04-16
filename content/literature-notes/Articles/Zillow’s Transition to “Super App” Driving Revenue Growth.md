@@ -1,10 +1,10 @@
 ---
-author: [[Mike DelPrete]]
+author: "[[Mike DelPrete]]"
 title: 'Zillow’s Transition to “Super App” Driving Revenue Growth'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](http://static1.squarespace.com/static/57b1c75aebbd1abcdecf8171/57b1c7c3414fb58fb6cbb91c/65ddf71686e5a10a874cd7f9/1709045869803/Screenshot+2024-02-27+at+7.57.25%E2%80%AFAM.png?format=1500w)
 

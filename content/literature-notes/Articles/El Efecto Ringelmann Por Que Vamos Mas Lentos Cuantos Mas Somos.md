@@ -1,10 +1,10 @@
 ---
-author: [[Estrategia de Producto]]
+author: "[[Estrategia de Producto]]"
 title: 'El Efecto Ringelmann: Por Qué Vamos Más Lentos Cuántos Más Somos'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substack-post-media.s3.amazonaws.com/public/images/5ef274da-ce3f-4df3-baa7-751346f3510d_640x366.jpeg)
 

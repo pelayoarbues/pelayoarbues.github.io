@@ -1,10 +1,10 @@
 ---
-author: [[MDPI]]
+author: "[[MDPI]]"
 title: 'Machine Learning of Spatial Data'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.mdpi.com/ijgi/ijgi-10-00600/article_deploy/html/images/ijgi-10-00600-g001-550.jpg)
 

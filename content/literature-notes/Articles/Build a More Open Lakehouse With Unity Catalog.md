@@ -1,10 +1,10 @@
 ---
-author: [[StarRocks Engineering]]
+author: "[[StarRocks Engineering]]"
 title: 'Build a More Open Lakehouse With Unity Catalog'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/da:true/resize:fit:383/0*m-LvDObuCpazUBqw.gif)
 

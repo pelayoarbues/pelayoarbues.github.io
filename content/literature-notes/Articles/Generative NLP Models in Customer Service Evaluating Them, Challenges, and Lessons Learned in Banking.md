@@ -1,10 +1,10 @@
 ---
-author: [[ODSC Community]]
+author: "[[ODSC Community]]"
 title: 'Generative NLP Models in Customer Service: Evaluating Them, Challenges, and Lessons Learned in Banking'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://opendatascience.com/wp-content/uploads/2023/05/shutterstock_2129644337-640x300.jpg)
 

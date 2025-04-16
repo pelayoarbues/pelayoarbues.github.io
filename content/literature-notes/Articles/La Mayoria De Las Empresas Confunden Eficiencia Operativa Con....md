@@ -1,10 +1,10 @@
 ---
-author: [[Arthur Cahuantzi]]
+author: "[[Arthur Cahuantzi]]"
 title: 'La Mayoria De Las Empresas Confunden Eficiencia Operativa Con...'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://pbs.twimg.com/profile_images/1492131334847823875/5fCHhO9P.jpg)
 

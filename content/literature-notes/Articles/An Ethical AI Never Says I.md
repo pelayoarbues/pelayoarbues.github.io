@@ -1,10 +1,10 @@
 ---
-author: [[Paola Bonomo]]
+author: "[[Paola Bonomo]]"
 title: 'An Ethical AI Never Says "I"'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Flivepaola.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1027946171%26version%3D9)
 

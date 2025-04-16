@@ -1,10 +1,10 @@
 ---
-author: [[Matt Basta]]
+author: "[[Matt Basta]]"
 title: 'No sacred masterpieces'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/icons/substack/favicon-32x32.png)
 

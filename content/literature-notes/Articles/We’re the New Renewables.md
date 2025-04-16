@@ -1,10 +1,10 @@
 ---
-author: [[IEEE Spectrum]]
+author: "[[IEEE Spectrum]]"
 title: 'We’re the New Renewables'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://spectrum.ieee.org/media-library/gold-iridescent-square-on-top-of-a-black-square-on-top-of-a-light-surface.jpg?id=33338126&amp;width=1245&amp;height=700&amp;coordinates=0%2C203%2C0%2C204)
 

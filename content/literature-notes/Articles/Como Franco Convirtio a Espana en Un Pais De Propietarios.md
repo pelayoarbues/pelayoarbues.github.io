@@ -1,10 +1,10 @@
 ---
-author: [[Por Marcos Bartolomé]]
+author: "[[Por Marcos Bartolomé]]"
 title: 'Cómo Franco Convirtió a España en Un País De Propietarios'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://elordenmundial.com/wp-content/uploads/2024/10/franco-vivienda-espana-crisis-inmobiliaria.jpg)
 

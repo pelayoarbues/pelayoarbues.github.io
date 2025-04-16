@@ -1,10 +1,10 @@
 ---
-author: [[Randy Au]]
+author: "[[Randy Au]]"
 title: '"Single Panes of Glass" Are Horrible'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5a16b1a6-f93a-49b2-a45f-4f175a1319da_1024x678.jpeg)
 

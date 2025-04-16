@@ -1,10 +1,10 @@
 ---
-author: [[Intuit Blog team]]
+author: "[[Intuit Blog team]]"
 title: 'Introducing Intuit Assist'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.intuit.com/blog/wp-content/uploads/2023/08/IntuitAssist_1200x628.png)
 

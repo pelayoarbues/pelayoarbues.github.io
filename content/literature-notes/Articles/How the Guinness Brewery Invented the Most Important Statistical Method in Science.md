@@ -1,10 +1,10 @@
 ---
-author: [[Jack Murtagh]]
+author: "[[Jack Murtagh]]"
 title: 'How the Guinness Brewery Invented the Most Important Statistical Method in Science'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://static.scientificamerican.com/dam/m/469fffd62551451b/original/GettyImages-1192401447_WEB.jpg?w=1200)
 

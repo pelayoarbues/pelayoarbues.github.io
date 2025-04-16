@@ -1,10 +1,10 @@
 ---
-author: [[Brain John]]
+author: "[[Brain John]]"
 title: 'When to Choose CatBoost Over XGBoost or LightGBM [Practical Guide]'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://neptune.ai/wp-content/uploads/2022/07/blog_feature_image_011644_8_0_8_7.jpg)
 

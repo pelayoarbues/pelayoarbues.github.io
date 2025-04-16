@@ -1,10 +1,10 @@
 ---
-author: [[WFH Brian]]
+author: "[[WFH Brian]]"
 title: 'Revolutionizing Search: How Hypothetical Document Embeddings (HyDE) Can Save Time and Increase Productivity'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://wfhbrian.com/wp-content/uploads/sites/26/2023/01/AI-HyDE-workflow.excalidraw.png)
 

@@ -1,10 +1,10 @@
 ---
-author: [[NVIDIA Technical Blog]]
+author: "[[NVIDIA Technical Blog]]"
 title: 'NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://developer-blogs.nvidia.com/wp-content/uploads/2023/12/hpc-featured.jpg)
 

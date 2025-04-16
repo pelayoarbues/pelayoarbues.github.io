@@ -1,10 +1,10 @@
 ---
-author: [[stephenwolfram.com]]
+author: "[[stephenwolfram.com]]"
 title: 'Wolfram|Alpha as the Way to Bring Computational Knowledge Superpowers to ChatGPT'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://content.wolfram.com/uploads/sites/43/2023/01/ChatGPT-hero-v4.png)
 

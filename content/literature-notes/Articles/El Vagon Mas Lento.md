@@ -1,10 +1,10 @@
 ---
-author: [[Xavier Marcet]]
+author: "[[Xavier Marcet]]"
 title: 'El Vagon Más Lento'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://www.lavanguardia.com/files/og_thumbnail/uploads/2019/05/03/5fa5368f0448e.jpeg)
 

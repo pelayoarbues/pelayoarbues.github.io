@@ -1,10 +1,10 @@
 ---
-author: [[Jorge G]]
+author: "[[Jorge G]]"
 title: 'Enhancing Prompt Engineering: Evaluating System Messages With AzureML and GPT-4'
-date: 2025-04-16
-tags: 
-- articles
-- literature-note
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
 ---
 ![rw-book-cover](https://miro.medium.com/v2/resize:fit:1200/1*kidSr-seIXoOHITi3XzXmw.png)
 
