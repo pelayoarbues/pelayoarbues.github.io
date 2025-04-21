@@ -26,3 +26,4 @@ tags:
 ## Highlights
 - Humans are terrible at estimating anything complicated that involves novel attempts at problem solving. ([View Highlight](https://read.readwise.io/read/01gs3nbsfd3y94antvfvtesf7q))
 - Nothing will clog down the momentum and motivation of a software development team like not being able to ship ([View Highlight](https://read.readwise.io/read/01gs3nd14p73xsfmndy7x2kxkk))
+

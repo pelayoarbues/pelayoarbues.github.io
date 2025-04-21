@@ -117,3 +117,4 @@ tags:
   • And so on, until the fifth output distribution indicates ‘`<end of sentence>`’ symbol, which also has a cell associated with it from the 10,000 element vocabulary.
   ![](https://jalammar.github.io/images/t/output_target_probability_distributions.png) 
   The targeted probability distributions we'll train our model against in the training example for one sample sentence. ([View Highlight](https://read.readwise.io/read/01gr446q3wegn465g7kjqfk962))
+

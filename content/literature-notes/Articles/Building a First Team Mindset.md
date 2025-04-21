@@ -20,3 +20,4 @@ tags:
 - The more explicit you are about the behaviors you expect from your leaders the better off you’ll be. I make sure I’m clear with my managers about their responsibility to one another ([View Highlight](https://read.readwise.io/read/01grsk3shtpq2d75fdg0yc1td6))
 - In my day-to-day. I encourage interdependence and normalization of help seeking amongst team members. I constantly encourage my team to talk to one another about their problems, and refer them to each other for help. ([View Highlight](https://read.readwise.io/read/01grsk57eserk4n4h6s0rdaqnr))
 - Manager roundtables are a great way to achieve this as they are spaces specifically designed to share and solve problems collaboratively. ([View Highlight](https://read.readwise.io/read/01grsk6yjr5reczpdy9hnmbewr))
+

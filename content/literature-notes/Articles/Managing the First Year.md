@@ -40,3 +40,4 @@ tags:
 - But it turned out management didn’t work like that. It turned out **management was a craft**. ([View Highlight](https://read.readwise.io/read/01gs3nt5xnn50rh719e9ycm8b6))
 - Unlike data science, where learning more was the answer to a skills gap, my time spent in books didn’t seem to translate directly into being better at my job.
   As a manager, I found that it wasn’t knowledge I needed, it was the daily practice of doing the work. And in that, I was constantly bumping up against the limits of my bravery and patience ([View Highlight](https://read.readwise.io/read/01gs3ntpphzcx6wetgj6drmx9d))
+

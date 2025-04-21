@@ -21,3 +21,4 @@ tags:
 - am I understood by the team to be the DRI on this and should therefore take ownership of reply or resolution?” as opposed to thinking “someone else will probably handle this.” ([View Highlight](https://read.readwise.io/read/01grw14yed0vgg1pgbhk385215))
 - When working on a new or particularly complex problem where the DRI is not yet known, we seek to establish the DRI early in the discussion. ([View Highlight](https://read.readwise.io/read/01grw159yvytdzt4hm3pej9m5b))
 - When we gather in meetings, we always leave with action items or next steps. ([View Highlight](https://read.readwise.io/read/01grw162fsm1q5x80a7mqe51j2))
+

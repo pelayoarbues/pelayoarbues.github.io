@@ -32,3 +32,4 @@ tags:
 - The final category of work that matters is the sort that you're uniquely capable of accomplishing. ([View Highlight](https://read.readwise.io/read/01gryqyybdnhydzaqbsm6k7922))
 - Whatever it is, things that simply won't happen if you don't do them are your biggest opportunity to work on something that matters, and it's a category that will get both narrower and deeper the further you get into your career. ([View Highlight](https://read.readwise.io/read/01gryqzavd1t0m81p3gf4j2efx))
 - You can't escape subjective interview practices, but you can deliberately accumulate expertise from doing valuable work. Indeed, that's the only viable long-term bet on your career: focus on work that matters, do projects that develop you, and steer towards companies that value genuine experience. ([View Highlight](https://read.readwise.io/read/01gryr082akktwz19em7cqktzq))
+

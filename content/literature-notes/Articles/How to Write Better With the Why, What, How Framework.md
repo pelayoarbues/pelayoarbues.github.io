@@ -15,3 +15,4 @@ tags:
 
 ## Highlights
 - Our data science team (in an e-commerce company) is challenged to help customers discover products easier. Senior leaders hypothesize that better product discovery will improve customer engagement and business outcomes. ([View Highlight](https://read.readwise.io/read/01gr9wd4e4d6jb7k5791vz1mmj))
+

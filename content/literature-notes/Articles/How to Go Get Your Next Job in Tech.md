@@ -26,3 +26,4 @@ tags:
 - If you’re reaching out to someone because you want a job at their company or want them to connect you with someone in their network, just say so. Don’t beat around the bush or try to get them to make the first move. Get to the point. ([View Highlight](https://read.readwise.io/read/01gr26nyd7ay3zjzh8nqgzfda0))
     - Tags: [[favorite]] 
 - Don’t apply directly via company’s job site without using your network first ([View Highlight](https://read.readwise.io/read/01gr26q2h91pqw9040bt7v1v1y))
+

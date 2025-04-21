@@ -30,3 +30,4 @@ tags:
 - If you're a senior person, please, show the junior people in your organisation that you're learning and how you're doing it. Be public about what you're learning. ([View Highlight](https://read.readwise.io/read/01grytcf39xa8gnpb6zvmnwecd))
 - So make it clear that it's okay -- and normal -- to learn at work, during work hours. ([View Highlight](https://read.readwise.io/read/01grytcxvbvw2v03j2a6mjc84g))
 - Managers: If your job ladder doesn't require that your senior people have glue work skills, think about how you're expecting that work to get done. ([View Highlight](https://read.readwise.io/read/01grytfjqb7tbmb6ssr64j99t9))
+

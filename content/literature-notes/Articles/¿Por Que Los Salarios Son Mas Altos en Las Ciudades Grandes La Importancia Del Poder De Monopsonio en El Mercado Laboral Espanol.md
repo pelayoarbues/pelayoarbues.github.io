@@ -18,3 +18,4 @@ tags:
 - Una explicación alternativa es que las grandes ciudades atraen y retienen a trabajadores y emprendedores de mayor talento. ([View Highlight](https://read.readwise.io/read/01grgtntar0ygqcj2zmeseqj06))
 - en las ciudades grandes hay más empresas y la competencia por los trabajadores es más fuerte. Esto significa que las firmas tienen que ofrecer salarios más altos para retener a sus empleados ([View Highlight](https://read.readwise.io/read/01grgtqn2by74wpj6hnrx17qpb))
 - Las grandes ciudades también suelen tener más competencia entre los empleadores, como se refleja en la menor concentración de empleo (medida con el Índice de Herfindahl-Hirschman, o HHI). Este índice va de 0 (competencia perfecta) a 1 (un solo empleador con control absoluto del mercado, también conocido como monopsonio ([View Highlight](https://read.readwise.io/read/01grgtrt8c8w8789kzyssxpq9q))
+

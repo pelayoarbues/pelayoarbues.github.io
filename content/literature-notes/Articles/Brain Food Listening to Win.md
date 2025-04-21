@@ -15,3 +15,4 @@ tags:
 ## Highlights
 - “One sign that determination matters more than talent: there are lots of talented people who never achieve anything, but not that many determined people who don't.” 
   — Paul Graham ([View Highlight](https://read.readwise.io/read/01gqzj1ynmr2yf7vwp8p51ce5m))
+

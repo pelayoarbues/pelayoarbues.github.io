@@ -25,3 +25,4 @@ tags:
 - **NLP-Type Features** – Features that understand the semantic content of the query. These might come from SOTA models (such as BERT), FastText (either directly fed or the dot product of the query), or document embeddings. ([View Highlight](https://read.readwise.io/read/01gr7ffbr0dj2djt02txn4tnjb))
 - **Reputation Features** – Features representing how reputable of a source the document comes from. These might include the author of the document, the number of inbound links, the page rank, etc. ([View Highlight](https://read.readwise.io/read/01gr7fg9heahybz352cdqbmb84))
 - latency is a big factor with search of any kind. ([View Highlight](https://read.readwise.io/read/01gr7fh5cp49rsrx0kjkr2erg2))
+

@@ -25,3 +25,4 @@ tags:
 - . Elbows of data demonstrate the importance of data teams and data work by solving the company’s problems, even and especially if the company hasn’t recognized that a problem is a data problem yet ([View Highlight](https://read.readwise.io/read/01gqb7y4wzex2pw9bhr8sg5ygn))
 - **Elbows of data are proactive about explaining their constraints and asking for what they need.** If an elbow of data is overwhelmed with stakeholder requests, they tell everyone who’s asking how much they’re being asked for so that those stakeholders understand why things are taking so long. ([View Highlight](https://read.readwise.io/read/01gqb7yy5magtn2saram5w8s9t))
 - They make it clear that data work isn’t free by helping their colleagues understand the reasons why something takes as much time as it does. ([View Highlight](https://read.readwise.io/read/01gqb81fmr70w1jrmeqkfk720p))
+

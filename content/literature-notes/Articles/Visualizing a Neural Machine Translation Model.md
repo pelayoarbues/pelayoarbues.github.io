@@ -30,3 +30,4 @@ tags:
 - At time step 7, the attention mechanism enables the decoder to focus on the word "étudiant" ("student" in french) before it generates the English translation. This ability to amplify the signal from the relevant part of the input sequence makes attention models produce better results than models without attention. ([View Highlight](https://read.readwise.io/read/01gr3pq25bkrqfpk9rb9pszx6p))
 - An attention model differs from a classic sequence-to-sequence model in two main ways:
   First, the encoder passes a lot more data to the decoder. Instead of passing the last hidden state of the encoding stage, the encoder passes *all* the hidden states to the decoder: ([View Highlight](https://read.readwise.io/read/01gr3prcswwfmn6r2cv56e7jew))
+

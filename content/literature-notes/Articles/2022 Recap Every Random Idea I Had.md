@@ -15,3 +15,4 @@ tags:
 
 ## Highlights
 - There’s no magic trick, secret cabal, or mysterious meetings. I talk to people I’m genuinely interested in, meet them in person when I can, and treat them as well as I can. If we like each other, we become friends, and if we’re friends, we’ll help each other. That’s all networking is. ([View Highlight](https://read.readwise.io/read/01gqdmhn9bz558bwmg7gnjzawc))
+

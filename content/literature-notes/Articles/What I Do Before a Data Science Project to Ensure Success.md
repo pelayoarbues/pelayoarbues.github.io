@@ -40,3 +40,4 @@ tags:
 - Having the one-pager and time-box improves a project’s chances of success. Usually, it’s sufficient. Nonetheless, it can be helpful to **break it down**, especially if it involves unfamiliar data or technology. ([View Highlight](https://read.readwise.io/read/01gqqw13n8btrm10ddeegqt3fk))
 - the breakdown indicates which components are harder to implement or more at risk—these usually involve things we’ve not done before. We want to front-load the *risk* and start with these *scary* bits first ([View Highlight](https://read.readwise.io/read/01gqqw1pce7bm7metr0z6eh1m4))
 - When breaking it down, I often consult seniors with more expertise and experience. They usually have better intuition on potential gotchas and blockers that deserve more attention. ([View Highlight](https://read.readwise.io/read/01gqqw1yppnv89h54gxa2b93j8))
+

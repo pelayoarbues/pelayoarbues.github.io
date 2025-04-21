@@ -91,3 +91,4 @@ tags:
   • Responsible for all failures
   • But not responsible for the success
   • Success is the team's achievement ([View Highlight](https://read.readwise.io/read/01gqteeckm1haa20sbhtzhm3p1))
+

@@ -24,3 +24,4 @@ tags:
   • Slack notification: 4 hours (during working hours) ([View Highlight](https://read.readwise.io/read/01grw43k9v3jat5d8x2t0gqyrh))
 - Offer a space to meet and host "open office hours" ([View Highlight](https://read.readwise.io/read/01grw43ykavv6f1j6sad10xyf1))
 - it is OK to close Slack (or not look at it) for 4 hours ([View Highlight](https://read.readwise.io/read/01grw44ga6wkyrbxegfztxd230))
+

@@ -27,3 +27,4 @@ tags:
 ## Highlights
 - [Team Topology](https://teamtopologies.com/book) pushes the idea of team-sized software. It stems from [Conway’s Law](https://en.wikipedia.org/wiki/Conway%27s_law) that states an organization will produce a system design following the organization’s communication structure. ([View Highlight](https://read.readwise.io/read/01gs3nn5k2yx36hzrqt1rycxb6))
 - Based on this idea, the book defines an alternate approach to identify team boundaries based on specific types of four teams, namely, *stream-aligned*, *complicated subsystem*, *platform*, and *enabling* teams. ([View Highlight](https://read.readwise.io/read/01gs3nnhv826ypybpx83t1h7g4))
+

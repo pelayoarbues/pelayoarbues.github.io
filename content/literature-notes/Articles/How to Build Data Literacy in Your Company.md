@@ -32,3 +32,4 @@ tags:
 
 ## Highlights
 - Data literacy — the ability of a company’s employees to understand and work with data to the appropriate degree — can be a stepping stone or a stumbling block when it comes to building a data-driven company. ([View Highlight](https://read.readwise.io/read/01gs3nvfjp089nms7qt647fw3s))
+

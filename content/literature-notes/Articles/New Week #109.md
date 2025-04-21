@@ -16,3 +16,4 @@ tags:
 ## Highlights
 - mainstream scientific opinion is that the accumulation of mutations in DNA is the primary driver of ageing. Sinclair, though, has long believed that the real culprits are errors that appear over time in the information carried in the epigenome. ([View Highlight](https://read.readwise.io/read/01gqzr6e2na817zfatr572tnvd))
 - we can repair the epigenetic instructions — Sinclair likens this to ‘rebooting the epigenome’ — and so literally unspool the ageing process. ([View Highlight](https://read.readwise.io/read/01gqzr86hnkgmz29e9p5g6tnsx))
+

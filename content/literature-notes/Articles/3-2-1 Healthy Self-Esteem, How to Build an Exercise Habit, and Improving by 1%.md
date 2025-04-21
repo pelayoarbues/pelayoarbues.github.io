@@ -15,3 +15,4 @@ tags:
 
 ## Highlights
 - Refocusing on exercising only for one’s own individual pleasure, as slowly as one prefers, and only at intensities that are pleasurable, is more likely to motivate repeat and habitual exercising. At that point, the enjoyment of exercise pleasure can build on itself, motivating longer and longer intervals of experiencing the pleasure.” ([View Highlight](https://read.readwise.io/read/01gqvyk8zyavkgpah8tj9s8ck9))
+

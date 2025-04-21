@@ -26,3 +26,4 @@ tags:
 - Anyone from the company can post in the channel, which keeps it lively and adds to the collaborative spirit. ([View Highlight](https://read.readwise.io/read/01grw4rzrrzp7gykfs7q4sesah))
     - Tags: [[favorite]] 
 - Those conversations can yield great ideas for future explorations, cross-functional connections that lead to valuable partnerships, opportunities to educate about data interpretation best practices, and ways for us on the data team to learn about aspects of the business from subject matter experts that can help us refine our explorations. ([View Highlight](https://read.readwise.io/read/01grw4sq3n2qekgxnz5w3vpv66))
+

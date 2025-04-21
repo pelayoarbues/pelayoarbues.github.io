@@ -25,3 +25,4 @@ tags:
   1. Explanation of reasoning driving the reorganization.
   2. Documentation of how each person and team will be impacted.
   3. Availability and empathy to help bleed off frustration from impacted individuals. ([View Highlight](https://read.readwise.io/read/01grw22658z1rkangsvemq2d77))
+

@@ -20,3 +20,4 @@ tags:
   • To create a new team, grow an existing team to eight to ten, and then bud into two teams of four or five.
   • Never create empty teams.
   • Never leave managers supporting more than eight folks. ([View Highlight](https://read.readwise.io/read/01grskp4dqwmha3q9wasm9gemz))
+

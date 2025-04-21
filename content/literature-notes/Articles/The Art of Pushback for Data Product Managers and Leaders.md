@@ -19,3 +19,4 @@ tags:
 - strategies to deal with those requests.
   1. Have a single resource (a rotation where each person on the data team takes a week) dedicated to fielding these requests.
   2. Setting aside a single day each week to manage these requests. ([View Highlight](https://read.readwise.io/read/01gqzqynwdm3g90mjvbz6hbftf))
+

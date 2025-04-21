@@ -22,3 +22,4 @@ tags:
 - t is clear from the description above that the only “exotic” elements of the model architecture are the multi-headed attention, but, as described above, that is where the whole power of the model lies ([View Highlight](https://read.readwise.io/read/01gr3nap0873cpqq76ag1wrpky))
 - An attention function is a mapping between a query and a set of key-value pairs to an output. ([View Highlight](https://read.readwise.io/read/01gr3nbj85qnq00xc34bd6h9wr))
 - Transformers use multi-headed attention, which is a parallel computation of a specific attention function called scaled dot-product attention. ([View Highlight](https://read.readwise.io/read/01gr3nbwyt3ess4zefya12acg7))
+

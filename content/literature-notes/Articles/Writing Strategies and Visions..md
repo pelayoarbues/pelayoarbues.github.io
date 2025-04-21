@@ -20,3 +20,4 @@ tags:
 - your diagnosis, you get your *actions*. Folks are often comfortable with hard decisions in the abstract, but struggle to translate them into the specific steps to implement them ([View Highlight](https://read.readwise.io/read/01grsnjm3f8tfwpv6at6knqr0s))
 - An effective vision helps folks think beyond the constraints of their local maxima, and lightly aligns progress without requiring tight centralized coordination. ([View Highlight](https://read.readwise.io/read/01grsnr1g0n7q9japy9fpq4tm0))
 - Put all these pieces together, and you’ve crafted a document that is a guiding hand to align decisions while also creating room for teams to make their own choices and tradeoffs along the way. ([View Highlight](https://read.readwise.io/read/01grsp16q2jxs6atvs7593hwxa))
+

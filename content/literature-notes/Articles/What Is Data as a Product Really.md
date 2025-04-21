@@ -32,3 +32,4 @@ tags:
 - they simply call *all* company data *data as a product*, with the individual tools being *features* of *data as a product* while other articles are calling the individual *features* *data as a product.* ([View Highlight](https://read.readwise.io/read/01gqcpw3s28y6k71psct26pwjt))
 - Data as a product is the concept of applying key product development principles (Identifying and addressing unmet needs, agility, iterability, and reusability) to data projects. ([View Highlight](https://read.readwise.io/read/01gqcpxzm92bnjfd22f3myfqtp))
 - Fundamentally, *data as a product* is a concept, or methodology, about how data teams can create value in their organizations. The general belief is that applying product management principles to data teams will make data work more valuable and scalable, qualities that have been lacking in the data community for years. ([View Highlight](https://read.readwise.io/read/01gqcpy92c4ybqjxh3rbqr4r3h))
+

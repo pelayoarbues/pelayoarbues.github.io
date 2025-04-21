@@ -25,3 +25,4 @@ Simpson's Paradox and Existential Terror
 - when you hear “Simpson’s paradox,” you should think — “D’OH! Is this the numeric problem of noncollapsibility, the causal problem of simple confounding, or another confound problem, like collider bias?” — ([View Highlight](https://read.readwise.io/read/01gqnmk826s0dmqhymfhz4mqvs))
 - when you hear “Simpson’s paradox,” you should think — “D’OH! Is this the numeric problem of noncollapsibility, the causal problem of simple confounding, or another confound problem, like collider bias?” — ([View Highlight](https://read.readwise.io/read/01gqnmxamagv61s3cca31ngfr6))
 - then there’s a beautiful irony in all this: Simpson’s main point — story drives statistics — is getting lost in dressing up science as “objective” when it’s not. ([View Highlight](https://read.readwise.io/read/01gqnms8fwtqsw9mf2wgctz022))
+

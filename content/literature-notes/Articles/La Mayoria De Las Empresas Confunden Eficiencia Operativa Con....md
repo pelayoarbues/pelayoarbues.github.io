@@ -28,3 +28,4 @@ tags:
 - La estrategia debe definir una teoría convincente y clara de cómo un negocio será mejor que sus competidores en el mercado elegido. Para tener un foso amplio y profundo significa NO invertir solo para ponerse al día, la clave es tener 1 teoría de dónde y cómo jugar para ganar ([View Highlight](https://read.readwise.io/read/01gqfpkxsedsmqxf15vnq3b2rh))
 - La diferenciación atrae y retiene talento, ayuda a los empleados a unirse en torno a una misión; y atrae a cierto tipo de colaborador, el apasionado por resolver problemas. ([View Highlight](https://read.readwise.io/read/01gqfpp09177hjzqfsn9rrrz5e))
 - Es más fácil, incluso divertido, hacer algo difícil cuando crees que estás haciendo algo que nadie más puede hacer, como G. ([View Highlight](https://read.readwise.io/read/01gqfppanqg7gktems3cyf676r))
+

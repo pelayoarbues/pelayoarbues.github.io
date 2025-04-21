@@ -25,3 +25,4 @@ tags:
 - The Sherman is the data science model built with little customization. Its developer continually monitoring the costs of complexity. Its parts are recognizable, interpretable and fixable for our colleagues. It is built efficiently and gets the job done with the appropriate level of accuracy. ([View Highlight](https://read.readwise.io/read/01gs3nm4yfm8ryspxxj27b0g07))
     - Tags: [[favorite]] 
 - The Tiger is that data science model, so often built with great passion, whose developer was blind to the costs of complexity. It is an incredible machine, when it works. Its precision means it will break. When it breaks only a very small group of people will be capable of fixing it. ([View Highlight](https://read.readwise.io/read/01gs3nmmdd2hp7m8cz40cw4y4c))
+

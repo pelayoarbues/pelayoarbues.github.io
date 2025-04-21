@@ -19,3 +19,4 @@ tags:
   • If you’re missing a key leader, oblige a leader on a peer team to move to yours
   • Hiring is slow and restrictive, bypass that by recruiting internally instead ([View Highlight](https://read.readwise.io/read/01grsjem8bkr4nbamww451r6t0))
 - whereas large companies anticipate a meaningful fraction of projects will fail, growth and startup companies depend on almost all projects succeeding. ([View Highlight](https://read.readwise.io/read/01grsjg1hb14xge8n3yxxpytxs))
+

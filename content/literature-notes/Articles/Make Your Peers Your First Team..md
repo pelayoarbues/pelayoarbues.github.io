@@ -15,3 +15,4 @@ tags:
 
 ## Highlights
 - These dynamics can lead to teams whose camaraderie is at best a qualified non-aggression pact, and collaboration is infrequent. It’s a strange tragedy that we hold ourselves accountable for building healthy, functional teams, and are so rarely on them ourselves. ([View Highlight](https://read.readwise.io/read/01grshx98mn7p7yyv8n28b86gv))
+

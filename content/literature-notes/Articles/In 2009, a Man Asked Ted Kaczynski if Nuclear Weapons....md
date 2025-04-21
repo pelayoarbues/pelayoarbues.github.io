@@ -21,3 +21,4 @@ tags:
 - As the global economy becomes more tightly coupled, the chances of one event having a catastrophic impact on the entire system increase. ([View Highlight](https://read.readwise.io/read/01gqzp6yqwpxckyhwsmxvtyggn))
 - Regardless of whether you think climate change is real or not, our global elite view it as an "existential threat" to the survival of humanity.
   If they can meddle with the environment in order to acquire absolute power over the earth and humanity, they will do just that. ([View Highlight](https://read.readwise.io/read/01gqzp86fb6mgsh811datctqa0))
+
