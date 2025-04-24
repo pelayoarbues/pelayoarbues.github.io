@@ -11,7 +11,6 @@ tags:
 ## Metadata
 - Author: [[Carlos Sanchez Martinez]]
 - Full Title: How Airbnb Measures Listing Lifetime Value
-- URL: https://medium.com/airbnb-engineering/how-airbnb-measures-listing-lifetime-value-a603bf05142c
 
 ## Highlights
 - At Airbnb, we always strive to provide our community with the best experience. To do so, it’s important to understand what kinds of accommodation listings are valuable to our guests. We achieve this by calculating and using estimates of **listing lifetime value**. These estimates not only allow us to identify which types of listings resonate best with guests, but also help us develop resources and recommendations for hosts to increase the value driven by their listings. ([View Highlight](https://read.readwise.io/read/01jskcj7y3j8k985ky4y7smqgm))
@@ -54,3 +53,7 @@ tags:
   ![](https://miro.medium.com/v2/resize:fit:700/1*vNQ0046lY7rfWrHIJK6Oww.png)
   **Table 2.** **Example of how we update listing lifetime value estimates.**
   In practice, we make daily adjustments to a listing’s expected value based on the listing’s accrued value, updated listing features, and value arrival patterns for similar listings estimated using historical data. ([View Highlight](https://read.readwise.io/read/01jskd183jw4yxeg2t5mmpd67w))
+- Estimating the lifetime value for each listing is important because it helps us serve our community more effectively. Use cases include:
+  • Identifying unique listing segments through which new hosts can showcase their hospitality to a large guest audience.
+  • Pinpointing locations where listings have an opportunity to get more bookings, and might benefit from additional demand.
+  • Identifying which internal marketing initiatives bring the most value to our community. ([View Highlight](https://read.readwise.io/read/01jsktvfcyrpvzq7g6jbpxg8kq))
