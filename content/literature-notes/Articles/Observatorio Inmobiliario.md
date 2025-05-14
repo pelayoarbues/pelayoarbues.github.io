@@ -1,0 +1,63 @@
+---
+author: "[[BBVA Research]]"
+title: 'Observatorio Inmobiliario'
+date: "2025-05-14"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/304054613/dMX7Jvqb968cPbbTbrLkPykTSGLG5SSQcf3FC0Nmi7w-cove_7OBCnw8.png)
+
+## Metadata
+- Author: [[BBVA Research]]
+- Full Title: Observatorio Inmobiliario
+- URL: https://readwise.io/reader/document_raw_content/304054613
+
+## Highlights
+- La venta de viviendas se ha recuperado en 2024, tras la caída de 2023, y el número de transacciones ha crecido el 11,7 % en el año, hasta las 717.600 operaciones. ([View Highlight](https://read.readwise.io/read/01jv6z928rd2hzw0w0tepj3nbq))
+- En los dos primeros meses de 2025 la venta de viviendas volvió a acelerarse, tras el relativo estancamiento en la segunda parte de 2024, y creció el 11,2 % interanual.
+  El descenso de los tipos de interés, la fortaleza del mercado de trabajo y la paulatina recuperación de las economías del entorno están favoreciendo el avance de las ventas. ([View Highlight](https://read.readwise.io/read/01jv6z9a0p4dkvc1qjrc85hdta))
+- A ello se unen los flujos migratorios positivos, principales responsables del incremento poblacional en España. ([View Highlight](https://read.readwise.io/read/01jv6z9bryygzpdqhbh2kph9qg))
+- Tras el máximo de 2023 (4,16 % en oct-23), el Euribor 12 meses cayó notablemente en 2024. Los salarios, en términos reales, crecieron el 1,7% en 2024, tras el retroceso de 2023. Además, el mercado de trabajo se mantiene fuerte y los nuevos hogares siguieron creciendo en 2024, gracias, en gran medida, al signo positivo de los saldos migratorios con el exterior. ([View Highlight](https://read.readwise.io/read/01jv6za2x0z80r9w6ywec130fr))
+- Después de un retroceso generalizado en 2023, la venta de viviendas creció en casi todas las comunidades autónomas en 2024. Destaca el dinamismo en la zona del cantábrico y la pobre evolución en Canarias y Baleares. Precisamente Baleares es la única región donde no se ha superado el nivel de ventas de 2019. ([View Highlight](https://read.readwise.io/read/01jv6zajxz65m4f0dxe0nbpsz7))
+- El crecimiento de la venta de viviendas nuevas ha sido más intenso que el de usadas en 2024 y el año 2025 comienza con un avance relativamente elevado ([View Highlight](https://read.readwise.io/read/01jv6zb8zj9q4f59cm1q6f3xgt))
+- La falta de producto se deja notar en Baleares, donde las transacciones de vivienda nueva caen consecutivamente en los dos últimos años. En toda las comunidades autónomas las viviendas nuevas vendidas superan los niveles previos a la pandemia. ([View Highlight](https://read.readwise.io/read/01jv6zbt4562j1784scxtmerzj))
+- En 2024 del total de las viviendas vendidas, sólo el 21,2 % eran viviendas nuevas, esto son unas 150.000 unidades respecto al total de 717.600 viviendas vendidas. Este porcentaje se mantiene, prácticamente, desde 2015. Así, la contribución de este mercado al total es relativamente reducido (el más elevado fue en 2024, 5 pp del crecimiento total de las ventas, 11,7 %). ([View Highlight](https://read.readwise.io/read/01jv6zc2cs1s2v4fwtv95j6ajc))
+- La recuperación de las ventas en 2024 viene, sobre todo, de la mano de las viviendas principales y de las secundarias. Las operaciones de extranjeros mostraron también una evolución positiva, pero algo más tímida que el resto de segmentos. ([View Highlight](https://read.readwise.io/read/01jv6zcgr9a8jn3r85htf7ts6x))
+- En 2023 cayeron las ventas de todos los segmentos de demanda. Destacó la contribución positiva de las operaciones de segunda residencia en el Asturias, Cantabria y Galicia y la fuerte caída de ventas de extranjeros en las regiones insulares. En 2024 se podría decir que crecieron todos los segmentos en todas las regiones (salvo los extranjeros en Canarias y las principales en Navarra). ([View Highlight](https://read.readwise.io/read/01jv6zcngaj6eqk5y3gx99ykss))
+- El peso de las operaciones de extranjeros se aproxima al 40 % del total en Baleares y C. Valenciana. También en Canarias, pese a la contracción sufrida en 2024. Destaca el buen registro de las transacciones de segundas viviendas en las comunidades del norte peninsular (Asturias, Cantabria y Galicia, en meno medida), donde el peso de estas compras sigue mostrando una tendencia creciente. ([View Highlight](https://read.readwise.io/read/01jv6zdkx4mangkc5ayjv01t5b))
+- Reino Unido sigue siendo el principal país de origen de compradores de vivienda extranjeros en España, aunque su peso ha caído del 14 % en 2019 a 8,6 % en 2024.
+  Alemania continúa siendo el segundo país de origen. Su peso también se ha reducido y ha pasado de aglutinar el 9,5 % del total de extranjeros en 2019 al 6,7 %.
+  Francia ha dejado de ser la tercera economía demandante de vivienda en España. Su puesto lo ha tomado Marruecos, con el 5,7 % de las operaciones. ([View Highlight](https://read.readwise.io/read/01jv6ze8qtnm96caetazf0acyv))
+- Compradores procedentes de Polonia, Irlanda, Ucrania y Estados Unidos están ganando peso en el residencial español. ([View Highlight](https://read.readwise.io/read/01jv6zea5tejjg00mfbedc35p6))
+- En 2024, los principales demandantes de vivienda en Canarias, Baleares, Andalucía y la C. Valenciana, las regiones donde más compran los extranjeros, proceden de las mayores economías europeas. En las regiones del interior, los principales compradores provienen, sobre todo, de Marruecos, China y Rumanía. El peso de los países de origen de extranjeros ha variado sustancialmente respecto a 2019. ([View Highlight](https://read.readwise.io/read/01jv6zgarwdabwf4ccdnjngz6v))
+- Tras la contracción registrada en 2023, similar a la de las operaciones de compraventa de viviendas, las nuevas operaciones de crédito para compra de viviendas crecieron en 2024 hasta los casi 68.000 millones de euros.
+  Esto supone casi un 56 % más que el nivel alcanzado en 2019.
+  Este avance se ha visto favorecido por la bajada de los tipos de interés y por la buena evolución del mercado de trabajo.
+  Aunque la mayor parte de la bajada de tipos ya se habría producido, se espera que, con los próximos descensos, las nuevas operaciones sigan mostrando una evolución al alza en los próximos ejercicios. ([View Highlight](https://read.readwise.io/read/01jv6zgjn2dn8b5vez6y6q9wh0))
+- Las nuevas operaciones de crédito muestran una tendencia creciente, en línea con la evolución de las ventas. En términos reales, deflactadas por el precio de la vivienda, las operaciones por población en edad de demandar vivienda (25 y 45 años) se encuentran en niveles ligeramente superiores a 2008. ([View Highlight](https://read.readwise.io/read/01jv6zgwawg9pmae584k974c6r))
+- Después de un año de contracción, el número de hipotecas volvió a recuperarse en 2024. El crecimiento fue del 22,4 %, superior al de las compraventas, lo que pone de manifiesto que los hogares comienzan a acudir más a la financiación ajena ante la caída de los tipos de interés. El avance en los dos primeros meses de 2025 fue algo inferior al promedio mensual de 2024 (2,0 % vs 2,2 % m/m, CVEC). ([View Highlight](https://read.readwise.io/read/01jv6zh6k7nj68hn975swp5zxh))
+- El indicador de intención de compra de vivienda en los próximos 12 meses, publicado por la Comisión Europea, se está recuperando y es consistente con un nivel de ventas superior al que estamos viendo actualmente. Por tramos de renta, la población con mayor renta (los del cuarto cuartil) son los que más han mejorado la intención de compra de vivienda. ([View Highlight](https://read.readwise.io/read/01jv6zhdyx4e395cyat5e5e55z))
+- La intención de compra de viviendas podría ser un indicador adelantado de la compra de vivienda efectiva.
+  La relación entre intención de compra y la venta de vivienda es relativamente estrecha en los individuos situados en el mayor cuartil de renta de la distribución ([View Highlight](https://read.readwise.io/read/01jv6zhz5h01j35vjd1xkwkfn3))
+- El avance de los permisos para iniciar nuevas viviendas se truncó ligeramente en la última parte de 2024 y remontó en el inicio de 2025 ([View Highlight](https://read.readwise.io/read/01jv6zj75mp29b5k0fxnbnz1j8))
+- Tras el estancamiento de 2023, en 2024 se apreció un cambio de tendencia y los visados mostraron un avance interanual del 16,7 %.
+  En los dos primeros meses de 2025 el avance fue algo más moderado: 8,2 % a/a.
+  Aunque la tasa de crecimiento es importante, el nivel sigue siendo relativamente bajo. En promedio mensual tan solo se iniciaron unas 10.650 viviendas. ([View Highlight](https://read.readwise.io/read/01jv6zja0ahpnwbgdj8dym5v9z))
+- Factores como la escasez de mano de obra y la dificultad para desarrollar el suelo, entre otros, están condicionando la puesta en marcha de nuevos proyectos*. ([View Highlight](https://read.readwise.io/read/01jv6zjbjnpd8099pbzaj0a0mj))
+- La actual coyuntura del mercado inmobiliario se caracteriza por una oferta de vivienda escasa. Varios son los motivos 26 1. INCERTIDUMBRE REGULATORIA Revertir los aspectos más lesivos de las reformas al alquiler. Acelerar los procesos judiciales ante el incumplimiento contractual.
+  3. REDUCIDO PRESUPUESTO Escasez de vivienda Desde 2021 el número de nuevos hogares que se crean en España es muy superior al de viviendas iniciadas. 7. VIVIENDA TURÍSTICA 400mil El aumento de las viviendas de alquiler turístico reduce la oferta de alquiler de vivienda habitual.
+  viviendas turísticas 8. FINANCIACIÓN La financiación bancaria se ha reducido sobre el 80% respecto al máximo alcanzado en 2008.
+  80% menos que en 2008 5. PRODUCTIVIDAD REDUCIDA La productividad se sitúa un 25,4% por debajo de la productividad media de la economía.
+  25% menos que la media 6. ENCARECIMIENTO MATERIALES Los materiales de la construcción se han encarecido significativamente tras la pandemia.
+  El presupuesto público de vivienda está en cotas bajas. Desde 2018, 13.000 viviendas protegidas al año, por debajo de las casi 60.000 entre 1995 y 2002.
+  meses para aprobar la Ley de vivienda 2. ESCASEZ SUELO FINALISTA En España sigue pendiente la construcción de un número de viviendas equivalente al 26% del parque residencial actual.
+  13mil viviendas protegidas 4. ESCASEZ DE MANO DE OBRA La construcción es el sector donde más ha crecido el número de vacantes sin cubrir. Entre 2016 y 2023 el volumen se ha triplicado.
+  viviendas60% previstas sin construir 24 400% vacantes más que en 2016 33 materiales suben más que el IPC ([View Highlight](https://read.readwise.io/read/01jv6zjs5segr5x3nwbtwq6xcp))
+- Los visados de vivienda de obra nueva crecieron en la mayoría de las comunidades autónomas en 2024 ([View Highlight](https://read.readwise.io/read/01jv6zjzgm567baj2e5rmw1tny))
+- El peso de la nueva construcción se ha ido reduciendo en la mayoría de las grandes ciudades españolas ([View Highlight](https://read.readwise.io/read/01jv6zk5w1n25jy9pv3g19spb8))
+- El crédito a las empresas del sector comienza a recuperarse. En el último semestre creció a un promedio trimestral de casi el 1,0 %, situándose en torno al 6 % del PIB (muy por debajo del 40 % superado en 2008). Los incrementos son incipientes, tras varios años de descensos, y España sigue siendo uno de los países europeos con menor peso de esta cartera respecto al crédito total. ([View Highlight](https://read.readwise.io/read/01jv6zke1fs9hsxtdghtvwt29z))
+- El precio de la vivienda continúa mostrando una tendencia creciente ante la falta de oferta residencial en algunas áreas geográficas ([View Highlight](https://read.readwise.io/read/01jv6zmj2db9q6ggfhp52g37wg))
+- El crecimiento del precio de la vivienda se intensificó en 2024 y, en promedio anual, subió el 5,8 % respecto a 2023. Todas las comunidades autónomas registraron avances, destacando los incrementos de Baleares (9,7 %), C. Valenciana (7,9 %) y Madrid (7,6 %). Aragón Andalucía, Canarias, y Cantabria fueron las que crecieron también por encima de la media nacional. ([View Highlight](https://read.readwise.io/read/01jv6zmrebtcr5yf3sccpjqxnb))
+- El precio de la vivienda, en términos nominales, tan sólo supera el máximo del ciclo anterior en Baleares, Madrid y Canarias ([View Highlight](https://read.readwise.io/read/01jv6zn7ekd5t7zr468yet61zd))
+- El precio de la vivienda mostró un comportamiento alcista en todas las comunidades autónomas en 2024 y supera el nivel previo a la pandemia. Sin embargo, en la mayoría está lejos de los máximos alcanzados en torno a 2008. En Castilla-La Mancha, Murcia, Castilla y León, Aragón y La Rioja en el 4T24 es más de un 20 % inferior a aquella cota. En términos reales, todas están por debajo del valor de 2008. ([View Highlight](https://read.readwise.io/read/01jv6znqadc91hhrwj4z00q3nn))
