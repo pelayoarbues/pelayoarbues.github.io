@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2025-04-15
+date: 2025-05-20
 tags:
   - personal
   - MOC
@@ -8,6 +8,7 @@ tags:
 
 Currently, I am focused on:
 - Devoting time to my wife and daughter.
+- Preparing my wedding! 
 - Learning about and writing on [Management](mocs/moc-management.md), with a focus on applying complex problem-solving to lead change in organizations.
 - Exploring and testing MCP servers.
 - Publicly sharing my [digital garden](mocs/digital-garden.md).
