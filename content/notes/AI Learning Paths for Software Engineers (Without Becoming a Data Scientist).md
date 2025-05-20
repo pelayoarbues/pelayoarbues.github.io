@@ -8,9 +8,9 @@ tags:
 ---
 ![](notes/attachments/ai_landscape.webp)
 
-So, you’re a software engineer excited about AI, but not looking to jump ship into a full-on data science or ML career? You’re not alone. In my previous post, [Why Software Engineers Should Learn a Bit of Data Science](notes/Why%20Software%20Engineers%20Should%20Learn%20a%20Bit%20of%20Data%20Science.md), I shared how a little data know-how can supercharge your development work, provide joy, and maybe even protect you from an uncertain future.
+You’re a software engineer who finds AI exciting, and you’re eager to start building AI-powered applications, but maybe you aren’t looking to switch careers entirely into Data Science or Machine learning. You’re definitely not alone. After publishing my previous post, [Why Software Engineers Should Learn a Bit of Data Science](notes/Why%20Software%20Engineers%20Should%20Learn%20a%20Bit%20of%20Data%20Science.md), I received many questions from developers who wanted guidance on how to learn AI practically, without completely reshaping their professional path.
 
-The response was fantastic; many tech colleagues were intrigued and eager to dive deeper into AI. Most aimed to [become better developers](notes/Career%20advice%20on%20skill%20acquisition.md) and enhance team performance when solving AI-related problems. As I hate repeating myself, I'm drafting this post so I can easily refer to the materials when a software developer wants to learn more.
+Instead of answering the same questions repeatedly, I decided to create this guide. Here you’ll find curated learning paths tailored specifically for software engineers, depending on how deep you want to dive and what learning style suits you best.
 
 >[!warning]
 > If you're aiming for a full career change, check out [Data Science Fundamentals](notes/Data%20Science%20Fundamentals.md), covering core concepts every aspiring Data Scientist should know.
