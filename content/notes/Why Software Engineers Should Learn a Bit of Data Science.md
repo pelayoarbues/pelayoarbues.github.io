@@ -18,6 +18,9 @@ When the rest of us, without formal software engineering backgrounds, gained acc
 
 Now we’re witnessing a new shift. The barriers to AI are falling fast. Today, software engineers with no formal training in machine learning can enhance products with cutting-edge models. Not so long ago, training a deep learning model required strong skills in statistics, linear algebra, and hands-on coding with low-level libraries like TensorFlow or PyTorch. And I’m not talking about building architectures from scratch. Just solving a business problem with classification or segmentation in Computer Vision or NLP was complicated. Even transfer learning wasn’t easy. Today? You can solve business problems with high accuracy by fine-tuning massive AI models with just an API call and a few lines of code.
 
+>[!tip]
+> If you're a software developer interested in exploring AI, you might find this helpful: [AI Learning Paths for Software Engineers (Without Becoming a Data Scientist)](notes/AI%20Learning%20Paths%20for%20Software%20Engineers%20(Without%20Becoming%20a%20Data%20Scientist).md)
+
 In this new landscape, it’s a great time for software engineers to adopt at least a basic set of good data science practices. I’m not saying everyone needs a PhD in Statistics. But understanding the essentials of an iterative, scientific-style process, the fundamentals of ML and AI, and some basic statistics and sampling principles is increasingly valuable.
 
 When I talk about “the process,” I mean recognizing the [unique challenges](notes/Agile%20for%20Data%20Science.md) that come with working with data. Beyond the usual uncertainties of software development, data adds its own layer of unpredictability.

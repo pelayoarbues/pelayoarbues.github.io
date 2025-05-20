@@ -50,7 +50,8 @@ E --> F & G & H
 
 Step 1 and the Data Centric lessons are essential. Step 2 is for those ready to dive deeper or involved in hands-on projects needing advanced solutions.
 
-## **Path 1: The** Builder Path 
+## **STEP 1.  The basics**
+### **Path 1: The Builder Path** 
 
 **Who this is for:** Developers who learn best by building and want quick, tangible results. Ideal if you prefer hands-on AI learning.
 
@@ -58,7 +59,7 @@ Step 1 and the Data Centric lessons are essential. Step 2 is for those ready to 
 - **Key Topics Covered:** GPUs setup, image classification with transfer learning, CNNs, overfitting, NLP with text classification, RNNs, embeddings, recommendation systems. Part 2 of the course focuses in recent advancements such as Stable Diffusion, Transformers architecture and goes deeper in fundamental concepts such as Backpropagation, Autoencoders and helpful techniques such as inizialization/normalization. 
 - **Time Commitment:** Around 7–8 weeks (Part 1: 9 lessons, ~1.5 hours each, plus ~10 hours/week practice). Part 2 (~30 hours of videos) may take about 16 weeks.
     
-## **Path 2: The Fundamentals Path  
+### **Path 2: The Fundamentals Path**  
 
 **Who this is for:** Engineers who prefer a solid theoretical foundation and want to understand _why_ behind the _how_ Andrew Ng's reassuring style offers practical engineering advice and deeper insights, equipping you with the vocabulary and mental models to converse confidently about AI.
 
@@ -73,7 +74,7 @@ Step 1 and the Data Centric lessons are essential. Step 2 is for those ready to 
 >[!tip]
 > The Machine Learning Specialization starts very gently. You don’t need advanced math, just comfort with basic coding. By the time you finish the Deep Learning Specialization, you’ll have touched on classic ML and many of the hottest topics in AI. It’s a worthwhile journey.
 
-## Interlude: Data-Centric AI
+### **Interlude: Data-Centric AI**
 
 Initially, you’ve learned the basics of how models work, usually with a fixed dataset, improving the model itself. In real-world scenarios, you typically fix the model and iterate on the data instead.
 
@@ -81,7 +82,7 @@ Initially, you’ve learned the basics of how models work, usually with a fixed 
 	- _Recommended Courses:_ [Introduction to Data-Centric AI](https://dcai.csail.mit.edu/) by MIT. 
 	- _Key Topics:_ Handling messy data, data curation, class imbalance, data augmentation and labeling errors.
 
-## Step 2  The Specialization Dive
+## **STEP 2.  The Specialization Dive**
 
 **Who this is for:** Those who’ve caught the AI bug and want to **go further** by focusing on a particular domain. Once you have covered the basics, you can branch out into a specialization that excites you: be it Computer Vision, natural language/LLMs, or the emerging world of AI agents (_“agentic workflows”_). This path is more open-ended and can be tailored to _your_ interests, you might even want to go for robotics, industrial or medical applications.
 
