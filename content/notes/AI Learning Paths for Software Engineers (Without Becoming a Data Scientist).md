@@ -66,15 +66,15 @@ Step 1 and the Data Centric lessons are essential. Step 2 is for those ready to 
 **Recommended Courses:** I highly recommend Andrew Ng’s content on Coursera for a solid foundation. In particular, follow the sequence: Machine Learning Specialization and then Deep Learning Specialization:
 - [Machine Learning Specialization at DeepLearning.AI](https://www.deeplearning.ai/courses/machine-learning-specialization/): This is an updated, beginner-friendly take on Andrew Ng’s classic ML course. I first took the course in 2014 and back then the course was taught in Octave. Don´t be afraid, the current version relies on python.
     - _Key Topics:_ Supervised learning algorithms like linear regression and logistic regression; neural network basics; decision trees and tree ensembles such as random forests and XGBoost); basic unsupervised learning like k-means clustering and anomaly detection; recommender systems; and importantly, best practices for building and evaluating models: train/test splits, avoiding overfitting, etc..
-    - _Estimated Time:_ ~**8-10 weeks** (the specialization is designed to be ~2.5 months at ~5 hours/week). It’s fairly gentle on the math (uses an “intuitive first, optional math later” approach), but you will get to see the underlying equations and even derive a few simple ones. Great for cementing your understanding.
+    - _Estimated Time:_ ~8-10 weeks (the specialization is designed to be ~2.5 months at ~5 hours/week). It’s fairly gentle on the math (uses an “intuitive first, optional math later” approach), but you will get to see the underlying equations and even derive a few simple ones. Great for cementing your understanding.
 - [Deep Learning Specialization at DeepLearning.AI](https://www.deeplearning.ai/courses/deep-learning-specialization/): After the ML basics, this 5-course series goes deep into neural networks. It’s also taught by Andrew Ng and team.
     - _Key Topics:_ Neural network foundations; optimization techniques; practical tricks to improve models; convolutional neural networks for computer vision; sequence models including RNNs, LSTMs, and even a bit on transformers for natural language processing. 
-    - _Estimated Time:_ ~**3 months** (designed as ~12 weeks at 8-10 hours/week). This is a bit more intensive, but by the end you’ll have a solid grasp of deep learning’s core ideas and how to implement them.
+    - _Estimated Time:_ ~3 months (designed as ~12 weeks at 8-10 hours/week). This is a bit more intensive, but by the end you’ll have a solid grasp of deep learning’s core ideas and how to implement them.
 
 >[!tip]
 > The Machine Learning Specialization starts very gently. You don’t need advanced math, just comfort with basic coding. By the time you finish the Deep Learning Specialization, you’ll have touched on classic ML and many of the hottest topics in AI. It’s a worthwhile journey.
 
-### **Interlude: Data-Centric AI**
+## **Interlude: Data-Centric AI**
 
 Initially, you’ve learned the basics of how models work, usually with a fixed dataset, improving the model itself. In real-world scenarios, you typically fix the model and iterate on the data instead.
 
@@ -98,7 +98,7 @@ Initially, you’ve learned the basics of how models work, usually with a fixed 
     - _Recommended Resources:_ A great starting point is exploring the [AI Agents Course](https://huggingface.co/learn/agents-course/unit0/introduction) by Hugging Face which will show you smol-agents, LangChain and Langraph frameworks. You may also want check materials like the [A pratical guide to building agents by OpenAI](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) and [Building Effective AI Agents](https://www.anthropic.com/engineering/building-effective-agents) by Anthropic.
     - _Key Concepts:_ ReAct (Reasoning and Acting) pattern, using tools via AI, memory and context management for agents, and orchestrating multiple agents, evaluation of [LLM based products](https://hamel.dev/blog/posts/evals/) and [agentic workflows](https://hamel.dev/blog/posts/field-guide/). 
 
-## **Final Thoughts**
+# **Final Thoughts**
 
 Learning AI as a software engineer is **absolutely doable** and can be hugely rewarding. The key is to choose a path that matches your goals and learning style. Maybe you start with the Builder Path to build confidence with a cool project, then later circle back to do the Fundamentals Path for deeper understanding. Or perhaps you do the fundamentals first, then jump straight into a specialization that aligns with your work. There’s no one-size-fits-all, and that’s the beauty of learning.
 
