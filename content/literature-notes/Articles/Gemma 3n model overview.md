@@ -11,9 +11,10 @@ tags:
 ## Metadata
 - Author: [[Google AI for Developers]]
 - Full Title: Gemma 3n model overview
-- URL: https://ai.google.dev/gemma/docs/gemma-3n
 
 ## Highlights
+- Gemma 3n models use a Matryoshka Transformer or *MatFormer* model architecture that contains nested, smaller models within a single, larger model. The nested sub-models can be used for inferences without activating the parameters of the enclosing models when responding to requests. This ability to run just the smaller, core models within a MatFormer model can reduce compute cost, and response time, and energy footprint for the model. ([View Highlight](https://read.readwise.io/read/01jvsgzmb6hhe2eejpmcxm7s82))
+- Similar to PLE parameters, you can skip loading of some parameters into memory, such as audio or visual parameters, in the Gemma 3n model to reduce memory load. These parameters can be dynamically loaded at runtime if the device has the required resources. Overall, parameter skipping can further reduce the required operating memory for a Gemma 3n model, enabling execution on a wider range of devices and allowing developers to increase resource efficiency for less demanding tasks. ([View Highlight](https://read.readwise.io/read/01jvsgzqhe9x77bp4ydn03nqja))
 - Gemma 3n is a generative AI model optimized for use in everyday devices, such as phones, laptops, and tablets. This model includes innovations in parameter-efficient processing, including Per-Layer Embedding (PLE) parameter caching and a MatFormer model architecture that provides the flexibility to reduce compute and memory requirements. These models feature audio input handling, as well as text and visual data. ([View Highlight](https://read.readwise.io/read/01jvs766kytmp2detbjgtmx08k))
 - As with other Gemma models, Gemma 3n is provided with open weights and licensed for responsible [commercial use](https://ai.google.dev/gemma/terms), allowing you to tune and deploy it in your own projects and applications. ([View Highlight](https://read.readwise.io/read/01jvs769vnm84wx2gyf1gtjqcd))
 - emma 3n includes the following key features:
