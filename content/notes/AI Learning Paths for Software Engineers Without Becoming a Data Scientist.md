@@ -1,5 +1,5 @@
 ---
-title: AI Learning Paths for Software Engineers (Without Becoming a Data Scientist)
+title: AI Learning Paths for Software Engineers Without Becoming a Data Scientist
 date: 2025-05-15
 tags:
   - permanent-note
