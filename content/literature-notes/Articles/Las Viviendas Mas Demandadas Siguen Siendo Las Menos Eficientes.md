@@ -1,0 +1,25 @@
+---
+author: "[[idealista/news]]"
+title: 'Las Viviendas Más Demandadas Siguen Siendo Las Menos Eficientes'
+date: "2025-07-18"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://st3.idealista.com/news/archivos/styles/open_graph/public/2025-06/images/bilbao_07.jpg?VersionId=5tNl_ClPp8mE1h.tf0svASGk52gioyuD&itok=EvYibKby)
+
+## Metadata
+- Author: [[idealista/news]]
+- Full Title: Las Viviendas Más Demandadas Siguen Siendo Las Menos Eficientes
+- URL: https://www.idealista.com/news/inmobiliario/vivienda/2025/06/26/850719-solo-el-10-de-la-demanda-en-compraventa-se-dirige-a-viviendas-con-etiqueta-a?utm_medium=email&utm_campaign=news_daily&utm_campaigntype=retention&utm_creation=news_daily_20250626&utm_date_send=2025-06-2607:02:20&utm_link=m1TitularNode850719&utm_project=visitGeneration&utm_recipient_id=72471534294&utm_recipient_list=3&utm_source=newsletters
+
+## Highlights
+- La eficiencia energética en las viviendas se ha convertido en uno de los objetivos prioritarios de la UE para cumplir con la reducción de los gases de efecto invernadero en la atmósfera de cara a 2050. Unos propósitos que son un auténtico reto en España, donde la mitad del parque de viviendas tiene una [antigüedad de más de 40 años y una valoración media con la una letra E](https://www.idealista.com/news/inmobiliario/vivienda/2021/05/26/790653-radiografia-del-parque-inmobiliario-espanol-una-vivienda-media-con-45-anos-y-una), según un estudio realizado por [idealista](https://www.idealista.com/) con datos de Catastro. ([View Highlight](https://read.readwise.io/read/01k0cwadwa7qt92807kxkn5gk6))
+- En la actualidad, apenas un **8,4% de la demanda** que busca casa en el mercado residencial en venta dirige su atención a las **viviendas con certificado energético A**, junto al 4,6% de la demanda para la etiqueta B o el 8,1% para propiedades con la etiqueta C, las más eficientes del mercado, según el último estudio de idealista/data sobre la demanda de viviendas en venta por etiqueta energética durante el primer trimestre de 2025. ([View Highlight](https://read.readwise.io/read/01k0cwajswtnzn1vg2cvx8zmz0))
+- Entre los tres suman algo más del 21% de la demanda de vivienda, por debajo del peso de la demanda únicamente para propiedades con la **etiqueta E (39,7%),** el grueso del parque residencial nacional. ([View Highlight](https://read.readwise.io/read/01k0cwat573v51wz948tpc924b))
+- La antigüedad del parque residencial hace que **la mayoría de viviendas se encuentren con una calificación energética baja**, por lo general una etiqueta energética E, F o G, lejos de las pretensiones de la nueva Directiva Europea de Eficiencia Energética de los Edificios (EPBD por sus siglas en inglés). ([View Highlight](https://read.readwise.io/read/01k0cwazax7fnvkmswsf60nx3g))
+- Casi el 90% de las viviendas en España tiene las calificaciones de eficiencia energética más bajas. Asimismo, **menos de un 4% de la oferta estaría catalogado como vivienda eficiente**, según idealista/data y el estudio de varias tasadoras, aunque aumenta, poco a poco, con la llegada de obra nueva y el impulso de la rehabilitación. ([View Highlight](https://read.readwise.io/read/01k0cwb32j2r6b73kak84gh28v))
+- Mientras que un casi un 40% de la demanda nacional se dirige a **inmuebles con una etiqueta E (39,7%),** hay provincias que superan el 50% de la demanda solo con esta letra de eficiencia energética, como Álava (51,6%), La Rioja y Zamora (ambas con un 50,6%), y muy cerca de la mitad de la demanda aparecen Cuenca (49,6%), Barcelona (46,5%). Destacan los casos de las provincias canarias, donde el mayor peso de la demanda se dirige hacia las viviendas menos eficientes, con letra G, en Las Palmas (62%) y Santa Cruz de Tenerife (41,5%). ([View Highlight](https://read.readwise.io/read/01k0cwb5vzy6zf7ybrxmc2ghcj))
+- La mayor esperanza es que pese a significar menos del 5% de la oferta, la demanda por estas viviendas eficientes (Letras A, B y C) suman algo más del 20% del peso de la demanda por encontrar una casa para vivir. ([View Highlight](https://read.readwise.io/read/01k0cwb8zz07s9kmkrp3cn4400))
+- Otro de los factores que marca la demanda de vivienda eficientes en el mercado es el precio. Por lo general, las viviendas con la mejor certificación energética son las viviendas de obra nueva, que cumplen con los requisitos del Código Técnico de Edificación, y las viviendas rehabilitadas. ([View Highlight](https://read.readwise.io/read/01k0cwbmf12yd2n8dxphg0ngj0))
+- Según el [Banco de España](https://www.idealista.com/news/inmobiliario/vivienda/2025/05/12/844500-banco-de-espana-la-eficiencia-energetica-aumenta-un-9-7-el-precio-de-venta-de-la), la eficiencia energética incrementa de media el precio de venta de la vivienda en un **9,7% en el caso de las más eficientes (A y B)** en comparación con inmuebles similares de menor calificación energética (F y G). De hecho, la diferencia de precios entre casas más y menos eficientes ha crecido, pasando del 5,7% en 2017 al 18,3% de media en 2022. ([View Highlight](https://read.readwise.io/read/01k0cwbrsb069q82gx2608bxgv))
