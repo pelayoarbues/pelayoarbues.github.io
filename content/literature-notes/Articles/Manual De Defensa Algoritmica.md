@@ -11,7 +11,6 @@ tags:
 ## Metadata
 - Author: [[Esther Paniagua]]
 - Full Title: Manual De Defensa Algorítmica
-- URL: https://readwise.io/reader/document_raw_content/343733378
 
 ## Highlights
 - En España, los algoritmos ya deciden -o más bien se usan para decidir- quién recibe una ayuda de vivienda o una hipoteca, o el bono social; quién tiene prioridad para una prueba médica; qué víctima de violencia de género recibe protección; qué estudiante logra entrar al grado y la universidad deseadas, o quién comete fraude. ([View Highlight](https://read.readwise.io/read/01k1b3k8g4szjmwdwp3jxqmj12))
@@ -39,3 +38,29 @@ tags:
   La resolución Veripol estuvo operativo hasta 2024. Tras varios años de implantación opaca en comisarías de todo el país, de solicitudes de transparencia por parte de la academia y de la sociedad civil y de presión mediática, el Ministerio del Interior anunció su retirada alegando que carecía de validez legal en procedimientos judiciales. ([View Highlight](https://read.readwise.io/read/01k1b3r20wx7svtg8yw3gy1g0w))
 - Tras años ofreciendo al Ministerio una auditoría gratuita y confidencial del sistema, la auditora Eticas buscó una forma de hacerla sin su colaboración, gracias al trabajo conjunto con la Fundación Ana Bella. La auditoría reveló problemas graves: principalmente, un 45% de las evaluaciones de riesgo etiquetadas como “no valoradas”, con consecuencias evidentes en las 71 mujeres asesinadas entre 2007 y 2021 que habían denunciado previamente y que no recibieron la protección adecuada. Se detectó también la tendencia del sistema a asignar puntuaciones de bajo riesgo; la imposibilidad de adaptar los cuestionarios a contextos individuales, y la ausencia de corrección de las decisiones algorítmicas por parte de la policía. ([View Highlight](https://read.readwise.io/read/01k1b3rezv3s8t9jv543ke3x6r))
 - Esta ley, pionera en Europa, obliga a las empresas a informar a los comités de empresa sobre los parámetros en los que se basan los algoritmos y sistemas de IA que pueden afectar a los trabajadores y a las condiciones de trabajo, y a ofrecer explicaciones por determinadas decisiones automatizadas. ([View Highlight](https://read.readwise.io/read/01k1b3w2qbm1rdebxa1vm2ej8m))
+- La Ley de IA establece que los sistemas de IA que interactúen con los usuarios deben ser identificados como tal.
+  • El contenido generado o modificado con ayuda de IA (imágenes, archivos de audio o vídeo) debe estar claramente etiquetado como “generado por IA”.
+  • Los proveedores de sistemas de alto riesgo deben proporcionar documentación técnica para demostrar requisitos de supervisión humana, precisión y robustez.
+  • Los creadores de modelos de IA generativa deben publicar resúmenes de los datos protegidos por derechos de autor que han utilizado para el entrenamiento.
+  • Cualquier uso protegido por derechos de autor requiere la autorización de su titular.
+  • Los proveedores de sistemas de IA deben registrarlos en una base de datos pública gestionada por la Comisión Europea.(*) ([View Highlight](https://read.readwise.io/read/01k1b3xh8ctssdxmyr9q0vp1j3))
+- La Ley de IA establece que las personas afectadas por una decisión de un sistema de IA de alto riesgo con impacto negativo en su salud, seguridad o derechos fundamentales, tendrán derecho a obtener explicaciones claras sobre la función del sistema de IA en el proceso de toma de decisiones y los principales elementos de la decisión adoptada. ([View Highlight](https://read.readwise.io/read/01k1b3xswx1c49p529jhdd9gk5))
+- En paralelo, hay otros movimientos y actores tratando de impulsar y reforzar aspectos relacionados con los derechos a saber, a entender y actuar en el ámbito de la IA.
+  Un aliado clave para ello es el sector privado.
+  Las empresas que desarrollan, implementan o utilizan sistemas de IA tienen un papel fundamental en la construcción de un ecosistema tecnológico más justo, transparente y respetuoso con los derechos de las personas. Pueden -y deben- ir más allá del cumplimiento de la regulación, y adoptar compromisos relacionados con la ética algorítmica, la explicabilidad y la rendición de cuentas. Porque no es solo una cuestión de responsabilidad social o reputación: también es una cuestión de competitividad y de legitimidad. Las organizaciones que apuesten por una IA más transparente y responsable tendrán mejores productos y estarán mejor posicionadas en un mercado donde la confianza de los usuarios, clientes e inversores es imprescindible. ([View Highlight](https://read.readwise.io/read/01k1b3y3whgr7j82wbjd8r0bkv))
+- 1. Diseñando sistemas que sean éticos desde el diseño.
+  2. Con transparencia desde el inicio: incorporando explicabilidad, trazabilidad y supervisión humana en todas las fases de desarrollo e implementación.
+  3. Informando de forma clara y accesible sobre qué sistemas se usan, cómo funcionan y cómo los consumidores, clientes y/o personas afectadas pueden ejercer sus derechos.
+  4. Facilitando vías efectivas de reclamación y revisión humana más allá de simples formularios, con procesos accesibles y acompañamiento real. 5. Evaluando de forma continua los riesgos de los sistemas, los sesgos que pueden provocar y su comportamiento a partir de las interacciones de las personas.
+  6. Permitiendo auditorías externas independientes y publicando informes de impacto, tanto técnico como ético, sobre los sistemas desplegados.
+  7. Evaluando la evolución de los modelos algorítmicos en el tiempo.
+  8. Participando en la creación de un registro central y público de algoritmos, contribuyendo a la transparencia colectiva.
+  9. Colaborando con la sociedad civil, la academia y la administraciones públicas en iniciativas conjuntas de evaluación, codiseño, investigación y mejora continua de los sistemas. ([View Highlight](https://read.readwise.io/read/01k1b3ydymhs4z5h27qwnks5dr))
+- 7 herramientas prácticas 1. Evaluaciones de impacto algorítmico: informes que evalúan los posibles efectos sociales, éticos y legales de un sistema de IA antes de su implementación, incluyendo análisis de riesgos para grupos vulnerables o impactos desproporcionados.
+  2. Model cards y system cards: documentos que resumen información clave sobre un modelo o sistema de IA, como su propósito, datos de entrenamiento, limitaciones, riesgos conocidos y resultados de pruebas.
+  3. Red teaming: ejercicios donde equipos internos o externos simulan usos indebidos del sistema, escenarios imprevistos o ataques, con el fin e identificar vulnerabilidades técnicas, éticas o sociales antes de su despliegue.
+  4. Auditorías: revisiones sistemáticas de los sistemas de IA, tanto antes como durante su despliegue.
+  Pueden enfocarse desde el punto de vista ético, técnico o legal.
+  5. Alineamiento: procesos para garantizar que los modelos se entrenen con objetivos compatibles con los valores humanos para minimizar comportamientos indebidos.
+  6. Plataformas automatizadas para monitorizar riesgos: haciendo un seguimiento en tiempo real del funcionamiento de los sistemas para identificar desviaciones, sesgos emergentes o efectos adversos.
+  7. Revisiones éticas: mediante comités multidisciplinares de especialistas. ([View Highlight](https://read.readwise.io/read/01k1b3yqh77kn7kzs09p4nk7rc))
