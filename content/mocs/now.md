@@ -8,10 +8,8 @@ tags:
 
 Currently, I am focused on:
 - Devoting time to my wife and daughter.
-- Preparing my wedding! 
-- Learning about and writing on [Management](mocs/moc-management.md), with a focus on applying complex problem-solving to lead change in organizations.
-- Exploring and testing MCP servers.
-- Publicly sharing my [digital garden](mocs/digital-garden.md).
+- Preparing for autumn after a wonderful summer
+- Organizing my fleeting notes for public sharing
 - Staying fit by going to the gym at least three times a week.
 
 ---
