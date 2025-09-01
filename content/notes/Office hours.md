@@ -31,4 +31,6 @@ Things I do not offer:
 
 - Recommending you for a role without knowing you.
 
-If you would like to meet, you can check [my calendar](https://cal.com/pelayoarbues/individual-mentoring) to see if there are any dates available. If you cannot find a free slot, you can also try to reach me and ask me anything via the social networks links at the bottom of this page.
+>[!tip] Availability
+> If you would like to meet, you can check [my calendar](https://cal.com/pelayoarbues/individual-mentoring) to see if there are any dates available. If you cannot find a free slot, you can also try to reach me and ask me anything via the social networks links at the bottom of this page.
+
