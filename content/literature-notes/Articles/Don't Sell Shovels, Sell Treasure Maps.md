@@ -6,7 +6,7 @@ tags:
   - "articles"
   - literature-note
 ---
-![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5e14fa-02e1-4dd7-8a8d-721661a8e12f_4961x2790.heic)
+o![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b5e14fa-02e1-4dd7-8a8d-721661a8e12f_4961x2790.heic)
 
 ## Metadata
 - Author: [[Sangeet Paul Choudary]]
