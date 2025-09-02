@@ -1,5 +1,5 @@
 ---
-title: LLMs as summarisers. Learning to Read the Maps AI Gives Us
+title: Learning to Read the Maps AI Gives Us
 date: 2025-09-01
 tags:
   - permanent-note
