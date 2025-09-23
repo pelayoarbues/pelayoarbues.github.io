@@ -6,7 +6,7 @@ tags:
   - data
   - agents
 ---
-
+![](notes/attachments/context-engineering-painting.webp)
 
 Context Engineering is one of the newest buzzwords in AI, and I hope it doesn't become another short-lived job title like "Prompt Engineer." New tools and processes often require new skills, but [in tech we sometimes rush to create roles](notes/The%20Rise%20of%20the%20Dataset%20Engineer.md) that are either too broad (think Data Scientist) or too narrow (RAG Engineer).
 
