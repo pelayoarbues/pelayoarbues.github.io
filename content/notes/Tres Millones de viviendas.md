@@ -2,7 +2,8 @@
 title: Tres Millones de viviendas
 date: 2025-10-07
 tags:
-  - fleeting
+  - books
+  - literature-note
 ---
 ![Tres Millones de Viviendas](notes/attachments/tres_millones_viviendas.webp)
 
