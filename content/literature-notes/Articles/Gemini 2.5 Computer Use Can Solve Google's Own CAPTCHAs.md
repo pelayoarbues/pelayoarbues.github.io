@@ -1,0 +1,26 @@
+---
+author: "[[Simon Willison's Weblog]]"
+title: 'Gemini 2.5 Computer Use Can Solve Google''s Own CAPTCHAs'
+date: "2025-10-08"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://simonwillison.net/favicon.ico)
+
+## Metadata
+- Author: [[Simon Willison's Weblog]]
+- Full Title: Gemini 2.5 Computer Use Can Solve Google's Own CAPTCHAs
+- URL: https://simonwillison.net/2025/Oct/7/gemini-25-computer-use-captchas/#atom-everything
+
+## Highlights
+- I activated the demo and Gemini decided to start by navigating to `www.google.com` in order to search for “hacker news”. But Google served a CAPTCHA challenge, presumably because of a large volume of suspicious traffic from the Browserbase IP range. ([View Highlight](https://read.readwise.io/read/01k72cvwz005wwps71pq29s9zj))
+- I activated the demo and Gemini decided to start by navigating to `www.google.com` in order to search for “hacker news”. But Google served a CAPTCHA challenge, presumably because of a large volume of suspicious traffic from the Browserbase IP range. ([View Highlight](https://read.readwise.io/read/01k72cvx17fb5jfse5avnndhkp))
+- It went through a few rounds of this, solved all of them and continued on to Google Search, where it ran the search for “hacker news”, navigated to the site and then did an admittedly unimpressive job of solving the original prompt. It looked at *just one* thread and reported back on what it found there. I was hoping it would consider more than one option to discover the “most controversial post from today”. ([View Highlight](https://read.readwise.io/read/01k72cw3hyp9mhy822j7s7vxfb))
+- It went through a few rounds of this, solved all of them and continued on to Google Search, where it ran the search for “hacker news”, navigated to the site and then did an admittedly unimpressive job of solving the original prompt. It looked at *just one* thread and reported back on what it found there. I was hoping it would consider more than one option to discover the “most controversial post from today”. ([View Highlight](https://read.readwise.io/read/01k72cw3m9byqarwmavycxqmqm))
+- The [Gemini 2.5 Computer Use Model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Computer-Use-Model-Card.pdf) (PDF) talks about training the model to “recognize when it is tasked with a high-stakes action” and request user confirmation before proceeding, but doesn’t have anything to say about not solving CAPTCHAs. So I guess this behaviour is the model working as intended! ([View Highlight](https://read.readwise.io/read/01k72cw9c8yksxh8v98p95x4dz))
+- The [Gemini 2.5 Computer Use Model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-2-5-Computer-Use-Model-Card.pdf) (PDF) talks about training the model to “recognize when it is tasked with a high-stakes action” and request user confirmation before proceeding, but doesn’t have anything to say about not solving CAPTCHAs. So I guess this behaviour is the model working as intended! ([View Highlight](https://read.readwise.io/read/01k72cwa126cwpa0gx7ec54g2h))
+- Something that *did* impress me—aside from the unprompted CAPTCHA solve against Google’s very own system—was the quality of the mouse usage. I’ve written about Computer Use models before from both [Anthropic](https://simonwillison.net/2024/Oct/22/computer-use/) and [OpenAI](https://simonwillison.net/2025/Jan/23/introducing-operator/) (they called their version “Operator”) and by far the biggest challenge for them is accurately clicking the right targets with the mouse. ([View Highlight](https://read.readwise.io/read/01k72cwkcdpt9ry2d5gzrp8zp3))
+- Something that *did* impress me—aside from the unprompted CAPTCHA solve against Google’s very own system—was the quality of the mouse usage. I’ve written about Computer Use models before from both [Anthropic](https://simonwillison.net/2024/Oct/22/computer-use/) and [OpenAI](https://simonwillison.net/2025/Jan/23/introducing-operator/) (they called their version “Operator”) and by far the biggest challenge for them is accurately clicking the right targets with the mouse. ([View Highlight](https://read.readwise.io/read/01k72cwkem7ck5x5g20ccps0qa))
+- It would take a formal eval to derive if Gemini really is best at this, but given the Gemini models previous demonstrations of both [bounding boxes](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/) and [image segmentation masks](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) it doesn’t surprise me that a Gemini model can do a great job of clicking on the right elements in a screenshot of an operating system or browser. ([View Highlight](https://read.readwise.io/read/01k72cwtwvvrzej3sb2ep678kk))
+- It would take a formal eval to derive if Gemini really is best at this, but given the Gemini models previous demonstrations of both [bounding boxes](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/) and [image segmentation masks](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/) it doesn’t surprise me that a Gemini model can do a great job of clicking on the right elements in a screenshot of an operating system or browser. ([View Highlight](https://read.readwise.io/read/01k72cwv89nsqjfkhxfykmcgbj))
