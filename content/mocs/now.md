@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2025-05-20
+date: 2025-10-26
 tags:
   - personal
   - MOC
@@ -8,9 +8,9 @@ tags:
 
 Currently, I am focused on:
 - Devoting time to my wife and daughter.
-- Preparing for autumn after a wonderful summer
-- Organizing my fleeting notes for public sharing
 - Staying fit by going to the gym at least three times a week.
+- Learning about short term and long term memory in agents
+- Testing Claude Code with skills
 
 ---
 This is a `now page`, a public statement of my top priorities following the [nownownow.com initiative](https://nownownow.com/about). 
