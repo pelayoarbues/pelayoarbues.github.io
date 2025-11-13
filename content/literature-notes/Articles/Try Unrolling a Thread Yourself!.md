@@ -31,3 +31,4 @@ tags:
   - Truth Terminal has ~$300,000 of GOAT in its wallet and is on its way to being the first AI agent millionaire 
   (Microsoft AI CEO Mustafa Suleyman predicted this could happen next year, but it might happen THIS YEAR.) 
   - And it’s getting richer: people keep airdropping new memecoins to Terminal hoping it'll pump them. ([View Highlight](https://read.readwise.io/read/01jacx2eh4yys454jnknz0fzbt))
+
