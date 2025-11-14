@@ -1,7 +1,7 @@
 ---
 author: "[[Irrational Exuberance]]"
 title: '"Good Engineering Management" Is a Fad'
-date: "2025-11-13"
+date: "2025-11-14"
 tags:
   - "articles"
   - literature-note
@@ -35,3 +35,51 @@ tags:
   *Examples*: document and share top problems, and updates during crises ([View Highlight](https://read.readwise.io/read/01k9zcwdnzq6xggmsm6h4v8h65))
 - **Taste**: exercise discerning judgment about what “good” looks like—technically, in business terms, and in process/strategy. Taste is a broadchurch, and my experience is that broad taste is an somewhat universal criteria for truly senior roles. In some ways, taste is a prerequisite to Amazon’s [Are Right, A Lot](https://www.amazon.jobs/content/en/our-workplace/leadership-principles).
   *Examples*: refine proposed product concept, avoid high-risk rewrite, find usability issues in team’s work ([View Highlight](https://read.readwise.io/read/01k9zcxtqd2xzmpw6r21sqzfxd))
+- **Clarity**: your team, stakeholders, and leadership know what you’re doing and why, and agree that it makes sense. In particular, they understand how you are overcoming your biggest problems. So clarity is not, “Struggling with scalability issues” but instead “Sharding the user logins database in a new cluster to reduce load.”
+  *Examples*: identify levers to progress, create plan to exit a crisis, show progress on implementing that plan ([View Highlight](https://read.readwise.io/read/01k9zcyws6kph6475nnp283kd7))
+- **Navigating ambiguity**: work from complex problem to opinionated, viable approach. If you’re given an extremely messy, open-ended problem, can you still find a way to make progress? (I’ve [written previously about this topic](https://lethain.com/navigating-ambiguity/).)
+  *Examples*: launching a new business line, improving developer experience, going from 1 to N cloud regions ([View Highlight](https://read.readwise.io/read/01k9zcz9ysaky5apaynptec32m))
+- **Working across timescales**: ensure your areas of responsibility make progress across both the short and long term. There are many ways to appear successful by cutting corners today, that end in disaster tomorrow. Success requires understanding, and being accountable for, how different timescales interact.
+  *Examples*: have an explicit destination, ensure short-term work steers towards it, be long-term rigid and short-term flexible ([View Highlight](https://read.readwise.io/read/01k9zczka01x0sdytn1wc8d3j9))
+- **Execution**
+  • When did your team last have friction delivering work? Is that a recurring issue?
+  • What’s something hard you shipped that went really, really well?
+  • When were you last pulled onto solving a time-sensitive, executive-visible project? ([View Highlight](https://read.readwise.io/read/01k9zd05fjcxmkh2mmsvn6yj1q))
+- **Team**
+  • Who was the last strong performer you hired?
+  • Have you retained your strongest performers?
+  • What strong performers want to join your team?
+  • Which peers consider your team highly effective?
+  • When did an executive describe your team as exceptional? ([View Highlight](https://read.readwise.io/read/01k9zd0b3bffnf52r0k12pxh0h))
+- **Ownership**
+  • When did you or your team overcome the odds to deliver something important? (Would your stakeholders agree?)
+  • What’s the last difficult problem you solved that stayed solved (rather than reoccurring)?
+  • When did you last solve the problem first before addressing cross-team gaps? ([View Highlight](https://read.readwise.io/read/01k9zd0n3gnyy9sjw8jmhmz4x2))
+- **Alignment**
+  • When was the last time you were surprised by a stakeholder? What could you do to prevent that reoccuring?
+  • How does a new stakeholder understand your prioritization tradeoffs (incl rationale)?
+  • When did you last disappoint a stakeholder without damaging your relationship?
+  • What stakeholders would join your company because they trust you? ([View Highlight](https://read.readwise.io/read/01k9zd0yasqqsngf9s4tyd1g1w))
+- **Taste**
+  • What’s a recent decision that is meaningfully better because you were present?
+  • If your product counterpart left, what decisions would you struggle to make?
+  • Where’s a subtle clarification that significantly changed a design or launch?
+  • How have you inflected team’s outcomes by seeing around corners? ([View Highlight](https://read.readwise.io/read/01k9zd175awgegey3h8bzr61re))
+- **Clarity**
+  • What’s a difficult trade-off you recently helped your team make?
+  • How could you enable them to make that same trade-off without your direct participation?
+  • What’s a recent decision you made that was undone? How? ([View Highlight](https://read.readwise.io/read/01k9zd1chwvdva0rk5a7fz2718))
+- **Navigating ambiguity**
+  • What problem have you worked on that was stuck before assisted, and unstuck afterwards?
+  • How did you unstick it?
+  • Do senior leaders bring ambiguous problems to you? Why? ([View Highlight](https://read.readwise.io/read/01k9zd1ht06dn5yf6kmm40ztw1))
+- **Working across timescales**
+  • What’s a recent trade off you made between short and long-term priorities?
+  • How do you inform these tradeoffs across timescales?
+  • What long-term goals are you protecting at significant short-term cost? ([View Highlight](https://read.readwise.io/read/01k9zd1t91wrhxy1m6grv33cdg))
+- Most of these questions stand on their own, but it’s worth briefly explaining the “Have you ever been pulled into a SpecificSortOfProject by an executive?” questions. My experience is that in most companies, executives will try to poach you onto their most important problems that correspond to your strengths. So if they’re never attempting to pull you in then either you’re not considered as particularly strong on that dimensions, or you’re already very saturated with other work such that it doesn’t seem possible to pull you in. ([View Highlight](https://read.readwise.io/read/01k9zd22fqcvqqvwnnrzhpn91j))
+- While those groupings of “core” and “growth” skills are obvious groupings to me, what I came to appreciate while writing this is that some skills swap between core to growth as the fads evolve. Where *execution* is a foundational skill today, it was less of a core skill in the hypergrowth era, and even less in the investor era. ([View Highlight](https://read.readwise.io/read/01k9zd2mfp6p88b6gfzyy3mfsw))
+- This is the fundamentally tricky part of succeeding as an engineering manager across fads: you need a sufficiently broad base across each of these skills to be successful, otherwise you’re very likely to be viewed as a weak manager when the eras unpredictably end. ([View Highlight](https://read.readwise.io/read/01k9zd2rfsnx89yhzx0qp56stc))
+- The “[Manage your priorities and energy](https://lethain.com/frameworks-decision-making/)” chapter in [*The Engineering Executive’s Primer*](https://www.amazon.com/Engineering-Executives-Primer-Impactful-Leadership/dp/1098149483/) captures an important reality that took me too long to understand: the perfect allocation of work is not the mathematically ideal allocation that maximizes impact. Instead, it’s the balance between that mathematical ideal and doing things that energize you enough to stay motivated over the long haul. If you’re someone who loves writing software, that might involve writing a bit more than\nhelpful to your team. If you’re someone who loves streamlining an organization, it might be improving a friction-filled\nprocess that is a personal affront, even if it’s not causing *that much* overall inefficiency. ([View Highlight](https://read.readwise.io/read/01k9zd339e23j3sm8614vy7f1p))
+- For each role, you have the chance to prioritize across different dimensions like pace, people, prestige, profit, or learning. There’s no “right decision,” and there are always tradeoffs. The decisions you make early in your career will compound over the following forty years. You also have to operate within the constraints of your life today and your possible lives tomorrow. Early in my career, I had few responsibilities to others, and had the opportunity to work extremely hard at places like Uber. Today, with more family responsibilities, I am unwilling to make the tradeoffs to consistently work that way, which has real implications on how I think about which roles to prioritize over time. ([View Highlight](https://read.readwise.io/read/01k9zd60z0j89w40qw8bjcytys))
+- Recognizing these tradeoffs, and making them deliberately, is one of the highest value things you can do to shape your career. Most importantly, it’s extremely hard to have a career at all if you don’t think about these dimensions and have a healthy amount of self-awareness to understand the tradeoffs that will allow you to stay engaged over half a lifetime. ([View Highlight](https://read.readwise.io/read/01k9zd5y8y9prtw79kny0xc35m))
