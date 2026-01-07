@@ -4,6 +4,7 @@ date: 2025-01-08
 tags:
   - permanent-note
   - books
+  - wrapped
 ---
 2024 has been one of the years I’ve read the most long texts. In previous years, I spent a lot of time reading tweets, blog posts, and newsletters. At the end of 2023, I decided to quit scrolling social media after dinner. Instead, I started picking up books.
 
