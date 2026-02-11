@@ -1,11 +1,13 @@
 ---
 title: Back to public speaking
-date: 2025-02-02
+date: 2025-02-10
 tags:
   - permanent-note
   - speaking
   - career
 ---
+![Interview at Mioti](notes/attachments/public_speaking_mioti.webp)
+
 I retired myself from [public speaking](mocs/moc-public-appearances.md) in 2024. In this [post](notes/No%20public%20speaking%20in%202024.md) I explained why: mainly because I grew tired of repeating the same mantras without revisiting my beliefs. In the past two years I received lots of invitations to participate in events as a speaker and rejected most of them, keeping only those for students.
 
 At the end of 2025, I started feeling like [public speaking](notes/Public%20Speaking%20is%20a%20Game-Changer%20for%20Networking.md) again. I know there are plenty of people talking about AI and data. Unfortunately, [most of them](notes/Self-proclaimed%20experts.md) are really focused on new LLMs, libraries, and tools. I think I still have lots to say about the application of these [technologies](notes/Agents%20explained.md) within companies and society, the [practical, messy realities](notes/A%20recommender%20beast.md) that don't make it into keynote presentations.
