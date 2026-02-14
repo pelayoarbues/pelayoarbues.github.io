@@ -1,4 +1,3 @@
-
 ---
 title: A lucky manager
 date: 2025-01-15
@@ -6,6 +5,7 @@ tags:
   - permanent-note
   - management
 ---
+
 Let me savor this sweet taste of success and share how lucky and [proud I feel of my team](notes/Pride%20of%20my%20team.md). My [ego](literature-notes/Books/Ego%20Is%20the%20Enemy.md) whispers that it’s all thanks to my work. But as someone who knows that fighting ego is a daily battle, I’ll pause for a moment and [use writing](mocs/digital-garden.md) not just for reflection but also for grappling with how much of success depends on factors beyond control.
 
 Am I really responsible for this temporary success? A second thought pulls me to the [opposite extreme](notes/Taming%20Impostor%20Syndrome.md), it tells me that 90% of the credit belongs entirely to my team, along with the support of other groups like the platform and engineering teams, some excellent product managers, and other helpful stakeholders.
