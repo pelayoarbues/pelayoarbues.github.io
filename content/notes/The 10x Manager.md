@@ -78,18 +78,22 @@ flowchart TD
         S_POST --> S_OUT["Notes + 4 new tasks"]
     end
 
-    subgraph DEEP["Draft ML Governance Framework"]
+    subgraph DEEP["Draft ML Governance"]
         D_RES["Research Skill"]
         D_RES --> D_CTX["Related notes<br/>Literature<br/>Past decisions"]
         D_CTX --> D_ADV["Advisor Skills"]
         D_ADV --> D_OUT["CDO + CTO critique<br/>Refined draft"]
     end
 
-    classDef skill fill:lime,stroke:#333,stroke-width:2px
+    classDef skill fill:#4ECDC4,stroke:#333,stroke-width:2px,color:#1a1a1a
     class DWM,M_PREP,M_POST,S_PREP,S_POST,D_RES,D_ADV skill
 ```
 
 When I have a few minutes, I tackle the easy tasks or go deep mode to solve a harder problem. When I need to think deeply about a topic, I can ask Claude to research my own vault. The research skill finds relevant notes across years of captures, [literature notes](./literature-notes/), and my [own writing](./notes/), then synthesizes them into a research note with proper links. Useful when writing or preparing for strategic discussions. I have even built Chief Data Officer, CPO, CTO, AI Engineer, and Data Architect skills that critique my ideas in rounds.
+
+Compare this to my old approach in [[How I Manage Myself and My Team Using Obsidian Tasks]]: I had the Eisenhower matrix, but I still had to manually check my calendar, mentally prepare for meetings, and figure out how to fit everything together.
+
+Now the cognitive load of "planning the day" takes 5 minutes instead of 30 minutes.
 
 ## The Weekly Rhythm
 
