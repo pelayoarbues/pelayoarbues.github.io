@@ -54,7 +54,7 @@ At the end of the day, I send the transcriptions to the terminal. Another Claude
 ```mermaid
 flowchart TD
     subgraph DAILY["Daily Preparation"]
-        DWM["Daily Work Manager"]
+        DWM["Daily Work Skill"]
         DWM --> TASKS["2 tasks due today"]
         DWM --> CAL["3 meetings scheduled"]
     end
@@ -65,7 +65,7 @@ flowchart TD
     subgraph MARIA["1:1 with Maria"]
         M_PREP["Prep Skill"]
         M_PREP --> M_CTX["Last 3 meetings<br/>Pending tasks<br/>Growth themes"]
-        M_CTX --> M_MEET["Meeting"]
+        M_CTX --> M_MEET["1:1 Transcription"]
         M_MEET --> M_POST["Post-Meeting Skill"]
         M_POST --> M_OUT["Notes + 2 new tasks"]
     end
@@ -73,7 +73,7 @@ flowchart TD
     subgraph SYNC["Data Leadership Sync"]
         S_PREP["Project Prep Skill"]
         S_PREP --> S_CTX["Project status<br/>Blockers<br/>Commitments"]
-        S_CTX --> S_MEET["Meeting"]
+        S_CTX --> S_MEET["Meeting Transcription"]
         S_MEET --> S_POST["Post-Meeting Skill"]
         S_POST --> S_OUT["Notes + 4 new tasks"]
     end
@@ -84,6 +84,9 @@ flowchart TD
         D_CTX --> D_ADV["Advisor Skills"]
         D_ADV --> D_OUT["CDO + CTO critique<br/>Refined draft"]
     end
+
+    classDef skill fill:lime,stroke:#333,stroke-width:2px
+    class DWM,M_PREP,M_POST,S_PREP,S_POST,D_RES,D_ADV skill
 ```
 
 When I have a few minutes, I tackle the easy tasks or go deep mode to solve a harder problem. When I need to think deeply about a topic, I can ask Claude to research my own vault. The research skill finds relevant notes across years of captures, [literature notes](./literature-notes/), and my [own writing](./notes/), then synthesizes them into a research note with proper links. Useful when writing or preparing for strategic discussions. I have even built Chief Data Officer, CPO, CTO, AI Engineer, and Data Architect skills that critique my ideas in rounds.
