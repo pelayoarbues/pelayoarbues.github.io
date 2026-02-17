@@ -115,8 +115,14 @@ Of course it's not a perfect system. Sometimes Claude hallucinates tasks that do
 
 Lots of people talk about 10x engineers, those mythical developers who produce ten times more than their peers. But I've started thinking about something different: the 10x manager.
 
-Not someone who attends ten times more meetings or sends ten times more emails. That's a recipe for burnout. Doing more does not mean being more effective. I mean someone who can hold ten times more context, spot patterns across ten times more information, and still show up present and focused for the conversations that actually matter: the ones about people, strategy, and the hard organizational problems no AI can solve. [Andy Grove called it](notes/Essential%20Books%20for%20New%20Managers%20in%20Tech.md): your output as a manager is measured by the output of your team, multiplied by your impact on it. AI doesn't replace that equation. It amplifies it.
+Not someone who attends ten times more meetings or sends ten times more emails. That's a recipe for burnout. Doing more does not mean being more effective. I mean someone who can more context, spot patterns across more information, and still show up present and focused for the conversations that actually matter: the ones about people, strategy, and the hard organizational problems no AI can solve. 
 
-My function hasn't changed. I still plan ahead, manage problems, remove blockages, and design better solutions while supporting the organization to grow. But now I can make better decisions because I do it with a clearer head and more bandwidth for the parts that require a human.
+[Andy Grove called it](notes/Essential%20Books%20for%20New%20Managers%20in%20Tech.md): your output as a manager is measured by the output of your team, multiplied by your impact on it. AI doesn't replace that equation. It amplifies it.
 
-The major risk? Going nuts and trying to do too much. The leverage cuts both ways.
+But here's what I'm still figuring out: where's the line?
+
+I still plan ahead, manage problems, remove blockages, and design solutions while supporting the organization to grow. My actual job hasn't changed. But now I can make better decisions because I have a clearer head and more bandwidth for the parts that require a human. The problem is, with all this leverage, it's tempting to take on more, to expand my scope, to do everything because I *can*.
+
+That's the trap. The same tools that make you more effective can push you to overreach. You start thinking you can handle more projects, more people, more problems. And maybe you can, for a while. But the leverage cuts both ways: it can multiply your impact or multiply your burnout.
+
+So I'm trying to be intentional. Not about doing more, but about doing what matters. The AI handles the overhead. I focus on the decisions only I can make.
