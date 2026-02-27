@@ -4,6 +4,8 @@ tags:
   - MOC
   - speaking
 ---
+## 2026
+- [IE Tech & Innovation Day](appearances/2026/ie-university-business-ai-panel/IE%20Tech%20&%20Innovation%20Day.md)
 ## 2024
 - [No public speaking in 2024](notes/No%20public%20speaking%20in%202024.md)
 ## 2023
