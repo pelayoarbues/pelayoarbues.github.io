@@ -5,6 +5,7 @@ tags:
   - speaking
 ---
 ## 2026
+- [All You need is data Mioti Podcast](appearances/2026/mioti-all-you-need-is-data/All%20You%20need%20is%20data%20podcast.md)
 - [IE Tech & Innovation Day](appearances/2026/ie-university-business-ai-panel/IE%20Tech%20&%20Innovation%20Day.md)
 ## 2024
 - [No public speaking in 2024](notes/No%20public%20speaking%20in%202024.md)
