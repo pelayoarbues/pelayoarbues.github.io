@@ -1,0 +1,25 @@
+---
+author: "[[Sam Schillace]]"
+title: 'I Have Seen the Compounding Teams'
+date: "2026-03-22"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://substackcdn.com/image/fetch/$s_!ZkNx!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fsundaylettersfromsam.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1555190947%26version%3D9)
+
+## Metadata
+- Author: [[Sam Schillace]]
+- Full Title: I Have Seen the Compounding Teams
+- URL: https://sundaylettersfromsam.substack.com/p/i-have-seen-the-compounding-teams
+
+## Highlights
+- A while back I wrote something to the effect of “if AI is getting better and more productive, where are the ‘compounding teams’ who show exponentially increasing output?”
+  I think I’ve now seen at least two or three teams that seem to be showing this behavior. They’re not just doing “vibe coding” or using something like Claude Code or Codex out of the box, or even GitHub copilot. The teams that use those tools do get a boost to productivity, but it’s short term and limited ([View Highlight](https://read.readwise.io/read/01kmbhyd83w5rwcg9wqq11a4y7))
+- The teams that are compounding aren’t writing code at all. The each have built a framework (like the [Amplifier](http://www.github.com/microsoft/amplifier) framework) around a model. They will have some plumbing akin to Claude Code or Codex - something that has callback hooks, tool calling, and flow control, but then the system they build will be much more proactive. It will have a series of strategies, tools, opinions and behaviors that let it run more independently. ([View Highlight](https://read.readwise.io/read/01kmbj13wzccht7s5799mhgcge))
+- Most importantly, all of the teams I’ve seen doing this so far are making extensive use of low-level programming tools to give the system access to itself. All are heavily filesystem based, use git, use markdown, kubernetes, xml and other common tools. I suspect that the next wave of software at scale will be built on these programmer tools, even for non-programmers, the same way models will sometimes privately write code now to solve a hard problem asked by a non-coder. It’s fairly clear that these are good infrastructure for model-based action, since the models are so successful using them. ([View Highlight](https://read.readwise.io/read/01kmbj1fedrg2a7kn7tc4zbxh1))
+- The compounding comes from a “build a tool for making a tool” recursive mindset. These teams will automate everything they can, and will often tell the coding system “you’ll need a tool for that, go ahead and build and use it” - and then the system will do just that, checking it in to git and making it a permanent improvement. ([View Highlight](https://read.readwise.io/read/01kmbj1vd14dk1ccm3b4xgx8vx))
+- All of these teams are overwhelmed with ideas now - that’s a common hallmark, because they are so productive that the new bottleneck is human attention. It’s common to have 5-10 processes running in parallel, and API spend is routinely hundreds of dollars a day (one team has a goal of getting to a thousand). I know teams with shipping products that have not directly touched or looked at code in multiple months (one jokingly considers a code review a ‘firing offense’ because it means you’re in the way of the tool). ([View Highlight](https://read.readwise.io/read/01kmbj2c4z31fwy8qjvp84067k))
+- New work patterns are emerging around this capability. Coordination is the new challenge, and modular boundaries matter a lot. It’s much better to have two or three engineers who can design at this high level, working on well-defined but isolated pieces of functionality, than it is to have a large, mixed team. It’s hard to have some team members coding like this and others coding by hand, and it’s impossible to mix that in one repo. The models aren’t trusted - code has to execute, and acceptance tests are meaningful and constant. Problems have to be broken down into solvable pieces, though it’s likely that will change as better strategies are built into these coding systems and the models improve. ([View Highlight](https://read.readwise.io/read/01kmbj382x44ev8zcz00v5mbg0))
+- I think this is coming for most if not all knowledge work, too (see “Code goes first”). I know of teams using this technique and these tools to do all kinds of research and to create multiple kinds of artifacts. A common idea is to connect user feedback back into the system to do proactive product planning, marketing or bug fixing. Other workflows are easy to imagine. ([View Highlight](https://read.readwise.io/read/01kmbj3h2npqrav9fdx44rf9w4))
+- There is a lot left to do to make this more approachable (we have a lot to build still), and there are mindset changes and new skills to learn. This feels very much to me like seeing a PC, or a browser, or the iPhone, for the first time. The new, better way to do things is now very clear. It will take time for folks to understand and get comfortable with it, and there will for sure be folks who resist, as there always are. ([View Highlight](https://read.readwise.io/read/01kmbj3v2j56w2xgv37qwhj0mp))
