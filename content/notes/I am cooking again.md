@@ -6,6 +6,8 @@ tags:
   - AI
   - workflow
 ---
+![Cooking python code](notes/attachments/cooking.webp)
+
 I am [back to software development](notes/Dont%20get%20too%20rusty.md). And it is all thanks to AI code assistants. My schedule is packed with [meetings](notes/The%2010x%20Manager.md), which means that until now I mainly built [prototypes](notes/Make'em%20talk%20with%20prototypes.md), test frameworks, and did things that were not very urgent or critical.
 
 Then life happened. In November, one of my team members had to leave the company because of a personal problem. He came back in March, but it was unexpected and it affected one of the projects I had planned for him at the end of December.
