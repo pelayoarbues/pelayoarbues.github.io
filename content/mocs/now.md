@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2026-02-02
+date: 2026-05-09
 tags:
   - personal
   - MOC
@@ -9,7 +9,7 @@ tags:
 Currently, I am focused on:
 - Devoting time to my wife and daughter.
 - Staying fit by going to the gym at least three times a week.
-- Building a productivity assistant with Claude Code + Obsidian + Skills
+- Pushing AI adoption company wide
 
 ---
 This is a `now page`, a public statement of my top priorities following the [nownownow.com initiative](https://nownownow.com/about). 

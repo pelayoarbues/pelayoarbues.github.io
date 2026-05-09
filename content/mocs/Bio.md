@@ -1,72 +1,44 @@
 ---
 title: Bio
-date: 2024-09-08
+date: 2026-05-09
 tags:
   - MOC
 ---
-
 ```mermaid
 timeline
-    title My career timeline
+    title Career timeline
     section Academia
 	    2007 : Researcher
 	    2010 : Ph.D. thesis
-	    2013 : Researcher
+	    2013 : Postdoctoral researcher
 	section Private Sector
     2015 : 1st solo Data Scientist at Weplan
     2016 : DS Consultant at BBVA Next
     2018 : Lead Data Scientist at idealista/data
-    2020 : Head of Data Science at idealista
-    
+    2020 : Head of Data Science & AI at idealista
 ```
 
-My journey in Data Science began in Academia, where I earned my Ph.D. in Economics and spent 7 years as a researcher. Transitioning to the tech industry, I've held roles as a Senior Data Scientist at BBVA Next and Lead Data Scientist at Weplan before finding my home at idealista where I have worked as Lead Data Scientist and now as a Head of the Data Science initiative.
+I lead Data and AI strategy at [idealista](https://www.idealista.com), Southern Europe's largest real estate marketplace, where my team has shipped 90+ AI projects across automated valuation, search ranking, fraud detection, and content moderation. My work sits at the intersection of applied machine learning, spatial data science, and the messy reality of making AI useful inside a product organization.
 
-I'm known for my [ability](My%20failure%20resume.md) to bridge the gap between complex data science concepts and practical applications. I thrive on problem-solving and embrace the challenges of [management](mocs/moc-management.md), tackling everything from strategy and processes to people development.
+Before idealista, I built recommender systems and loyalty models reaching 7 million customers as a consultant working rat BBVA Next Technologies for different companies. I hold a Ph.D. in Economics from the University of Oviedo, with 7 peer-reviewed publications. I've given 20+ talks at venues including Banco de España, Carto Conference, and Instituto Tramontana, and I teach AI and data science as adjunct faculty at [IE University](https://www.ie.edu/school-science-technology/) and [The Valley](https://thevalley.es/).
 
-## My Achievements & Aspirations
+I believe AI succeeds when it amplifies domain expertise rather than replacing it, and that most data science teams fail by chasing technical sophistication instead of business impact. That conviction shapes how I build teams, choose projects, and teach.
 
-Throughout my career, I've had the privilege of working on exciting projects. Some of my proudest moments include:
+When I'm not thinking about models and organizations, I shoot analog photography and read about creative processes and philosophy.
 
-- Developing a high-impact recommender system with a small team at a large retail company
-- Building and nurturing a high-performance data science team at idealista with a large economic impact on the organization through multiple innovation projects.
+## Teaching & Speaking
 
-Looking ahead, I'm driven by the goal of applying my skills to address human challenges on a broader scale. I aspire to be recognized for leading ethical, high-performing teams that delivers outstanding solutions.
+- Adjunct Faculty, [IE School of Science and Technology](https://www.ie.edu/school-science-technology/) (Master in Business Analytics & Data Science)
+- Professor, [The Valley Digital Business School](https://thevalley.es/) (AI and applied ML)
+- External instructor, [Instituto Tramontana](https://www.tramontana.net/direccion-producto) (Product Management program)
+- [[mocs/moc-public-appearances|Public speaking]]: 20+ talks and podcast appearances
 
-# Professional Affiliations and Teaching 
+## Selected Publications
 
-In addition to my role at idealista, I'm deeply committed to nurturing the next generation of Data professionals and sharing my knowledge with the broader community:
-
-- Mentor and Adjunct Professor at [IE School of Science and Technology | SCI TECH](https://www.ie.edu/school-science-technology/)
-- Instructor for the Master of Data Science program at [The Valley | Business & Tech School](https://thevalley.es/)
-- External teacher at [Dirección y cultura de Producto](https://www.tramontana.net/direccion-producto) en Instituto Tramontana
-- [Public speaking](mocs/moc-public-appearances.md)
-
-These teaching and mentoring roles allow me to stay at the cutting edge of data science education while contributing to the growth of our field. They also inform my practical work, keeping me connected to emerging trends and fresh perspectives in data science.
-
-## Beyond the Data
-
-When I'm not immersed in data and management, you can find me:
-
-- Capturing moments through the lens of my analog cameras
-- Diving into books on creative processes, management, and philosophy
-- Spending quality time with my family
-
-I'm always eager to learn and grow. If you're interested in staying updated on my projects, you can learn more about my [current priorities](https://www.pelayoarbues.com/mocs/now).
-
-## How I Can Help You
-
-My unique blend of academic research, industry experience, and leadership skills allows me to bring substantial value to organizations and projects:
-
-- For businesses: I can help you harness the power of data to drive decision-making, optimize processes, and create data-driven products that resonate with your customers. My experience in developing advanced analytics solutions can directly contribute to your bottom line.
-- For data teams: As a leader, I can help build and nurture high-performance teams, bridging the gap between technical expertise and business objectives. I excel at translating complex data concepts into actionable insights for stakeholders at all levels.
-- For collaborators and partners: My interdisciplinary background in economics and data science, combined with my problem-solving approach, makes me a valuable partner for innovative projects. Whether it's tackling urban planning challenges or developing new AI-driven solutions, I bring a unique perspective to the table.
-- For the broader community: I'm committed to increasing awareness of practical data science applications. Through mentoring, speaking engagements, or collaborative research, I aim to contribute to the growth of our field and its positive impact on society.
+- Rey-Blanco, D., Arbués, P., López, F. A., & Páez, A. (2024). Machine learning for spatial market segmentation. *Environment and Planning B*, 51(1), 89-108.
+- Kenyon, G.E., Arribas-Bel, D., Robinson, C., et al. (2024). Intra-urban house prices in Madrid. *npj Urban Sustainability*, 4(1), 26.
+- [[mocs/moc-research|Full publication list]]
 
 ## Let's Connect
 
-I love connecting with fellow data enthusiasts, problem solvers, and curious minds. [Feel free to reach out](Office%20hours.md). Whether you want to discuss data science, management strategies, or swap book recommendations, I'm always up for a good conversation!
-
-
-
-
+I write about management, data science, and AI on [[mocs/digital-garden|my blog]]. To see what I'm working on right now, check [[mocs/now|my /now page]]. If you'd like to talk, grab a slot during [[notes/Office hours|office hours]].

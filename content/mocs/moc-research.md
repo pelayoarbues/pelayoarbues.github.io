@@ -4,7 +4,7 @@ tags:
   - MOC
   - research
 ---
-I worked as an applied economist in the Academia since 2007 until 2014. At the moment I am trying to publish new research in different real estate topics.
+I worked as an applied economist in the Academia since 2007 until 2014. 
 
 
 - [Kenyon, G.E., Arribas-Bel, D., Robinson, C. _et al._ (2024) Intra-urban house prices in Madrid following the financial crisis: an exploration of spatial inequality. _npj Urban Sustain_ **4**, 26 ](research/Intra-urban%20house%20prices%20in%20Madrid%20following%20the%20financial%20crisis,%20an%20exploration%20of%20spatial%20inequality.md) 

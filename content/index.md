@@ -5,26 +5,23 @@ tags:
 - MOC
 ---
 
-Hi, I'm Pelayo Arbués
+Hi, I’m Pelayo Arbués
 
-I’m the Head of Data Science at [idealista](https://www.idealista.com), Southern Europe’s leading real estate online marketplace. With a Ph.D. in Economics and over 10 years of industry experience, I specialize in data science leadership, AI applied to marketplaces, management, and data-driven decision-making. My background combines academic rigor with practical expertise, allowing me to drive innovation and solve complex challenges. 
+I lead Data and AI teams at [idealista](https://www.idealista.com), Southern Europe’s largest real estate marketplace, where my teams has shipped 90+ AI projects across automated valuation, search, fraud detection, and content moderation. I hold a Ph.D. in Economics and have published 7 peer-reviewed papers on spatial data science and machine learning in journals.
 
-I’m passionate about making advanced technical concepts accessible and applicable to real-world scenarios. Whether I’m developing machine learning systems, leading high-performance teams, or mentoring the next generation of AI experts, my mission is to leverage data to create impactful solutions and drive innovation.
+I believe AI succeeds when it amplifies domain expertise rather than replacing it, and that most data science teams fail by chasing technical sophistication instead of business impact. I write and [speak](mocs/moc-public-appearances.md) about that gap, and I teach applied AI at [IE University](https://www.ie.edu/school-science-technology/) and [The Valley](https://thevalley.es/).
 
-Curious about my professional journey? Explore [my full bio](mocs/Bio.md) to learn more.
+When I’m not thinking about models and organizations, I shoot [analog photography](photography/index.md) and read about creative processes and philosophy.
 
-**Let’s Connect!**
+Read [my full bio](mocs/Bio.md) for the longer story, or see [what I’m focused on right now](mocs/now.md).
 
-Check my availability for consultations or discussions during [Office hours](notes/Office%20hours.md).
+## On This Site
 
-## What I’m Passionate About
+- [Writing](mocs/digital-garden.md) on [management](mocs/moc-management.md), data science, and AI
+- [Research](mocs/moc-research.md) on spatial ML, hedonic pricing, and real estate markets
+- [Speaking](mocs/moc-public-appearances.md): 20+ talks, panels, and podcast appearances
 
-- [Writing for learning](mocs/digital-garden.md). I regularly publish articles that explore [management](mocs/moc-management.md), data science, and how AI can be applied to solve real-world challenges.
-- [Speaking Engagements](mocs/moc-public-appearances.md). I participate in talks, interviews, and podcasts, sharing insights on the future of AI and its practical applications.
-- [Research](mocs/moc-research.md). My research focuses on leveraging AI to address industry-specific problems, with a particular interest in spatial data science, machine learning, and the real estate market.
-- [Photography](photography/index.md). Capturing the world through analogue photography is my way of finding balance and inspiration.
-
-To dive deeper into my current priorities, [click here](mocs/now.md).
+Want to talk? Grab a slot during [office hours](notes/Office%20hours.md).
 
 ---
 Interested in how Artificial Intelligence is employed on this site? Visit my [/ai page](mocs/ai.md) to explore how Large Language Models and Diffusion Models are integrated into my workflow.
