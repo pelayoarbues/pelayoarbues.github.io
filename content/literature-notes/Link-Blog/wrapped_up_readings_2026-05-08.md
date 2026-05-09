@@ -1,0 +1,18 @@
+---
+title: Wrapped-up Readings 2026-05-08
+date: 2026-05-08
+tags:
+  - link-blog
+---
+
+I want models I can interrogate and that fix their own sloppiness: Natural Language Autoencoders exposes hidden reasoning and lifts planted-misalignment detection to 12–15%, while Claude Managed Agents adds rubric-based Outcomes, Dreaming, and multiagent traceability to ratchet accuracy and oversight. I see the center of gravity shifting from search to research—trading a portal’s front desk for a lab bench—which is why I buy Moat Point’s warning that real-estate portals’ moats crumble without rich structured data and confidence tools; I back Rewiring the C‑Suite’s AI-first, CAIO-led operating model; and I read SpaceX’s Colossus “higher limits” deal as the compute accelerant behind it.
+
+## AI
+
+- ['Natural Language Autoencoders: Turning Claude’s Thoughts Into Text'](https://www.anthropic.com/research/natural-language-autoencoders): Anthropic’s Natural Language Autoencoders convert model activations into text via a verbalizer and reconstructor trained for round‑trip accuracy. They reveal hidden reasoning (e.g., rhyme planning, unspoken test awareness), aid audits, and raised detection of a planted misalignment to 12–15% vs under 3% without. Limits: they’re costly and can hallucinate, so corroboration is needed. Code and an interactive demo are released for open models.
+- ['Rewiring the C-Suite'](https://readwise.io/reader/document_raw_content/451164194): AI is a structural shift, demanding AI-first operating models and faster, cross-functional decision-making. CEOs must rewire the C-suite: embed AI end-to-end, redeploy productivity gains into growth, distribute authority to leaders closest to work, and appoint empowered CAIOs while upskilling all functions. Converging tech and talent, fostering productive friction, and continuous strategy will close the gap between AI ambition and results.
+- ['New in Claude Managed Agents: Dreaming, Outcomes, and Multiagent'](https://claude.com/blog/new-in-claude-managed-agents): Claude Managed Agents add Dreaming, Outcomes, Multiagent, and webhooks. Dreaming reviews sessions and memories to spot patterns, curate knowledge, and improve agents between runs. Outcomes lets you define success rubrics; an independent grader drives iterative fixes and boosts accuracy. Multiagent orchestration splits work among specialist agents running in parallel with full traceability. Early users (Harvey, Netflix, Spiral, Wisedocs) report major gains, e.g., 6x completion, 50% faster.
+- ['Higher Usage Limits for Claude and a Compute Deal With SpaceX'](https://www.anthropic.com/news/higher-limits-spacex): Anthropic partnered with SpaceX to use all compute at Colossus 1 (300+ MW, ~220k NVIDIA GPUs), boosting Claude Pro/Max and enabling higher usage limits. They’re doubling Claude Code 5-hour limits, removing peak reductions, and raising Opus API limits. Anthropic runs on AWS Trainium, Google TPUs, and NVIDIA GPUs, is exploring orbital-scale compute, and is expanding capacity in Asia and Europe via Amazon to meet in-region needs.
+## Real estate
+
+- ['Moat Point: Will Data Really Save Property Portals From AI Disruption?'](https://readwise.io/reader/document_raw_content/451921437): AI-native portals like France’s Omny show incumbents’ moats (inventory, proprietary data) are weak without rich, structured data. Shallow listings break natural-language search; value lies in hard-to-get neighborhood and planning data, not “entertainment” metrics. Portals should build confidence tools (affordability, comparisons, transparent match scores) and monetize enriched data. Marketplaces will shift from search to research as conversational search becomes standard.
