@@ -1,0 +1,76 @@
+---
+author: "[[langfuse.com]]"
+title: 'Datasets'
+date: "2026-05-21"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://langfuse.com/api/og?title=Datasets&description=How+to+build+and+structure+test+datasets+for+evaluating+LLM+application+changes.&section=Academy)
+
+## Metadata
+- Author: [[langfuse.com]]
+- Full Title: Datasets
+- URL: https://langfuse.com/academy/datasets
+
+## Highlights
+- [How datasets fit into the loop](https://langfuse.com/academy/datasets/#how-datasets-fit-into-the-loop)
+  So far, we've covered the first two steps of the [AI engineering loop](https://langfuse.com/academy/ai-engineering-loop): [tracing](https://langfuse.com/academy/tracing) your application and [monitoring](https://langfuse.com/academy/monitoring) its behavior live. Those give you visibility into what your system is actually doing and give you inspiration for improvement.
+  Now the question becomes: when you spot something worth improving, how do you test a change before deploying it to production? The next three steps of the loop cover exactly this, and it starts with datasets. ([View Highlight](https://read.readwise.io/read/01ks3e5zp9cebcebqx04cjprkv))
+- A dataset is a collection of test cases that you run your application against each time you make a change ("an experiment"). Instead of deploying and hoping for the best, you get a repeatable, consistent check across a set of inputs that represent real-world usage. ([View Highlight](https://read.readwise.io/read/01ks3e64q0pmmz8fdcr4m1xqmb))
+- [The dataset item](https://langfuse.com/academy/datasets/#the-dataset-item)
+  A dataset is made up of items, each item represents one test case: a situation your application should be able to handle. Generally, an item has three fields:
+  • **Input** (required)
+  • **Expected output** (optional)
+  • **Metadata** (optional) ([View Highlight](https://read.readwise.io/read/01ks3e69qk1pya321ajm78mcw1))
+- A good mental model is:
+  Field
+  Purpose
+  Input
+  Input needed for the task you're testing
+  Metadata
+  Any additional context that's helpful when scoring the result, or to associate the dataset item with a use case
+  Expected output
+  Defines what a correct or good response looks like ([View Highlight](https://read.readwise.io/read/01ks3e6nkpfjeyhe7pdq108ep5))
+- **Exact match**
+  The expected output is the literal correct answer. For example:
+  • A classification task where the correct label is "billing_inquiry"
+  • An extraction task where the expected entities are ["Paris", "Thursday"] ([View Highlight](https://read.readwise.io/read/01ks3e742mmgfqkg9m5ap3t00d))
+- **Reference answer**
+  The expected output is a gold-standard response that shows what a good output looks like. The evaluator can compare the test's output against this example, for instance by checking semantic similarity or whether the key points match.
+  **Evaluation criteria**
+  The expected output is a list of checks or requirements the output should satisfy. For example:
+  • "must mention the refund policy"
+  • "must include a link to the help center"
+  The evaluator checks whether the output meets these criteria. ([View Highlight](https://read.readwise.io/read/01ks3e7fk2fft7fn3kcjnk086h))
+- **Nothing**
+  Sometimes no expected output is required at all. If you're just checking whether:
+  • the tone is professional
+  • the response is safe
+  • the output follows a required format
+  Your dataset items don't need anything other than an input as you will use a [reference-free evaluator](https://langfuse.com/academy/evaluate#reference-based-vs-reference-free).
+  **Combination of the above**
+  Because you can run a combination of different evaluators on a single dataset item, a dataset item's expected output field can also contain multiple types of reference data. The expected output is a JSON field, so you can store multiple types of reference data without a problem. ([View Highlight](https://read.readwise.io/read/01ks3e7qyx309276bsqnrsr5mt))
+- [What makes a good dataset](https://langfuse.com/academy/datasets/#what-makes-a-good-dataset)
+  **A good dataset mirrors what your system will encounter in production.** If passing the dataset gives you confidence before deploying, it's doing its job.
+  **Clear in scope.** Each dataset should have a well-defined scope. That can be end-to-end if you treat internal steps as implementation details, or it can target an individual step like retrieval or summarization if that's the part you're trying to improve. You'll likely end up with multiple datasets, each with a clear purpose.
+  Granular datasets
+  End-to-end datasets
+  Faster and cheaper to run, easier to reason about
+  Catch issues that only surface when steps interact ([View Highlight](https://read.readwise.io/read/01ks3eka0cxhh13ywsg83fepq0))
+- **The right size for the workflow.** Some datasets are small and fast enough to run on every push as part of your CI/CD pipeline. Others are larger and more comprehensive, and are useful to run periodically but too slow for every minor change.
+  Purpose
+  Typical size
+  Exploring a single issue
+  ~10 items
+  Testing model capability boundaries
+  ~10 complex unsolved examples
+  CI checks on larger changes
+  100–1000, covering production distribution
+  Guardrail penetration testing
+  Large and growing, add cases as they surface in production ([View Highlight](https://read.readwise.io/read/01ks3ekgvmhjn3yy64jrcsqyhs))
+- [Where to start](https://langfuse.com/academy/datasets/#where-to-start)
+  Start with the most concrete examples you have, then expand coverage once you know what you are trying to test.
+  1. **Pull examples from production traces** that you spotted and would like to improve, either as-is or anonymized or transformed by AI.
+  2. **Add hand-written cases** based on predefined requirements, edge cases, or behaviors your agent must handle reliably.
+  3. **Generate synthetic examples** with AI once you know which dimensions you want to cover more broadly. ([View Highlight](https://read.readwise.io/read/01ks3ekp9v89xtfnwh4wgrmfaw))

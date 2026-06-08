@@ -1,0 +1,23 @@
+---
+author: "[[https://www.facebook.com/testingcatalog]]"
+title: 'Anthropic Plans Claude Memory Update With New Memory Files'
+date: "2026-05-25"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/Screenshot-2026-05-23-at-22.13.10--1-.png)
+
+## Metadata
+- Author: [[https://www.facebook.com/testingcatalog]]
+- Full Title: Anthropic Plans Claude Memory Update With New Memory Files
+- URL: https://www.testingcatalog.com/anthropic-plans-claude-memory-update-with-new-memory-files/
+
+## Highlights
+- Tied to this shift is the prospect that [Dreams](https://www.testingcatalog.com/anthropic-debuts-reaming-for-claude-managed-agents-in-new-preview/), a feature Anthropic only recently began rolling out to its [Claude Managed Agents](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/) on the developer platform, eventually arrives in the consumer Claude product. Dreams runs as a scheduled, asynchronous pass over accumulated memory files, merging duplicates, replacing stale entries with fresh values, resolving contradictions, and surfacing patterns the model missed during live sessions. Anthropic has compared the process to REM sleep consolidation, with the original store left untouched while a reorganized version is produced for review. ([View Highlight](https://read.readwise.io/read/01ksg37hkzzars1vvt1h82r904))
+- Anthropic appears to be preparing a substantial overhaul of how Claude remembers users across sessions, with early signals pointing to a dual-mode memory system that would let people choose between the current setup and a more sophisticated file-based architecture. The existing arrangement, framed internally as the “classic” option, condenses what Claude learns about a person into a single, summarized note. The forthcoming alternative, referred to as “Memory Files,” would distribute those notes across multiple structured documents organized by topic, project, or context. This feature is likely a new iteration of earlier discovered "[Knowledge Bases](https://www.testingcatalog.com/anthropic-works-on-knowledge-bases-for-claude-cowork/)". ([View Highlight](https://read.readwise.io/read/01ksfs5rnnnb4v1zx0xg7hxamn))
+- > Organized notes Claude writes as you chat and reads when they're relevant. Browse and edit them anytime.
+  The approach mirrors what is already powering always-on agentic solutions such as OpenClaw and Hermes, both of which rely on filesystem-style memory to scale beyond the limits of a single rolling summary. By splitting memory into discrete files, Anthropic would be able to give Claude a far larger and more durable record of each user without overwhelming the context window. In practice, it would function as a built-in personal wiki that the assistant can consult selectively depending on the topic under discussion. ([View Highlight](https://read.readwise.io/read/01ksfs5vpxyvee3nwjmd1fr39d))
+- Tied to this shift is the prospect that [Dreams](https://www.testingcatalog.com/anthropic-debuts-reaming-for-claude-managed-agents-in-new-preview/), a feature Anthropic only recently began rolling out to its [Claude Managed Agents](https://www.testingcatalog.com/anthropic-launches-claude-managed-agents-for-businesses/) on the developer platform, eventually arrives in the consumer Claude product. Dreams runs as a scheduled, asynchronous pass over accumulated memory files, merging duplicates, replacing stale entries with fresh values, resolving contradictions, and surfacing patterns the model missed during live sessions. Anthropic has compared the process to REM sleep consolidation, with the original store left untouched while a reorganized version is produced for review.
+  On a similar note, [Claude Conway](https://www.testingcatalog.com/exclusive-anthropic-tests-its-own-always-on-conway-agent/) agent is expected to arrive soon as well, and it is quite possible that Memory Files feature is part of the preparation for Conway's debut.
+  No firm timeline has surfaced yet, and Dreams itself remains in limited beta on the platform side, currently scoped to Opus 4.7 and Sonnet 4.6. Smaller UI tweaks are being prepared in parallel, but the memory rework stands out as the most consequential piece of what is coming next, placing [Claude](https://www.testingcatalog.com/tag/claude/) on a more competitive footing with the persistent-memory architectures that rivals have been building toward while preserving Anthropic’s stated emphasis on user control over what the model retains. ([View Highlight](https://read.readwise.io/read/01ksfs64352c2ytx87463dstbj))
