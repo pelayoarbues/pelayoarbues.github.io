@@ -31,3 +31,62 @@ h6,
 thead {
   font-weight: lighter;
 }
+
+@media all and ($mobile) {
+  .page > #quartz-body {
+    & .sidebar.left {
+      gap: 0.5rem;
+      width: 100%;
+
+      & > .recent-notes {
+        display: none;
+      }
+
+      & .page-title {
+        flex: 0 1 auto;
+        min-width: 0;
+        font-size: 1.35rem;
+        line-height: 1.1;
+
+        & a {
+          display: block;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+      }
+
+      & > .flex-component {
+        flex: 0 0 auto;
+        min-width: 0;
+      }
+
+      & .search {
+        min-width: 0;
+
+        & > .search-button {
+          justify-content: center;
+          width: 2rem;
+          padding: 0;
+
+          & > p {
+            display: none;
+          }
+
+          & svg {
+            margin: 0;
+          }
+        }
+      }
+    }
+
+    & .sidebar.right {
+      flex-direction: column;
+      gap: 1.5rem;
+
+      & > * {
+        max-height: none;
+      }
+    }
+  }
+}
