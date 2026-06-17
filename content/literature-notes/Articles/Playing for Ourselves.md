@@ -1,0 +1,23 @@
+---
+author: "[[Benn Stancil]]"
+title: 'Playing for Ourselves'
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06566c12-8cfa-46e1-9fda-23576ad058bc_1024x682.jpeg)
+
+## Metadata
+- Author: [[Benn Stancil]]
+- Full Title: Playing for Ourselves
+- URL: https://benn.substack.com/p/playing-for-ourselves
+
+## Highlights
+- Instead of working like a novelist or an academic to write *Who Makes the NBA?*, Stephens-Davidowitz worked like one of us: Against a tight deadline, worried more about directional correctness than scientific rigor, and responsible for not just producing his analysis but also presenting it. ([View Highlight](https://read.readwise.io/read/01hmhfbett3116rpqyasz7256j))
+- The biggest conclusion—for better or for worse, I suppose—is that AI is a long way from replacing us. When instructing ChatGPT to do its works, Stephens-Davidowitz found that “clarity and precision are paramount” and “any ambiguity can lead to unintended consequences.” This suggests that, at least when doing open-ended analysis on new datasets,[9](https://benn.substack.com/p/playing-for-ourselves#footnote-9) it’s important to be analytically fluent. ChatGPT can port the [Tidyverse](https://www.tidyverse.org/) from R to [English](https://twitter.com/karpathy/status/1617979122625712128)—but it still needs to be talked to using the vocabulary of the Tidyverse. ([View Highlight](https://read.readwise.io/read/01hmhfc6r138g22zaskkrxgpa1))
+- None of this is terribly surprising; these sorts of shortcomings are well-documented at this point. As I [wrote earlier this year](https://benn.substack.com/p/we-dont-need-another-sql-chatbot#%C2%A7we-can-be-good-or-we-can-have-fun)—and as Andrej Karpahty, one of OpenAI’s leading researchers, said [in a recent tweet](https://twitter.com/karpathy/status/1733299213503787018)—the randomness inherent in LLMs make them undisciplined order-takers. Instead, I though, we should treat them like creative but unruly prima donnas: ([View Highlight](https://read.readwise.io/read/01hmhfct0x4daxx9a7cajb62j5))
+- One of the most striking things about LLMs is that they’re much better at the creative parts of analysis than they are at the mechanical parts. Ask ChatGPT to write a SQL query against an artificially simple schema; it’s a junior analyst, at best. But ask it to come up with possible hypotheses to explain why there’s some anomaly in a metric, and it does better than I would. … ([View Highlight](https://read.readwise.io/read/01hmhfe3cmh8gdk8dp1nz3h1bt))
+- I’m not sure that I want to say that all the query-writing chatbots should pivot into analytical reasoning bots. [That’s the job I want](https://benn.substack.com/p/insight-industrial-complex#:~:text=I%20still%20remember,wait%20a%20minute%E2%80%A6%E2%80%99%E2%80%9D), to be at the top of the creative food chain with an army of machines doing the mundane tedium below me. But the army we’re building—creative, unpredictable, and equally prone to both novel ideas and lies—is becoming [more man than machine](https://www.youtube.com/watch?v=UNCxbM50eWQ). If we’re looking for chatbots that make us all better at working with data, without having to rebuild an entire BI tool in the process, our best option may be to let them do the job *we* wanted to do all along. ([View Highlight](https://read.readwise.io/read/01hmhfeepv4x81m5k4akbstp0x))
+- So what do all of us need to learn? The answer, it seems, is nothing in particular. We just need to start using tools like ChatGPT, and, as we all did with Google, develop an intuition for how they work. Though Stephens-Davidowitz lists a number of specific tips and tricks in the book’s appendix, he ultimately concluded that the best way to make the most of ChatGPT is just to “[practice with it.](https://www.youtube.com/watch?v=UQqQQUMHnmw&t=1961s)” ([View Highlight](https://read.readwise.io/read/01hmhfgb410zagaqmws5jewycm))
+- Every analyst who’s ever had to work quickly should sympathize with this. If not for other people’s reactions, how do you know if your result is crazy? The numbers add up; the reasoning makes sense. Analysis isn’t an irrefutable science, but a kind of [quantitative logical argument](https://benn.substack.com/p/tilt-and-tilted). Some ideas make more sense than others, but until we test them—assuming we even can—we won’t know if [the rock actually floats or not](https://en.wikipedia.org/wiki/LK-99). ([View Highlight](https://read.readwise.io/read/01hmhfmnbm437cn5s8yhatbdkw))

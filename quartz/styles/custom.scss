@@ -1,3 +1,33 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.page-title {
+  font-weight: lighter;
+}
+
+a.internal {
+  color: var(--darkgray);
+  text-decoration: underline;
+
+  &.tag-link {
+    text-decoration: none;
+  }
+}
+
+a.external {
+  color: var(--darkgray);
+}
+
+.recent-notes a.internal {
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+  font-weight: lighter;
+}

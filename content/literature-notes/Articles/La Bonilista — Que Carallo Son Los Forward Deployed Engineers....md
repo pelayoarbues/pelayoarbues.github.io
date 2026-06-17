@@ -1,0 +1,42 @@
+---
+author: "[[Bonilista Archive Feed]]"
+title: 'La Bonilista — Qué Carallo Son Los Forward Deployed Engineers...'
+date: "2026-03-23"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://mcusercontent.com/374c664073e1a1fa3deca53b4/images/11597968-a34f-11b2-8fd4-851728181d64.png)
+
+## Metadata
+- Author: [[Bonilista Archive Feed]]
+- Full Title: La Bonilista — Qué Carallo Son Los Forward Deployed Engineers...
+- URL: https://mailchi.mp/bonillaware/fde
+
+## Highlights
+- El concepto de FDE aparece en Palantir al principio de la década de 2010. Palantir, compañía fundada por el polémico Peter Thiel en 2003, no vende un producto de *software* tradicional sino una plataforma que conecta fuentes de datos dispersas y heterogéneas y permite crear una capa lógica por encima para determinar qué significa cada dato y cómo se relaciona con los demás. ([View Highlight](https://read.readwise.io/read/01kmbjqe2wfd5h6tcwbcahchkz))
+- La solución de Palantir permite hacer consultas complejas de forma sencilla («*Si cerramos esta ruta logística por un riesgo geopolítico, ¿qué proveedores alternativos podemos activar, cómo afectará a los costes, qué contratos habrá que renegociar y qué clientes se verán impactados?»*), detectar patrones, hacer simulaciones («*¿Qué combinación de máquinas, turnos y mantenimiento minimiza el riesgo de fallo en la planta durante el próximo mes sin reducir producción?*») y automatizar la toma de decisiones. ([View Highlight](https://read.readwise.io/read/01kmbjqq5r7rdwj8tncqskk83d))
+- Pero para poder aportar todo ese valor, necesita una profunda integración con los datos y procesos del cliente. Eso implica **conocer tanto el *software* como el contexto del cliente, modelarlo, implementarlo dentro del mismo e iterarlo con usuarios finales**. No trabajan con tareas sino con problemas. Eso es lo que hacen los FDE. 
+  Y cuando necesitas adaptarte por completo a la realidad del cliente, tiene sentido que lo hagas integrado en sus equipos, recibiendo *feedback* directo e inmediato de los usuarios en el entorno donde desarrollan su actividad, no en una oficina a miles de kilómetros de distancia, en una zona horaria diferente. ([View Highlight](https://read.readwise.io/read/01kmbjqzwt73btj184vk1x7yyp))
+- Otro de los motivos que justifica que un desarrollador tenga que trabajar en las instalaciones de un cliente es que **los modelos de datos a los que accede son tan sensibles que, por seguridad, no pueden salir de su infraestructura**. 
+  En el caso de Palantir, esto no es algo teórico, sino una realidad desde el primer día. Y es que no deberíamos pasar por alto el «pequeño» detalle de que, además de con la pasta de Thiel, la compañía se fundó con una pequeña inversión de In-Q-Tel —el fondo de capital-riesgo de la CIA—, que también fue uno de sus primeros clientes. 
+  El primer tipo de preguntas complejas que la plataforma de Palantir empezó a contestar eran del tipo «*Dado este número de teléfono, ¿qué personas, cuentas bancarias, ubicaciones y eventos están indirectamente relacionados en los últimos 6 meses?*». ([View Highlight](https://read.readwise.io/read/01kmbjrrb0xsbypvdankkxkpd1))
+- La principal es que, al contrario de lo que desgraciadamente sucede en la mayoría de los casos, **los FDE no programan lo que el cliente les pide, sino lo que consideren necesario para resolver los problemas que este les plantea**. Y no se limitan a entregar *software* y marcharse, sino que comprueban que la solución funciona y —si es necesario— la iteran para mejorarla. 
+  Supongo que muchos estaréis levantando una ceja y pensando **«*pero esto ya existe desde hace décadas*». Efectivamente, así es, pero con una gran diferencia: no tenía un nombre tan guay**. ([View Highlight](https://read.readwise.io/read/01kmbjs8vb68wad6ebsvy9z011))
+- A lo mejor pensáis que os estoy tomando el pelo, pero la realidad siempre supera a la ficción. Un artículo de Andreessen Horowitz recoge la idea de que el gran acierto de Palantir ha sido [poner un nombre chulo a un rol tradicionalmente despreciado en el sector](https://a16z.com/forward-deployed-job-titles/). 
+  No cambiaron el trabajo, solo cómo se percibe. ([View Highlight](https://read.readwise.io/read/01kmbjsvj8jcqbr2sw1az9teb0))
+- lo que siempre ha *molado* en informática es trabajar en cliente final o en producto, no en servicios. Los que lo conseguían, miraban con cierta condescendencia y por encima del hombro a los que no tenían más remedio que hacerlo en consultoría. 
+  Bajo ese prejuicio, subyacen dos realidades. Primero que, como las empresas no suelen comprar proyectos cerrados sino bolsas de horas, la calidad del código generado no es la máxima prioridad de las consultoras porque, si este falla, el riesgo lo asume el cliente. 
+  Pero, sobre todo, que en producto se suele cobrar más porque al contrario que en servicios, el modelo de negocio escala. No puedes facturar más de 8 horas de trabajo de un consultor, salvo que sepas doblar el espacio-tiempo, pero un producto desarrollado por un solo programador puede tener uno o un millón de usuarios. ([View Highlight](https://read.readwise.io/read/01kmbjtk9d1yqmf404h1a5nrn0))
+- En ese contexto, Palantir necesitaba reclutar desarrolladores para prestar servicios. Eso sí, en agencias gubernamentales, para resolver problemas de seguridad nacional en un mundo post-11-S. 
+  Y decide denominarles no ya *Forward Deployed Engineers* —un término militar, que recuerda al de tropas desplegadas en el frente— sino *Deltas*, como los soldados de élite de la *Delta Force*, el destacamento de operaciones especiales del ejército de Estados Unidos. 
+  Daba igual que el trabajo estuviera más o menos bien pagado. Lo importante era que allí ya no serías un simple informático, un oscuro programador con un empleo aburridísimo desde la perspectiva de tus amigos. En Palantir, serías un *Delta* y tu trabajo contribuiría a que durmieran seguros. ([View Highlight](https://read.readwise.io/read/01kmbjv5pvtknv4d9k9byfhv0z))
+- ás allá de la narrativa que los estadounidenses saben vender tan bien, y que el resto siempre acabamos comprando, **el rol de FDE siempre tuvo sentido, pero hoy puede que más que nunca.** 
+  Porque, más que nunca, son una «punta de lanza» tanto para los equipos de producto como los de ventas. Y es que, en un momento en que la IA está abaratando más y más el desarrollo de *software*, **el mayor valor ya no está en escribir código, sino en saber dónde, cómo y por qué escribirlo.** ([View Highlight](https://read.readwise.io/read/01kmbjvn3y7x56dgegg2ct1ran))
+- Si la barrera de entrada de nuevos competidores es cada vez más baja, aunque el rol de FDE no escale, quizás ha llegado el momento de plantearse [sacrificar parte del margen para crear una ventaja competitiva](https://a16z.com/services-led-growth/). 
+  Si construir *software* es cada vez más barato, **el mayor valor ya no está en desarrollar una solución genérica y «aceptable» para la mayoría de los casos, sino en construir una solución perfectamente adaptada a cada problemática**. 
+  Porque, seamos sinceros, el *software* empresarial nunca fue *plug and play*, solo fingíamos que lo era. SAP, Oracle, Salesforce… son todas compañías de producto apoyadas en un ejército de *partners* para configurarlo, adaptarlo e integrarlo en sus clientes. ([View Highlight](https://read.readwise.io/read/01kmbjw01vbqv6hxyq4sr2cb03))
+- Atlassian acaba de despedir a 1.600 empleados «para invertir más en IA», pero —precisamente por la IA— quizás lo más sensato hubiera sido reconvertir a muchos en FDE para ayudar a sus clientes a adaptar y adoptar sus productos. Empresas como Stripe, OpenAI, Databricks, Snowflake o Intercom ya lo están haciendo. 
+  Y no solo compañías de producto. Las grandes firmas de consultoría se han dado cuenta de que cada vez van a tener más difícil vender «informes estratégicos» sin implicarse y responsabilizarse de su implementación. La mismísima McKinsey tiene abiertas vacantes de FDE y Accenture pretende [desplegar nada menos que 30.000 FDE](https://nextword.substack.com/p/anthropic-accenture-partnership-why) en colaboración con Anthropic. 
+  La IA solo ha señalado al emperador desnudo. El rol de **FDE es lo que pasa cuando dejamos de fingir que producto y servicios son cosas distintas** y nos ponemos a resolver problemas. 
+  Es lo que hemos hecho toda la vida y, si seguimos haciéndolo, sospecho que nunca nos faltará trabajo. ([View Highlight](https://read.readwise.io/read/01kmbjwpv3jv4we8d0xjfa23wj))

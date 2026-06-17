@@ -1,0 +1,32 @@
+---
+author: "[[Quassnoi]]"
+title: 'Happy New Year: GPT in 500 Lines of SQL'
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://explainextended.com/wp-content/uploads/2023/12/kandinsky-download-1703639350496.jpg)
+
+## Metadata
+- Author: [[Quassnoi]]
+- Full Title: Happy New Year: GPT in 500 Lines of SQL
+- URL: https://explainextended.com/2023/12/31/happy-new-year-15/
+
+## Highlights
+- A generative LLM is a function. It takes a text string as input (called "prompt" in AI parlance), and returns an array of strings and numbers. Here's what the signature of this function looks like: ([View Highlight](https://read.readwise.io/read/01hkhz35eqefjvt1xspfjppy57))
+- This function is deterministic. It does a lot of math under the hood, but all this math is hardwired. If you call it repeatedly with the same input, it will always return the same output. ([View Highlight](https://read.readwise.io/read/01hkhz3dszdtaprm0rtbphytaf))
+- Large language models are used in text applications (chatbots, content generators, code assistants etc). These applications repeatedly call the model and select the word suggested by it (with some degree of randomness). The next suggested word is added to the prompt and the model is called again. This continues in a loop until enough words are generated. ([View Highlight](https://read.readwise.io/read/01hkhz4be7r414g46pvvd04ehc))
+- The accrued sequence of words will look like a text in a human language, complete with grammar, syntax and even what appears to be intelligence and reasoning. In this aspect, it is not unlike a [Markov chain](https://en.wikipedia.org/wiki/Discrete-time_Markov_chain) which works on the same principle. ([View Highlight](https://read.readwise.io/read/01hkhz4mm77bfc0excfy33paqk))
+- It was not until later that people realized that, with a model large enough, the second step was often not necessary. A Transformer model, trained to do nothing else than generate texts, turned out to be able to follow human language instructions that were contained in these texts, with no additional training ("fine-tuning" in AI parlance) required. ([View Highlight](https://read.readwise.io/read/01hkhz82accyt16sfwrhsf73x3))
+- At every iteration of this algorithm, a new token that is a concatenation of two previous ones will be added to the dictionary. Ultimately, we will end up with 50256 tokens. Add a fixed-number token for "end-of-text", and we're done. ([View Highlight](https://read.readwise.io/read/01hkhza686hmqwkj6gdmxc62c8))
+- In a recursive CTE, we will split this word into tokens (starting with single bytes) and merge the best adjacent pairs, until there is nothing left to merge. The merging itself happens in a nested recursive CTE. ([View Highlight](https://read.readwise.io/read/01hkhzap8bzygy5jed96dtz1eb))
+- On each step, the BPE algorithm finds the best pair of tokens to merge and merges them (you can see the merged pair and its rank in the output). This procedure brings down the token space size from Unicode's 150k to 50k, and the number of tokens (in this particular word) from 17 to 5. Both are great improvements. ([View Highlight](https://read.readwise.io/read/01hkhzb2vkwfacvq8md6xqy6dx))
+- The tokens represent parts of the human languages (about 0.75 words per token, in general), so any model that is trying to succeed at text completion should somehow encode the relationships between these parts. Even in isolation, the parts of the speech have sets of orthogonal properties. ([View Highlight](https://read.readwise.io/read/01hkhzbmk11yfvqs39dcqwkpry))
+- Things with orthogonal properties are best encoded using vectors. Instead of having a single property (like a token number), we can have many. And it helps if we can wiggle them as we want. For instance, for a word to continue the phrase "A court decision cited by the lawyer mentions the …" we would probably want something that's heavy on the legalese dimension and at the same time heavy on being a noun. We don't really care if it has a side hustle being an adjective, a verb, or a flower. ([View Highlight](https://read.readwise.io/read/01hkhzcvwf1t9j0nnrsxvx1psw))
+- In math, mapping narrower values into wider spaces (such as token IDs to vectors) is called an [embedding](https://en.wikipedia.org/wiki/Embedding). This is exactly what we are doing here. ([View Highlight](https://read.readwise.io/read/01hkhzdabn8bdw4tv69n3wkgqn))
+- How do we decide which properties these vectors represent? We don't. We just provide enough vector space for every token and hope that the model during its training phase will populate these dimensions with something meaningful. GPT2 uses 768 dimensions for its vectors. There is no telling in advance (and, actually, even in the retrospective) what property of the word will, say, the dimension 247 encode. Surely it would encode something, but it's not easy to tell what it is. ([View Highlight](https://read.readwise.io/read/01hkhzds6kav4kc7et2atrsdst))
+- What properties of each token do we want to embed in the vector space? Anything that has any bearing on what the next token would be. ([View Highlight](https://read.readwise.io/read/01hkhzdxrrrkmpv120j5e0m59f))
+- So far, we have several vectors that, hopefully, encode some syntactic and semantic properties of the words in our prompt. We need these properties to somehow transfer to the last vector. A little spoiler alert: at the end of the day, it will be the last vector that will store the embedding for the continuation word. ([View Highlight](https://read.readwise.io/read/01hkhzfmjrnrwhq5vzk9ygrsg5))
+- In machine learning, generally, calculations should not involve variable-length loops or statement branching. Everything should be done through the composition of simple analytic functions (additions, multiplications, powers, logarithms and trig). It allows backpropagation, which relies on technologies like [automatic differentiation](https://en.wikipedia.org/wiki/Automatic_differentiation), to work efficiently. ([View Highlight](https://read.readwise.io/read/01hkhzh56hzzgdnw54t366182y))
+- In a vector space with many enough dimensions, if we take a fixed vector and several vectors that randomly and uniformly deviate from on every dimension, their dot products will naturally form the bell curve. So, in the vector space, the concept of a "differentiable key-value store" can be modeled by the expression , which is what we are using in our attention function. ([View Highlight](https://read.readwise.io/read/01hkhzhn73jy37s2etvg0vtdg9))

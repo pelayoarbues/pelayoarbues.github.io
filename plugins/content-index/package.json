@@ -1,0 +1,39 @@
+{
+  "name": "@pelayoarbues/quartz-content-index",
+  "version": "1.0.0",
+  "description": "Site content index and filtered RSS feed for pelayoarbues.com",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "dependencies": {
+    "@quartz-community/types": "github:quartz-community/types",
+    "@quartz-community/utils": "github:quartz-community/utils"
+  },
+  "quartz": {
+    "name": "content-index",
+    "displayName": "Content Index",
+    "category": "emitter",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultOrder": 50,
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "enableSiteMap": true,
+      "enableRSS": true,
+      "rssLimit": 10,
+      "rssSlug": "index",
+      "includeEmptyFiles": true,
+      "rssIncludedSections": [
+        "notes",
+        "writing"
+      ]
+    }
+  }
+}

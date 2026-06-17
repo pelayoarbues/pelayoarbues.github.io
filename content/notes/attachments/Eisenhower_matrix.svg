@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-8 -8 93 93" font-size="6" text-anchor="middle">
+<circle r="999" fill="#fff"/>
+<circle cx="26" cy="66" r="4" fill="#fc0"/>
+<path d="M43,3H83V43H43" fill="#cfc"/>
+<path d="M83,3H-6v80H3V-6h80zv80m0,0H3M-6,43H83M43-6V83" fill="#39c" stroke="#6cf"/>
+<path d="M23,18c2,5-3,9-1,4q-6,9 1,12q-3-2 0,-7c-2,4 3,3 0,7q8-4 0-16" fill="#f00"/>
+<path d="M55,20h15v12h-15" fill="#0c9"/>
+<g fill="none" stroke="#000">
+<path d="M60,22h8.5v2h-12v2h12v2h-12v2h9M24.5,65h3" stroke-dasharray="1"/>
+<path d="M18,64l2,2l-2,2m2-2h-4m9,1q1,1 2,0M60,61q3,-3 6,0h3h-12h2v11h8v-11m-6,2v7m2,0v-7m2,0v7"/>
+</g>
+<g fill="#fff">
+<switch><text x="23" id="trsvg17-yue" systemLanguage="yue"><tspan id="trsvg1-yue">&#x7DCA;&#x6025;</tspan><tspan x="63" id="trsvg2-yue">&#x5514;&#x7DCA;&#x6025;</tspan></text><text x="23" id="trsvg17"><tspan id="trsvg1">Urgent</tspan><tspan x="63" id="trsvg2">Not urgent</tspan></text></switch>
+<switch><text x="-23" transform="rotate(270)" id="trsvg18-yue" systemLanguage="yue"><tspan id="trsvg3-yue">&#x91CD;&#x8981;</tspan><tspan x="-63" id="trsvg4-yue">&#x5514;&#x91CD;&#x8981;</tspan></text><text x="-23" transform="rotate(270)" id="trsvg18"><tspan id="trsvg3">Important</tspan><tspan x="-63" id="trsvg4">Not important</tspan></text></switch>
+</g>
+<switch><text x="23" y="9" fill="#999" id="trsvg19-yue" systemLanguage="yue"><tspan id="trsvg5-yue">&#x8C61;&#x9650; I</tspan><tspan x="63" id="trsvg6-yue">&#x8C61;&#x9650; II</tspan><tspan x="23" y="49" id="trsvg7-yue">&#x8C61;&#x9650; III</tspan><tspan x="63" id="trsvg8-yue">&#x8C61;&#x9650; IV</tspan></text><text x="23" y="9" fill="#999" id="trsvg19"><tspan id="trsvg5">Quadrant I</tspan><tspan x="63" id="trsvg6">Quadrant II</tspan><tspan x="23" y="49" id="trsvg7">Quadrant III</tspan><tspan x="63" id="trsvg8">Quadrant IV</tspan></text></switch>
+<switch><text x="23" y="16" id="trsvg20-yue" systemLanguage="yue"><tspan id="trsvg9-yue">&#x5341;&#x842C;&#x706B;&#x6025;</tspan><tspan x="63" id="trsvg10-yue">&#x8A08;&#x5283;</tspan><tspan x="23" y="56" id="trsvg11-yue">&#x6253;&#x64FE;</tspan><tspan x="63" id="trsvg12-yue">&#x5625;&#x6642;&#x9593;</tspan></text><text x="23" y="16" id="trsvg20"><tspan id="trsvg9">Emergencies</tspan><tspan x="63" id="trsvg10">Planning</tspan><tspan x="23" y="56" id="trsvg11">Interruptions</tspan><tspan x="63" id="trsvg12">Time-wasters</tspan></text></switch>
+<switch><text x="23" y="40" id="trsvg21-yue" systemLanguage="yue"><tspan id="trsvg13-yue">&#x5373;&#x505A;</tspan><tspan x="63" id="trsvg14-yue">&#x5B89;&#x6392;&#x6642;&#x9593;&#x8868;</tspan><tspan x="23" y="80" id="trsvg15-yue">&#x6435;&#x7B2C;&#x500B;&#x4EBA;&#x505A;</tspan><tspan x="63" id="trsvg16-yue">&#x6E05;&#x9664;</tspan></text><text x="23" y="40" id="trsvg21"><tspan id="trsvg13">DO</tspan><tspan x="63" id="trsvg14">SCHEDULE</tspan><tspan x="23" y="80" id="trsvg15">DELEGATE</tspan><tspan x="63" id="trsvg16">ELIMINATE</tspan></text></switch>
+</svg>

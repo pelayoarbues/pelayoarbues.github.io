@@ -1,0 +1,40 @@
+{
+  "name": "@pelayoarbues/quartz-footer",
+  "version": "1.0.0",
+  "description": "Site footer for pelayoarbues.com",
+  "type": "module",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    },
+    "./components": {
+      "types": "./dist/components/index.d.ts",
+      "import": "./dist/components/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "sideEffects": false,
+  "peerDependencies": {
+    "preact": "^10.0.0"
+  },
+  "quartz": {
+    "name": "footer",
+    "displayName": "Footer",
+    "category": "component",
+    "version": "1.0.0",
+    "quartzVersion": ">=5.0.0",
+    "defaultEnabled": true,
+    "defaultOptions": {
+      "links": {}
+    },
+    "components": {
+      "Footer": {
+        "displayName": "Footer",
+        "defaultPosition": "footer",
+        "defaultPriority": 50
+      }
+    }
+  }
+}

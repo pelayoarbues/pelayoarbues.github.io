@@ -94,6 +94,12 @@ export default (() => {
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
         <meta name="generator" content="Quartz" />
+        <script
+          defer
+          src="https://unpkg.com/@tinybirdco/flock.js"
+          data-host="https://api.tinybird.co"
+          data-token="p.eyJ1IjogIjFhYTEyN2VjLWI0MTEtNDdjNS1iNWQzLTA5OGE2NDZjMWZhYSIsICJpZCI6ICI5YzFhNzE4Zi0xNjA1LTRmMTUtOGQ3Yy05NzliMDBjNWVmNTcifQ.-aCZYTIrTPiQCDYC_zS0dH0IVOXqI9ThnK39DMDgY7c"
+        />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}
         {js

@@ -1,0 +1,63 @@
+---
+author: "[[Eugene Yan]]"
+title: 'What We’ve Learned From a Year of Building With LLMs'
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://applied-llms.org/images/mkdocs_social_card.png)
+
+## Metadata
+- Author: [[Eugene Yan]]
+- Full Title: What We’ve Learned From a Year of Building With LLMs
+- URL: https://applied-llms.org/
+
+## Highlights
+- [Eugene Yan](https://eugeneyan.com/)
+  [Bryan Bischof](https://www.linkedin.com/in/bryan-bischof/)
+  [Charles Frye](https://www.linkedin.com/in/charles-frye-38654abb/)
+  [Hamel Husain](https://hamel.dev/)
+  [Jason Liu](https://jxnl.co/)
+  [Shreya Shankar](https://www.sh-reya.com/) ([View Highlight](https://read.readwise.io/read/01hzzbyat1b7m63ck9qnwxvft9))
+- The quality of your RAG’s output is dependent on the quality of retrieved documents, which in turn can be considered along a few factors
+  The first and most obvious metric is relevance. This is typically quantified via ranking metrics such as [Mean Reciprocal Rank (MRR)](https://en.wikipedia.org/wiki/Mean_reciprocal_rank) or [Normalized Discounted Cumulative Gain (NDCG)](https://en.wikipedia.org/wiki/Discounted_cumulative_gain). MRR evaluates how well a system places the first relevant result in a ranked list while NDCG considers the relevance of all the results and their positions. They measure how good the system is at ranking relevant documents higher and irrelevant documents lower. For example, if we’re retrieving user summaries to generate movie review summaries, we’ll want to rank reviews for the specific movie higher while excluding reviews for other movies.
+  Like traditional recommendation systems, the rank of retrieved items will have a significant impact on how the LLM performs on downstream tasks. To measure the impact, run a RAG-based task but with the retrieved items shuffled—how does the RAG output perform? ([View Highlight](https://read.readwise.io/read/01hzzb8f5840k6ys2wp2fsvd02))
+- Second, we also want to consider information density. If two documents are equally relevant, we should prefer one that’s more concise and has fewer extraneous details. Returning to our movie example, we might consider the movie transcript and all user reviews to be relevant in a broad sense. Nonetheless, the top-rated reviews and editorial reviews will likely be more dense in information. ([View Highlight](https://read.readwise.io/read/01hzzb8kr4w9z6th00ejda01re))
+- Finally, consider the level of detail provided in the document. Imagine we’re building a RAG system to generate SQL queries from natural language. We could simply provide table schemas with column names as context. But, what if we include column descriptions and some representative values? The additional detail could help the LLM better understand the semantics of the table and thus generate more correct SQL. ([View Highlight](https://read.readwise.io/read/01hzzb8t04tcenbf036y1v4jzx))
+    - Tags: [[favorite]] 
+- hile embeddings are undoubtedly a powerful tool, they are not the be-all and end-all. First, while they excel at capturing high-level semantic similarity, they may struggle with more specific, keyword-based queries, like when users search for names (e.g., Ilya), acronyms (e.g., RAG), or IDs (e.g., claude-3-sonnet). Keyword-based search, such as BM25, is explicitly designed for this. Finally, after years of keyword-based search, users have likely taken it for granted and may get frustrated if the document they expect to retrieve isn’t being returned. ([View Highlight](https://read.readwise.io/read/01hzzb90v0ewe3ravae36qeddh))
+- Second, it’s more straightforward to understand why a document was retrieved with keyword search—we can look at the keywords that match the query. In contrast, embedding-based retrieval is less interpretable. Finally, thanks to systems like Lucene and OpenSearch that have been optimized and battle-tested over decades, keyword search is usually more computationally efficient. ([View Highlight](https://read.readwise.io/read/01hzzb9ssjk41tpkm04vkneyj9))
+- In most cases, a hybrid will work best: keyword matching for the obvious matches, and embeddings for synonyms, hypernyms, and spelling errors, as well as multimodality (e.g., images and text). [Shortwave shared how they built their RAG pipeline](https://www.shortwave.com/blog/deep-dive-into-worlds-smartest-email-ai/), including query rewriting, keyword + embedding retrieval, and ranking. ([View Highlight](https://read.readwise.io/read/01hzzbacdfxj4djth55eqf5p9d))
+- Recent research suggests RAG may have an edge. [One study](https://arxiv.org/abs/2312.05934) compared RAG against unsupervised finetuning (aka continued pretraining), evaluating both on a subset of MMLU and current events. They found that RAG consistently outperformed finetuning for knowledge encountered during training as well as entirely new knowledge. In [another paper](https://arxiv.org/abs/2401.08406), they compared RAG against supervised finetuning on an agricultural dataset. Similarly, the performance boost from RAG was greater than finetuning, especially for GPT-4 (see Table 20). ([View Highlight](https://read.readwise.io/read/01hzzbd958828aqbcb1g79fzkz))
+- Beyond improved performance, RAG has other practical advantages. First, compared to continuous pretraining or finetuning, it’s easier—and cheaper!—to keep retrieval indices up-to-date. Second, if our retrieval indices have problematic documents that contain toxic or biased content, we can easily drop or modify the offending documents. Consider it an andon cord for [documents that ask us to add glue to pizza](https://x.com/petergyang/status/1793480607198323196). ([View Highlight](https://read.readwise.io/read/01hzzbe95rr1fnwqc4dsd97n99))
+- In addition, the R in RAG provides finer-grained control over how we retrieve documents. For example, if we’re hosting a RAG system for multiple organizations, by partitioning the retrieval indices, we can ensure that each organization can only retrieve documents from their own index. This ensures that we don’t inadvertently expose information from one organization to another. ([View Highlight](https://read.readwise.io/read/01hzzbecab5p6y4f4ejvgjqyzf))
+- With Gemini 1.5 providing context windows of up to 10M tokens in size, some have begun to question the future of RAG.
+  > I tend to believe that Gemini 1.5 is significantly overhyped by Sora. A context window of 10M tokens effectively makes most of existing RAG frameworks unnecessary — you simply put whatever your data into the context and talk to the model like usual. Imagine how it does to all the startups / agents / langchain projects where most of the engineering efforts goes to RAG 😅 Or in one sentence: the 10m context kills RAG. Nice work Gemini — [Yao Fu](https://x.com/Francis_YAO_/status/1758935954189115714)
+  While it’s true that long contexts will be a game-changer for use cases such as analyzing multiple documents or chatting with PDFs, the rumors of RAG’s demise are greatly exaggerated. ([View Highlight](https://read.readwise.io/read/01hzzbffkq0n5xp2skbyc59hrw))
+- First, even with a context size of 10M tokens, we’d still need a way to select relevant context. Second, beyond the narrow needle-in-a-haystack eval, we’ve yet to see convincing data that models can effectively reason over large context sizes. Thus, without good retrieval (and ranking), we risk overwhelming the model with distractors, or may even fill the context window with completely irrelevant information. ([View Highlight](https://read.readwise.io/read/01hzzbfyvwnqc22jz25gd3kexm))
+- Finally, there’s cost. During inference, the Transformer’s time complexity scales linearly with context length. Just because there exists a model that can read your org’s entire Google Drive contents before answering each question doesn’t mean that’s a good idea. Consider an analogy to how we use RAM: we still read and write from disk, even though there exist compute instances with [RAM running into the tens of terabytes](https://aws.amazon.com/ec2/instance-types/high-memory/).
+  So don’t throw your RAGs in the trash just yet. This pattern will remain useful even as context sizes grow. ([View Highlight](https://read.readwise.io/read/01hzzbghmdx30p2gr90qedrzj3))
+- Prompting an LLM is just the beginning. To get the most juice out of them, we need to think beyond a single prompt and embrace workflows. For example, how could we split a single complex task into multiple simpler tasks? When is finetuning or caching helpful with increasing performance and reducing latency/cost? Here, we share proven strategies and real-world examples to help you optimize and build reliable LLM workflows. ([View Highlight](https://read.readwise.io/read/01hzzbh8cpgst4hqjjgjcknft5))
+- tep-by-step, multi-turn “flows” can give large boosts[](https://applied-llms.org#step-by-step-multi-turn-flows-can-give-large-boosts)
+  It’s common knowledge that decomposing a single big prompt into multiple smaller prompts can achieve better results. ([View Highlight](https://read.readwise.io/read/01hzzbjytgfevh5zbef5t4dds7))
+- The workflow includes:
+  • Reflecting on the problem
+  • Reasoning on the public tests
+  • Generating possible solutions
+  • Ranking possible solutions
+  • Generating synthetic tests
+  • Iterating on the solutions on public and synthetic tests. ([View Highlight](https://read.readwise.io/read/01hzzbk34vc9ntpjjenjcw7kt0))
+- Small tasks with clear objectives make for the best agent or flow prompts. It’s not required that every agent prompt requests structured output, but structured outputs help a lot to interface with whatever system is orchestrating the agent’s interactions with the environment. Some things to try:
+  • A tightly-specified, explicit planning step. Also, consider having predefined plans to choose from.
+  • Rewriting the original user prompts into agent prompts, though this process may be lossy!
+  • Agent behaviors as linear chains, DAGs, and state machines; different dependency and logic relationships can be more and less appropriate for different scales. Can you squeeze performance optimization out of different task architectures?
+  • Planning validations; your planning can include instructions on how to evaluate the responses from other agents to make sure the final assembly works well together.
+  • Prompt engineering with fixed upstream state—make sure your agent prompts are evaluated against a collection of variants of what may have happen before. ([View Highlight](https://read.readwise.io/read/01hzzbkvkhyd6837tp6m9ecy6r))
+- While AI agents can dynamically react to user requests and the environment, their non-deterministic nature makes them a challenge to deploy. Each step an agent takes has a chance of failing, and the chances of recovering from the error are poor. Thus, the likelihood that an agent completes a multi-step task successfully decreases exponentially as the number of steps increases. As a result, teams building agents find it difficult to deploy reliable agents. ([View Highlight](https://read.readwise.io/read/01hzzbnap9v4x4m8cjjdecefp4))
+- A potential approach is to have agent systems produce deterministic plans which are then executed in a structured, reproducible way. First, given a high-level goal or prompt, the agent generates a plan. Then, the plan is executed deterministically. This allows each step to be more predictable and reliable. Benefits include:
+  • Generated plans can serve as few-shot samples to prompt or finetune an agent.
+  • Deterministic execution makes the system more reliable, and thus easier to test and debug. In addition, failures can be traced to the specific steps in the plan.
+  • Generated plans can be represented as directed acyclic graphs (DAGs) which are easier, relative to a static prompt, to understand and adapt to new situations. ([View Highlight](https://read.readwise.io/read/01hzzbnw0f5ba6gwqtd83hyv2n))
+- The most successful agent builders may be those with strong experience managing junior engineers because the process of generating plans is similar to how we instruct and manage juniors. We give juniors clear goals and concrete plans, instead of vague open-ended directions, and we should do the same for our agents too.
+  In the end, the key to reliable, working agents will likely be found in adopting more structured, deterministic approaches, as well as collecting data to refine prompts and finetune models. Without this, we’ll build agents that may work exceptionally well some of the time, but on average, disappoint users. ([View Highlight](https://read.readwise.io/read/01hzzbpn9v3wws4ytmn8mxq1pq))

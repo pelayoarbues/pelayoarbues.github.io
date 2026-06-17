@@ -1,0 +1,28 @@
+---
+author: "[[Javier Escribano]]"
+title: 'Product Engineers: El Secreto Mejor Guardado De Las Startups Con Buena Cultura De Producto'
+date: "2025-04-16"
+tags:
+  - "articles"
+  - literature-note
+  - "[[favorite]]"
+---
+![rw-book-cover](https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22c74f0c-72a0-499a-8367-6575492e25c2_480x362.gif)
+
+## Metadata
+- Author: [[Javier Escribano]]
+- Full Title: Product Engineers: El Secreto Mejor Guardado De Las Startups Con Buena Cultura De Producto
+- URL: https://desdelbarro.substack.com/p/product-engineers-el-secreto-mejor?utm_source=substack&utm_campaign=post_embed&utm_medium=web
+
+## Highlights
+- A lo largo de los años, experimentamos los altibajos de trabajar con diferentes tipos de ingenieros. Reafirmamos que el éxito no siempre depende de la habilidad técnica, sino que a menudo se trata de una combinación de habilidades, mentalidad y valores. En base a estas experiencias, en Ontruck decidimos definir los valores que buscamos en nuestros ingenieros de producto. ([View Highlight](https://read.readwise.io/read/01hm4q26vwzzhpd4sqt85yazkd))
+- Los retrasos en la implementación de funcionalidades suelen ser resultado de malentendidos y descoordinación entre los diferentes perfiles dentro de un equipo de desarrollo. La falta de comunicación puede surgir entre ingenieros de frontend/mobile y backend, y se puede ver agravada si los ingenieros no se sumergen en el diseño antes de la programación. Además, pueden surgir decisiones subóptimas cuando los ingenieros carecen del contexto de negocio y no pueden discernir si es necesario realizar un lanzamiento rápido para validación o si es más adecuado construir una solución robusta y completa. ([View Highlight](https://read.readwise.io/read/01hm4q2pntdmpfbdv75zk5cb7v))
+- uestros equipos más eficientes eran aquellos compuestos por ingenieros capaces de trabajar en diversas partes de una funcionalidad, desde el frontend o mobile hasta el back-end. La versatilidad de un ingeniero full-stack es extremadamente valiosa. Si tu equipo carece de estos perfiles, forma a tus ingenieros existentes para que se conviertan en "mini full-stack". Para lograr esto, puedes enseñarles principios de diseño que les permitan tomar decisiones autónomas, asignarles tareas de front-end o back-end para ampliar su experiencia, y enseñarles a gestionar proyectos de menor escala. De esta manera, podrás fomentar un equipo versátil que puede trabajar de manera más eficaz y coordinada.
+  [](https://images.unsplash.com/photo-1633356122544-f134324a6cee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMDAzMzh8MHwxfHNlYXJjaHwxfHxmdWxsLXN0YWNrfGVufDB8fHx8MTY4OTIwNDU2MXww&ixlib=rb-4.0.3&q=80&w=1080) ([View Highlight](https://read.readwise.io/read/01hm4q3e8z8shqe738gg9mqfn5))
+- los desafíos surgen cuando los ingenieros en los equipos se inclinan más hacia lo técnico, a veces pasando por alto las necesidades del producto y del negocio. Esta brecha genera retrasos y tensiones, y puede distanciar a los ingenieros de los objetivos de la startup. ([View Highlight](https://read.readwise.io/read/01hm4q4f277sb6bsgx5vd5pg8w))
+- establecer acuerdos claros sobre cómo se invertirá en tecnología a corto y medio plazo puede alinear mejor las expectativas y los esfuerzos del equipo de ingeniería con las metas de la startup. Esto no significa abandonar las mejoras tecnológicas, sino priorizarlas adecuadamente en relación con las necesidades de negocio, asegurando que cualquier inversión en tecnología también traiga beneficios directos al producto y al usuario final. ([View Highlight](https://read.readwise.io/read/01hm4q5jwk0qgx2n6ky5t86cyn))
+- La eficiencia del equipo mejora drásticamente cuando te encuentras con ingenieros a quienes puedes proporcionar una definición de alto nivel, y son capaces de desglosarla y programarla sin errores. ([View Highlight](https://read.readwise.io/read/01hm4q64q7qnj6k7nmm1be2pv3))
+- Para que podamos iterar rápidamente nuestro producto, aprender y aportar valor a nuestros clientes, debemos estar constantemente subiendo las mejoras a producción. Los ingenieros, por supuesto, juegan un papel clave en este proceso. Sin embargo, una de las frustraciones más comunes surge cuando los desarrolladores adoptan un enfoque de "mi parte está terminada, solo falta que la otra parte termine", creando un juego de ping-pong de problemas. ([View Highlight](https://read.readwise.io/read/01hm4q6qt9recpacxx4vwv9xpb))
+- Esta mentalidad no solo obstaculiza el proceso de subir a producción, sino que también erosiona el sentido de responsabilidad y cooperación dentro del equipo. Para evitar esto, es crucial que nuestros ingenieros asuman la responsabilidad completa sobre las funcionalidades que están desarrollando. Deben sentirse personalmente responsables de llevar estas funcionalidades a producción. La meta debe ser clara y simple: llevar la funcionalidad a producción lo más pronto posible. ([View Highlight](https://read.readwise.io/read/01hm4q74srceg560jfc58qrsb5))
+- Queremos ingenieros que no sólo identifiquen problemas, sino que capaces de proponer y trabajar en soluciones realistas y efectivas. ([View Highlight](https://read.readwise.io/read/01hm4q82pgbsmdex3yx4827vnr))
+- Esos problemas pueden ser técnicos, pero también pueden ser de producto o de negocio. Lo ideal es conseguir que los ingenieros se acerquen tanto al producto, a los usuarios y al negocio que sean ellos los que traigan problemas y soluciones. Cuanto más cercanos estén tecnología y negocio, más ideas fluirán. ([View Highlight](https://read.readwise.io/read/01hm4q8hvnddx3ynxev46hrxgz))

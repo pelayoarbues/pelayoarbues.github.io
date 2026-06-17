@@ -1,0 +1,42 @@
+---
+author: "[[Simon Willison's Weblog]]"
+title: 'Introducing Showboat and Rodney, So Agents Can Demo What They’ve Built'
+date: "2026-02-11"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://simonwillison.net/favicon.ico)
+
+## Metadata
+- Author: [[Simon Willison's Weblog]]
+- Full Title: Introducing Showboat and Rodney, So Agents Can Demo What They’ve Built
+- URL: https://simonwillison.net/2026/Feb/10/showboat-and-rodney/#atom-everything
+
+## Highlights
+- A key challenge working with coding agents is having them both test what they’ve built and demonstrate that software to you, their overseer. This goes beyond automated tests—we need artifacts that show their progress and help us see exactly what the agent-produced software is able to do. I’ve just released two new tools aimed at this problem: [Showboat](https://github.com/simonw/showboat) and [Rodney](https://github.com/simonw/rodney). ([View Highlight](https://read.readwise.io/read/01kh4ttkz32t1t5j7egcp7wmzs))
+- I recently wrote about how the job of a software engineer isn’t to write code, it’s to *[deliver code that works](https://simonwillison.net/2025/Dec/18/code-proven-to-work/)*. A big part of that is proving to ourselves and to other people that the code we are responsible for behaves as expected. ([View Highlight](https://read.readwise.io/read/01kh4ttswd6sxjdgmnydrgtbgm))
+- The more code we churn out with agents, the more valuable tools are that reduce the amount of manual QA time we need to spend. ([View Highlight](https://read.readwise.io/read/01kh4ttzkjd6f020rt33wv49zm))
+- One of the most interesting things about [the StrongDM software factory model](https://simonwillison.net/2026/Feb/7/software-factory/) is how they ensure that their software is well tested and delivers value despite their policy that “code must not be reviewed by humans”. Part of their solution involves expensive swarms of QA agents running through “scenarios” to exercise their software. It’s fascinating, but I don’t want to spend thousands of dollars on QA robots if I can avoid it! ([View Highlight](https://read.readwise.io/read/01kh4tv3cf6dvfh8edz60x0ber))
+- So a sequence of `showboat init`, `showboat note`, `showboat exec` and `showboat image` commands constructs a Markdown document one section at a time, with the output of those `exec` commands automatically added to the document directly following the commands that were run. ([View Highlight](https://read.readwise.io/read/01kh4tw8n6mvx2gzbmsaexr0qs))
+- The `image` command is a little special—it looks for a file path to an image in the output of the command and copies that image to the current folder and references it in the file. ([View Highlight](https://read.readwise.io/read/01kh4twatcg3z7vy4d0t24xbjd))
+- That’s basically the whole thing! There’s a `pop` command to remove the most recently added section if something goes wrong, a `verify` command to re-run the document and check nothing has changed (I’m not entirely convinced by the design of that one) and a `extract` command that reverse-engineers the CLI commands that were used to create the document. ([View Highlight](https://read.readwise.io/read/01kh4tweq2160e4rmqfbw641qc))
+- And that’s it! The `--help` text acts [a bit like a Skill](https://simonwillison.net/2025/Oct/16/claude-skills/). Your agent can read the help text and use every feature of Showboat to create a document that demonstrates whatever it is you need demonstrated. ([View Highlight](https://read.readwise.io/read/01kh4twx3jndk6zwebgz2db13q))
+- Here’s a fun trick: if you set Claude off to build a Showboat document you can pop that open in VS Code and watch the preview pane update in real time as the agent runs through the demo. It’s a bit like having your coworker talk you through their latest work in a screensharing session. ([View Highlight](https://read.readwise.io/read/01kh4tx390k5qb2mqbahafqzb0))
+- [shot-scraper: A Comprehensive Demo](https://github.com/simonw/showboat-demos/blob/main/shot-scraper/README.md) runs through the full suite of features of my [shot-scraper](https://shot-scraper.datasette.io/) browser automation tool, mainly to exercise the `showboat image` command. ([View Highlight](https://read.readwise.io/read/01kh4tx7pdejda6c0bgrepp7d8))
+- Many of the projects I work on involve web interfaces. Agents often build entirely new pages for these, and I want to see those represented in the demos. ([View Highlight](https://read.readwise.io/read/01kh4txs30k7kv5v1dv6j7em01))
+- Showboat’s image feature was designed to allow agents to capture screenshots as part of their demos, originally using my [shot-scraper tool](https://shot-scraper.datasette.io/) or [Playwright](https://www.playwright.dev). ([View Highlight](https://read.readwise.io/read/01kh4txtqese1h0256mrxjs941))
+- Claude Opus 4.6 pointed me to the [Rod](https://github.com/go-rod/rod) Go library for interacting with the Chrome DevTools protocol. It’s fantastic—it provides a comprehensive wrapper across basically everything you can do with automated Chrome, all in a self-contained library that compiles to a few MBs. ([View Highlight](https://read.readwise.io/read/01kh4txxzmy5t9xrt569x1c38x))
+- After being a career-long skeptic of the test-first, maximum test coverage school of software development (I like [tests included](https://simonwillison.net/2022/Oct/29/the-perfect-commit/#tests) development instead) I’ve recently come around to test-first processes as a way to force agents to write only the code that’s necessary to solve the problem at hand. ([View Highlight](https://read.readwise.io/read/01kh4tym6e31w7rvpbwsfr0gpk))
+- The frontier models all understand that “red/green TDD” means they should write the test first, run it and watch it fail and then write the code to make it pass—it’s a convenient shortcut. ([View Highlight](https://read.readwise.io/read/01kh4tz0ce6wq8jf1jmbwv7b7j))
+- I find this greatly increases the quality of the code and the likelihood that the agent will produce the right thing with the smallest amount of prompts to guide it. ([View Highlight](https://read.readwise.io/read/01kh4tz4h9kh1vnk3xzakpb9vf))
+- But anyone who’s worked with tests will know that just because the automated tests pass doesn’t mean the software actually works! That’s the motivation behind Showboat and Rodney—I never trust any feature until I’ve seen it running with my own eye. ([View Highlight](https://read.readwise.io/read/01kh4tz5zys804yrn98nxyzq8k))
+- I’m still a little startled at how much of my coding work I get done on my phone now, but I’d estimate that the majority of code I ship to GitHub these days was written for me by coding agents driven via that iPhone app. ([View Highlight](https://read.readwise.io/read/01kh4tzskten0w0n5q2w04ntp2))
+- **[Showboat](https://github.com/simonw/showboat)** is the tool I built to help agents demonstrate their work to me.
+  It’s a CLI tool (a Go binary, optionally [wrapped in Python](https://simonwillison.net/2026/Feb/4/distributing-go-binaries/) to make it easier to install) that helps an agent construct a Markdown document demonstrating exactly what their newly developed code can do. ([View Highlight](https://read.readwise.io/read/01kh4tvmbenf0bhepx46493mfh))
+- I’ve now used Showboat often enough that I’ve convinced myself of its utility.
+  (I’ve also seen agents cheat! Since the demo file is Markdown the agent will sometimes edit that file directly rather than using Showboat, which could result in command outputs that don’t reflect what actually happened. Here’s [an issue about that](https://github.com/simonw/showboat/issues/12).) ([View Highlight](https://read.readwise.io/read/01kh4txe1tpvn8xb2eh74t2dxx))
+- Many of my Python coding agent sessions start the same way:
+  > `Run the existing tests with "uv run pytest". Build using red/green TDD.`
+  Telling the agents how to run the tests doubles as an indicator that tests on this project exist and matter. Agents will read existing tests before writing their own so having a clean test suite with good patterns makes it more likely they’ll write good tests of their own. ([View Highlight](https://read.readwise.io/read/01kh4tyxdvb93x14yn4detzx84))
+- Both Showboat and Rodney started life as Claude Code for web projects created via the Claude iPhone app. Most of the ongoing feature work for them happened in the same way. ([View Highlight](https://read.readwise.io/read/01kh4tzdebvx5vhr6az9yzx1x8))
