@@ -2,6 +2,7 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import { RecentNotes as RecentNotesComponent } from "./.quartz/plugins/recent-notes"
 import ConditionalRender from "./quartz/components/ConditionalRender"
+import DesktopOnly from "./quartz/components/DesktopOnly"
 import { PageTypes } from "./quartz/plugins"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 
@@ -77,19 +78,21 @@ ExternalPlugin.Explorer({
 const config = await loadQuartzConfig()
 const generatedLayout = await loadQuartzLayout()
 
-const recentNotes = RecentNotesComponent({
-  title: "Recent Notes",
-  limit: 3,
-  showTags: false,
-  linkToMore: "notes/",
-  filter: (file: RecentPage) =>
-    file.slug?.startsWith("notes/") === true &&
-    file.slug !== "notes/index" &&
-    !file.frontmatter?.noindex,
-  sort: (fileA: RecentPage, fileB: RecentPage) =>
-    (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
-    (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
-})
+const recentNotes = DesktopOnly(
+  RecentNotesComponent({
+    title: "Recent Notes",
+    limit: 3,
+    showTags: false,
+    linkToMore: "notes/",
+    filter: (file: RecentPage) =>
+      file.slug?.startsWith("notes/") === true &&
+      file.slug !== "notes/index" &&
+      !file.frontmatter?.noindex,
+    sort: (fileA: RecentPage, fileB: RecentPage) =>
+      (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
+      (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
+  }),
+)
 
 const nowReading = ConditionalRender({
   component: RecentNotesComponent({
