@@ -1,25 +1,27 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Quiet defaults: the writing leads, the interface recedes.
 .page-title {
-  font-weight: lighter;
+  font-weight: 600;
+  letter-spacing: -0.04em;
 }
 
-a.internal {
+a.internal,
+a.external {
   color: var(--darkgray);
-  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, currentColor 35%, transparent);
+  text-decoration-line: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.2em;
+
+  &:hover {
+    color: var(--tertiary);
+    text-decoration-color: currentColor;
+  }
 
   &.tag-link {
     text-decoration: none;
   }
-}
-
-a.external {
-  color: var(--darkgray);
-}
-
-.recent-notes a.internal {
-  text-decoration: none;
 }
 
 h1,
@@ -29,7 +31,286 @@ h4,
 h5,
 h6,
 thead {
-  font-weight: lighter;
+  font-weight: 500;
+  letter-spacing: -0.025em;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--tertiary);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+// Homepage: a short introduction beside a live map of the garden.
+body[data-slug="index"] {
+  .page {
+    max-width: 1440px;
+  }
+
+  .page > #quartz-body {
+    grid-template-columns: 220px minmax(420px, 660px) minmax(300px, 360px);
+    column-gap: clamp(1.5rem, 3vw, 3.75rem);
+  }
+
+  .center > hr {
+    display: none;
+  }
+
+  article {
+    & h1 {
+      max-width: 12ch;
+      margin: 0 0 1.5rem;
+      font-size: clamp(2.5rem, 4.5vw, 4.6rem);
+      font-weight: 500;
+      line-height: 0.98;
+      letter-spacing: -0.065em;
+      text-wrap: balance;
+    }
+
+    & h1 + p {
+      max-width: 42rem;
+      margin-bottom: 0.8rem;
+      font-size: 1.12rem;
+      line-height: 1.75;
+      color: var(--darkgray);
+    }
+
+    & h1 + p + p {
+      margin-top: 0;
+      font-family: var(--codeFont);
+      font-size: 0.78rem;
+      letter-spacing: 0.01em;
+      text-transform: uppercase;
+
+      & a.internal {
+        color: var(--secondary);
+        background: none;
+        padding: 0;
+        text-decoration: none;
+      }
+    }
+
+    & h2 {
+      margin-top: 3.5rem;
+      padding-top: 0.85rem;
+      border-top: 1px solid var(--lightgray);
+      font-family: var(--codeFont);
+      font-size: 0.72rem;
+      font-weight: 600;
+      line-height: 1.4;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    & h2 + p {
+      max-width: 39rem;
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+
+    & ul {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 0;
+      margin: 0.65rem 0 0;
+      padding: 0;
+      list-style: none;
+      border-bottom: 1px solid var(--lightgray);
+
+      & li {
+        min-width: 0;
+        padding: 1rem 1.25rem 1rem 0;
+        border-top: 1px solid var(--lightgray);
+        line-height: 1.45;
+        color: var(--gray);
+
+        &:nth-child(even) {
+          padding-right: 0;
+          padding-left: 1.25rem;
+          border-left: 1px solid var(--lightgray);
+        }
+
+        & a.internal {
+          display: block;
+          width: fit-content;
+          margin-bottom: 0.22rem;
+          padding: 0;
+          background: none;
+          color: var(--dark);
+          font-family: var(--headerFont);
+          font-weight: 500;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+
+  .sidebar.left,
+  .sidebar.right {
+    padding-top: 4.5rem;
+  }
+
+  .sidebar.left {
+    & .page-title {
+      font-size: 1.3rem;
+    }
+
+    & .explorer .title-button h2 {
+      font-family: var(--codeFont);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+  }
+
+  .sidebar.right {
+    gap: 2.75rem;
+
+    & .graph > h3,
+    & .recent-notes > h3 {
+      margin: 0 0 0.7rem;
+      font-family: var(--codeFont);
+      font-size: 0.72rem;
+      font-weight: 600;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+    }
+
+    & .graph > .graph-outer {
+      height: 340px;
+      margin: 0;
+      border: 0;
+      border-radius: 0;
+      background:
+        radial-gradient(circle at 46% 42%, var(--highlight), transparent 62%),
+        linear-gradient(var(--lightgray), var(--lightgray)) left bottom / 100% 1px no-repeat;
+    }
+
+    & .recent-notes {
+      padding-top: 0.9rem;
+      border-top: 1px solid var(--lightgray);
+
+      & .recent-ul {
+        margin: 0;
+      }
+
+      & .recent-li {
+        margin: 0;
+
+        & h3 {
+          margin: 0;
+          font-size: 1rem;
+          line-height: 1.45;
+        }
+
+        & a.internal {
+          padding: 0;
+          background: none;
+          color: var(--dark);
+          font-weight: 500;
+          text-decoration: none;
+        }
+
+        & .meta {
+          margin-top: 0.25rem;
+          font-family: var(--codeFont);
+          font-size: 0.7rem;
+          letter-spacing: 0.03em;
+        }
+      }
+
+      & > p {
+        display: none;
+      }
+    }
+  }
+
+  .page-footer {
+    margin-top: 4rem;
+
+    & .recent-notes {
+      & > h3 {
+        margin: 0 0 1.25rem;
+        font-size: clamp(1.55rem, 2.4vw, 2rem);
+        font-weight: 500;
+        letter-spacing: -0.04em;
+      }
+
+      & .recent-ul {
+        margin: 0;
+        border-top: 1px solid var(--lightgray);
+      }
+
+      & .recent-li {
+        margin: 0;
+        border-bottom: 1px solid var(--lightgray);
+
+        & .section {
+          display: grid;
+          grid-template-columns: minmax(0, 1fr) auto;
+          gap: 1rem;
+          align-items: baseline;
+          padding: 1rem 0;
+        }
+
+        & h3 {
+          margin: 0;
+          font-size: 1.05rem;
+          line-height: 1.45;
+        }
+
+        & a.internal {
+          padding: 0;
+          background: none;
+          color: var(--dark);
+          font-weight: 500;
+          text-decoration: none;
+        }
+
+        & .meta {
+          margin: 0;
+          font-family: var(--codeFont);
+          font-size: 0.7rem;
+          letter-spacing: 0.02em;
+          white-space: nowrap;
+        }
+      }
+
+      & > p {
+        margin-top: 1rem;
+        font-family: var(--codeFont);
+        font-size: 0.76rem;
+        text-transform: uppercase;
+
+        & a {
+          color: var(--secondary);
+          font-weight: 600;
+        }
+      }
+    }
+  }
+}
+
+@media all and ($tablet) {
+  body[data-slug="index"] {
+    .page > #quartz-body {
+      grid-template-columns: 220px minmax(0, 1fr);
+      column-gap: 2.25rem;
+    }
+
+    .sidebar.right {
+      display: grid;
+      grid-template-columns: minmax(0, 1.6fr) minmax(220px, 1fr);
+      gap: 2rem;
+      padding-top: 3rem;
+
+      & > * {
+        max-height: none;
+      }
+    }
+  }
 }
 
 @media all and ($mobile) {
@@ -41,7 +322,7 @@ thead {
       & .page-title {
         flex: 0 1 auto;
         min-width: 0;
-        font-size: 1.35rem;
+        font-size: 1.25rem;
         line-height: 1.1;
 
         & a {
@@ -78,11 +359,80 @@ thead {
 
     & .sidebar.right {
       flex-direction: column;
-      gap: 1.5rem;
+      gap: 2.5rem;
 
       & > * {
         max-height: none;
       }
     }
+  }
+
+  body[data-slug="index"] {
+    .page > #quartz-body {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      padding: 0 1.2rem;
+    }
+
+    .sidebar.left {
+      padding-top: 1.25rem;
+    }
+
+    article {
+      padding-top: 2.75rem;
+
+      & h1 {
+        max-width: 11ch;
+        font-size: clamp(2.6rem, 13vw, 4rem);
+        line-height: 0.98;
+      }
+
+      & h1 + p {
+        font-size: 1.04rem;
+        line-height: 1.7;
+      }
+
+      & h2 {
+        margin-top: 2.8rem;
+      }
+
+      & ul {
+        grid-template-columns: 1fr;
+
+        & li,
+        & li:nth-child(even) {
+          padding: 0.9rem 0;
+          border-left: 0;
+        }
+      }
+    }
+
+    .page-footer {
+      margin-top: 3.25rem;
+
+      & .recent-notes .recent-li .section {
+        grid-template-columns: 1fr;
+        gap: 0.2rem;
+      }
+    }
+
+    .sidebar.right {
+      display: flex;
+      padding: 3.5rem 0 0;
+
+      & .graph > .graph-outer {
+        height: min(78vw, 330px);
+      }
+    }
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
   }
 }

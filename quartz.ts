@@ -2,7 +2,6 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import { RecentNotes as RecentNotesComponent } from "./.quartz/plugins/recent-notes"
 import ConditionalRender from "./quartz/components/ConditionalRender"
-import DesktopOnly from "./quartz/components/DesktopOnly"
 import { PageTypes } from "./quartz/plugins"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 
@@ -19,6 +18,7 @@ type RecentPage = QuartzPluginData & {
   }
   dates?: {
     created?: Date
+    modified?: Date
   }
 }
 
@@ -78,10 +78,10 @@ ExternalPlugin.Explorer({
 const config = await loadQuartzConfig()
 const generatedLayout = await loadQuartzLayout()
 
-const recentNotes = DesktopOnly(
-  RecentNotesComponent({
-    title: "Recent Notes",
-    limit: 3,
+const recentNotes = ConditionalRender({
+  component: RecentNotesComponent({
+    title: "Recently written",
+    limit: 4,
     showTags: false,
     linkToMore: "notes/",
     filter: (file: RecentPage) =>
@@ -89,14 +89,15 @@ const recentNotes = DesktopOnly(
       file.slug !== "notes/index" &&
       !file.frontmatter?.noindex,
     sort: (fileA: RecentPage, fileB: RecentPage) =>
-      (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
-      (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
+      ((fileB.dates?.created ?? fileB.dates?.modified)?.getTime() ?? 0) -
+      ((fileA.dates?.created ?? fileA.dates?.modified)?.getTime() ?? 0),
   }),
-)
+  condition: (page) => page.fileData.slug === "index",
+})
 
 const nowReading = ConditionalRender({
   component: RecentNotesComponent({
-    title: "Now Reading",
+    title: "On my reading desk",
     limit: 1,
     showTags: false,
     linkToMore: "literature-notes/articles/",
@@ -105,8 +106,8 @@ const nowReading = ConditionalRender({
       file.slug !== "literature-notes/articles/index" &&
       !file.frontmatter?.noindex,
     sort: (fileA: RecentPage, fileB: RecentPage) =>
-      (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
-      (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
+      ((fileB.dates?.created ?? fileB.dates?.modified)?.getTime() ?? 0) -
+      ((fileA.dates?.created ?? fileA.dates?.modified)?.getTime() ?? 0),
   }),
   condition: (page) => page.fileData.slug === "index",
 })
@@ -114,7 +115,10 @@ const nowReading = ConditionalRender({
 const contentLayout = generatedLayout.byPageType.content ?? {}
 generatedLayout.byPageType.content = {
   ...contentLayout,
-  left: [...(contentLayout.left ?? generatedLayout.defaults.left ?? []), recentNotes],
+  afterBody: [
+    ...(contentLayout.afterBody ?? generatedLayout.defaults.afterBody ?? []),
+    recentNotes,
+  ],
   right: [...(contentLayout.right ?? generatedLayout.defaults.right ?? []), nowReading],
 }
 
