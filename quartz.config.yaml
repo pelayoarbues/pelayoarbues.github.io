@@ -16,30 +16,30 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Space Grotesk
-      body: IBM Plex Sans
+      header: Inter
+      body: Roboto
       code: JetBrains Mono
     colors:
       lightMode:
-        light: "#f7f9f7"
-        lightgray: "#d9e0dc"
-        gray: "#818b85"
-        darkgray: "#3f4a44"
-        dark: "#17231d"
-        secondary: "#2f6656"
-        tertiary: "#b8583b"
-        highlight: "#e7efeb"
-        textHighlight: "#d5e7df"
+        light: "#eff1f5"
+        lightgray: "#ccd0da"
+        gray: "#8c8fa1"
+        darkgray: "#4c4f69"
+        dark: "#4c4f69"
+        secondary: "#6c6f85"
+        tertiary: "#179299"
+        highlight: "#e6e9ef"
+        textHighlight: "#dce0e8"
       darkMode:
-        light: "#141a17"
-        lightgray: "#2a342f"
-        gray: "#79857e"
-        darkgray: "#ced8d2"
-        dark: "#f0f5f2"
-        secondary: "#8bc4b1"
-        tertiary: "#ed9778"
-        highlight: "#202b26"
-        textHighlight: "#344a40"
+        light: "#1e1e2e"
+        lightgray: "#313244"
+        gray: "#7f849c"
+        darkgray: "#cdd6f4"
+        dark: "#cdd6f4"
+        secondary: "#a6adc8"
+        tertiary: "#94e2d5"
+        highlight: "#181825"
+        textHighlight: "#313244"
 plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
@@ -83,7 +83,6 @@ plugins:
     layout:
       position: right
       priority: 30
-      condition: not-index
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -114,9 +113,9 @@ plugins:
     options:
       useThemeFonts: false
       fontOrigin: googleFonts
-      title: Space Grotesk
-      header: Space Grotesk
-      body: IBM Plex Sans
+      title: Inter
+      header: Inter
+      body: Roboto
       code: JetBrains Mono
   - source: github:quartz-community/remove-draft
     enabled: true
