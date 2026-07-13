@@ -1,6 +1,6 @@
 ---
 title: Now
-date: 2026-05-09
+date: 2026-07-13
 tags:
   - personal
   - MOC
@@ -8,7 +8,8 @@ tags:
 
 Currently, I am focused on:
 - Devoting time to my wife and daughter.
-- Staying fit by going to the gym at least three times a week.
+- Enjoying summer and the sea.
+- Building Agentic Systems between meetings.
 - Pushing AI adoption company wide
 
 ---
