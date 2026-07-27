@@ -2,6 +2,7 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import { RecentNotes as RecentNotesComponent } from "./.quartz/plugins/recent-notes"
 import ConditionalRender from "./quartz/components/ConditionalRender"
+import HomeAiNote from "./quartz/components/HomeAiNote"
 import { PageTypes } from "./quartz/plugins"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 
@@ -108,16 +109,20 @@ const currentlyReading = ConditionalRender({
       (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
       (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
   }),
-  condition: (page) => page.fileData.slug === "index",
+  condition: (page) => page.fileData.slug === "mocs/now",
 })
 
 const contentLayout = generatedLayout.byPageType.content ?? {}
 generatedLayout.byPageType.content = {
   ...contentLayout,
-  right: [...(contentLayout.right ?? generatedLayout.defaults.right ?? []), currentlyReading],
   afterBody: [
     ...(contentLayout.afterBody ?? generatedLayout.defaults.afterBody ?? []),
     latestPosts,
+    currentlyReading,
+    ConditionalRender({
+      component: HomeAiNote(),
+      condition: (page) => page.fileData.slug === "index",
+    }),
   ],
 }
 
