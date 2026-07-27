@@ -2,7 +2,6 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import { RecentNotes as RecentNotesComponent } from "./.quartz/plugins/recent-notes"
 import ConditionalRender from "./quartz/components/ConditionalRender"
-import HomeAiNote from "./quartz/components/HomeAiNote"
 import { PageTypes } from "./quartz/plugins"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 
@@ -119,10 +118,6 @@ generatedLayout.byPageType.content = {
     ...(contentLayout.afterBody ?? generatedLayout.defaults.afterBody ?? []),
     latestPosts,
     currentlyReading,
-    ConditionalRender({
-      component: HomeAiNote(),
-      condition: (page) => page.fileData.slug === "index",
-    }),
   ],
 }
 

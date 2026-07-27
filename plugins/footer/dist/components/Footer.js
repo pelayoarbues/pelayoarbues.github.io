@@ -30,7 +30,9 @@ export default (opts) => {
         null,
         "Created with ",
         h("a", { href: "https://quartz.jzhao.xyz/" }, "Quartz"),
-        `, © ${year}`,
+        " · ",
+        h("a", { href: "https://www.pelayoarbues.com/mocs/ai" }, "AI workflow"),
+        ` · © ${year}`,
       ),
       h(
         "ul",
