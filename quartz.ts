@@ -61,7 +61,7 @@ ExternalPlugin.Explorer({
     if (node.slugSegments?.length !== 1) return node
 
     if (node.slugSegment === "notes") {
-      node.displayName = "Permanent Notes"
+      node.displayName = "Blog"
     } else if (node.slugSegment === "appearances") {
       node.displayName = "Public Appearances"
     } else if (node.slugSegment === "research") {
