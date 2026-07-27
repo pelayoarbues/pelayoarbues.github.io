@@ -2,7 +2,6 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import * as ExternalPlugin from "./.quartz/plugins"
 import { RecentNotes as RecentNotesComponent } from "./.quartz/plugins/recent-notes"
 import ConditionalRender from "./quartz/components/ConditionalRender"
-import DesktopOnly from "./quartz/components/DesktopOnly"
 import { PageTypes } from "./quartz/plugins"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
 
@@ -78,25 +77,6 @@ ExternalPlugin.Explorer({
 const config = await loadQuartzConfig()
 const generatedLayout = await loadQuartzLayout()
 
-const recentNotes = DesktopOnly(
-  ConditionalRender({
-    component: RecentNotesComponent({
-      title: "Recent Notes",
-      limit: 3,
-      showTags: false,
-      linkToMore: "notes/",
-      filter: (file: RecentPage) =>
-        file.slug?.startsWith("notes/") === true &&
-        file.slug !== "notes/index" &&
-        !file.frontmatter?.noindex,
-      sort: (fileA: RecentPage, fileB: RecentPage) =>
-        (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
-        (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
-    }),
-    condition: (page) => page.fileData.slug !== "index",
-  }),
-)
-
 const latestPosts = ConditionalRender({
   component: RecentNotesComponent({
     title: "Latest Posts",
@@ -114,10 +94,10 @@ const latestPosts = ConditionalRender({
   condition: (page) => page.fileData.slug === "index",
 })
 
-const nowReading = ConditionalRender({
+const currentlyReading = ConditionalRender({
   component: RecentNotesComponent({
-    title: "Now Reading",
-    limit: 1,
+    title: "Currently Reading",
+    limit: 3,
     showTags: false,
     linkToMore: "literature-notes/articles/",
     filter: (file: RecentPage) =>
@@ -134,8 +114,7 @@ const nowReading = ConditionalRender({
 const contentLayout = generatedLayout.byPageType.content ?? {}
 generatedLayout.byPageType.content = {
   ...contentLayout,
-  left: [...(contentLayout.left ?? generatedLayout.defaults.left ?? []), recentNotes],
-  right: [...(contentLayout.right ?? generatedLayout.defaults.right ?? []), nowReading],
+  right: [...(contentLayout.right ?? generatedLayout.defaults.right ?? []), currentlyReading],
   afterBody: [
     ...(contentLayout.afterBody ?? generatedLayout.defaults.afterBody ?? []),
     latestPosts,
