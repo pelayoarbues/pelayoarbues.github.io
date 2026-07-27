@@ -3,6 +3,8 @@ title: "Public Appearances"
 ---
 
 ## 2026
+- [Performanze - Open C](appearances/2026/performanze-open-c/Performanze%20-%20Open%20C.md)
+- [All You need is data Mioti Podcast](appearances/2026/mioti-all-you-need-is-data/All%20You%20need%20is%20data%20podcast.md)
 - [IE Tech & Innovation Day](appearances/2026/ie-university-business-ai-panel/IE%20Tech%20&%20Innovation%20Day.md)
 
 ## 2024
