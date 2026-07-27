@@ -12,4 +12,3 @@ tags:
 - **Location**: Garaje de ideas, Madrid
 
 **Summary**: En esta charla comparto lecciones aprendidas haciendo productos de datos relacionadas con la importancia de la calidad del dato, cómo integrar distintos perfiles en el diseño y desarrollo de estos productos, y qué dificultades tienen los usuarios para entender las funcionalidades basadas en algoritmos avanzados. 
-

@@ -1,5 +1,5 @@
 ---
-title: "Busco Pisco"
+title: "Busco Piso"
 tags:
 - speaking
 ---
@@ -12,4 +12,4 @@ tags:
 - **Date**: 2019-09-19
 - **Location**: Google Campus
 
-**Summary**: My talk “Busco Pisco” was selected as one of the top Databeers talks and got me an invitation to speak again at the special event for the 30th Databeers edition.
+**Summary**: My talk “Busco Piso” was selected as one of the top Databeers talks and got me an invitation to speak again at the special event for the 30th Databeers edition.

@@ -31,7 +31,7 @@ export default (opts) => {
         "Created with ",
         h("a", { href: "https://quartz.jzhao.xyz/" }, "Quartz"),
         " · ",
-        h("a", { href: "https://www.pelayoarbues.com/mocs/ai" }, "AI workflow"),
+        h("a", { href: "https://www.pelayoarbues.com/mocs/ai" }, "AI use"),
         ` · © ${year}`,
       ),
       h(

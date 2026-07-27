@@ -12,4 +12,3 @@ tags:
 
 summary: Interview for Buscando vocaciones. I discuss how I got into Data Science, why Data Science is important for business and society and why I think analytics and programming skills will be important in the future.
 
-

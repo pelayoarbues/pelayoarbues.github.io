@@ -12,4 +12,3 @@ tags:
 - **Location**: Online
 
 **Summary**: Talk and Panel discussion in Geoawesome Meetup. In this talk I present idealista.com/maps and idealista.com/energy as two data products that enhance user experience.
-

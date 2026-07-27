@@ -10,4 +10,3 @@ tags:
 - **Date**: 2026-05-19
 - **Location**: Performanze
 - url: [Open C x Performanze: EP1 Pelayo Arbués, Director de Ciencia de Datos e IA en Idealista - YouTube](https://www.youtube.com/watch?v=8u4mKosXfK4)
-

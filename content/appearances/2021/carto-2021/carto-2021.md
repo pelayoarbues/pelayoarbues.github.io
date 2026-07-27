@@ -12,4 +12,3 @@ tags:
 - **Location**: Online
 
 Summary: Talk at Spatial Data Science Conference 2021 by Carto.  Leveraging the historical data in Idealista, Open Street Maps data, and machine learning models we automate real estate appraisal of 25 million residential properties in Spain.
-
