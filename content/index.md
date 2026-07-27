@@ -2,26 +2,21 @@
 title: "Pelayo Arbués"
 comments: false
 tags:
-- MOC
+  - MOC
 ---
 
-Hi, I’m Pelayo Arbués
+# Hi, I’m Pelayo. I build useful artificial intelligence—and the teams behind it.
 
-I lead Data and AI teams at [idealista](https://www.idealista.com), Southern Europe’s largest real estate marketplace, where my teams has shipped 90+ AI projects across automated valuation, search, fraud detection, and content moderation. I hold a Ph.D. in Economics and have published 7 peer-reviewed papers on spatial data science and machine learning in journals.
+I lead Data and AI at [idealista](https://www.idealista.com), teach applied AI, and write about where AI models, products, and organizations meet. Before moving into industry, I earned a Ph.D. in Economics and worked in academia.
 
-I believe AI succeeds when it amplifies domain expertise rather than replacing it, and that most data science teams fail by chasing technical sophistication instead of business impact. I write and [speak](mocs/moc-public-appearances.md) about that gap, and I teach applied AI at [IE University](https://www.ie.edu/school-science-technology/) and [The Valley](https://thevalley.es/).
+[Full bio →](mocs/Bio.md) · [Current priorities →](mocs/now.md)
 
-When I’m not thinking about models and organizations, I shoot [analog photography](photography/index.md) and read about creative processes and philosophy.
+## Follow a thread
 
-Read [my full bio](mocs/Bio.md) for the longer story, or see [what I’m focused on right now](mocs/now.md).
+- [Management](mocs/moc-management.md) — teams, craft, and organizational life
+- [Research](mocs/moc-research.md) — spatial ML and real estate markets
+- [Photography](photography/index.md) — analog images and visual experiments
 
-## On This Site
+Want to talk? Book a slot during [**office hours**](notes/Office%20hours.md).
 
-- [Writing](mocs/digital-garden.md) on [management](mocs/moc-management.md), data science, and AI
-- [Research](mocs/moc-research.md) on spatial ML, hedonic pricing, and real estate markets
-- [Speaking](mocs/moc-public-appearances.md): 20+ talks, panels, and podcast appearances
-
-Want to talk? Grab a slot during [office hours](notes/Office%20hours.md).
-
----
-Interested in how Artificial Intelligence is employed on this site? Visit my [/ai page](mocs/ai.md) to explore how Large Language Models and Diffusion Models are integrated into my workflow.
+Curious how I use AI to build this site? Visit the [**AI page**](mocs/ai.md).

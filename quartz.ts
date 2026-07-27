@@ -79,9 +79,28 @@ const config = await loadQuartzConfig()
 const generatedLayout = await loadQuartzLayout()
 
 const recentNotes = DesktopOnly(
-  RecentNotesComponent({
-    title: "Recent Notes",
-    limit: 3,
+  ConditionalRender({
+    component: RecentNotesComponent({
+      title: "Recent Notes",
+      limit: 3,
+      showTags: false,
+      linkToMore: "notes/",
+      filter: (file: RecentPage) =>
+        file.slug?.startsWith("notes/") === true &&
+        file.slug !== "notes/index" &&
+        !file.frontmatter?.noindex,
+      sort: (fileA: RecentPage, fileB: RecentPage) =>
+        (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
+        (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
+    }),
+    condition: (page) => page.fileData.slug !== "index",
+  }),
+)
+
+const latestPosts = ConditionalRender({
+  component: RecentNotesComponent({
+    title: "Latest Posts",
+    limit: 4,
     showTags: false,
     linkToMore: "notes/",
     filter: (file: RecentPage) =>
@@ -92,7 +111,8 @@ const recentNotes = DesktopOnly(
       (fileB.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER) -
       (fileA.dates?.created?.getTime() ?? Number.MAX_SAFE_INTEGER),
   }),
-)
+  condition: (page) => page.fileData.slug === "index",
+})
 
 const nowReading = ConditionalRender({
   component: RecentNotesComponent({
@@ -116,6 +136,10 @@ generatedLayout.byPageType.content = {
   ...contentLayout,
   left: [...(contentLayout.left ?? generatedLayout.defaults.left ?? []), recentNotes],
   right: [...(contentLayout.right ?? generatedLayout.defaults.right ?? []), nowReading],
+  afterBody: [
+    ...(contentLayout.afterBody ?? generatedLayout.defaults.afterBody ?? []),
+    latestPosts,
+  ],
 }
 
 config.plugins.emitters = config.plugins.emitters.filter(
