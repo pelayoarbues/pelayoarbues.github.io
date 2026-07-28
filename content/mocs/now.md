@@ -1,14 +1,13 @@
 ---
 title: Now
-date: 2026-07-13
+date: 2026-07-28
 tags:
   - personal
   - MOC
 ---
 
 Currently, I am focused on:
-- Devoting time to my wife and daughter.
-- Enjoying summer and the sea.
+- Enjoying summer and the sea with my wife and daughter
 - Building Agentic Systems between meetings.
 - Pushing AI adoption company wide
 
