@@ -22,6 +22,21 @@ a.external {
   text-decoration: none;
 }
 
+article.curated-folder-index + .page-listing {
+  display: none;
+}
+
+article.bio-page > .markdown-preview-view > p:first-child {
+  margin-top: 0;
+
+  & img {
+    display: block;
+    width: min(100%, 28rem);
+    margin: 0 0 2rem;
+    border-radius: 0.5rem;
+  }
+}
+
 h1,
 h2,
 h3,
