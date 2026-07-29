@@ -1,9 +1,14 @@
 ---
-title: "Crafting Engineering Strategy: How Thoughtful Decisions Solve Complex Problems"
-author: "Will Larson"
+title: 'Crafting Engineering Strategy: How Thoughtful Decisions Solve Complex Problems'
+author: Will Larson
+type: Non-Fiction
+genre: Management
+pages: 307
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B0FBRJY116"
+cover: '[[covers/Crafting Engineering Strategy How Thoughtful Decisions Solve Complex
+  Problems.jpg]]'
+link: https://www.amazon.es/dp/B0FBRJY116
 ---

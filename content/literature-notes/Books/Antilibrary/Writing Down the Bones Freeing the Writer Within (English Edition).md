@@ -1,9 +1,13 @@
 ---
-title: "Writing Down the Bones: Freeing the Writer Within (English Edition)"
-author: "Natalie Goldberg"
+title: 'Writing Down the Bones: Freeing the Writer Within (English Edition)'
+author: Natalie Goldberg
+type: Non-Fiction
+genre: Authorship
+pages: 256
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B00HEN3K0I"
+cover: '[[covers/Writing Down the Bones Freeing the Writer Within (English Edition).jpg]]'
+link: https://www.amazon.es/dp/B00HEN3K0I
 ---

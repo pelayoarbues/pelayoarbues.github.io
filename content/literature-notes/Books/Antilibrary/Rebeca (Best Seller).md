@@ -1,9 +1,13 @@
 ---
-title: "Rebeca (Best Seller)"
-author: "Daphne du Maurier"
+title: Rebeca (Best Seller)
+author: Daphne du Maurier
+type: Fiction
+genre: Gothic Fiction
+pages: 464
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8497938860"
+cover: '[[covers/Rebeca (Best Seller).jpg]]'
+link: https://www.amazon.es/dp/8497938860
 ---

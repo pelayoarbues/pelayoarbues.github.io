@@ -1,9 +1,13 @@
 ---
-title: "Un verdor terrible: 646 (Narrativas hispánicas)"
-author: "Benjamín Labatut"
+title: 'Un verdor terrible: 646 (Narrativas hispánicas)'
+author: Benjamín Labatut
+type: Fiction
+genre: Literary Fiction
+pages: 224
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8433998978"
+cover: '[[covers/Un verdor terrible 646 (Narrativas hispánicas).jpg]]'
+link: https://www.amazon.es/dp/8433998978
 ---

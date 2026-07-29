@@ -1,9 +1,13 @@
 ---
-title: "The maniac: Benjamín Labatut"
-author: "Benjamin Labatut"
+title: 'The maniac: Benjamín Labatut'
+author: Benjamin Labatut
+type: Fiction
+genre: Romance
+pages: 361
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1782279822"
+cover: '[[covers/The maniac Benjamín Labatut.jpg]]'
+link: https://www.amazon.es/dp/1782279822
 ---

@@ -1,9 +1,13 @@
 ---
-title: "Panza de burro (Editora por un libro nº 3)"
-author: "Andrea Abreu"
+title: Panza de burro (Editora por un libro nº 3)
+author: Andrea Abreu
+type: Fiction
+genre: Literary Fiction
+pages: 174
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B08CMJYPKT"
+cover: '[[covers/Panza de burro (Editora por un libro nº 3).jpg]]'
+link: https://www.amazon.es/dp/B08CMJYPKT
 ---

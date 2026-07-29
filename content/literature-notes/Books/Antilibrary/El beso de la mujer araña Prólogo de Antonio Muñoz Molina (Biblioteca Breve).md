@@ -1,9 +1,14 @@
 ---
-title: "El beso de la mujer araña: Prólogo de Antonio Muñoz Molina (Biblioteca Breve)"
-author: "Manuel Puig"
+title: 'El beso de la mujer araña: Prólogo de Antonio Muñoz Molina (Biblioteca Breve)'
+author: Manuel Puig
+type: Fiction
+genre: Literary Fiction
+pages: 281
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8432239909"
+cover: '[[covers/El beso de la mujer araña Prólogo de Antonio Muñoz Molina (Biblioteca
+  Breve).jpg]]'
+link: https://www.amazon.es/dp/8432239909
 ---

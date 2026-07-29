@@ -1,9 +1,13 @@
 ---
-title: "What Management Is: How it works and why it's everyone's business"
-author: "Joan Magretta"
+title: 'What Management Is: How it works and why it''s everyone''s business'
+author: Joan Magretta
+type: Fiction
+genre: Management
+pages: 271
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1781251479"
+cover: '[[covers/What Management Is How it works and why it''s everyone''s business.jpg]]'
+link: https://www.amazon.es/dp/1781251479
 ---

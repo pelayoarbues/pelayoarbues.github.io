@@ -1,9 +1,13 @@
 ---
-title: "Oxígeno (Hispánica)"
-author: "Marta Jiménez Serrano"
+title: Oxígeno (Hispánica)
+author: Marta Jiménez Serrano
+type: Fiction
+genre: Literary Fiction
+pages: 160
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8420453994"
+cover: '[[covers/Oxígeno (Hispánica).jpg]]'
+link: https://www.amazon.es/dp/8420453994
 ---

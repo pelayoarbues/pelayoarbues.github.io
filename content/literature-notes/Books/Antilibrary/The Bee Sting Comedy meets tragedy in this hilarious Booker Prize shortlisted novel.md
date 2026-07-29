@@ -1,9 +1,15 @@
 ---
-title: "The Bee Sting: Comedy meets tragedy in this hilarious Booker Prize shortlisted novel"
-author: "Paul Murray"
+title: 'The Bee Sting: Comedy meets tragedy in this hilarious Booker Prize shortlisted
+  novel'
+author: Paul Murray
+type: Fiction
+genre: Literary Fiction
+pages: 96
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0241984408"
+cover: '[[covers/The Bee Sting Comedy meets tragedy in this hilarious Booker Prize
+  shortlisted no.jpg]]'
+link: https://www.amazon.es/dp/0241984408
 ---

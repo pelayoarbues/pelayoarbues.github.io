@@ -1,10 +1,16 @@
-formulas:
-  total_books: values.length
 properties:
   author:
     displayName: Author
+  type:
+    displayName: Type
+  genre:
+    displayName: Genre
+  pages:
+    displayName: Pages
   status:
     displayName: Status
+  cover:
+    displayName: Cover
   link:
     displayName: Amazon
 views:
@@ -14,32 +20,70 @@ views:
       and:
         - file.inFolder("literature-notes/Books/Antilibrary")
         - file.ext == "md"
+        - file.name != "000 Antilibrary"
     order:
       - file.name
       - author
+      - type
+      - genre
+      - pages
       - status
-      - tags
-    sort:
-      - property: status
-        direction: ASC
-      - property: file.name
-        direction: ASC
+    sort: []
+    columnSize:
+      file.name: 503
   - type: table
     name: By Author
     filters:
       and:
         - file.inFolder("literature-notes/Books/Antilibrary")
         - file.ext == "md"
+        - file.name != "000 Antilibrary"
     groupBy:
       property: author
       direction: ASC
     order:
       - author
       - file.name
+      - type
+      - genre
+      - pages
       - status
-      - tags
     sort:
       - property: author
+        direction: ASC
+  - type: table
+    name: Fiction
+    filters:
+      and:
+        - file.inFolder("literature-notes/Books/Antilibrary")
+        - file.ext == "md"
+        - file.name != "000 Antilibrary"
+        - type == "Fiction"
+    order:
+      - file.name
+      - author
+      - genre
+      - pages
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Non-Fiction
+    filters:
+      and:
+        - file.inFolder("literature-notes/Books/Antilibrary")
+        - file.ext == "md"
+        - file.name != "000 Antilibrary"
+        - type == "Non-Fiction"
+    order:
+      - file.name
+      - author
+      - genre
+      - pages
+      - status
+    sort:
+      - property: file.name
         direction: ASC
   - type: cards
     name: Gallery
@@ -47,10 +91,14 @@ views:
       and:
         - file.inFolder("literature-notes/Books/Antilibrary")
         - file.ext == "md"
+        - file.name != "000 Antilibrary"
     order:
       - file.name
       - author
+      - type
       - status
     sort:
       - property: file.name
         direction: ASC
+    image: note.cover
+    imageFit: contain

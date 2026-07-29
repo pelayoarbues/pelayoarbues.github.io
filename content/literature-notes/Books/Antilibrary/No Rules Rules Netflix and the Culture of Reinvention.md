@@ -1,9 +1,13 @@
 ---
-title: "No Rules Rules: Netflix and the Culture of Reinvention"
-author: "Reed Hastings, Erin Meyer"
+title: 'No Rules Rules: Netflix and the Culture of Reinvention'
+author: Reed Hastings, Erin Meyer
+type: Non-Fiction
+genre: Economics
+pages: 320
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0753553635"
+cover: '[[covers/No Rules Rules Netflix and the Culture of Reinvention.jpg]]'
+link: https://www.amazon.es/dp/0753553635
 ---

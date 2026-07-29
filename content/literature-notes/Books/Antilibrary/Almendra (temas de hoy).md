@@ -1,9 +1,13 @@
 ---
-title: "Almendra (temas de hoy)"
-author: "Won-Pyung Sohn"
+title: Almendra (temas de hoy)
+author: Won-Pyung Sohn
+type: Non-Fiction
+genre: Psychology
+pages: 256
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8499987915"
+cover: '[[covers/Almendra (temas de hoy).jpg]]'
+link: https://www.amazon.es/dp/8499987915
 ---

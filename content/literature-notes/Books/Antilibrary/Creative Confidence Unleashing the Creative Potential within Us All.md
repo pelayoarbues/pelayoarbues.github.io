@@ -1,9 +1,13 @@
 ---
-title: "Creative Confidence: Unleashing the Creative Potential within Us All"
-author: "David Kelley, Tom Kelley"
+title: 'Creative Confidence: Unleashing the Creative Potential within Us All'
+author: David Kelley, Tom Kelley
+type: Non-Fiction
+genre: Economics
+pages: 295
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0008139385"
+cover: '[[covers/Creative Confidence Unleashing the Creative Potential within Us All.jpg]]'
+link: https://www.amazon.es/dp/0008139385
 ---

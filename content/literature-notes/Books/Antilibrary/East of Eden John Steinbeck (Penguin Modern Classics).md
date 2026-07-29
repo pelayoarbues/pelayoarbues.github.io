@@ -1,9 +1,13 @@
 ---
-title: "East of Eden: John Steinbeck (Penguin Modern Classics)"
-author: "John Steinbeck"
+title: 'East of Eden: John Steinbeck (Penguin Modern Classics)'
+author: John Steinbeck
+type: Fiction
+genre: Literary Fiction
+pages: 613
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0141394897"
+cover: '[[covers/East of Eden John Steinbeck (Penguin Modern Classics).jpg]]'
+link: https://www.amazon.es/dp/0141394897
 ---

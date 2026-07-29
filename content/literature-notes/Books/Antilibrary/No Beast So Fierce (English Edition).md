@@ -1,9 +1,13 @@
 ---
-title: "No Beast So Fierce (English Edition)"
-author: "Edward Bunker"
+title: No Beast So Fierce (English Edition)
+author: Edward Bunker
+type: Fiction
+genre: Literary Fiction
+pages: 320
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B008QXD3SY"
+cover: '[[covers/No Beast So Fierce (English Edition).jpg]]'
+link: https://www.amazon.es/dp/B008QXD3SY
 ---

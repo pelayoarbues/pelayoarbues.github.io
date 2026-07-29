@@ -1,9 +1,15 @@
 ---
-title: "The Courage To Be Disliked: The life changing multi-million copy global bestseller (Courage To series)"
-author: "Ichiro"
+title: 'The Courage To Be Disliked: The life changing multi-million copy global bestseller
+  (Courage To series)'
+author: Ichiro
+type: Non-Fiction
+genre: Psychology
+pages: 288
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/176063073X"
+cover: '[[covers/The Courage To Be Disliked The life changing multi-million copy global
+  bestselle.jpg]]'
+link: https://www.amazon.es/dp/176063073X
 ---

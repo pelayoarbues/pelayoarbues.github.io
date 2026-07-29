@@ -1,9 +1,13 @@
 ---
-title: "El bastardo recalcitrante"
-author: "Tom Sharpe"
+title: El bastardo recalcitrante
+author: Tom Sharpe
+type: Fiction
+genre: Comedy
+pages: 314
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B09ZKKYVN7"
+cover: '[[covers/El bastardo recalcitrante.jpg]]'
+link: https://www.amazon.es/dp/B09ZKKYVN7
 ---

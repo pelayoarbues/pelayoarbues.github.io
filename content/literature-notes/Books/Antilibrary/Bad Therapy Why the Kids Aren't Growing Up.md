@@ -1,9 +1,13 @@
 ---
-title: "Bad Therapy: Why the Kids Aren't Growing Up"
-author: "Abigail Shrier"
+title: 'Bad Therapy: Why the Kids Aren''t Growing Up'
+author: Abigail Shrier
+type: Fiction
+genre: Literary Fiction
+pages: 320
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1800754132"
+cover: '[[covers/Bad Therapy Why the Kids Aren''t Growing Up.jpg]]'
+link: https://www.amazon.es/dp/1800754132
 ---

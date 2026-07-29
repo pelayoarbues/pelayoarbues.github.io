@@ -1,9 +1,13 @@
 ---
-title: "Ruido: Un fallo en el juicio humano (Ensayo | Psicología)"
-author: "Daniel Kahneman, Olivier Sibony"
+title: 'Ruido: Un fallo en el juicio humano (Ensayo | Psicología)'
+author: Daniel Kahneman, Olivier Sibony
+type: Non-Fiction
+genre: Psychology
+pages: 496
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8466362185"
+cover: '[[covers/Ruido Un fallo en el juicio humano (Ensayo Psicología).jpg]]'
+link: https://www.amazon.es/dp/8466362185
 ---

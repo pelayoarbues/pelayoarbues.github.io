@@ -1,9 +1,13 @@
 ---
-title: "Los hermanos Tanner (Contemporánea)"
-author: "Robert Walser"
+title: Los hermanos Tanner (Contemporánea)
+author: Robert Walser
+type: Fiction
+genre: Literary Fiction
+pages: 269
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8499895492"
+cover: '[[covers/Los hermanos Tanner (Contemporánea).jpg]]'
+link: https://www.amazon.es/dp/8499895492
 ---

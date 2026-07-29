@@ -1,9 +1,13 @@
 ---
-title: "MANIAC (Narrativas hispánicas)"
-author: "Benjamín Labatut"
+title: MANIAC (Narrativas hispánicas)
+author: Benjamín Labatut
+type: Fiction
+genre: Romance
+pages: 361
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8433911007"
+cover: '[[covers/MANIAC (Narrativas hispánicas).jpg]]'
+link: https://www.amazon.es/dp/8433911007
 ---

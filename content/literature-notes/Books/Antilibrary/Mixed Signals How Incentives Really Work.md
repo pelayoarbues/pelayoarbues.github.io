@@ -1,9 +1,13 @@
 ---
-title: "Mixed Signals: How Incentives Really Work"
-author: "Uri Gneezy"
+title: 'Mixed Signals: How Incentives Really Work'
+author: Uri Gneezy
+type: Non-Fiction
+genre: Behavioral Economics
+pages: 320
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0300255535"
+cover: '[[covers/Mixed Signals How Incentives Really Work.jpg]]'
+link: https://www.amazon.es/dp/0300255535
 ---

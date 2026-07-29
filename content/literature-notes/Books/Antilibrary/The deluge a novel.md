@@ -1,9 +1,13 @@
 ---
-title: "The deluge: a novel"
-author: "Stephen Markley"
+title: 'The deluge: a novel'
+author: Stephen Markley
+type: Fiction
+genre: Literary Fiction
+pages: 449
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1982123109"
+cover: '[[covers/The deluge a novel.jpg]]'
+link: https://www.amazon.es/dp/1982123109
 ---

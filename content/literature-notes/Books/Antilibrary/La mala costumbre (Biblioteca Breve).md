@@ -1,9 +1,13 @@
 ---
-title: "La mala costumbre (Biblioteca Breve)"
-author: "Alana S. Portero"
+title: La mala costumbre (Biblioteca Breve)
+author: Alana S. Portero
+type: Fiction
+genre: Literary Fiction
+pages: 256
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8432242128"
+cover: '[[covers/La mala costumbre (Biblioteca Breve).jpg]]'
+link: https://www.amazon.es/dp/8432242128
 ---

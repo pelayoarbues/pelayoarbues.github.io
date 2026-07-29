@@ -1,9 +1,13 @@
 ---
-title: "Data Culture: Develop An Effective Data-Driven Organization"
-author: "Shorful Islam"
+title: 'Data Culture: Develop An Effective Data-Driven Organization'
+author: Shorful Islam
+type: Non-Fiction
+genre: Data Science
+pages: 232
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1398614203"
+cover: '[[covers/Data Culture Develop An Effective Data-Driven Organization.jpg]]'
+link: https://www.amazon.es/dp/1398614203
 ---

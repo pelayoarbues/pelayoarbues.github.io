@@ -1,9 +1,13 @@
 ---
-title: "El cuaderno gris (Contemporánea)"
-author: "Josep Pla"
+title: El cuaderno gris (Contemporánea)
+author: Josep Pla
+type: Non-Fiction
+genre: Memoir
+pages: 848
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8423346706"
+cover: '[[covers/El cuaderno gris (Contemporánea).jpg]]'
+link: https://www.amazon.es/dp/8423346706
 ---

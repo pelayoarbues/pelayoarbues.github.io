@@ -1,9 +1,13 @@
 ---
-title: "Growth of the Soil"
-author: "Knut Hamsun"
+title: Growth of the Soil
+author: Knut Hamsun
+type: Fiction
+genre: Literary Fiction
+pages: 272
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/B084DG232P"
+cover: '[[covers/Growth of the Soil.jpg]]'
+link: https://www.amazon.es/dp/B084DG232P
 ---

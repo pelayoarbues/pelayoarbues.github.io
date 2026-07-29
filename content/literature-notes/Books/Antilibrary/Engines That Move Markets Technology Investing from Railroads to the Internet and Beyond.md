@@ -1,9 +1,15 @@
 ---
-title: "Engines That Move Markets: Technology Investing from Railroads to the Internet and Beyond"
-author: "Alasdair Nairn"
+title: 'Engines That Move Markets: Technology Investing from Railroads to the Internet
+  and Beyond'
+author: Alasdair Nairn
+type: Non-Fiction
+genre: Technology
+pages: 494
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0857195999"
+cover: '[[covers/Engines That Move Markets Technology Investing from Railroads to
+  the Internet an.jpg]]'
+link: https://www.amazon.es/dp/0857195999
 ---

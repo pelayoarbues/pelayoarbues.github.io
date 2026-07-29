@@ -1,9 +1,13 @@
 ---
-title: "Ethics (Penguin Classics)"
-author: "Benedict de Spinoza"
+title: Ethics (Penguin Classics)
+author: Benedict de Spinoza
+type: Non-Fiction
+genre: Ethics
+pages: 208
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0140435719"
+cover: '[[covers/Ethics (Penguin Classics).jpg]]'
+link: https://www.amazon.es/dp/0140435719
 ---

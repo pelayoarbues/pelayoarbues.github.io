@@ -1,9 +1,13 @@
 ---
-title: "Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking"
-author: "Samin Nosrat"
+title: 'Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking'
+author: Samin Nosrat
+type: Non-Fiction
+genre: Cooking
+pages: 475
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1782112308"
+cover: '[[covers/Salt, Fat, Acid, Heat Mastering the Elements of Good Cooking.jpg]]'
+link: https://www.amazon.es/dp/1782112308
 ---

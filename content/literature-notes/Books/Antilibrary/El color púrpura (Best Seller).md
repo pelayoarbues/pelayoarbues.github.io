@@ -1,9 +1,13 @@
 ---
-title: "El color púrpura (Best Seller)"
-author: "Alice Walker"
+title: El color púrpura (Best Seller)
+author: Alice Walker
+type: Fiction
+genre: Literary Fiction
+pages: 224
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8466360905"
+cover: '[[covers/El color púrpura (Best Seller).jpg]]'
+link: https://www.amazon.es/dp/8466360905
 ---

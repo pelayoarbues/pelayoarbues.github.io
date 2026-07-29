@@ -1,9 +1,13 @@
 ---
-title: "The Art Of Gathering: How We Meet and Why It Matters"
-author: "Priya Parker"
+title: 'The Art Of Gathering: How We Meet and Why It Matters'
+author: Priya Parker
+type: Non-Fiction
+genre: Psychology
+pages: 320
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0241973848"
+cover: '[[covers/The Art Of Gathering How We Meet and Why It Matters.jpg]]'
+link: https://www.amazon.es/dp/0241973848
 ---

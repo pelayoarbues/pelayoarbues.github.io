@@ -1,9 +1,14 @@
 ---
-title: "A Theory of Everyone: Who We Are, How We Got Here, and Where We’re Going"
-author: "Michael Muthukrishna"
+title: 'A Theory of Everyone: Who We Are, How We Got Here, and Where We’re Going'
+author: Michael Muthukrishna
+type: Non-Fiction
+genre: History
+pages: 408
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/1399810634"
+cover: '[[covers/A Theory of Everyone Who We Are, How We Got Here, and Where We’re
+  Going.jpg]]'
+link: https://www.amazon.es/dp/1399810634
 ---

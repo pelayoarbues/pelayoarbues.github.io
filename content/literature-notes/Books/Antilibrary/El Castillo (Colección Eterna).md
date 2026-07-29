@@ -1,9 +1,13 @@
 ---
-title: "El Castillo (Colección Eterna)"
-author: "Franz Kafka"
+title: El Castillo (Colección Eterna)
+author: Franz Kafka
+type: Fiction
+genre: Literary Fiction
+pages: 464
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/8494510428"
+cover: '[[covers/El Castillo (Colección Eterna).jpg]]'
+link: https://www.amazon.es/dp/8494510428
 ---

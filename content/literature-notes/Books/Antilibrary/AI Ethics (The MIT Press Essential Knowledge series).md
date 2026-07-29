@@ -1,9 +1,13 @@
 ---
-title: "AI Ethics (The MIT Press Essential Knowledge series)"
-author: "Mark Coeckelbergh"
+title: AI Ethics (The MIT Press Essential Knowledge series)
+author: Mark Coeckelbergh
+type: Non-Fiction
+genre: Artificial Intelligence
+pages: 248
 tags:
-  - antilibrary
-  - book
+- antilibrary
+- book
 status: unread
-link: "https://www.amazon.es/dp/0262538199"
+cover: '[[covers/AI Ethics (The MIT Press Essential Knowledge series).jpg]]'
+link: https://www.amazon.es/dp/0262538199
 ---
