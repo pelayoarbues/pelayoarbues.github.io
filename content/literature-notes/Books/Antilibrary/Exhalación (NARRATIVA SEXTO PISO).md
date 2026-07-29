@@ -5,9 +5,9 @@ type: Fiction
 genre: Science Fiction
 pages: 348
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/Exhalación (NARRATIVA SEXTO PISO).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/Exhalación (NARRATIVA SEXTO PISO).jpg]]"
 link: https://www.amazon.es/dp/8417517790
 ---

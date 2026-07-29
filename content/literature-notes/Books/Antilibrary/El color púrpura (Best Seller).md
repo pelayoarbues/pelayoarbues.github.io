@@ -5,9 +5,9 @@ type: Fiction
 genre: Literary Fiction
 pages: 224
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/El color púrpura (Best Seller).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/El color púrpura (Best Seller).jpg]]"
 link: https://www.amazon.es/dp/8466360905
 ---

@@ -5,9 +5,9 @@ type: Non-Fiction
 genre: Psychology
 pages: 168
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/El Hombre en busca de Sentido (fuera de colección).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/El Hombre en busca de Sentido (fuera de colección).jpg]]"
 link: https://www.amazon.es/dp/8425432022
 ---

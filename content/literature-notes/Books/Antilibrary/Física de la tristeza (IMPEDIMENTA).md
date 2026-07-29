@@ -5,9 +5,9 @@ type: Fiction
 genre: Literary Fiction
 pages: 304
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/Física de la tristeza (IMPEDIMENTA).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/Física de la tristeza (IMPEDIMENTA).jpg]]"
 link: https://www.amazon.es/dp/B0G6BGWSZB
 ---

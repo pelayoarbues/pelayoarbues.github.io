@@ -5,9 +5,9 @@ type: Fiction
 genre: Philosophy
 pages: 140
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/Siddhartha (edición especial en tapa dura) (Ediciones Conmemorativas).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/Siddhartha (edición especial en tapa dura) (Ediciones Conmemorativas).jpg]]"
 link: https://www.amazon.es/dp/8466350950
 ---

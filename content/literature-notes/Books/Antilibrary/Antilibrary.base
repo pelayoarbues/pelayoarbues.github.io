@@ -96,7 +96,7 @@ views:
       - file.name
       - author
       - type
-      - status
+      - genre
     sort:
       - property: file.name
         direction: ASC

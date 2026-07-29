@@ -5,9 +5,9 @@ type: Fiction
 genre: Literary Fiction
 pages: 269
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/Los hermanos Tanner (Contemporánea).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/Los hermanos Tanner (Contemporánea).jpg]]"
 link: https://www.amazon.es/dp/8499895492
 ---

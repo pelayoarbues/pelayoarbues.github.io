@@ -5,9 +5,9 @@ type: Non-Fiction
 genre: Philosophy
 pages: 120
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/La salvación de lo bello (SIN COLECCION) (fuera de colección).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/La salvación de lo bello (SIN COLECCION) (fuera de colección).jpg]]"
 link: https://www.amazon.es/dp/8425449979
 ---

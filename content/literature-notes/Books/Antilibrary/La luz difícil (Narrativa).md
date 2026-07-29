@@ -5,9 +5,9 @@ type: Fiction
 genre: Literary Fiction
 pages: 132
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/La luz difícil (Narrativa).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/La luz difícil (Narrativa).jpg]]"
 link: https://www.amazon.es/dp/8419261602
 ---

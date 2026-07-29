@@ -5,9 +5,9 @@ type: Non-Fiction
 genre: Memoir
 pages: 848
 tags:
-- antilibrary
-- book
+  - antilibrary
+  - book
 status: unread
-cover: '[[covers/El cuaderno gris (Contemporánea).jpg]]'
+cover: "[[literature-notes/Books/Antilibrary/covers/El cuaderno gris (Contemporánea).jpg]]"
 link: https://www.amazon.es/dp/8423346706
 ---
