@@ -27,30 +27,10 @@ views:
       - type
       - genre
       - pages
-      - status
     sort: []
     columnSize:
       file.name: 503
-  - type: table
-    name: By Author
-    filters:
-      and:
-        - file.inFolder("literature-notes/Books/Antilibrary")
-        - file.ext == "md"
-        - file.name != "000 Antilibrary"
-    groupBy:
-      property: author
-      direction: ASC
-    order:
-      - author
-      - file.name
-      - type
-      - genre
-      - pages
-      - status
-    sort:
-      - property: author
-        direction: ASC
+      note.genre: 159
   - type: table
     name: Fiction
     filters:
