@@ -1,0 +1,56 @@
+formulas:
+  total_books: values.length
+properties:
+  author:
+    displayName: Author
+  status:
+    displayName: Status
+  link:
+    displayName: Amazon
+views:
+  - type: table
+    name: All Books
+    filters:
+      and:
+        - file.inFolder("literature-notes/Books/Antilibrary")
+        - file.ext == "md"
+    order:
+      - file.name
+      - author
+      - status
+      - tags
+    sort:
+      - property: status
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: By Author
+    filters:
+      and:
+        - file.inFolder("literature-notes/Books/Antilibrary")
+        - file.ext == "md"
+    groupBy:
+      property: author
+      direction: ASC
+    order:
+      - author
+      - file.name
+      - status
+      - tags
+    sort:
+      - property: author
+        direction: ASC
+  - type: cards
+    name: Gallery
+    filters:
+      and:
+        - file.inFolder("literature-notes/Books/Antilibrary")
+        - file.ext == "md"
+    order:
+      - file.name
+      - author
+      - status
+    sort:
+      - property: file.name
+        direction: ASC

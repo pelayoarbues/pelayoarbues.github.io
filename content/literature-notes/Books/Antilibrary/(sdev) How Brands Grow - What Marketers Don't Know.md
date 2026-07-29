@@ -1,0 +1,9 @@
+---
+title: "(s/dev) How Brands Grow - What Marketers Don't Know"
+author: "BYRON SHARP"
+tags:
+  - antilibrary
+  - book
+status: unread
+link: "https://www.amazon.es/dp/0195573560"
+---
