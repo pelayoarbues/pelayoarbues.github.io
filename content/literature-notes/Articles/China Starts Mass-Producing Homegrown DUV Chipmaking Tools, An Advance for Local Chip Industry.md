@@ -1,0 +1,36 @@
+---
+author: "[[archive.ph]]"
+title: 'China Starts Mass-Producing Homegrown DUV Chipmaking Tools, An Advance for Local Chip Industry'
+date: "2026-08-03"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/uploaded_book_covers/profile_691412/2d942a4c7ffe4c9faa540c40309b4e6f.jpg)
+
+## Metadata
+- Author: [[archive.ph]]
+- Full Title: China Starts Mass-Producing Homegrown DUV Chipmaking Tools, An Advance for Local Chip Industry
+- URL: https://archive.ph/r1BaD
+
+## Highlights
+- China Starts Mass-Producing Homegrown DUV Chipmaking Tools, An Advance for Local Chip Industry ([View Highlight](https://read.readwise.io/read/01kz37kwfxebag9dy6608pp448))
+- A Chinese state-backed company has begun manufacturing one of the key pieces of equipment used in chip manufacturing for the first time, a key development in Beijing’s drive to reduce its reliance on foreign technology to make chips. ([View Highlight](https://read.readwise.io/read/01kz37m8qcxc8m4kk1412v3cw3))
+- The Shanghai-based company is making immersion deep ultraviolet lithography machines, a key type of equipment used by chipmakers such as Taiwan Semiconductor Manufacturing Co. in producing chips, according to two people familiar with the situation. ([View Highlight](https://read.readwise.io/read/01kz37mccmd1x5wscekjbxh807))
+- The people asked that the company not be identified because of the sensitivity surrounding China’s lithography program. The company brought together immersion DUV development teams from other Chinese companies, including a state-backed chip equipment startup called Shanghai Yuliangsheng Technology, the people said.
+  If the Chinese-developed DUV machine is successfully put into mass production at Chinese chipmakers, it would replace equipment from Dutch company ASML, which is now the primary supplier of chipmaking equipment in the world. ([View Highlight](https://read.readwise.io/read/01kz37mjnmaehggcctaankrzzn))
+- This development also signals that Washington’s efforts to contain China’s homegrown chip industry by limiting its access to state-of-the-art equipment are not succeeding. Export rules imposed by the U.S. government currently bar Chinese chipmakers from buying ASML’s cutting-edge extreme ultraviolet lithographies, forcing them to depend on ASML’s older immersion DUV tools. But legislation now going through Congress, the bipartisan Match Act, would widen restrictions on immersion DUV equipment and also curb servicing of the tools at some Chinese chip plants.
+  Both EUV and DUV lithography machines are essential in chipmaking for printing circuit patterns onto silicon wafers. EUV is used primarily to produce the most cutting-edge chips.
+  In addition to achieving the DUV breakthrough, China is also developing a domestic EUV machine, but the project remains at the prototype stage and is likely years away from producing working chips, according to two separate people familiar with the situation. Reuters first reported in December that China had produced a EUV prototype. ([View Highlight](https://read.readwise.io/read/01kz37n9vvnz41arf2fvdqq4x9))
+- The DUV advances are still at an early stage. The Shanghai company plans to manufacture about five DUV machines this year, and roughly 20 in 2027, the two people said. That output is tiny compared with ASML, which shipped 131 immersion DUV systems last year.
+  The DUV systems are slated for delivery this year to local chipmakers including Semiconductor Manufacturing International, Hua Hong Semiconductor and memory maker ChangXin Memory Technologies, according to the two people. Yuliagsheng, SMIC, Hua Hong and CXMT didn’t respond to requests for comment.
+  Much still has to be done before the Chinese-made equipment is deemed a success. Moving the Chinese DUV machines onto mass-production lines could take many months or longer as chipmakers test their accuracy, reliability and compatibility with other equipment. Customer feedback should help fix problems and refine the machines, which still trail ASML’s products in performance and build quality, the two people said. ([View Highlight](https://read.readwise.io/read/01kz37nftppyzqjb73vrcbr3v6))
+- While less complex than EUV, immersion DUV machines have traditionally relied on a global network of specialized suppliers. The Chinese DUV uses mostly domestic components, though some key parts come from Japan, the two people said. Delays from local suppliers have held back production this year, they added.
+  ASML therefore faces little immediate threat. But rising domestic output could gradually erode its market position in the country, particularly if tighter Western restrictions accelerate Chinese chipmakers’ shift to local equipment.
+  Meanwhile, the global AI boom is straining chip supply, pushing manufacturers to race to expand capacity—and increasing demand for ASML’s products. SMIC CEO Zhao Haijun said on an earnings call in May that overseas customers were looking to make chips in China because capacity was tight elsewhere. That expansion will require more lithography machines, essential equipment that prints circuit patterns onto silicon wafers. ([View Highlight](https://read.readwise.io/read/01kz37nzfd5rqzcwc28tw815k0))
+- ASML has recently taken steps to raise prices. Several Chinese customers have agreed to pay about 10% more for some less-advanced DUV product lines, [The Information reported](https://archive.ph/o/r1BaD/https://www.theinformation.com/articles/asml-plans-price-increases-chipmaking-equipment-despite-tsmc-resistance). Domestic DUV production could eventually give the Chinese buyers another source of equipment.
+  The China DUV machines could initially help expand production of mature chips, including power-management components essential to AI servers and data centers. These chips are less sophisticated than AI processors, but shortages can still hold up the construction of entire computing systems.
+  Immersion DUV can also be pushed to manufacture more-advanced semiconductors by printing some layers repeatedly, a costly and difficult process known as multiple patterning. SMIC has used that approach to produce advanced chips for smartphones and AI systems despite lacking access to EUV equipment.
+  China made lithography a national priority in 2002, the same year TSMC proposed immersion lithography, which uses water between a machine’s lens and the wafer to print smaller circuits. ASML turned the approach into commercial systems that allowed chipmakers to produce smaller and more powerful chips for years. ([View Highlight](https://read.readwise.io/read/01kz37p7pjcmbvg1zhrahj8rtj))
+- The U.S.’s sweeping controls on advanced chipmaking technology in 2022 pushed Beijing to overhaul the DUV research effort, shifting from state-led research toward commercial execution, with Huawei Technologies coordinating industry resources.
+  This Shanghai company is part of a nationwide, state-backed effort that brings together Chinese companies, research institutes and suppliers to develop domestic lithography machines. The company sent prototypes to some chipmakers last year, the two people said. Encouraging test results paved the way for production to begin this year, they added. ([View Highlight](https://read.readwise.io/read/01kz37pb64kva5vv5qkes0f1yr))
