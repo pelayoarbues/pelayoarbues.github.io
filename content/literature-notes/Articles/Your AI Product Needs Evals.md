@@ -1,7 +1,7 @@
 ---
 author: "[[Hamel Husain]]"
 title: 'Your AI Product Needs Evals'
-date: "2025-04-16"
+date: "2026-08-07"
 tags:
   - "articles"
   - literature-note
@@ -57,6 +57,10 @@ tags:
   const matches = Array.from(sanitizedComment.matchAll(regexp))
   expect(matches.length, 'Exposed UUIDs').to.equal(0, 'Exposed UUIDs found')
   } ([View Highlight](https://read.readwise.io/read/01hxe5wdxznbj1k33mrdyhgq6a))
+- Problem: How To Systematically Improve The AI?[](https://hamel.dev/blog/posts/evals/#problem-how-to-systematically-improve-the-ai)
+  To break through this plateau, we created a systematic approach to improving Lucy **centered on evaluation.** Our approach is illustrated by the diagram below.
+  ![](https://hamel.dev/blog/posts/evals/images/diagram-cover.png)
+  This diagram is a best-faith effort to illustrate my mental model for improving AI systems. In reality, the process is non-linear and can take on many different forms that may or may not look like this diagram. ([View Highlight](https://read.readwise.io/read/01kzdvhjfapg689na0r1csxvef))
 - CRM results returned to the LLM contain fields that shouldn’t be surfaced to the user; such as the UUID associated with an entry. Our LLM prompt tells the LLM to not include UUIDs. We use a simple regex to assert that the LLM response doesn’t include UUIDs.
   **Rechat has hundreds of these unit tests. We continuously update them based on new failures we observe in the data as users challenge the AI or the product evolves.** These unit tests are crucial to getting feedback quickly when iterating on your AI system (prompt engineering, improving RAG, etc.). Many people eventually outgrow their unit tests and move on to other levels of evaluation as their product matures, but it is essential not to skip this step! ([View Highlight](https://read.readwise.io/read/01hxe5wqqz4q6vg8y497s80h3j))
 - Step 2: Create Test Cases
