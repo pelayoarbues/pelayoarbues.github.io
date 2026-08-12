@@ -1,7 +1,7 @@
 ---
 author: "[[Siddhant Khare]]"
 title: 'AI Fatigue Is Real and Nobody Talks About It'
-date: "2026-08-11"
+date: "2026-08-12"
 tags:
   - "articles"
   - literature-note
@@ -36,3 +36,8 @@ tags:
 - Engineers are trained on determinism. Same input, same output. That's the contract. That's what makes debugging possible. That's what makes reasoning about systems possible. ([View Highlight](https://read.readwise.io/read/01kzsa85cx4hk99y69c0m5qxd2))
 - ![](https://siddhantkhare.com/blog/ai-fatigue-is-real/4.png) ([View Highlight](https://read.readwise.io/read/01kzsa8an5ct9yb7c2gfkzeqsq))
 - I had a prompt that worked perfectly on Monday. Generated clean, well-structured code for an API endpoint. I used the same prompt on Tuesday for a similar endpoint. The output was structurally different, used a different error handling pattern, and introduced a dependency I didn't ask for. ([View Highlight](https://read.readwise.io/read/01kzsa8ezpn451a7mfezyczqfq))
+- Why? No reason. Or rather, no reason I can access. There's no stack trace for "the model decided to go a different direction today." There's no log that says "temperature sampling chose path B instead of path A." It just... happened differently. ([View Highlight](https://read.readwise.io/read/01kztp0z2esfngxwaw9kqfytj9))
+- For someone whose entire career is built on "if it broke, I can find out why," this is deeply unsettling. Not in a dramatic way. In a slow, grinding, background-anxiety way. You can never fully trust the output. You can never fully relax. Every interaction requires vigilance. ([View Highlight](https://read.readwise.io/read/01kztp15j82jrtedj8h6wbc4y6))
+- I tried to fight this. I version-controlled my prompts. I built elaborate system messages. I created templates. Some of it helped. None of it solved the fundamental problem: **you are collaborating with a probabilistic system, and your brain is wired for deterministic ones.** That mismatch is a constant, low-grade source of stress. ([View Highlight](https://read.readwise.io/read/01kztp1bfrnm6dm41bgpy0wjk0))
+- This frustration is actually what led me to build [Distill](https://distill.siddhantkhare.com) - deterministic context deduplication for LLMs. No LLM calls, no embeddings, no probabilistic heuristics. Pure algorithms that clean your context in ~12ms. I wanted at least one part of the AI pipeline to be something I could reason about, debug, and trust. If the model's output is going to be nondeterministic, the least I can do is make sure the input is clean and predictable. ([View Highlight](https://read.readwise.io/read/01kztp1pxzpg57tp7m5k6aaks0))
+- The engineers I've talked to who handle this best are the ones who've made peace with it. They treat AI output like a first draft from a smart but unreliable intern. They expect to rewrite 30% of it. They budget time for that rewriting. They don't get frustrated when the output is wrong because they never expected it to be right. They expected it to be useful. There's a difference. ([View Highlight](https://read.readwise.io/read/01kztp23kxycmec4ycpb0vkj0n))
