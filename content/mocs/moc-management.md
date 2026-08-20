@@ -16,10 +16,18 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [How to Hire Data Scientists Without Losing Your Mind](notes/How%20to%20Hire%20Data%20Scientists%20Without%20Losing%20Your%20Mind.md)
 - [Mentoring as a form of leverage](Mentoring%20as%20a%20form%20of%20leverage.md)
 - [Different managerial styles](Different%20managerial%20styles.md)
+- [A lucky manager](notes/A%20lucky%20manager.md)
+- [Pride of my team](notes/Pride%20of%20my%20team.md)
+- [My approach to leadership](01.Fleeting/My%20approach%20to%20leadership.md)
+- [Long cycle feedback](01.Fleeting/Long%20cycle%20feedback.md)
+- [DRI](notes/DRI.md)
+- [Deferred Responsability](notes/Deferred%20Responsability.md)
 
 ## Resource Manager
 - [Team size trade-off. Coordination costs Vs collective intelligence](Team%20size%20trade-off.%20Coordination%20costs%20Vs%20collective%20intelligence.md)
 - [Rock stars vs Superstars](Rock%20stars%20vs%20Superstars.md)
+- [Dual Reporting for Data Teams](01.Fleeting/Dual%20Reporting%20for%20Data%20Teams.md)
+- [The tragedy of commons for data teams](01.Fleeting/The%20tragedy%20of%20commons%20for%20data%20teams.md)
 
 ## Project manager
 - [No Data Product Management](No%20Data%20Product%20Management.md)
@@ -32,6 +40,8 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Explaining AI-infused products](Explaining%20AI-infused%20products.md)
 - [Of innocents and criminals](Of%20innocents%20and%20criminals.md)
 - [When Management Communication Techniques Enter Personal Life](When%20Management%20Communication%20Techniques%20Enter%20Personal%20Life.md)
+- [Management up](01.Fleeting/Management%20up.md)
+- [Influence and meetings](01.Fleeting/Influence%20and%20meetings.md)
 
 ## Process manager
 - [Building to Forecast in Data Science](Building%20to%20Forecast%20in%20Data%20Science.md)
@@ -40,6 +50,8 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Make'em talk with prototypes](Make'em%20talk%20with%20prototypes.md)
 - [Change Resistance as a Corporate Autoimmune Disease](Change%20Resistance%20as%20a%20Corporate%20Autoimmune%20Disease.md)
 - [Fostering collaboration between teams](notes/Fostering%20collaboration%20between%20teams.md)
+- [How I Manage Myself and My Team Using Obsidian Tasks](notes/How%20I%20Manage%20Myself%20and%20My%20Team%20Using%20Obsidian%20Tasks.md)
+- [Writing for productivity and management](01.Fleeting/Writing%20for%20productivity%20and%20management.md)
 
 
 ## Technical mentor and coach
@@ -60,6 +72,9 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Career advice on skill acquisition](Career%20advice%20on%20skill%20acquisition.md)
 - [Strategies for Landing Your First Job in Data Science](notes/Strategies%20for%20Landing%20Your%20First%20Job%20in%20Data%20Science.md)
 - [My failure resume](My%20failure%20resume.md)
+- [Energy Management Confession](notes/Energy%20Management%20Confession.md)
+- [Informal mentors](01.Fleeting/Informal%20mentors.md)
+- [Management energy drainers](01.Fleeting/Management%20energy%20drainers.md)
 
 # Data Strategy
 - [Headspace for managers](Headspace%20for%20managers.md)
@@ -69,4 +84,7 @@ Management is a [constellation of roles](literature-notes/Articles/Managing%20th
 - [Data is not objective](Data%20is%20not%20objective.md)
 - [The Rational Company](The%20Rational%20Company.md)
 - [Verbund in Data Science](Verbund%20in%20Data%20Science.md)
+- [Data Product Management](01.Fleeting/Data%20Product%20Management.md)
+- [Low cost data culture](01.Fleeting/Low%20cost%20data%20culture.md)
+- [Product team problems are not customer problems](01.Fleeting/Product%20team%20problems%20are%20not%20customer%20problems.md)
 
