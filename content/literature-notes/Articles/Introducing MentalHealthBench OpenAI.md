@@ -1,0 +1,29 @@
+---
+author: "[[OpenAI]]"
+title: 'Introducing MentalHealthBench | OpenAI'
+date: "2026-09-28"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://images.ctfassets.net/kftzwdyauwt9/5KrG4TnUmqAhgDo0zdLrUk/5dda4aa9e8fe694141b9fff6926ca82e/SEO_Card.png?w=1600&h=900&fit=fill)
+
+## Metadata
+- Author: [[OpenAI]]
+- Full Title: Introducing MentalHealthBench | OpenAI
+- URL: https://openai.com/index/introducing-mentalhealthbench/
+
+## Highlights
+- People turn to AI for many kinds of conversations: navigating a difficult relationship, working through everyday stress, supporting someone they care about, or deciding how to approach a challenging situation. These conversations require accuracy, practical judgment, and respect for people’s agency. With more than one billion people using ChatGPT each week, our research focuses on helping models respond with care across a wide range of needs and put people’s safety and well-being first. ([View Highlight](https://read.readwise.io/read/01m3m7y7v24dgawedwpymb206s))
+- Most evaluations of AI in this domain have focused primarily on emergency scenarios, given their importance to safety, and measure success using broad, predefined criteria. This has left a gap in understanding how models perform across the full range of mental health conversations, and how well their responses align with expert guidance for each situation, beyond whether they avoid disallowed responses. Assessing how models handle these different situations is essential for building towards AI that actively supports people’s long-term well-being and safety. ([View Highlight](https://read.readwise.io/read/01m3m7ypc9yt5cgvn19jgg86f4))
+- We’re introducing MentalHealthBench, a new open benchmark for measuring how AI systems respond in realistic mental health conversations. MentalHealthBench was co-created with a global cohort of more than 80 licensed mental health experts from 22 countries. It assesses model capabilities across key mental health behaviors like safety, seeking context, preserving user agency, and providing actionable guidance when appropriate. We’re releasing it openly so other researchers can examine the methods, run their own evaluations, and build on the work. ([View Highlight](https://read.readwise.io/read/01m3m7yv18mdxa41kvww4n3j8e))
+- MentalHealthBench includes scenarios involving adults, teens, caregivers, and clinicians, across multiple languages and regions. The conversations span multiple topical themes, and provide coverage across the full spectrum of acuity:
+  • **Non-acute—**Everyday conversations that may involve some emotional components.
+  • **High-acuity**—Conversations indicating more serious mental health concerns or significant distress, but not an immediate emergency.
+  • **Emergencies**—Conversations involving signs of a mental health emergency or immediate safety concerns that call for urgent real-world support. ([View Highlight](https://read.readwise.io/read/01m3m7zeh63c1a9jn3cgparzxc))
+- The experts were responsible for reading each synthetic conversation and producing a detailed list of rubric criteria to evaluate model responses to the last user message. Each criterion targets a single aspect of the model response such as asking the right question or providing the best possible advice. They each carry a weight ranging from -10 to +10: positive points reward beneficial behaviors, while negative points penalize harmful ones, and criteria with larger values indicate greater clinical importance in the context of a conversation. ([View Highlight](https://read.readwise.io/read/01m3m7zwb4hh3e2x39gr49qtmq))
+- We evaluated a wide range of models on MentalHealthBench. The results below show the performance of these models on the entire dataset. The evaluation measures whether a model’s response demonstrates all the ideal behaviors experts identified for each scenario while avoiding less desirable behavior. ([View Highlight](https://read.readwise.io/read/01m3m80dpa0t67xmnatbmtq6yc))
+- Fine-grained measurement like this can help researchers identify areas of improvement along interpretable model behaviors. For instance, we see that a model’s ability to seek context appropriately has increased with more advanced models. These improvements reflect the investments of OpenAI and other model providers in improving how models navigate mental health conversations. ([View Highlight](https://read.readwise.io/read/01m3m81j0n7qcvvw7t4g1ygzpz))
+- Alongside MentalHealthBench, we conducted a separate analysis to compare expert guidance with what people find helpful in AI support. We wanted to check whether responses that experts rated highly could still feel cold or unhelpful to users. By comparing both users’ and experts’ ratings of model responses and the criteria they wrote, we could quantify where their perspectives agreed, differed, or complemented one another. The benchmark’s final scoring criteria are based on expert consensus; this separate analysis did not change them.
+  We worked with 44 adults who had used AI for mental health or emotional support, representing 16 countries and 14 languages. Participants rated model responses to synthetic conversations and wrote criteria describing what helpful support should look like. Their review was limited to non-acute conversations to avoid exposing them to potentially distressing high-acuity material.
+  User perspectives highlighted qualities people value in AI support that were less emphasized in expert guidance, particularly practical next steps and tone. Experts placed greater emphasis on gathering relevant context and carefully interpreting ambiguous situations. This comparison gives us a fuller picture of what people value in support and how those preferences relate to clinical guidance. ([View Highlight](https://read.readwise.io/read/01m3m81a9tjw6zxbj21rgzmtnm))
