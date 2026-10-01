@@ -5,6 +5,7 @@ tags:
   - speaking
 ---
 ## 2026
+- [Follow the Question, Build Your Toolkit](appearances/2026/uc3m-follow-the-question/Follow%20the%20Question,%20Build%20Your%20Toolkit.md)
 - [Performanze - Open C](appearances/2026/performanze-open-c/Performanze%20-%20Open%20C.md)
 - [All You need is data Mioti Podcast](appearances/2026/mioti-all-you-need-is-data/All%20You%20need%20is%20data%20podcast.md)
 - [IE Tech & Innovation Day](appearances/2026/ie-university-business-ai-panel/IE%20Tech%20&%20Innovation%20Day.md)
