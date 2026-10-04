@@ -8,6 +8,9 @@ tags:
 - **Date**: 2026-09-18
 - **Location**: Salón de Grados, Puerta de Toledo Campus, Universidad Carlos III de Madrid (UC3M)
 
+
+![](appearances/2026/uc3m-follow-the-question/attachments/pelayo_arbues_speaking_carlos_3_madrid.webp)
+
 **Summary**: Inaugural talk for the new cohort of the UC3M Master in Computational Social Science. Using my own path from economics research to leading Data Science and AI at idealista, I argued that careers grow from a loop: a question you care about, a wall, a missing tool, and the work of getting it.
 
 Key ideas:
