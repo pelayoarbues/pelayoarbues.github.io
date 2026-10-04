@@ -5,7 +5,7 @@ cssclasses:
 ---
 
 ## 2026
-
+- [Follow the Question, Build Your Toolkit](appearances/2026/uc3m-follow-the-question/Follow%20the%20Question,%20Build%20Your%20Toolkit.md)
 - [Performanze - Open C](appearances/2026/performanze-open-c/performanze-open-c.md)
 - [All You need is data Mioti Podcast](appearances/2026/mioti-all-you-need-is-data/mioti-all-you-need-is-data.md)
 - [IE Tech & Innovation Day](appearances/2026/ie-university-business-ai-panel/ie-university-business-ai-panel.md)
