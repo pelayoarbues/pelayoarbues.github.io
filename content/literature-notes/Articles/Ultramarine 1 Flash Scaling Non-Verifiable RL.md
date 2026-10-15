@@ -1,0 +1,23 @@
+---
+author: "[[Paper Instruments]]"
+title: 'Ultramarine 1 Flash: Scaling Non-Verifiable RL'
+date: "2026-10-15"
+tags:
+  - "articles"
+  - literature-note
+---
+![rw-book-cover](https://www.paperinstruments.com/reports/ultramarine/opengraph-image.png)
+
+## Metadata
+- Author: [[Paper Instruments]]
+- Full Title: Ultramarine 1 Flash: Scaling Non-Verifiable RL
+- URL: https://www.paperinstruments.com/blog/ultramarine
+
+## Highlights
+- We present Ultramarine 1 Flash, an agentic model for professional knowledge work. Ultramarine applies large-scale reinforcement learning to a strong open base model, GLM-5.3 Flash, and improves on it across all six knowledge-work benchmarks we evaluate, by 4.1 points on average, while generating 6.5% fewer tokens. On our internal knowledge-work suite, Ultramarine costs $0.13 per task. It outscores Claude Fable 5 ($8.19) and GPT-5.6 Sol ($2.09) and comes within three points of Claude Opus 5.5 ($6.96) and GPT-6 Sol ($1.26), all four set to max reasoning. ([View Highlight](https://read.readwise.io/read/01m4ze33jdr1a7rzyngpw62v2y))
+- Recent work has explored scaling agent post-training through synthetic tasks and environments [[1]](https://www.paperinstruments.com/blog/ultramarine/#ref-1) [[2]](https://www.paperinstruments.com/blog/ultramarine/#ref-2) [[3]](https://www.paperinstruments.com/blog/ultramarine/#ref-3) [[4]](https://www.paperinstruments.com/blog/ultramarine/#ref-4) [[5]](https://www.paperinstruments.com/blog/ultramarine/#ref-5) [[6]](https://www.paperinstruments.com/blog/ultramarine/#ref-6) [[7]](https://www.paperinstruments.com/blog/ultramarine/#ref-7) [[8]](https://www.paperinstruments.com/blog/ultramarine/#ref-8) [[9]](https://www.paperinstruments.com/blog/ultramarine/#ref-9), though this research has so far largely concentrated on verifiable tasks, where coding has consistently held the largest share of the RL mix. Most professional work is not verifiable: models are asked to produce artifacts ranging from diligence memos to litigation chronologies and therefore cannot be checked by regex parsers or unit tests. The quality of the answer often turns on judgment and taste, and, as such, a defensible reward for open-ended work has to be shaped per task. In this work, we scale non-verifiable task synthesis across agentic knowledge work. ([View Highlight](https://read.readwise.io/read/01m4ze35rvgd3r60n7szhnhhxn))
+- We formalize each RL task the way recent work formalizes a verifiable task: an environment, a model instruction, and a verification system [[10]](https://www.paperinstruments.com/blog/ultramarine/#ref-10). Each environment and task is synthesized with a custom synthesis pipeline per domain, and then used in a standard RL post-training setup. ([View Highlight](https://read.readwise.io/read/01m4ze39be86qy4gc0anfbxn5f))
+- Scaling Non-Verifiable Verification
+  Scaling post-training for professional knowledge work requires tasks that are realistic and open-ended, yet specified well enough to distinguish better work from a different interpretation of the assignment. The reward must be shaped to recognize correct work without requiring a particular solution [[11]](https://www.paperinstruments.com/blog/ultramarine/#ref-11).
+  Task and rubric co-design is the central problem of authoring high quality RL training data. Per our rubric-grading work [[12]](https://www.paperinstruments.com/blog/ultramarine/#ref-12), each criterion defines a boundary over possible answers. A criterion copied too closely from one golden reference rejects valid alternatives, while a vague criterion such as “provides an appropriate recommendation” can reward plausible sounding errors. The criterion must instead state the substantive condition that earns credit, together with the facts, thresholds, and context needed to check it against the deliverable. Naming the relevant entities, dates, and assumptions keeps the standard explicit, reducing judge variance and increasing alignment with expert human judgment.
+  A criterion therefore tests one coherent proposition. Conjunctions may be used to express conditions that hold together: a note for the managing director may need to state what was checked *"and"* the decision implication *"and"* what remains open, so the reader can distinguish verified findings from unresolved decisions. Similarly, *"or"*s admit genuinely equivalent ways to meet a requirement. Independent accomplishments remain separate criteria so that success on one can receive credit even when another is missed. Each proposition is judged met or unmet, and its wording defines the acceptable variants to support generalization. ([View Highlight](https://read.readwise.io/read/01m4ze3h1vbazvz3qf2r3q79gq))
