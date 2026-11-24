@@ -27,7 +27,9 @@ views:
       - type
       - genre
       - pages
-    sort: []
+    sort:
+      - property: creation date
+        direction: DESC
     columnSize:
       file.name: 503
       note.genre: 159

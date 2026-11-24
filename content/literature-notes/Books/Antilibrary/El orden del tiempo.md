@@ -1,0 +1,6 @@
+---
+author:
+type:
+genre:
+pages:
+---
