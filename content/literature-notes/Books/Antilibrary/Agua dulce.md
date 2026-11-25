@@ -1,13 +1,13 @@
 ---
-title:
-author:
+title: Agua dulce
+author: Akwaeke Emezi
 type: Fiction
-genre:
-pages:
+genre: Literary Fiction
+pages: 248
 tags:
   - antilibrary
   - book
 status: unread
-cover: "[[covers/(sdev) How Brands Grow - What Marketers Don't Know.jpg]]"
+cover: '[[covers/Agua dulce.jpg]]'
 link: https://amzn.eu/d/01mboyP7
 ---

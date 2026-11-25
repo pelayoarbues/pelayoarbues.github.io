@@ -1,13 +1,13 @@
 ---
-title:
-author: Nerea Pallares
+title: No tocarás
+author: Nuria Pérez
 type: Fiction
-genre:
-pages:
+genre: Literary Fiction
+pages: 304
 tags:
   - antilibrary
   - book
 status: unread
-cover:
-link:
+cover: '[[covers/No tocarás.jpg]]'
+link: https://www.amazon.es/dp/8419456527
 ---

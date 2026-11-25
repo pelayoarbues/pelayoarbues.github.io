@@ -3,7 +3,7 @@ title: "The Art of Inquiry: Meditations on Living Wisdom"
 author: Andrew Taggart
 type: Non-Fiction
 genre: Philosophy
-pages: 
+pages: 210
 tags:
 - antilibrary
 - book

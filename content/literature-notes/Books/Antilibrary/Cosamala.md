@@ -1,13 +1,13 @@
 ---
-title:
-author:
+title: Cosamala
+author: Alana S. Portero
 type: Fiction
-genre:
-pages:
+genre: Gothic Fiction
+pages: 272
 tags:
   - antilibrary
   - book
 status: unread
-cover: "[[covers/(sdev) How Brands Grow - What Marketers Don't Know.jpg]]"
-link:
+cover: '[[covers/Cosamala.jpg]]'
+link: https://www.amazon.es/dp/8432251437
 ---
